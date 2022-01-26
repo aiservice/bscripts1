@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"五美缘全传","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"无名氏","image_path":"/styles/index/images/noimage.jpg","customer_url":"wumeiyuanquanchuan"}]

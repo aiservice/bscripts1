@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"笔髓论","leading_role":"佚名","image_path_min":"/files/book/cover/1103/cover_120.jpg","author_name":"虞世南","image_path":"/files/book/cover/1103/cover.jpg","customer_url":"bisuilun"}]

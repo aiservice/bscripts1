@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"巴芒演义","leading_role":"唐朝","image_path_min":"files/book/cover/62196/cover_120.jpg","author_name":"唐朝","image_path":"files/book/cover/62196/cover.jpg","customer_url":"s3-bamangyanyi"}]

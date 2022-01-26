@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"藉祷告进入得胜生命","leading_role":"妮塔·詹森","image_path_min":"files/book/cover/38990/cover_120.jpg","author_name":"妮塔·詹森","image_path":"files/book/cover/38990/cover.jpg","customer_url":"jiedaogaojinrudeshengshengming"}]

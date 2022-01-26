@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":18882175,"chapter_name":"格丽吉娅"},{"id":18882176,"chapter_name":"葡萄牙女人"},{"id":18882177,"chapter_name":"佟卡"}],"volume_name":"目录","volume_words":56857}],"customer_url":"s3-sangenvren","chapterNewList":[{"id":18882177,"chapter_name":"佟卡"},{"id":18882176,"chapter_name":"葡萄牙女人"},{"id":18882175,"chapter_name":"格丽吉娅"}]}

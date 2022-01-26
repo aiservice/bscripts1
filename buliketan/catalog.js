@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":65231,"chapter_name":"提要"},{"id":65232,"chapter_name":"卷上"},{"id":65233,"chapter_name":"卷下"}],"volume_name":"正文","volume_words":5005}],"customer_url":"buliketan","chapterNewList":[{"id":65233,"chapter_name":"卷下"},{"id":65232,"chapter_name":"卷上"},{"id":65231,"chapter_name":"提要"}]}

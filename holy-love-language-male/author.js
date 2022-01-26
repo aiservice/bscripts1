@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"圣地爱语（女性篇）","leading_role":"薛查理","image_path_min":"/files/book/cover/101/cover_120.jpg","author_name":"薛查理","image_path":"/files/book/cover/101/cover.jpg","customer_url":"holy-love-language-female"}]

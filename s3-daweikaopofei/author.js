@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"双城记","leading_role":"[英]查尔斯·狄更斯","image_path_min":"files/book/cover/62059/cover_120.jpg","author_name":"[英]查尔斯·狄更斯","image_path":"files/book/cover/62059/cover.jpg","customer_url":"s3-shuangchengji"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"李诞脱口秀工作手册","leading_role":"李诞","image_path_min":"files/book/cover/65137/cover_120.jpg","author_name":"李诞","image_path":"files/book/cover/65137/cover.jpg","customer_url":"s3-lidantuokouxiugongzuoshouce"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"战争与和平","leading_role":"列夫·托尔斯泰","image_path_min":"files/book/cover/64963/cover_120.jpg","author_name":"列夫·托尔斯泰","image_path":"files/book/cover/64963/cover.jpg","customer_url":"s3-zhanzhengyuheping"}]

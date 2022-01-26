@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"老后两代破产","leading_role":"日本NHK","image_path_min":"files/book/cover/65452/cover_120.jpg","author_name":"日本NHK","image_path":"files/book/cover/65452/cover.jpg","customer_url":"s3-laohouliangdaipochan"}]

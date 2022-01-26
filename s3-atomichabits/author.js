@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"原子習慣","leading_role":"詹姆斯．克利爾（James Clear）","image_path_min":"files/book/cover/64341/cover_120.jpg","author_name":"James Clear","image_path":"files/book/cover/64341/cover.jpg","customer_url":"s3-yuanzixiguan"}]

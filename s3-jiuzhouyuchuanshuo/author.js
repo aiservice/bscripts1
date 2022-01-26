@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"九州 · 海上牧云记","leading_role":"今何在","image_path_min":"/files/book/cover/48181/cover_120.jpg","author_name":"今何在","image_path":"/files/book/cover/48181/cover.jpg","customer_url":"jiuzhouhaishangmuyunji"}]

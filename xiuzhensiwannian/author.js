@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"地球人实在太凶猛了","leading_role":"卧牛真人","image_path_min":"files/book/cover/63518/cover_120.jpg","author_name":"卧牛真人","image_path":"files/book/cover/63518/cover.jpg","customer_url":"s2-diqiurenshizaitaixiongmengle"}]

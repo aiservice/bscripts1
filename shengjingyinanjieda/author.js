@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"灵修杂记","leading_role":"赴圣迹","image_path_min":"/files/book/cover/40545/cover_120.jpg","author_name":"赴圣迹","image_path":"/files/book/cover/40545/cover.jpg","customer_url":"lingxiuzaji"}]

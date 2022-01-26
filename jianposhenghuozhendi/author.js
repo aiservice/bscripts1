@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"属灵操练礼赞","leading_role":"傅士德","image_path_min":"files/book/cover/279/cover_120.jpg","author_name":"傅士德","image_path":"files/book/cover/279/cover.jpg","customer_url":"shulingcaolianlizan"}]

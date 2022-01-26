@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"老残游记","leading_role":"佚名","image_path_min":"/files/book/cover/1587/cover_120.jpg","author_name":"刘鹗","image_path":"/files/book/cover/1587/cover.jpg","customer_url":"laocanyouji"}]

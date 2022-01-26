@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"鱼米之乡 : 中国人的雅致饮食文化","leading_role":" [英]扶霞·邓洛普","image_path_min":"files/book/cover/65262/cover_120.jpg","author_name":"扶霞·邓洛普","image_path":"files/book/cover/65262/cover.jpg","customer_url":"s3-yumizhixiang"}]

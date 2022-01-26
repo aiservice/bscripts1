@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"半小时漫画大套装","leading_role":"陈磊","image_path_min":"files/book/cover/62390/cover_120.jpg","author_name":"陈磊","image_path":"files/book/cover/62390/cover.jpg","customer_url":"s3-banxiaoshimanhuadataozhuang"}]

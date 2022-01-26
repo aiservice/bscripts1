@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"机械凶猛","leading_role":"懒鸟","image_path_min":"files/book/cover/63982/cover_120.jpg","author_name":"懒鸟","image_path":"files/book/cover/63982/cover.jpg","customer_url":"s2-jixiexiongmeng"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"祷告就是寻求上帝","leading_role":"康希","image_path_min":"/files/book/cover/896/cover_120.jpg","author_name":"康希","image_path":"/files/book/cover/896/cover.jpg","customer_url":"daogaojiushixunqiushangdi"}]

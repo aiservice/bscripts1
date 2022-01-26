@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"谁都不敢欺负你","leading_role":"力克·胡哲","image_path_min":"/files/book/cover/780/cover_120.jpg","author_name":"力克·胡哲","image_path":"/files/book/cover/780/cover.jpg","customer_url":"you-can-overcom-bullying"}]

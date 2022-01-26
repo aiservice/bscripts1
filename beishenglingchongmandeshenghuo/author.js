@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"如何确定你与神的关系","leading_role":"白立德","image_path_min":"/files/book/cover/116/cover_120.jpg","author_name":"白立德","image_path":"/files/book/cover/116/cover.jpg","customer_url":"relationship-with-god"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"龙图公案","leading_role":"佚名","image_path_min":"/files/book/cover/1463/cover_120.jpg","author_name":"安遇时","image_path":"/files/book/cover/1463/cover.jpg","customer_url":"longtugongan"}]

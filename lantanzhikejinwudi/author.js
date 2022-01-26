@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"体坛之篮球教父","leading_role":"肉末大茄子","image_path_min":"/files/book/cover/29327/cover_120.jpg","author_name":"肉末大茄子","image_path":"/files/book/cover/29327/cover.jpg","customer_url":"titanzhilanqiujiaofu"}]

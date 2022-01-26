@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"呼吸","leading_role":"[美] 特德·姜","image_path_min":"files/book/cover/62230/cover_120.jpg","author_name":"[美] 特德·姜","image_path":"files/book/cover/62230/cover.jpg","customer_url":"s3-huxi"}]

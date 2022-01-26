@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"修仙狂徒","leading_role":"王小蛮","image_path_min":"files/book/cover/31780/cover_120.jpg","author_name":"王小蛮","image_path":"files/book/cover/31780/cover.jpg","customer_url":"xiuxiankuangtu"}]

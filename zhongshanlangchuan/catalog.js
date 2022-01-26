@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":73720,"chapter_name":"中山狼传"}],"volume_name":"正文","volume_words":2606}],"customer_url":"zhongshanlangchuan","chapterNewList":[{"id":73720,"chapter_name":"中山狼传"}]}

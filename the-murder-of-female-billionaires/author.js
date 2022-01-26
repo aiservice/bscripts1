@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"走过死荫的幽谷","leading_role":"贝蒂·瓦格纳","image_path_min":"/files/book/cover/161/cover_120.jpg","author_name":"贝蒂·瓦格纳","image_path":"/files/book/cover/161/cover.jpg","customer_url":"walk-through-the-valley-of-the-shadow-of-death"}]

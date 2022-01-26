@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"天下刀宗","leading_role":"雨楼清歌","author_name":"雨楼清歌","image_path":"files/book/cover/62320/cover.jpg","customer_url":"s3-tianxiadaozong"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"法医报告1：死亡教会我们什么","leading_role":"[英] 苏·布莱克","image_path_min":"files/book/cover/65659/cover_120.jpg","author_name":"苏·布莱克","image_path":"files/book/cover/65659/cover.jpg","customer_url":"s3-fayibaogao1"}]

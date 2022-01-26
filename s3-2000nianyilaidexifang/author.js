@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"刘擎西方现代思想讲义","leading_role":"刘擎","image_path_min":"files/book/cover/62423/cover_120.jpg","author_name":"刘擎","image_path":"files/book/cover/62423/cover.jpg","customer_url":"s3-liuqingxifangxiandaisixiangjiangyi"}]

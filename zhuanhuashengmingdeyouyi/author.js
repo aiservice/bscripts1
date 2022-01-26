@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"心灵渴望","leading_role":"侯士庭","image_path_min":"files/book/cover/62166/cover_120.jpg","author_name":"侯士庭","image_path":"files/book/cover/62166/cover.jpg","customer_url":"s1-xinlingkewang"}]

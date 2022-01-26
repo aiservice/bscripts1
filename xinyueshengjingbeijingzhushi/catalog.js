@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":7447753,"chapter_name":"简介"}],"volume_name":"目录","volume_words":434}],"customer_url":"xinyueshengjingbeijingzhushi","chapterNewList":[{"id":7447753,"chapter_name":"简介"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"祷告解密","leading_role":"提摩太·凯勒","image_path_min":"files/book/cover/64784/cover_120.jpg","author_name":"提摩太·凯勒","image_path":"files/book/cover/64784/cover.jpg","customer_url":"s1-daogaojiemi"}]

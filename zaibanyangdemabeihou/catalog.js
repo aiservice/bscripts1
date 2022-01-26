@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":17597,"chapter_name":"在班扬的马背后"},{"id":17598,"chapter_name":"乔·巴特力"}],"volume_name":"正文","volume_words":79934}],"customer_url":"zaibanyangdemabeihou","chapterNewList":[{"id":17598,"chapter_name":"乔·巴特力"},{"id":17597,"chapter_name":"在班扬的马背后"}]}

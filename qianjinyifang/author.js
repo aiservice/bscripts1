@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"备急千金要方","leading_role":"佚名","image_path_min":"/files/book/cover/1349/cover_120.jpg","author_name":"孙思邈","image_path":"/files/book/cover/1349/cover.jpg","customer_url":"beijiqianjinyaofang"}]

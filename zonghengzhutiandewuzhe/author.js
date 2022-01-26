@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"纵横诸天的武者","leading_role":"我叫排云掌","image_path_min":"/files/book/cover/59028/cover_120.jpg","author_name":"我叫排云掌","image_path":"/files/book/cover/59028/cover.jpg","customer_url":"s2-zonghengzhutiandewuzhe"}]

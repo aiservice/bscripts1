@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":50789,"chapter_name":"酒箴"}],"volume_name":"正文","volume_words":128}],"customer_url":"jiuzhen","chapterNewList":[{"id":50789,"chapter_name":"酒箴"}]}

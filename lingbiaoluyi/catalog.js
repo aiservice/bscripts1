@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":61797,"chapter_name":"卷上"},{"id":61798,"chapter_name":"卷中"},{"id":61799,"chapter_name":"卷下"}],"volume_name":"正文","volume_words":13776}],"customer_url":"lingbiaoluyi","chapterNewList":[{"id":61799,"chapter_name":"卷下"},{"id":61798,"chapter_name":"卷中"},{"id":61797,"chapter_name":"卷上"}]}

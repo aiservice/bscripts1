@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"论语","leading_role":"孔子","image_path_min":"/files/book/cover/50994/cover_120.jpg","author_name":"孔子","image_path":"/files/book/cover/50994/cover.jpg","customer_url":"s3-lunyu"}]

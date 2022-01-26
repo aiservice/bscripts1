@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"兔子必须死","leading_role":"一梦黄粱","image_path_min":"files/book/cover/31011/cover_120.jpg","author_name":"一梦黄粱","image_path":"files/book/cover/31011/cover.jpg","customer_url":"tuzibixusi"}]

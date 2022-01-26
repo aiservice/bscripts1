@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"小行星掉在下午","leading_role":"沈大成","image_path_min":"files/book/cover/62176/cover_120.jpg","author_name":"沈大成","image_path":"files/book/cover/62176/cover.jpg","customer_url":"s3-xiaoxingxingdiaozaixiawu"}]

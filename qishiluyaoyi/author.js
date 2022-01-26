@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"世界末日与大灾难","leading_role":"黄共明","image_path_min":"/files/book/cover/482/cover_120.jpg","author_name":"黄共明","image_path":"/files/book/cover/482/cover.jpg","customer_url":"shijiemoriyudazainan"}]

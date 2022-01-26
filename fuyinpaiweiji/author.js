@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"理性的规避","leading_role":"薛华","image_path_min":"/files/book/cover/342/cover_120.jpg","author_name":"薛华","image_path":"/files/book/cover/342/cover.jpg","customer_url":"lixingdeguibi"}]

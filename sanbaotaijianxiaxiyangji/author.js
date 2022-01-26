@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"三宝太监西洋记","leading_role":"佚名","image_path_min":"/files/book/cover/1570/cover_120.jpg","author_name":"罗懋登","image_path":"/files/book/cover/1570/cover.jpg","customer_url":"sanbaotaijianxiyangji"}]

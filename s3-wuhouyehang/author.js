@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"金阁寺","leading_role":"[日] 三岛由纪夫","image_path_min":"files/book/cover/64344/cover_120.jpg","author_name":"三岛由纪夫","image_path":"files/book/cover/64344/cover.jpg","customer_url":"s3-jingesi"}]

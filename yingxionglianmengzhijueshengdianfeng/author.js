@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我叫布里茨","leading_role":"机器人布里茨","image_path_min":"files/book/cover/58961/cover_120.jpg","author_name":"机器人布里茨","image_path":"files/book/cover/58961/cover.jpg","customer_url":"s2-wojiaobulici"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"施公案","leading_role":"佚名","image_path_min":"/files/book/cover/1268/cover_120.jpg","author_name":"贪梦道人","image_path":"/files/book/cover/1268/cover.jpg","customer_url":"shigongan"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"超级浮空城","leading_role":"诸生浮屠","image_path_min":"files/book/cover/20149/cover_120.jpg","author_name":"诸生浮屠","image_path":"files/book/cover/20149/cover.jpg","customer_url":"chaojifukongcheng"}]

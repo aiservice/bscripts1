@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"符皇","leading_role":"萧瑾瑜","image_path_min":"files/book/cover/31788/cover_120.jpg","author_name":"萧瑾瑜","image_path":"files/book/cover/31788/cover.jpg","customer_url":"fuhuang"}]

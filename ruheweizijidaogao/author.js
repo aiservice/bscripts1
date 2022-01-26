@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"妻子祷告的力量","leading_role":"史多美·奥玛森","image_path_min":"/files/book/cover/67/cover_120.jpg","author_name":"史多美·奥玛森","image_path":"/files/book/cover/67/cover.jpg","customer_url":"wife-the-power-of-prayer"}]

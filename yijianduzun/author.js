@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"无敌剑域","leading_role":"杨叶","image_path_min":"files/book/cover/21086/cover_120.jpg","author_name":"青鸾峰上","image_path":"files/book/cover/21086/cover.jpg","customer_url":"wudijianyu"}]

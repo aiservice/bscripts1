@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"世说新语","leading_role":"佚名","image_path_min":"/files/book/cover/1116/cover_120.jpg","author_name":"刘义庆","image_path":"/files/book/cover/1116/cover.jpg","customer_url":"shishuoxinyu"}]

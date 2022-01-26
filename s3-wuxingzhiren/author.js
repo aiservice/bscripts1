@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"完美嫌疑人","leading_role":"陈研一","image_path_min":"files/book/cover/64593/cover_120.jpg","author_name":"陈研一","image_path":"files/book/cover/64593/cover.jpg","customer_url":"s3-wanmeixianyiren"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"极道天魔","leading_role":"滚开","image_path_min":"/files/book/cover/20556/cover_120.jpg","author_name":"滚开","image_path":"/files/book/cover/20556/cover.jpg","customer_url":"jidaotianmo"}]

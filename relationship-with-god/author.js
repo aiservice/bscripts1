@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"被圣灵充满的生活","leading_role":"白立德","image_path_min":"/files/book/cover/390/cover_120.jpg","author_name":"白立德","image_path":"/files/book/cover/390/cover.jpg","customer_url":"beishenglingchongmandeshenghuo"}]

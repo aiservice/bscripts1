@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"What It Takes","leading_role":" [美] 苏世民","image_path_min":"files/book/cover/64738/cover_120.jpg","author_name":"苏世民","image_path":"files/book/cover/64738/cover.jpg","customer_url":"s3-what-it-takes"}]

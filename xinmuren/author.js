@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"纵览圣经全貌","leading_role":"爱神阅读收集","image_path_min":"/files/book/cover/961/cover_120.jpg","author_name":"巴克斯特","image_path":"/files/book/cover/961/cover.jpg","customer_url":"zonglanshengjingquanmao"}]

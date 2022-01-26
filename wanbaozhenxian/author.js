@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"仙侠论坛","leading_role":"人氐言周","image_path_min":"/files/book/cover/29114/cover_120.jpg","author_name":"人氐言周","image_path":"/files/book/cover/29114/cover.jpg","customer_url":"xianxialuntan"}]

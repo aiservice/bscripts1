@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"三千鸦杀","leading_role":"十四郎","image_path_min":"files/book/cover/59114/cover_120.jpg","author_name":"十四郎","image_path":"files/book/cover/59114/cover.jpg","customer_url":"s3-sanqianyasha"}]

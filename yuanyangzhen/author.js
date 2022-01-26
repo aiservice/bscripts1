@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"一枕奇","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"华阳散人","image_path":"/styles/index/images/noimage.jpg","customer_url":"yizhenqi"}]

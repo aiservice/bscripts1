@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"福音派危机","leading_role":"薛华","image_path_min":"/files/book/cover/258/cover_120.jpg","author_name":"薛华","image_path":"/files/book/cover/258/cover.jpg","customer_url":"fuyinpaiweiji"}]

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":38744,"chapter_name":"一　工作与感觉"},{"id":38745,"chapter_name":"二　生命、心思与灵火(上)"}],"volume_name":"正文","volume_words":15695}],"customer_url":"muyangshendejiaohui","chapterNewList":[{"id":38745,"chapter_name":"二　生命、心思与灵火(上)"},{"id":38744,"chapter_name":"一　工作与感觉"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"宣教历史","leading_role":"宣教","image_path_min":"/files/book/cover/79/cover_120.jpg","author_name":"庄祖鲲","image_path":"/files/book/cover/79/cover.jpg","customer_url":"mission-history"}]

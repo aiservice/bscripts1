@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"儿童布道事工的圣经根基","leading_role":"杜孝慈","image_path_min":"files/book/cover/46/cover_120.jpg","author_name":"杜孝慈","image_path":"files/book/cover/46/cover.jpg","customer_url":"children-ministry"}]

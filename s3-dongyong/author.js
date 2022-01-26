@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"逍遥游","leading_role":"班宇","image_path_min":"files/book/cover/63978/cover_120.jpg","author_name":"班宇","image_path":"files/book/cover/63978/cover.jpg","customer_url":"s3-xiaoyaoyou"}]

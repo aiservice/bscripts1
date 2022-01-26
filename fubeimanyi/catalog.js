@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":39888,"chapter_name":"内容简介"},{"id":39889,"chapter_name":"精彩书摘"},{"id":39890,"chapter_name":"前言/序言"}],"volume_name":"正文","volume_words":3386}],"customer_url":"fubeimanyi","chapterNewList":[{"id":39890,"chapter_name":"前言/序言"},{"id":39889,"chapter_name":"精彩书摘"},{"id":39888,"chapter_name":"内容简介"}]}

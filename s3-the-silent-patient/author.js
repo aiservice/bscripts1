@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"沉默的病人","leading_role":"[英]亚历克斯·麦克利兹","image_path_min":"files/book/cover/62269/cover_120.jpg","author_name":"[英]亚历克斯·麦克利兹","image_path":"files/book/cover/62269/cover.jpg","customer_url":"s3-chenmodebingren"}]

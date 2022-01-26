@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"与你同行","leading_role":"卢云","image_path_min":"/files/book/cover/335/cover_120.jpg","author_name":"卢云","image_path":"/files/book/cover/335/cover.jpg","customer_url":"yunitongxing"}]

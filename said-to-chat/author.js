@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"跨越死亡","leading_role":"计文","image_path_min":"files/book/cover/746/cover_120.jpg","author_name":"计文","image_path":"files/book/cover/746/cover.jpg","customer_url":"kuayuesiwang"}]

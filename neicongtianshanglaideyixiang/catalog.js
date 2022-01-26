@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":25754,"chapter_name":"一、那从天上来的异象（一）"},{"id":25755,"chapter_name":"二、那从天上来的异象（二）"}],"volume_name":"正文","volume_words":24150}],"customer_url":"neicongtianshanglaideyixiang","chapterNewList":[{"id":25755,"chapter_name":"二、那从天上来的异象（二）"},{"id":25754,"chapter_name":"一、那从天上来的异象（一）"}]}

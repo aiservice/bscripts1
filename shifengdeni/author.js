@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"天路手册1 —全新的你","leading_role":"董宇正","image_path_min":"/files/book/cover/913/cover_120.jpg","author_name":"董宇正","image_path":"/files/book/cover/913/cover.jpg","customer_url":"quanxindeni"}]

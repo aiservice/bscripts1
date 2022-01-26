@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督徒生活","leading_role":"傅格森","image_path_min":"files/book/cover/684/cover_120.jpg","author_name":"傅格森","image_path":"files/book/cover/684/cover.jpg","customer_url":"jidutushenghuo"}]

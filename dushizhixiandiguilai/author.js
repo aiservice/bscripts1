@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"铁血德意志","leading_role":"流泪的鱼wyj","image_path_min":"files/book/cover/21709/cover_120.jpg","author_name":"流泪的鱼wyj","image_path":"files/book/cover/21709/cover.jpg","customer_url":"tiexuedeyizhi"}]

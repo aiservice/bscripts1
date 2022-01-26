@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"新牧人","leading_role":"巴克斯特","image_path_min":"/files/book/cover/943/cover_120.jpg","author_name":"巴克斯特","image_path":"/files/book/cover/943/cover.jpg","customer_url":"xinmuren"}]

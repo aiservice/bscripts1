@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"标竿人生","leading_role":"华理克","image_path_min":"files/book/cover/72/cover_120.jpg","author_name":"华理克","image_path":"files/book/cover/72/cover.jpg","customer_url":"biaoganrensheng"}]

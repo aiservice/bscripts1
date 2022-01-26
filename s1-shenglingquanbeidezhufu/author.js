@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"不祷告的罪","leading_role":"慕安德烈","image_path_min":"files/book/cover/387/cover_120.jpg","author_name":"慕安德烈","image_path":"files/book/cover/387/cover.jpg","customer_url":"budaogaodezui"}]

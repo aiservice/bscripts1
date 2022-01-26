@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"释经学原则","leading_role":"林道亮","image_path_min":"/files/book/cover/615/cover_120.jpg","author_name":"林道亮","image_path":"/files/book/cover/615/cover.jpg","customer_url":"shijingxueyuanze"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大卫鲍森新旧约纵览全集","leading_role":"大卫鲍森","image_path_min":"files/book/cover/62096/cover_120.jpg","author_name":"大卫鲍森","image_path":"files/book/cover/62096/cover.jpg","customer_url":"s1-daweibaosenxinjiuyuezonglanquanji"}]

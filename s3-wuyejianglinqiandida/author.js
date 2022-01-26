@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"失落的卫星","leading_role":"刘子超","image_path_min":"files/book/cover/62297/cover_120.jpg","author_name":"刘子超","image_path":"files/book/cover/62297/cover.jpg","customer_url":"s3-shiluodeweixing"}]

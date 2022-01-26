@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我真不是魔神","leading_role":"要离刺荆轲","image_path_min":"files/book/cover/63592/cover_120.jpg","author_name":"要离刺荆轲","image_path":"files/book/cover/63592/cover.jpg","customer_url":"s2-wozhenbushimoshen"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"网游之天谴修罗","leading_role":"火星引力","image_path_min":"files/book/cover/31885/cover_120.jpg","author_name":"火星引力","image_path":"files/book/cover/31885/cover.jpg","customer_url":"wangyouzhitianqianxiuluo"}]

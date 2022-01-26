@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"属灵领袖","leading_role":"孙德生","image_path_min":"/files/book/cover/86/cover_120.jpg","author_name":"孙德生","image_path":"/files/book/cover/86/cover.jpg","customer_url":"the-spiritual-leader"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"子不语","leading_role":"佚名","image_path_min":"/files/book/cover/1523/cover_120.jpg","author_name":"袁枚","image_path":"/files/book/cover/1523/cover.jpg","customer_url":"zibuyu"}]

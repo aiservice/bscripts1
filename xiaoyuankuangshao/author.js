@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"近身战兵","leading_role":"巅峰的神","image_path_min":"/files/book/cover/58893/cover_120.jpg","author_name":"巅峰的神","image_path":"/files/book/cover/58893/cover.jpg","customer_url":"s2-jinshenzhanbing"}]

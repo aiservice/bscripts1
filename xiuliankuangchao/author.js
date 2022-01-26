@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"这个地球有点凶","leading_role":"傅啸尘","image_path_min":"/files/book/cover/32972/cover_120.jpg","author_name":"傅啸尘","image_path":"/files/book/cover/32972/cover.jpg","customer_url":"zhegediqiuyoudianxiong"}]

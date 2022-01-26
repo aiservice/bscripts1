@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"进击的律师：幽暗线索","leading_role":"法山叔","image_path_min":"files/book/cover/62486/cover_120.jpg","author_name":"法山叔","image_path":"files/book/cover/62486/cover.jpg","customer_url":"s3-jinjidelvshiyouanxiansuo"}]

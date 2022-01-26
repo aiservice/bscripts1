@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"全球化与国家竞争","leading_role":"温铁军","image_path_min":"files/book/cover/64293/cover_120.jpg","author_name":"温铁军","image_path":"files/book/cover/64293/cover.jpg","customer_url":"s3-quanqiuhuayuguojiajingzheng"}]

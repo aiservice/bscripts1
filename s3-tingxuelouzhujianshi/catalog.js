@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":12221790,"chapter_name":"第一节"},{"id":12221791,"chapter_name":"第二节"},{"id":12221792,"chapter_name":"第三节"}],"volume_name":"目录","volume_words":13078}],"customer_url":"s3-tingxuelouzhujianshi","chapterNewList":[{"id":12221792,"chapter_name":"第三节"},{"id":12221791,"chapter_name":"第二节"},{"id":12221790,"chapter_name":"第一节"}]}

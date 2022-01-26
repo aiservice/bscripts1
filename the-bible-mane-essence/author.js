@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"教会与工人","leading_role":"田雅各","image_path_min":"/files/book/cover/230/cover_120.jpg","author_name":"田雅各","image_path":"/files/book/cover/230/cover.jpg","customer_url":"jiaohuiyugongren"}]

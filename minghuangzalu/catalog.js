@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":70837,"chapter_name":"卷上"},{"id":70838,"chapter_name":"卷下"},{"id":70839,"chapter_name":"补遗"}],"volume_name":"正文","volume_words":12307}],"customer_url":"minghuangzalu","chapterNewList":[{"id":70839,"chapter_name":"补遗"},{"id":70838,"chapter_name":"卷下"},{"id":70837,"chapter_name":"卷上"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大唐西域记","leading_role":"佚名","image_path_min":"/files/book/cover/1076/cover_120.jpg","author_name":"玄奘","image_path":"/files/book/cover/1076/cover.jpg","customer_url":"datangxiyuji"}]

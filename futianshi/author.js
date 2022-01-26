@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"绝世武神","leading_role":"净无痕","image_path_min":"files/book/cover/30325/cover_120.jpg","author_name":"净无痕","image_path":"files/book/cover/30325/cover.jpg","customer_url":"jueshiwushen"}]

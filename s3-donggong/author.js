@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"爱情的开关","leading_role":"匪我思存","image_path_min":"/files/book/cover/48157/cover_120.jpg","author_name":"匪我思存","image_path":"/files/book/cover/48157/cover.jpg","customer_url":"aiqingdekaiguan"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"七个会议","leading_role":"[日]池井户润","image_path_min":"files/book/cover/62132/cover_120.jpg","author_name":"池井户润","image_path":"files/book/cover/62132/cover.jpg","customer_url":"s3-qigehuiyi"}]

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":4234722,"chapter_name":"第1章 林豪"},{"id":4234723,"chapter_name":"第2章 表白"}],"volume_name":"正文","volume_words":7087}],"customer_url":"zhongshengzhijianzhuwangchao","chapterNewList":[{"id":4234723,"chapter_name":"第2章 表白"},{"id":4234722,"chapter_name":"第1章 林豪"}]}

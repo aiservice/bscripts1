@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"签到在诸天万界","leading_role":"三色杯奶茶","image_path_min":"files/book/cover/64067/cover_120.jpg","author_name":"三色杯奶茶","image_path":"files/book/cover/64067/cover.jpg","customer_url":"s2-qiandaozaizhutianwanjie"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"陈忠实自选集","leading_role":"陈忠实","image_path_min":"files/book/cover/47657/cover_120.jpg","author_name":"陈忠实","image_path":"files/book/cover/47657/cover.jpg","customer_url":"chenzhongshizixuanji"}]

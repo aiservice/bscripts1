@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":6511526,"chapter_name":"内容简介"},{"id":6511527,"chapter_name":"当代讲道艺术 电子版pdf下载地址"}],"volume_name":"正文","volume_words":7234}],"customer_url":"dangdaijiangdaoyishu","chapterNewList":[{"id":6511527,"chapter_name":"当代讲道艺术 电子版pdf下载地址"},{"id":6511526,"chapter_name":"内容简介"}]}

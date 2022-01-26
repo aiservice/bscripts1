@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"活出生命的意义","leading_role":"[奥] 维克多·弗兰克","image_path_min":"files/book/cover/64299/cover_120.jpg","author_name":"维克多·弗兰克","image_path":"files/book/cover/64299/cover.jpg","customer_url":"s3-huochushengmingdeyiyi"}]

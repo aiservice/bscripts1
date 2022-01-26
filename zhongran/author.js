@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"重生之大涅磐","leading_role":"奥尔良烤鲟鱼堡","image_path_min":"files/book/cover/34650/cover_120.jpg","author_name":"奥尔良烤鲟鱼堡","image_path":"files/book/cover/34650/cover.jpg","customer_url":"zhongshengzhidaniepan"}]

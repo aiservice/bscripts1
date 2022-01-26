@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"死而替生","leading_role":"听日","image_path_min":"files/book/cover/65322/cover_120.jpg","author_name":"听日","image_path":"files/book/cover/65322/cover.jpg","customer_url":"s2-siertisheng"}]

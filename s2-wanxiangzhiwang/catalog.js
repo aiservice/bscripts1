@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":18969594,"chapter_name":"第一章 触天道"}],"volume_name":"目录","volume_words":0}],"customer_url":"s2-wanxiangzhiwang","chapterNewList":[{"id":18969594,"chapter_name":"第一章 触天道"}]}

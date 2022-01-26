@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"天道方程式","leading_role":"二目","image_path_min":"files/book/cover/62582/cover_120.jpg","author_name":"二目","image_path":"files/book/cover/62582/cover.jpg","customer_url":"s2-tiandaofangchengshi"}]

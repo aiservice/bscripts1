@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"经历赞美的能力","leading_role":"欧大卫","image_path_min":"files/book/cover/38957/cover_120.jpg","author_name":"欧大卫","image_path":"files/book/cover/38957/cover.jpg","customer_url":"jinglizanmeidenengli"}]

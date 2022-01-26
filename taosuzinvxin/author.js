@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"子女心，父母情","leading_role":"【美】泰德·特里普","image_path_min":"/files/book/cover/938/cover_120.jpg","author_name":"泰德·特里普","image_path":"/files/book/cover/938/cover.jpg","customer_url":"shepherdingachildsheart"}]

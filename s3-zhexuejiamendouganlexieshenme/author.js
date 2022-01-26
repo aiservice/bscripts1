@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"诸子百家闪耀时","leading_role":"林欣浩","author_name":"林欣浩","image_path":"files/book/cover/62416/cover.jpg","customer_url":"s3-zhuzibaijiashanyaoshi"}]

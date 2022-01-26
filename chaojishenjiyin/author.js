@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我只想安静地打游戏","leading_role":"十二翼黑暗炽天使","image_path_min":"files/book/cover/45098/cover_120.jpg","author_name":"十二翼黑暗炽天使","image_path":"files/book/cover/45098/cover.jpg","customer_url":"wozhixianganjingdidayouxi"}]

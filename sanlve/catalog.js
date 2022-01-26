@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":62680,"chapter_name":"上略"},{"id":62681,"chapter_name":"中略"},{"id":62682,"chapter_name":"下略"}],"volume_name":"正文","volume_words":5050}],"customer_url":"sanlve","chapterNewList":[{"id":62682,"chapter_name":"下略"},{"id":62681,"chapter_name":"中略"},{"id":62680,"chapter_name":"上略"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"活着，为了什么？","leading_role":"（法）以马内利修女（Soeur Emmanuelle）","image_path_min":"/files/book/cover/447/cover_120.jpg","author_name":"以马内利修女","image_path":"/files/book/cover/447/cover.jpg","customer_url":"huozheweileshenme"}]

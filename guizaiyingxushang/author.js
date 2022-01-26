@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"先见","leading_role":"吉姆·歌珥","image_path_min":"/files/book/cover/41248/cover_120.jpg","author_name":"吉姆·歌珥","image_path":"/files/book/cover/41248/cover.jpg","customer_url":"xianjian"}]

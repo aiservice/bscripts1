@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":49276,"chapter_name":"卷上"},{"id":49277,"chapter_name":"卷中"},{"id":49278,"chapter_name":"卷下"}],"volume_name":"正文","volume_words":40513}],"customer_url":"shiliaobencao","chapterNewList":[{"id":49278,"chapter_name":"卷下"},{"id":49277,"chapter_name":"卷中"},{"id":49276,"chapter_name":"卷上"}]}

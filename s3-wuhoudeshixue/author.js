@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"应物兄","leading_role":"李洱","image_path_min":"files/book/cover/64671/cover_120.jpg","author_name":"李洱","image_path":"files/book/cover/64671/cover.jpg","customer_url":"s3-yingwuxiong"}]

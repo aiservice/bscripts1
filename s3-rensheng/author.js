@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"平凡的世界","leading_role":"路遥","image_path_min":"files/book/cover/48124/cover_120.jpg","author_name":"路遥","image_path":"files/book/cover/48124/cover.jpg","customer_url":"pingfandeshijie"}]

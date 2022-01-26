@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":26336,"chapter_name":"简介"}],"volume_name":"正文","volume_words":270}],"customer_url":"youxiushizheiyangxunlianchulaide","chapterNewList":[{"id":26336,"chapter_name":"简介"}]}

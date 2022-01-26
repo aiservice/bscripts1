@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"秋园","leading_role":"杨本芬","author_name":"杨本芬","image_path":"files/book/cover/62219/cover.jpg","customer_url":"s3-qiuyuan"}]

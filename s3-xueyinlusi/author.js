@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"江南三部曲","leading_role":"格非","author_name":"格非","image_path":"files/book/cover/62361/cover.jpg","customer_url":"s3-jiangnansanbuqu"}]

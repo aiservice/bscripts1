@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"启示录要义","leading_role":"黄共明","image_path_min":"/files/book/cover/633/cover_120.jpg","author_name":"黄共明","image_path":"/files/book/cover/633/cover.jpg","customer_url":"qishiluyaoyi"}]

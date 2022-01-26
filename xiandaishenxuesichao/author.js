@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督教与新神学","leading_role":"包义森","image_path_min":"/files/book/cover/880/cover_120.jpg","author_name":"包义森","image_path":"/files/book/cover/880/cover.jpg","customer_url":"jidujiaoyuxinshenxue"}]

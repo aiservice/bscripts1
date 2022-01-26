@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"楚辞","leading_role":"佚名","image_path_min":"/files/book/cover/1164/cover_120.jpg","author_name":"屈原","image_path":"/files/book/cover/1164/cover.jpg","customer_url":"chuci"}]

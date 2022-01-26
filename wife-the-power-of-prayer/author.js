@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"如何为自己祷告","leading_role":"史多美·奥玛森","author_name":"史多美·奥玛森","image_path":"files/book/cover/975/cover.jpg","customer_url":"ruheweizijidaogao"}]

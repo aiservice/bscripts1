@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大燕贵公子","leading_role":"黑风山恶少","image_path_min":"files/book/cover/64177/cover_120.jpg","author_name":"黑风山恶少","image_path":"files/book/cover/64177/cover.jpg","customer_url":"s2-dayanguigongzi"}]

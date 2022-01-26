@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"并未远去的背影","leading_role":"王彬彬","image_path_min":"files/book/cover/62417/cover_120.jpg","author_name":"王彬彬","image_path":"files/book/cover/62417/cover.jpg","customer_url":"s3-bingweiyuanqudebeiying"}]

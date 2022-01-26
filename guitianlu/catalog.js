@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":70788,"chapter_name":"自序"},{"id":70789,"chapter_name":"归田录卷一"},{"id":70790,"chapter_name":"归田录卷二"}],"volume_name":"正文","volume_words":28197}],"customer_url":"guitianlu","chapterNewList":[{"id":70790,"chapter_name":"归田录卷二"},{"id":70789,"chapter_name":"归田录卷一"},{"id":70788,"chapter_name":"自序"}]}

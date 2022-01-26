@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"侦探AI","leading_role":"[日]早坂吝","image_path_min":"files/book/cover/63931/cover_120.jpg","author_name":"早坂吝","image_path":"files/book/cover/63931/cover.jpg","customer_url":"s3-zhentanai"}]

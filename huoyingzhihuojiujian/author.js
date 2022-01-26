@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"忍界修正带","leading_role":"李四羊","image_path_min":"files/book/cover/34961/cover_120.jpg","author_name":"李四羊","image_path":"files/book/cover/34961/cover.jpg","customer_url":"renjiexiuzhengdai"}]

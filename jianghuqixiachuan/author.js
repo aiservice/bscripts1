@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"张文祥刺马案","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"平江不肖生","image_path":"/styles/index/images/noimage.jpg","customer_url":"zhangwenxiangcimaan"}]

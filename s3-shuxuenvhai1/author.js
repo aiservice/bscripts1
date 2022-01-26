@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"数学女孩2","leading_role":" [日] 结城浩","image_path_min":"files/book/cover/63895/cover_120.jpg","author_name":"结城浩","image_path":"files/book/cover/63895/cover.jpg","customer_url":"s3-shuxuenvhai2"}]

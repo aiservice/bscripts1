@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"天启之门","leading_role":"跳舞","image_path_min":"files/book/cover/31753/cover_120.jpg","author_name":"跳舞","image_path":"files/book/cover/31753/cover.jpg","customer_url":"tianqizhimen"}]

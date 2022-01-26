@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"候场","leading_role":"李诞","image_path_min":"files/book/cover/62444/cover_120.jpg","author_name":"李诞","image_path":"files/book/cover/62444/cover.jpg","customer_url":"s3-houchang"}]

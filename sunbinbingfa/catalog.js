@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":62733,"chapter_name":"孙膑兵法"}],"volume_name":"正文","volume_words":30324}],"customer_url":"sunbinbingfa","chapterNewList":[{"id":62733,"chapter_name":"孙膑兵法"}]}

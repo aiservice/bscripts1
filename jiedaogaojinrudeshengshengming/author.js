@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"妮塔·詹森初级+进深代祷课程","leading_role":"妮塔·詹森","image_path_min":"files/book/cover/62158/cover_120.jpg","author_name":"妮塔·詹森","image_path":"files/book/cover/62158/cover.jpg","customer_url":"s1-nitazhansenchujijinshendaidaokecheng"}]

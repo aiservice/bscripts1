@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"人生不设限","leading_role":"(澳)力克.胡哲","image_path_min":"files/book/cover/781/cover_120.jpg","author_name":"力克·胡哲","image_path":"files/book/cover/781/cover.jpg","customer_url":"life-without-limit"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"灵域","leading_role":"逆苍天","image_path_min":"files/book/cover/21492/cover_120.jpg","author_name":"逆苍天","image_path":"files/book/cover/21492/cover.jpg","customer_url":"lingyu"}]

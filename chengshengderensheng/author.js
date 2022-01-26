@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"论饮食","leading_role":"论饮食","image_path_min":"/files/book/cover/939/cover_120.jpg","author_name":"怀爱伦","image_path":"/files/book/cover/939/cover.jpg","customer_url":"lunyinshi"}]

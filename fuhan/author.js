@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"绍宋","leading_role":"榴弹怕水","image_path_min":"files/book/cover/58714/cover_120.jpg","author_name":"榴弹怕水","image_path":"files/book/cover/58714/cover.jpg","customer_url":"s2-shaosong"}]

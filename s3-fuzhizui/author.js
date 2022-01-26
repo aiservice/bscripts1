@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"在死亡之中","leading_role":"劳伦斯·布洛克","author_name":"劳伦斯·布洛克","image_path":"files/book/cover/64123/cover.jpg","customer_url":"s3-zaisiwangzhizhong"}]

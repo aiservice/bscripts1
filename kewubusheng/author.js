@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"少女航线","leading_role":"沧澜波涛短","image_path_min":"/files/book/cover/27437/cover_120.jpg","author_name":"沧澜波涛短","image_path":"/files/book/cover/27437/cover.jpg","customer_url":"shaonuhangxian"}]

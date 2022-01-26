@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"北京，北京","leading_role":"冯唐","image_path_min":"files/book/cover/61268/cover_120.jpg","author_name":"冯唐","image_path":"files/book/cover/61268/cover.jpg","customer_url":"s3-beijingbeijing"}]

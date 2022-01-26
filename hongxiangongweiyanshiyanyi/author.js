@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"袁世凯(洪宪宫闱艳史演义)","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"天忏生","image_path":"/styles/index/images/noimage.jpg","customer_url":"yuanshikaihongxiangongweiyanshiyanyi"}]

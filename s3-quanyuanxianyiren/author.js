@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"字母表谜案","leading_role":"[日] 大山诚一郎","image_path_min":"files/book/cover/64117/cover_120.jpg","author_name":"大山诚一郎","image_path":"files/book/cover/64117/cover.jpg","customer_url":"s3-zimubiaomian"}]

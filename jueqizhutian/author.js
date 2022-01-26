@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"万界之旅","leading_role":"冬日之阳","image_path_min":"/files/book/cover/34105/cover_120.jpg","author_name":"冬日之阳","image_path":"/files/book/cover/34105/cover.jpg","customer_url":"wanjiezhilv"}]

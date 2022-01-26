@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"主神挂了","leading_role":"李古丁","image_path_min":"files/book/cover/62915/cover_120.jpg","author_name":"李古丁","image_path":"files/book/cover/62915/cover.jpg","customer_url":"s2-zhushenguale"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"位面黑科技","leading_role":"咬文嚼纸","image_path_min":"files/book/cover/28143/cover_120.jpg","author_name":"咬文嚼纸","image_path":"files/book/cover/28143/cover.jpg","customer_url":"weimianheikeji"}]

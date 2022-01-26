@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"孩子：挑战","leading_role":"鲁道夫•德雷克斯 ","image_path_min":"files/book/cover/64567/cover_120.jpg","author_name":"鲁道夫•德雷克斯","image_path":"files/book/cover/64567/cover.jpg","customer_url":"s3-haizitiaozhan"}]

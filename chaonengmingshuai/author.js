@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"超级锋暴","leading_role":"陈爱庭","image_path_min":"/files/book/cover/31510/cover_120.jpg","author_name":"陈爱庭","image_path":"/files/book/cover/31510/cover.jpg","customer_url":"chaojifengbao"}]

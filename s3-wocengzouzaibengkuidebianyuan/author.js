@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"彼岸风景","leading_role":"俞敏洪","image_path_min":"files/book/cover/64284/cover_120.jpg","author_name":"俞敏洪","image_path":"files/book/cover/64284/cover.jpg","customer_url":"s3-bianfengjing"}]

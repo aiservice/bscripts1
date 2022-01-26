@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"剑来","leading_role":"陈平安","image_path_min":"/files/book/cover/21077/cover_120.jpg","author_name":"烽火戏诸侯","image_path":"/files/book/cover/21077/cover.jpg","customer_url":"jianlai"}]

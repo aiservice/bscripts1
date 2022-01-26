@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"妙影别动队","leading_role":"秋月春风矣","image_path_min":"files/book/cover/62773/cover_120.jpg","author_name":"秋月春风矣","image_path":"files/book/cover/62773/cover.jpg","customer_url":"s2-miaoyingbiedongdui"}]

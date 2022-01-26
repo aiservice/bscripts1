@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"天堂的法院","leading_role":"大卫·赫卓格","image_path_min":"/files/book/cover/40461/cover_120.jpg","author_name":"大卫·赫卓格","image_path":"/files/book/cover/40461/cover.jpg","customer_url":"tiantangdefayuan"}]

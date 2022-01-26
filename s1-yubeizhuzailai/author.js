@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从撒迦利亚书看末世风云","leading_role":"蓝培德","image_path_min":"files/book/cover/846/cover_120.jpg","author_name":"蓝培德","image_path":"files/book/cover/846/cover.jpg","customer_url":"moshifengyun"}]

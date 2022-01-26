@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"贫穷的富裕","leading_role":"（法）以马内利修女","image_path_min":"/files/book/cover/452/cover_120.jpg","author_name":"以马内利修女","image_path":"/files/book/cover/452/cover.jpg","customer_url":"pinqiongdefuyu"}]

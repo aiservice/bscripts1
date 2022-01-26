@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"古代人的日常生活2","leading_role":"讲历史的王老师","image_path_min":"files/book/cover/65449/cover_120.jpg","author_name":"讲历史的王老师","image_path":"files/book/cover/65449/cover.jpg","customer_url":"s3-gudairenderichangshenghuo2"}]

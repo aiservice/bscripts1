@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一章 历史背景","urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=MzI4Mzk1NzAwOV8yMjQ3NDg5MTc2"},{"title":"第二章 大能彰显在我的服事中","urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=MzI4Mzk1NzAwOV8yMjQ3NDg5MTc3"},{"title":"第三章 经文引证","urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=MzI4Mzk1NzAwOV8yMjQ3NDg5MTc4"}]

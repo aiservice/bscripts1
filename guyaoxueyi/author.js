@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"原来我是妖二代","leading_role":"卖报小郎君","image_path_min":"/files/book/cover/32682/cover_120.jpg","author_name":"卖报小郎君","image_path":"/files/book/cover/32682/cover.jpg","customer_url":"yuanlaiwoshiyaoerdai"}]

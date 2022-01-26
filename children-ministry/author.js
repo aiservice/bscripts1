@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"xinzhuertongzaipeishouce","leading_role":"信主","image_path_min":"files/book/cover/59/cover_120.jpg","author_name":"杜孝慈","image_path":"files/book/cover/59/cover.jpg","customer_url":"believing-children-manual-cultivation"}]

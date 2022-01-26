@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"绝对不在场证明","leading_role":"[日] 大山诚一郎","image_path_min":"files/book/cover/62202/cover_120.jpg","author_name":"[日] 大山诚一郎","image_path":"files/book/cover/62202/cover.jpg","customer_url":"s3-jueduibuzaichangzhengming"}]

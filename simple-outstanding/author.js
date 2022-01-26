@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"态度决定了你的高度","leading_role":"施以诺","image_path_min":"/files/book/cover/476/cover_120.jpg","author_name":"施以诺","image_path":"/files/book/cover/476/cover.jpg","customer_url":"taidujuedinglenidegaodu"}]

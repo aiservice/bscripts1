@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"泡面首富","leading_role":"吃一口布丁","image_path_min":"files/book/cover/63428/cover_120.jpg","author_name":"吃一口布丁","image_path":"files/book/cover/63428/cover.jpg","customer_url":"s2-paomianshoufu"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"辣手神医","leading_role":"步千帆","image_path_min":"/files/book/cover/20930/cover_120.jpg","author_name":"步千帆","image_path":"/files/book/cover/20930/cover.jpg","customer_url":"lashoushenyi"}]

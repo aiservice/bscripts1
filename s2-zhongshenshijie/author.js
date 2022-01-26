@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"儒道至圣","leading_role":"永恒之火","image_path_min":"files/book/cover/31739/cover_120.jpg","author_name":"永恒之火","image_path":"files/book/cover/31739/cover.jpg","customer_url":"rudaozhisheng"}]

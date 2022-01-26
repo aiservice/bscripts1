@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"寒门宰相","leading_role":"幸福来敲门","image_path_min":"files/book/cover/63404/cover_120.jpg","author_name":"幸福来敲门","image_path":"files/book/cover/63404/cover.jpg","customer_url":"s2-hanmenzaixiang"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"信仰神国","leading_role":"两只陈洁南","image_path_min":"/files/book/cover/20283/cover_120.jpg","author_name":"两只陈洁南","image_path":"/files/book/cover/20283/cover.jpg","customer_url":"xinyangshenguo"}]

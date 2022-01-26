@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从苏神百米跑出9秒83开始","leading_role":"老鹰爱小小","image_path_min":"files/book/cover/65134/cover_120.jpg","author_name":"老鹰爱小小","image_path":"files/book/cover/65134/cover.jpg","customer_url":"s2-congsushenbaimipaochu9miao83kaishi"}]

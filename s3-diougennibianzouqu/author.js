@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"氣球人","leading_role":"陳浩基","image_path_min":"files/book/cover/64849/cover_120.jpg","author_name":"陳浩基","image_path":"files/book/cover/64849/cover.jpg","customer_url":"s3-qiqiuren"}]

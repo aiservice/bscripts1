@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"耳语之人","leading_role":" [美] 约翰·迪克森·卡尔","author_name":"约翰·迪克森·卡尔","image_path":"files/book/cover/65833/cover.jpg","customer_url":"s3-eryuzhiren"}]

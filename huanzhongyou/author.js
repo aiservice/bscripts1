@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"跻云楼","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"烟霞主人","image_path":"/styles/index/images/noimage.jpg","customer_url":"jiyunlou"}]

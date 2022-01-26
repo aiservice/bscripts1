@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"放开那个女巫","leading_role":"二目","image_path_min":"files/book/cover/21447/cover_120.jpg","author_name":"二目","image_path":"files/book/cover/21447/cover.jpg","customer_url":"fangkaineigenuwu"}]

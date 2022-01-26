@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"这里有妖气","leading_role":"方正","image_path_min":"files/book/cover/30159/cover_120.jpg","author_name":"咬火","image_path":"files/book/cover/30159/cover.jpg","customer_url":"zheliyouyaoqi"}]

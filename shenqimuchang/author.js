@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"山村庄园主","leading_role":"若忘书","image_path_min":"/files/book/cover/34617/cover_120.jpg","author_name":"若忘书","image_path":"/files/book/cover/34617/cover.jpg","customer_url":"shancunzhuangyuanzhu"}]

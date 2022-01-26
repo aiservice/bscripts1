@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"百年孤独","leading_role":"[哥伦比亚]加西亚·马尔克斯","image_path_min":"/files/book/cover/48135/cover_120.jpg","author_name":"[哥伦比亚]加西亚·马尔克斯","image_path":"/files/book/cover/48135/cover.jpg","customer_url":"bainiangudu"}]

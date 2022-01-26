@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督教神学概论","leading_role":"伯克富","image_path_min":"/files/book/cover/886/cover_120.jpg","author_name":"伯克富","image_path":"/files/book/cover/886/cover.jpg","customer_url":"jidujiaoshenxuegailun"}]

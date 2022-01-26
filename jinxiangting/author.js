@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"第一美女传","leading_role":"佚名","image_path_min":"/files/book/cover/1478/cover_120.jpg","author_name":"素庵主人","image_path":"/files/book/cover/1478/cover.jpg","customer_url":"diyimeinvchuan"}]

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":6380,"chapter_name":"第一篇 有福的人"},{"id":6381,"chapter_name":"第二篇 基督为王"}],"volume_name":"诗篇讲道大纲","volume_words":6833}],"customer_url":"psalm-sermon-outline","chapterNewList":[{"id":6381,"chapter_name":"第二篇 基督为王"},{"id":6380,"chapter_name":"第一篇 有福的人"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"午后的诗学","leading_role":"李洱","image_path_min":"files/book/cover/64962/cover_120.jpg","author_name":"李洱","image_path":"files/book/cover/64962/cover.jpg","customer_url":"s3-wuhoudeshixue"}]

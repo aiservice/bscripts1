@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"被谋杀的女富翁","leading_role":"贝蒂·瓦格纳","image_path_min":"/files/book/cover/141/cover_120.jpg","author_name":"贝蒂·瓦格纳","image_path":"/files/book/cover/141/cover.jpg","customer_url":"the-murder-of-female-billionaires"}]

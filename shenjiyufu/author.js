@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"人间不值得","leading_role":"老杨半仙","image_path_min":"/files/book/cover/46684/cover_120.jpg","author_name":"老杨半仙","image_path":"/files/book/cover/46684/cover.jpg","customer_url":"renjianbuzhide"}]

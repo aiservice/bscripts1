@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"修真从穿越三年开始","leading_role":"行为金融","image_path_min":"files/book/cover/64150/cover_120.jpg","author_name":"行为金融","image_path":"files/book/cover/64150/cover.jpg","customer_url":"s2-xiuzhencongchuanyuesanniankaishi"}]

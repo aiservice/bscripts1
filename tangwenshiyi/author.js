@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"唐文续拾","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"陆心源","image_path":"/styles/index/images/noimage.jpg","customer_url":"tangwenxushi"}]

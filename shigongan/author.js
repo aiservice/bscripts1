@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"彭公案","leading_role":"贪梦道人","image_path_min":"/files/book/cover/1024/cover_120.jpg","author_name":"贪梦道人","image_path":"/files/book/cover/1024/cover.jpg","customer_url":"penggongan"}]

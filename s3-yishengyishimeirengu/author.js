@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"亲爱的，热爱的","leading_role":"墨宝非宝","image_path_min":"files/book/cover/48225/cover_120.jpg","author_name":"墨宝非宝","image_path":"files/book/cover/48225/cover.jpg","customer_url":"qinaidereaide"}]

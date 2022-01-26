@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"梦回大明春","leading_role":"王梓钧","image_path_min":"files/book/cover/62830/cover_120.jpg","author_name":"王梓钧","image_path":"files/book/cover/62830/cover.jpg","customer_url":"s2-menghuidamingchun"}]

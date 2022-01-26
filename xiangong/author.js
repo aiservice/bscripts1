@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"黄金瞳","leading_role":"打眼","image_path_min":"files/book/cover/31820/cover_120.jpg","author_name":"打眼","image_path":"files/book/cover/31820/cover.jpg","customer_url":"huangjintong"}]

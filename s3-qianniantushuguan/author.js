@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我们盗走星座的理由","leading_role":"（日）北山猛邦","image_path_min":"files/book/cover/62489/cover_120.jpg","author_name":"北山猛邦","image_path":"files/book/cover/62489/cover.jpg","customer_url":"s3-womendaozouxingzuodeliyou"}]

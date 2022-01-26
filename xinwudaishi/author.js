@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"归田录","leading_role":"佚名","image_path_min":"/files/book/cover/1545/cover_120.jpg","author_name":"欧阳修","image_path":"/files/book/cover/1545/cover.jpg","customer_url":"guitianlu"}]

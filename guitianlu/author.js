@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"新五代史","leading_role":"欧阳修","image_path_min":"/files/book/cover/1044/cover_120.jpg","author_name":"欧阳修","image_path":"/files/book/cover/1044/cover.jpg","customer_url":"xinwudaishi"}]

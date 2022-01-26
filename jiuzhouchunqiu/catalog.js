@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":50363,"chapter_name":"九州春秋"}],"volume_name":"正文","volume_words":6023}],"customer_url":"jiuzhouchunqiu","chapterNewList":[{"id":50363,"chapter_name":"九州春秋"}]}

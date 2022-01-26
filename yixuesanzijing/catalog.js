@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":62382,"chapter_name":"卷一"},{"id":62383,"chapter_name":"卷二"}],"volume_name":"正文","volume_words":3116}],"customer_url":"yixuesanzijing","chapterNewList":[{"id":62383,"chapter_name":"卷二"},{"id":62382,"chapter_name":"卷一"}]}

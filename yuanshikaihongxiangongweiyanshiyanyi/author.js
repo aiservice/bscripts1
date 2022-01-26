@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"洪宪宫闱艳史演义","leading_role":"佚名","image_path_min":"/files/book/cover/1602/cover_120.jpg","author_name":"天忏生","image_path":"/files/book/cover/1602/cover.jpg","customer_url":"hongxiangongweiyanshiyanyi"}]

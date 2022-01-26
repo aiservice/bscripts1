@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"春秋左传正义","leading_role":"佚名","image_path_min":"/files/book/cover/1089/cover_120.jpg","author_name":"孔颖达","image_path":"/files/book/cover/1089/cover.jpg","customer_url":"chunqiuzuochuanzhengyi"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"成圣的人生","leading_role":"怀爱伦","image_path_min":"/files/book/cover/932/cover_120.jpg","author_name":"怀爱伦","image_path":"/files/book/cover/932/cover.jpg","customer_url":"chengshengderensheng"}]

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":6023551,"chapter_name":"大会简介"},{"id":6023552,"chapter_name":"进入天上法庭 捆绑仇敌 释放命定（7场录音下载）"}],"volume_name":"正文","volume_words":3054}],"customer_url":"tianshangfating","chapterNewList":[{"id":6023552,"chapter_name":"进入天上法庭 捆绑仇敌 释放命定（7场录音下载）"},{"id":6023551,"chapter_name":"大会简介"}]}

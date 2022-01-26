@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"滔天洪水","leading_role":" [英] 亚当·图兹","image_path_min":"files/book/cover/64335/cover_120.jpg","author_name":"亚当·图兹","image_path":"files/book/cover/64335/cover.jpg","customer_url":"s3-taotianhongshui"}]

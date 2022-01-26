@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":37586,"chapter_name":"简介"}],"volume_name":"引言","volume_words":1120},{"bookChapterList":[{"id":37587,"chapter_name":"《最美的陪伴》在线阅读"}],"volume_name":"正文","volume_words":75}],"customer_url":"zuimeidepeiban","chapterNewList":[{"id":37587,"chapter_name":"《最美的陪伴》在线阅读"},{"id":37586,"chapter_name":"简介"}]}

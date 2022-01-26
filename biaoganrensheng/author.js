@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"改变生命大能","leading_role":"华理克","image_path_min":"/files/book/cover/931/cover_120.jpg","author_name":"华理克","image_path":"/files/book/cover/931/cover.jpg","customer_url":"gaibianshengmingdaneng"}]

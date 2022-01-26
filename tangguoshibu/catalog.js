@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":70756,"chapter_name":"卷上"},{"id":70757,"chapter_name":"卷中"},{"id":70758,"chapter_name":"卷下"}],"volume_name":"正文","volume_words":24336}],"customer_url":"tangguoshibu","chapterNewList":[{"id":70758,"chapter_name":"卷下"},{"id":70757,"chapter_name":"卷中"},{"id":70756,"chapter_name":"卷上"}]}

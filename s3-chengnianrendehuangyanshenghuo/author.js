@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"失踪的孩子","leading_role":"[意] 埃莱娜·费兰特","image_path_min":"files/book/cover/63932/cover_120.jpg","author_name":"埃莱娜·费兰特","image_path":"files/book/cover/63932/cover.jpg","customer_url":"s3-shizongdehaizi"}]

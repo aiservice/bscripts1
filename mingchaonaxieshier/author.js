@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"明朝那些事儿2","leading_role":"当年明月","image_path_min":"/files/book/cover/31949/cover_120.jpg","author_name":"当年明月","image_path":"/files/book/cover/31949/cover.jpg","customer_url":"mingchaonaxieshier2"}]

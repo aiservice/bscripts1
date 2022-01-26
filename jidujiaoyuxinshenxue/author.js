@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督教与现代神学思潮","leading_role":"包义森","image_path_min":"/files/book/cover/883/cover_120.jpg","author_name":"包义森","image_path":"/files/book/cover/883/cover.jpg","customer_url":"xiandaishenxuesichao"}]

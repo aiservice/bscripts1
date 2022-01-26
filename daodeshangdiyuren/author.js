@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"道德·上帝与人","leading_role":"何怀宏","image_path_min":"/files/book/cover/207/cover_120.jpg","author_name":"何怀宏","image_path":"/files/book/cover/207/cover.jpg","customer_url":"moral-god-and-man"}]

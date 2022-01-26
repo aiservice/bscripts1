@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":39397,"chapter_name":"窘迫时刻"},{"id":39398,"chapter_name":"倾听"},{"id":39399,"chapter_name":"播撒上帝之爱"}],"volume_name":"正文","volume_words":13994}],"customer_url":"dangniwuyanyiduishi","chapterNewList":[{"id":39399,"chapter_name":"播撒上帝之爱"},{"id":39398,"chapter_name":"倾听"},{"id":39397,"chapter_name":"窘迫时刻"}]}

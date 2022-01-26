@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"位面复制大师","leading_role":"千翠百恋","image_path_min":"files/book/cover/31678/cover_120.jpg","author_name":"千翠百恋","image_path":"files/book/cover/31678/cover.jpg","customer_url":"weimianfuzhidashi"}]

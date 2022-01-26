@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"生活在别处","leading_role":"[捷克]米兰·昆德拉","image_path_min":"files/book/cover/62092/cover_120.jpg","author_name":"[捷克]米兰·昆德拉","image_path":"files/book/cover/62092/cover.jpg","customer_url":"s3-shenghuozaibiechu"}]

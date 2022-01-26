@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"猴杯","leading_role":"张贵兴","image_path_min":"files/book/cover/62350/cover_120.jpg","author_name":"张贵兴","image_path":"files/book/cover/62350/cover.jpg","customer_url":"s3-houbei"}]

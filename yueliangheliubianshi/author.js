@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"人性的枷锁","leading_role":"[英]毛姆","image_path_min":"/files/book/cover/48133/cover_120.jpg","author_name":"[英]毛姆","image_path":"/files/book/cover/48133/cover.jpg","customer_url":"renxingdejiasuo"}]

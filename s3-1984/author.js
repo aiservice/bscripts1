@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"动物庄园","leading_role":"[英]乔治·奥威尔","image_path_min":"files/book/cover/62067/cover_120.jpg","author_name":"[英]乔治·奥威尔","image_path":"files/book/cover/62067/cover.jpg","customer_url":"s3-dongwuzhuangyuan"}]

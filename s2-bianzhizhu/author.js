@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"永恒国度","leading_role":"孤独漂流","image_path_min":"files/book/cover/20672/cover_120.jpg","author_name":"孤独漂流","image_path":"files/book/cover/20672/cover.jpg","customer_url":"yonghengguodu"}]

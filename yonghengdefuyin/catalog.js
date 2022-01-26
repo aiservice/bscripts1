@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":7589,"chapter_name":"未分卷 永恒的福音"}],"volume_name":"正文","volume_words":23401}],"customer_url":"yonghengdefuyin","chapterNewList":[{"id":7589,"chapter_name":"未分卷 永恒的福音"}]}

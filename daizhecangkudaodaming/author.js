@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大唐扫把星","leading_role":"迪巴拉爵士","image_path_min":"files/book/cover/62815/cover_120.jpg","author_name":"迪巴拉爵士","image_path":"files/book/cover/62815/cover.jpg","customer_url":"s2-datangsaobaxing"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"阿瑟·克拉克科幻短篇全集","leading_role":"阿瑟·克拉克","image_path_min":"files/book/cover/64291/cover_120.jpg","author_name":"阿瑟·克拉克","image_path":"files/book/cover/64291/cover.jpg","customer_url":"s3-asekelakekehuanduanpianquanji"}]

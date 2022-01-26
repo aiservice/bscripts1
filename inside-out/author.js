@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"破碎的梦","leading_role":"[美]莱瑞• 克莱布（Larry Crabb）","image_path_min":"files/book/cover/787/cover_120.jpg","author_name":"莱瑞·克莱布","image_path":"files/book/cover/787/cover.jpg","customer_url":"shattered-dreams"}]

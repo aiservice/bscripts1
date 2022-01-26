@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我真没想当救世主啊","leading_role":"火中物","image_path_min":"files/book/cover/63525/cover_120.jpg","author_name":"火中物","image_path":"files/book/cover/63525/cover.jpg","customer_url":"s2-wozhenmeixiangdangjiushizhua"}]

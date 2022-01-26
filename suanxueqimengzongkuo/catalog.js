@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":62537,"chapter_name":"算学启蒙"}],"volume_name":"正文","volume_words":1819}],"customer_url":"suanxueqimengzongkuo","chapterNewList":[{"id":62537,"chapter_name":"算学启蒙"}]}

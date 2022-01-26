@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"登基吧，少年","leading_role":"雁九","image_path_min":"files/book/cover/34765/cover_120.jpg","author_name":"雁九","image_path":"files/book/cover/34765/cover.jpg","customer_url":"dengjibashaonian"}]

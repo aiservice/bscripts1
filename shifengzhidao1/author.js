@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"寇世远研经集• 01 认识圣灵","leading_role":"寇世远","image_path_min":"/files/book/cover/907/cover_120.jpg","author_name":"寇世远","image_path":"/files/book/cover/907/cover.jpg","customer_url":"koushiyuanyanjingji01"}]

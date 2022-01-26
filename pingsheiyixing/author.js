@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督教会史略","leading_role":"梁家麟","image_path_min":"/files/book/cover/594/cover_120.jpg","author_name":"梁家麟","image_path":"/files/book/cover/594/cover.jpg","customer_url":"jidujiaohuishilue"}]

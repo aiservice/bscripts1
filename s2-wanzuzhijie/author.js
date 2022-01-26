@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"全球高武","leading_role":"方平","image_path_min":"files/book/cover/31087/cover_120.jpg","author_name":"老鹰吃小鸡","image_path":"files/book/cover/31087/cover.jpg","customer_url":"quanqiugaowu"}]

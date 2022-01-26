@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"剑宗旁门","leading_role":"愁啊愁","image_path_min":"files/book/cover/63234/cover_120.jpg","author_name":"愁啊愁","image_path":"files/book/cover/63234/cover.jpg","customer_url":"s2-jianzongpangmen"}]

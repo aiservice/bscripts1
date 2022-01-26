@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"今日使徒","leading_role":"彼得·魏格纳","image_path_min":"files/book/cover/41013/cover_120.jpg","author_name":"彼得·魏格纳","image_path":"files/book/cover/41013/cover.jpg","customer_url":"jinrishitu"}]

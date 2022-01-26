@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"父亲，男人最可爱的名字","leading_role":"李鸿志","image_path_min":"/files/book/cover/905/cover_120.jpg","author_name":"李鸿志","image_path":"/files/book/cover/905/cover.jpg","customer_url":"nanrenzuikeaidemingzi"}]

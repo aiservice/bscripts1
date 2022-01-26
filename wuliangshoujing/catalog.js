@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":50656,"chapter_name":"卷上"},{"id":50657,"chapter_name":"卷下"}],"volume_name":"正文","volume_words":21198}],"customer_url":"wuliangshoujing","chapterNewList":[{"id":50657,"chapter_name":"卷下"},{"id":50656,"chapter_name":"卷上"}]}

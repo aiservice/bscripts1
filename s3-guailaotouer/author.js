@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"小布头奇遇记","leading_role":"孙幼军 ","image_path_min":"files/book/cover/62358/cover_120.jpg","author_name":"孙幼军","image_path":"files/book/cover/62358/cover.jpg","customer_url":"s3-xiaobutouqiyuji"}]

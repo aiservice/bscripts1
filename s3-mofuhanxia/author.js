@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"他与月光为邻","leading_role":"丁墨","image_path_min":"/files/book/cover/48119/cover_120.jpg","author_name":"丁墨","image_path":"/files/book/cover/48119/cover.jpg","customer_url":"tayuyueguangweilin"}]

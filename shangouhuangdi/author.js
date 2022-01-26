@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大道之争","leading_role":"雨天下雨","image_path_min":"files/book/cover/20763/cover_120.jpg","author_name":"雨天下雨","image_path":"files/book/cover/20763/cover.jpg","customer_url":"dadaozhizheng"}]

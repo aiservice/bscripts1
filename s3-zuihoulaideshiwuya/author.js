@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"马可瓦尔多","leading_role":" [意] 伊塔洛·卡尔维诺","author_name":"伊塔洛·卡尔维诺","image_path":"files/book/cover/63976/cover.jpg","customer_url":"s3-makewaerduo"}]

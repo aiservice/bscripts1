@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"这个明星来自地球","leading_role":"关乌鸦","image_path_min":"/files/book/cover/59225/cover_120.jpg","author_name":"关乌鸦","image_path":"/files/book/cover/59225/cover.jpg","customer_url":"s2-zhegemingxinglaizidiqiu"}]

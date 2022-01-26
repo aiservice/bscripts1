@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":51624,"chapter_name":"三略-上略"},{"id":51625,"chapter_name":"三略-中略"},{"id":51626,"chapter_name":"三略-下略"}],"volume_name":"正文","volume_words":14599}],"customer_url":"huangshigongsanlve","chapterNewList":[{"id":51626,"chapter_name":"三略-下略"},{"id":51625,"chapter_name":"三略-中略"},{"id":51624,"chapter_name":"三略-上略"}]}

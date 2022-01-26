@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"选对终身伴侣","leading_role":"康希","image_path_min":"/files/book/cover/580/cover_120.jpg","author_name":"康希","image_path":"/files/book/cover/580/cover.jpg","customer_url":"xuanduizhongshenbanlu"}]

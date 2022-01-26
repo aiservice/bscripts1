@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":20699,"chapter_name":"以赛亚书"},{"id":20700,"chapter_name":"耶利米书"},{"id":20701,"chapter_name":"以赛亚书二"}],"volume_name":"正文","volume_words":8363}],"customer_url":"shendexin","chapterNewList":[{"id":20701,"chapter_name":"以赛亚书二"},{"id":20700,"chapter_name":"耶利米书"},{"id":20699,"chapter_name":"以赛亚书"}]}

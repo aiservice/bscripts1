@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"耶利米书研经","leading_role":"摩根","image_path_min":"/files/book/cover/188/cover_120.jpg","author_name":"摩根","image_path":"/files/book/cover/188/cover.jpg","customer_url":"jeremiah-research"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"一瓣河川","leading_role":"雨楼清歌","author_name":"雨楼清歌","image_path":"files/book/cover/65771/cover.jpg","customer_url":"s3-yibanhechuan"}]

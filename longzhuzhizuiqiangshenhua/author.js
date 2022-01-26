@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"龙珠之牧神传说","leading_role":"枫叶缀","image_path_min":"files/book/cover/33023/cover_120.jpg","author_name":"枫叶缀","image_path":"files/book/cover/33023/cover.jpg","customer_url":"longzhuzhimushenchuanshuo"}]

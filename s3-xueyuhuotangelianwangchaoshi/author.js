@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"冰与火之歌","leading_role":"乔治·R·R·马丁","image_path_min":"files/book/cover/48176/cover_120.jpg","author_name":"乔治·R·R·马丁","image_path":"files/book/cover/48176/cover.jpg","customer_url":"bingyuhuozhige"}]

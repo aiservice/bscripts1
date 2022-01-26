@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":19180444,"chapter_name":"推荐序"},{"id":19180445,"chapter_name":"作者的观点"}],"volume_name":"目录","volume_words":2900}],"customer_url":"s3-guangdongwuyuanshijianzhengjingshi","chapterNewList":[{"id":19180445,"chapter_name":"作者的观点"},{"id":19180444,"chapter_name":"推荐序"}]}

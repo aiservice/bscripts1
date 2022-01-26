@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大图景","leading_role":" [美]肖恩·卡罗尔","image_path_min":"files/book/cover/64121/cover_120.jpg","author_name":"肖恩·卡罗尔","image_path":"files/book/cover/64121/cover.jpg","customer_url":"s3-datujing"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"释放洁净","leading_role":"周神助","image_path_min":"files/book/cover/40175/cover_120.jpg","author_name":"周神助","image_path":"files/book/cover/40175/cover.jpg","customer_url":"shifangjiejing"}]

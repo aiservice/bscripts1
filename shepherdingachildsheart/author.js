@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"陶塑子女心","leading_role":"泰德·特里普 / 玛吉·特里普 ","image_path_min":"files/book/cover/997/cover_120.jpg","author_name":"泰德·特里普","image_path":"files/book/cover/997/cover.jpg","customer_url":"taosuzinvxin"}]

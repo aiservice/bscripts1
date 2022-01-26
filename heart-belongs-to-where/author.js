@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"圣经启示的神性标记","leading_role":"风之色彩","image_path_min":"files/book/cover/244/cover_120.jpg","author_name":"风之色彩","image_path":"files/book/cover/244/cover.jpg","customer_url":"shengjingqishideshenxingbiaoji"}]

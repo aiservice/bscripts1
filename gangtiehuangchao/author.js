@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"至高文明","leading_role":"背着家的蜗牛","image_path_min":"/files/book/cover/29197/cover_120.jpg","author_name":"背着家的蜗牛","image_path":"/files/book/cover/29197/cover.jpg","customer_url":"zhigaowenming"}]

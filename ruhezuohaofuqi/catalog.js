@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":25776,"chapter_name":"领导·施爱·保护·供养"},{"id":25777,"chapter_name":"上帝的话为镜我的心为妆"}],"volume_name":"正文","volume_words":13458}],"customer_url":"ruhezuohaofuqi","chapterNewList":[{"id":25777,"chapter_name":"上帝的话为镜我的心为妆"},{"id":25776,"chapter_name":"领导·施爱·保护·供养"}]}

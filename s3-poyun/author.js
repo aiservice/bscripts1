@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"破云2","leading_role":"淮上","image_path_min":"files/book/cover/65482/cover_120.jpg","author_name":"淮上","image_path":"files/book/cover/65482/cover.jpg","customer_url":"s3-poyun2"}]

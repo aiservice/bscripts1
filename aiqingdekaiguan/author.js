@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"东宫","leading_role":"匪我思存","image_path_min":"/files/book/cover/59441/cover_120.jpg","author_name":"匪我思存","image_path":"/files/book/cover/59441/cover.jpg","customer_url":"s3-donggong"}]

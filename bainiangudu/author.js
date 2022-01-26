@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"霍乱时期的爱情","leading_role":"[哥伦比亚]加西亚·马尔克斯","image_path_min":"/files/book/cover/48136/cover_120.jpg","author_name":"[哥伦比亚]加西亚·马尔克斯","image_path":"/files/book/cover/48136/cover.jpg","customer_url":"huoluanshiqideaiqing"}]

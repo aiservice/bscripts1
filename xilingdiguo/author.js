@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"异常生物见闻录","leading_role":"郝仁","image_path_min":"/files/book/cover/21504/cover_120.jpg","author_name":"远瞳","image_path":"/files/book/cover/21504/cover.jpg","customer_url":"yichangshengwujianwenlu"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"潜农在田","leading_role":"念响","image_path_min":"/files/book/cover/43789/cover_120.jpg","author_name":"念响","image_path":"/files/book/cover/43789/cover.jpg","customer_url":"qiannongzaitian"}]

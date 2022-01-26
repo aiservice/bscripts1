@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"钟馗斩鬼传","leading_role":"佚名","image_path_min":"/files/book/cover/1422/cover_120.jpg","author_name":"烟霞散人","image_path":"/files/book/cover/1422/cover.jpg","customer_url":"zhongkuizhanguichuan"}]

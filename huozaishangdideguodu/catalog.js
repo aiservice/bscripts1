@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":38799,"chapter_name":"上帝國的原則"}],"volume_name":"正文","volume_words":15038}],"customer_url":"huozaishangdideguodu","chapterNewList":[{"id":38799,"chapter_name":"上帝國的原則"}]}

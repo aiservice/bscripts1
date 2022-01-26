@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我是哈利路亚大婶","leading_role":"崔子实","image_path_min":"files/book/cover/155/cover_120.jpg","author_name":"崔子实","image_path":"files/book/cover/155/cover.jpg","customer_url":"im-aunt-hallelujah"}]

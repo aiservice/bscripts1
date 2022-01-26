@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"苏世民：我的经验与教训","leading_role":" [美] 苏世民","image_path_min":"files/book/cover/62478/cover_120.jpg","author_name":"苏世民","image_path":"files/book/cover/62478/cover.jpg","customer_url":"s3-sushiminwodejingyanyujiaoxun"}]

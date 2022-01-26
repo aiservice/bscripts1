@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"心魔种道","leading_role":"废纸桥","image_path_min":"files/book/cover/63255/cover_120.jpg","author_name":"废纸桥","image_path":"files/book/cover/63255/cover.jpg","customer_url":"s2-xinmozhongdao"}]

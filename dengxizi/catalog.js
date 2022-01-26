@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":52151,"chapter_name":"无厚篇"},{"id":52152,"chapter_name":"转辞篇"}],"volume_name":"正文","volume_words":3847}],"customer_url":"dengxizi","chapterNewList":[{"id":52152,"chapter_name":"转辞篇"},{"id":52151,"chapter_name":"无厚篇"}]}

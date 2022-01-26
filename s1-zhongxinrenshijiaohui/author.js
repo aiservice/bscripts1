@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"新城要理问答","leading_role":"柯林·汉森","image_path_min":"files/book/cover/64860/cover_120.jpg","author_name":"柯林·汉森","image_path":"files/book/cover/64860/cover.jpg","customer_url":"s1-xinchengyaoliwenda"}]

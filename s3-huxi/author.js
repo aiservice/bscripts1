@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"你一生的故事","leading_role":"[美] 特德·姜","image_path_min":"files/book/cover/65394/cover_120.jpg","author_name":"[美] 特德·姜","image_path":"files/book/cover/65394/cover.jpg","customer_url":"s3-niyishengdegushi"}]

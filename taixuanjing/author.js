@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"法言义疏","leading_role":"佚名","image_path_min":"/files/book/cover/1178/cover_120.jpg","author_name":"扬雄","image_path":"/files/book/cover/1178/cover.jpg","customer_url":"fayanyishu"}]

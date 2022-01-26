@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"巴黎圣母院","leading_role":"[法]雨果","image_path_min":"files/book/cover/62066/cover_120.jpg","author_name":"[法]雨果","image_path":"files/book/cover/62066/cover.jpg","customer_url":"s3-balishengmuyuan"}]

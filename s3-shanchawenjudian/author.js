@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"蜗牛食堂","leading_role":"[日] 小川糸","image_path_min":"files/book/cover/65666/cover_120.jpg","author_name":"小川糸","image_path":"files/book/cover/65666/cover.jpg","customer_url":"s3-woniushitang"}]

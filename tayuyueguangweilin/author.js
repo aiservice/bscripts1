@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"莫负寒夏","leading_role":"丁墨","image_path_min":"/files/book/cover/59380/cover_120.jpg","author_name":"丁墨","image_path":"/files/book/cover/59380/cover.jpg","customer_url":"s3-mofuhanxia"}]

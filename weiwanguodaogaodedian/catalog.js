@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":28331,"chapter_name":"前言"}],"volume_name":"正文","volume_words":100}],"customer_url":"weiwanguodaogaodedian","chapterNewList":[{"id":28331,"chapter_name":"前言"}]}

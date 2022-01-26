@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"这个医生很危险","leading_role":"手握寸关尺","image_path_min":"files/book/cover/64034/cover_120.jpg","author_name":"手握寸关尺","image_path":"files/book/cover/64034/cover.jpg","customer_url":"s2-zhegeyishenghenweixian"}]

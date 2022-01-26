@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"凭谁意行","leading_role":"梁家麟","image_path_min":"/files/book/cover/434/cover_120.jpg","author_name":"梁家麟","image_path":"/files/book/cover/434/cover.jpg","customer_url":"pingsheiyixing"}]

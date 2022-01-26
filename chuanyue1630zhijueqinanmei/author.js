@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"晚唐浮生","leading_role":"孤独麦客","image_path_min":"files/book/cover/64246/cover_120.jpg","author_name":"孤独麦客","image_path":"files/book/cover/64246/cover.jpg","customer_url":"s2-wantangfusheng"}]

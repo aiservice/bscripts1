@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"里程自选文集","leading_role":"冯秉诚（里程）","image_path_min":"/files/book/cover/555/cover_120.jpg","author_name":"冯秉诚","image_path":"/files/book/cover/555/cover.jpg","customer_url":"lichengzixuanwenji"}]

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":53806,"chapter_name":"围炉夜话"},{"id":53807,"chapter_name":"《围炉夜话》注释、译文版"}],"volume_name":"正文","volume_words":50308}],"customer_url":"weiluyehua","chapterNewList":[{"id":53807,"chapter_name":"《围炉夜话》注释、译文版"},{"id":53806,"chapter_name":"围炉夜话"}]}

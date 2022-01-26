@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"坏脾气的格蕾丝","leading_role":"安·R·韦尔斯","image_path_min":"/files/book/cover/373/cover_120.jpg","author_name":"安·R·韦尔斯","image_path":"/files/book/cover/373/cover.jpg","customer_url":"huaipiqidegeleisi"}]

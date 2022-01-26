@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"钢之色","leading_role":" [英] K.J.帕克","author_name":"K.J.帕克","image_path":"files/book/cover/65876/cover.jpg","customer_url":"s3-gangzhise"}]

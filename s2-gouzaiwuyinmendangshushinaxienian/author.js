@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"第五分卫","leading_role":"破竹长虹","image_path_min":"files/book/cover/63635/cover_120.jpg","author_name":"破竹长虹","image_path":"files/book/cover/63635/cover.jpg","customer_url":"s2-diwufenwei"}]

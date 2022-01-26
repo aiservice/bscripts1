@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"圣经疑难解答","leading_role":"赴圣迹","image_path_min":"/files/book/cover/40489/cover_120.jpg","author_name":"赴圣迹","image_path":"/files/book/cover/40489/cover.jpg","customer_url":"shengjingyinanjieda"}]

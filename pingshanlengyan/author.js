@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"玉娇梨","leading_role":"佚名","image_path_min":"/files/book/cover/1563/cover_120.jpg","author_name":"荻岸散人","image_path":"/files/book/cover/1563/cover.jpg","customer_url":"yujiaoli"}]

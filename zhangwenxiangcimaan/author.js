@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"江湖奇侠传","leading_role":"佚名","image_path_min":"/files/book/cover/1277/cover_120.jpg","author_name":"平江不肖生","image_path":"/files/book/cover/1277/cover.jpg","customer_url":"jianghuqixiachuan"}]

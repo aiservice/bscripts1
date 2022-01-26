@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我的基因无限进化","leading_role":"青空洗雨","image_path_min":"files/book/cover/65288/cover_120.jpg","author_name":"青空洗雨","image_path":"files/book/cover/65288/cover.jpg","customer_url":"s2-wodejiyinwuxianjinhua"}]

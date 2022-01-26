@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"幽冥录","leading_role":"佚名","image_path_min":"/files/book/cover/1314/cover_120.jpg","author_name":"刘义庆","image_path":"/files/book/cover/1314/cover.jpg","customer_url":"youminglu"}]

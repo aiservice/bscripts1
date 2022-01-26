@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"谋断九州","leading_role":"冰临神下","image_path_min":"files/book/cover/31659/cover_120.jpg","author_name":"冰临神下","image_path":"files/book/cover/31659/cover.jpg","customer_url":"mouduanjiuzhou"}]

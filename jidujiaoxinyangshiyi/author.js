@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"唐崇平讲章","leading_role":"唐崇平","image_path_min":"/files/book/cover/768/cover_120.jpg","author_name":"唐崇平","image_path":"/files/book/cover/768/cover.jpg","customer_url":"tangchongpingjiangzhang"}]

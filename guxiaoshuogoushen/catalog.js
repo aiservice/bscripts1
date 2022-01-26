@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":70262,"chapter_name":"古小說鉤沈(上)"},{"id":70263,"chapter_name":"古小說鉤沈(下)"}],"volume_name":"正文","volume_words":5548}],"customer_url":"guxiaoshuogoushen","chapterNewList":[{"id":70263,"chapter_name":"古小說鉤沈(下)"},{"id":70262,"chapter_name":"古小說鉤沈(上)"}]}

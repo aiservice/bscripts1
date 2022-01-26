@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"雪中悍刀行","leading_role":"烽火戏诸侯","image_path_min":"files/book/cover/31742/cover_120.jpg","author_name":"烽火戏诸侯","image_path":"files/book/cover/31742/cover.jpg","customer_url":"xuezhonghandaoxing"}]

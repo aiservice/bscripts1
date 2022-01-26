@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"黎明医生","leading_role":"机器人瓦力","image_path_min":"files/book/cover/62987/cover_120.jpg","author_name":"机器人瓦力","image_path":"files/book/cover/62987/cover.jpg","customer_url":"s2-limingyisheng"}]

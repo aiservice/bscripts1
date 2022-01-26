@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"孤岛求生之重生狂蟒","leading_role":"望穿冬水","image_path_min":"files/book/cover/22712/cover_120.jpg","author_name":"望穿冬水","image_path":"files/book/cover/22712/cover.jpg","customer_url":"gudaoqiushengzhizhongshengkuangmang"}]

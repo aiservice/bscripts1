@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"人生的盛宴","leading_role":"林语堂","image_path_min":"files/book/cover/427/cover_120.jpg","author_name":"林语堂","image_path":"files/book/cover/427/cover.jpg","customer_url":"renshengdeshengyan"}]

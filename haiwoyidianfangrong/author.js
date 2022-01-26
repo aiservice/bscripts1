@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"丈夫，天生需要帮助者","leading_role":"迈克尔·珀尔","image_path_min":"/files/book/cover/596/cover_120.jpg","author_name":"迈克尔·珀尔","image_path":"/files/book/cover/596/cover.jpg","customer_url":"create-to-need-a-help-meet"}]

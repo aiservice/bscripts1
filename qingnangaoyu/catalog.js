@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":49435,"chapter_name":"青囊奥语"},{"id":49436,"chapter_name":"青囊序"}],"volume_name":"正文","volume_words":1373}],"customer_url":"qingnangaoyu","chapterNewList":[{"id":49436,"chapter_name":"青囊序"},{"id":49435,"chapter_name":"青囊奥语"}]}

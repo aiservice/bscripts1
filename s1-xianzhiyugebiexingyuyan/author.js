@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"先知的原则与陷阱","leading_role":"比尔·汉蒙","image_path_min":"files/book/cover/62144/cover_120.jpg","author_name":"比尔·汉蒙","image_path":"files/book/cover/62144/cover.jpg","customer_url":"s1-xianzhideyuanzeyuxianjing"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"重生从2013开始","leading_role":"二将","author_name":"二将","image_path":"files/book/cover/65337/cover.jpg","customer_url":"s2-zhongshengcong2013kaishi"}]

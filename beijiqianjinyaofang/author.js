@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"千金翼方","leading_role":"佚名","image_path_min":"/files/book/cover/1340/cover_120.jpg","author_name":"孙思邈","image_path":"/files/book/cover/1340/cover.jpg","customer_url":"qianjinyifang"}]

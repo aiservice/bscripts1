@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":6900,"chapter_name":"前言"},{"id":6901,"chapter_name":"第1章"},{"id":6902,"chapter_name":"第2章"}],"volume_name":"正文","volume_words":73006}],"customer_url":"proverbs-annotation","chapterNewList":[{"id":6902,"chapter_name":"第2章"},{"id":6901,"chapter_name":"第1章"},{"id":6900,"chapter_name":"前言"}]}

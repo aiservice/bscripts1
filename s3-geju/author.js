@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"浪潮之巅","leading_role":"吴军","image_path_min":"files/book/cover/63968/cover_120.jpg","author_name":"吴军","image_path":"files/book/cover/63968/cover.jpg","customer_url":"s3-langchaozhidian"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"古妖血裔","leading_role":"卖报小郎君","image_path_min":"files/book/cover/31563/cover_120.jpg","author_name":"卖报小郎君","image_path":"files/book/cover/31563/cover.jpg","customer_url":"guyaoxueyi"}]

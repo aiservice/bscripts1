@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"三口棺材","leading_role":"[美]约翰·迪克森·卡尔","author_name":"约翰·迪克森·卡尔","image_path":"files/book/cover/65762/cover.jpg","customer_url":"s3-sankouguancai"}]

@@ -1,0 +1,1 @@
+var audioList=[{"title":"第一章 正确与错误的思想","urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=MzI4Mzk1NzAwOV8yMjQ3NDkwMDUz"},{"title":"第二章 正确与错误的相信","urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=MzI4Mzk1NzAwOV8yMjQ3NDkwMDU0"},{"title":"第三章 正确与错误的宣告","urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=MzI4Mzk1NzAwOV8yMjQ3NDkwMDU1"}]

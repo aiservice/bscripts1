@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"关键句是死亡","leading_role":"[英]安东尼·霍洛维茨","image_path_min":"files/book/cover/64570/cover_120.jpg","author_name":"安东尼·霍洛维茨","image_path":"files/book/cover/64570/cover.jpg","customer_url":"s3-guanjianjushisiwang"}]

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":62085,"chapter_name":"佛国记"}],"volume_name":"正文","volume_words":15958}],"customer_url":"foguoji","chapterNewList":[{"id":62085,"chapter_name":"佛国记"}]}

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":12221695,"chapter_name":"第一节"},{"id":12221696,"chapter_name":"第二节"},{"id":12221697,"chapter_name":"第三节"}],"volume_name":"目录","volume_words":12691}],"customer_url":"s3-tingxueloubing","chapterNewList":[{"id":12221697,"chapter_name":"第三节"},{"id":12221696,"chapter_name":"第二节"},{"id":12221695,"chapter_name":"第一节"}]}

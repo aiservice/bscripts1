@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"科技图书馆","leading_role":"孤胆蚂蚁","image_path_min":"/files/book/cover/59039/cover_120.jpg","author_name":"孤胆蚂蚁","image_path":"/files/book/cover/59039/cover.jpg","customer_url":"s2-kejitushuguan"}]

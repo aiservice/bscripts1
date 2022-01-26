@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"恩典","leading_role":"尼克·开利福大","image_path_min":"/files/book/cover/412/cover_120.jpg","author_name":"尼克·开利福大","image_path":"/files/book/cover/412/cover.jpg","customer_url":"endian"}]

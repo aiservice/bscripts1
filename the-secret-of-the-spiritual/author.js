@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"戴德生的信心之旅","leading_role":"卢逸斯","image_path_min":"files/book/cover/546/cover_120.jpg","author_name":"卢逸斯","image_path":"files/book/cover/546/cover.jpg","customer_url":"daideshengdexinxinzhilu"}]

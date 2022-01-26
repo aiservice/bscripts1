@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"高中生穷忙族","leading_role":"日本NHK","image_path_min":"files/book/cover/65399/cover_120.jpg","author_name":"日本NHK","image_path":"files/book/cover/65399/cover.jpg","customer_url":"s3-gaozhongshengqiongmangzu"}]

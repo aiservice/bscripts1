@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"刀锋","leading_role":"[英]毛姆","image_path_min":"files/book/cover/63943/cover_120.jpg","author_name":"毛姆","image_path":"files/book/cover/63943/cover.jpg","customer_url":"s3-daofeng"}]

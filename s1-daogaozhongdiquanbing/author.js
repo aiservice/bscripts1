@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"胜过忧伤的祷告","leading_role":"达屈·席兹","image_path_min":"files/book/cover/40520/cover_120.jpg","author_name":"达屈·席兹","image_path":"files/book/cover/40520/cover.jpg","customer_url":"shengguoyoushangdedaogao"}]

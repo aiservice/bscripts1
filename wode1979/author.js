@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"卜筑","leading_role":"争斤论两花花帽","image_path_min":"/files/book/cover/39989/cover_120.jpg","author_name":"争斤论两花花帽","image_path":"/files/book/cover/39989/cover.jpg","customer_url":"buzhu"}]

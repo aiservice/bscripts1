@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"拜见教主大人","leading_role":"封七月","image_path_min":"/files/book/cover/44727/cover_120.jpg","author_name":"封七月","image_path":"/files/book/cover/44727/cover.jpg","customer_url":"baijianjiaozhudaren"}]

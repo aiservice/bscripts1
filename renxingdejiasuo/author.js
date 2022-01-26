@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"月亮和六便士","leading_role":"[英]毛姆","image_path_min":"/files/book/cover/48141/cover_120.jpg","author_name":"[英]毛姆","image_path":"/files/book/cover/48141/cover.jpg","customer_url":"yueliangheliubianshi"}]

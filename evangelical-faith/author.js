@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"当代讲道艺术","leading_role":"斯托得(John R.W.Stott) ","image_path_min":"files/book/cover/38560/cover_120.jpg","author_name":"斯托得","image_path":"files/book/cover/38560/cover.jpg","customer_url":"dangdaijiangdaoyishu"}]

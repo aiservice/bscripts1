@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我的信仰之路","leading_role":"提阿非罗","image_path_min":"files/book/cover/64970/cover_120.jpg","author_name":"提阿非罗","image_path":"files/book/cover/64970/cover.jpg","customer_url":"s1-wodexinyangzhilu"}]

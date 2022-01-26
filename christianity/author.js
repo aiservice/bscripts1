@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督徒的生活","leading_role":"(法)约翰·加尔文(John Calvin)","image_path_min":"/files/book/cover/509/cover_120.jpg","author_name":"约翰·加尔文","image_path":"/files/book/cover/509/cover.jpg","customer_url":"jidutudeshenghuo"}]

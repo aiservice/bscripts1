@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"毛诗正义","leading_role":"佚名","image_path_min":"/files/book/cover/1091/cover_120.jpg","author_name":"孔颖达","image_path":"/files/book/cover/1091/cover.jpg","customer_url":"maoshizhengyi"}]

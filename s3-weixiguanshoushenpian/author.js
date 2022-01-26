@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"如何成为不完美主义者","leading_role":" [美] 斯蒂芬·盖斯","image_path_min":"files/book/cover/64292/cover_120.jpg","author_name":"斯蒂芬·盖斯","image_path":"files/book/cover/64292/cover.jpg","customer_url":"s3-ruhechengweibuwanmeizhuyizhe"}]

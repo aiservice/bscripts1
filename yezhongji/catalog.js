@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":50362,"chapter_name":"邺中记"}],"volume_name":"正文","volume_words":5431}],"customer_url":"yezhongji","chapterNewList":[{"id":50362,"chapter_name":"邺中记"}]}

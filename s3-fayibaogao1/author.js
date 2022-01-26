@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"法医报告2 : 遗骨会说话","leading_role":"[英] 苏·布莱克","image_path_min":"files/book/cover/65660/cover_120.jpg","author_name":"苏·布莱克","image_path":"files/book/cover/65660/cover.jpg","customer_url":"s3-fayibaogao2"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"热心男孩查理","leading_role":"安·R·韦尔斯","image_path_min":"/files/book/cover/374/cover_120.jpg","author_name":"安·R·韦尔斯","image_path":"/files/book/cover/374/cover.jpg","customer_url":"rexinnanhaichali"}]

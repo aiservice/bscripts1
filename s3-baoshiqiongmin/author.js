@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"妻子们的思秋期","leading_role":"[日]斋藤茂男","image_path_min":"files/book/cover/64103/cover_120.jpg","author_name":"斋藤茂男","image_path":"files/book/cover/64103/cover.jpg","customer_url":"s3-qizimendesiqiuqi"}]

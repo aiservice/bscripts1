@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"薛刚反唐","leading_role":"佚名","image_path_min":"/files/book/cover/1500/cover_120.jpg","author_name":"如莲居士","image_path":"/files/book/cover/1500/cover.jpg","customer_url":"xuegangfantang"}]

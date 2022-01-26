@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"禅真后史","leading_role":"佚名","image_path_min":"/files/book/cover/1578/cover_120.jpg","author_name":"清溪道人","image_path":"/files/book/cover/1578/cover.jpg","customer_url":"chanzhenhoushi"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"白银霸主","leading_role":"醉虎","image_path_min":"files/book/cover/23009/cover_120.jpg","author_name":"醉虎","image_path":"files/book/cover/23009/cover.jpg","customer_url":"baiyinbazhu"}]

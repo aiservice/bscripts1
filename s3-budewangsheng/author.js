@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"欢乐颂","leading_role":"阿耐","image_path_min":"files/book/cover/59449/cover_120.jpg","author_name":"阿耐","image_path":"files/book/cover/59449/cover.jpg","customer_url":"s3-huanlesong"}]

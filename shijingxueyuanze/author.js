@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从灵洗到圣灵充满","leading_role":"林道亮","image_path_min":"/files/book/cover/841/cover_120.jpg","author_name":"林道亮","image_path":"/files/book/cover/841/cover.jpg","customer_url":"shenglingchongman"}]

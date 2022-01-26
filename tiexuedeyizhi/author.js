@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"都市之仙帝归来","leading_role":"流泪的鱼wyj","image_path_min":"/files/book/cover/30413/cover_120.jpg","author_name":"流泪的鱼wyj","image_path":"/files/book/cover/30413/cover.jpg","customer_url":"dushizhixiandiguilai"}]

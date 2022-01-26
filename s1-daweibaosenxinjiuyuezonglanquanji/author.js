@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"合神心意的男人","leading_role":"大卫鲍森","image_path_min":"files/book/cover/62161/cover_120.jpg","author_name":"大卫鲍森","image_path":"files/book/cover/62161/cover.jpg","customer_url":"s1-heshenxinyidenanren"}]

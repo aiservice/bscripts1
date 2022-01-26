@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"里外更新","leading_role":"[美]莱瑞·克莱布博士","image_path_min":"/files/book/cover/786/cover_120.jpg","author_name":"莱瑞·克莱布","image_path":"/files/book/cover/786/cover.jpg","customer_url":"inside-out"}]

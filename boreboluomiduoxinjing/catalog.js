@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":49242,"chapter_name":"般若波罗蜜多心经"}],"volume_name":"正文","volume_words":2252}],"customer_url":"boreboluomiduoxinjing","chapterNewList":[{"id":49242,"chapter_name":"般若波罗蜜多心经"}]}

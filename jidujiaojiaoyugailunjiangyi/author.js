@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"儿童宗教教育讲义","leading_role":"林老师","image_path_min":"/files/book/cover/47/cover_120.jpg","author_name":"林老师","image_path":"/files/book/cover/47/cover.jpg","customer_url":"children-religious-education"}]

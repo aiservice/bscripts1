@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"父母：挑战","leading_role":"[美] 鲁道夫•德雷克斯","image_path_min":"files/book/cover/64566/cover_120.jpg","author_name":"鲁道夫•德雷克斯","image_path":"files/book/cover/64566/cover.jpg","customer_url":"s3-fumutiaozhan"}]

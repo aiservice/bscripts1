@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"西游之大娱乐家","leading_role":"清风小道童","image_path_min":"files/book/cover/32990/cover_120.jpg","author_name":"清风小道童","image_path":"files/book/cover/32990/cover.jpg","customer_url":"xiyouzhidayulejia"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"伊凡·伊里奇之死","leading_role":"[俄] 列夫·托尔斯泰","image_path_min":"files/book/cover/63923/cover_120.jpg","author_name":"列夫·托尔斯泰","image_path":"files/book/cover/63923/cover.jpg","customer_url":"s3-yifanyiliqizhisi"}]

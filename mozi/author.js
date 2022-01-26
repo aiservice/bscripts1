@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"墨经","leading_role":"佚名","image_path_min":"/files/book/cover/1199/cover_120.jpg","author_name":"墨子","image_path":"/files/book/cover/1199/cover.jpg","customer_url":"mojing"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"六极物理","leading_role":"严伯钧","image_path_min":"files/book/cover/62311/cover_120.jpg","author_name":"严伯钧","image_path":"files/book/cover/62311/cover.jpg","customer_url":"s3-liujiwuli"}]

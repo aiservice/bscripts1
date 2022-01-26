@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"抗战之第十班","leading_role":"拉风狂人扫天","image_path_min":"/files/book/cover/34826/cover_120.jpg","author_name":"拉风狂人扫天","image_path":"/files/book/cover/34826/cover.jpg","customer_url":"kangzhanzhidishiban"}]

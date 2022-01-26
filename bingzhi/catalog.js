@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":62734,"chapter_name":"兵制一"},{"id":62735,"chapter_name":"兵制二"},{"id":62736,"chapter_name":"兵制三"}],"volume_name":"正文","volume_words":3111}],"customer_url":"bingzhi","chapterNewList":[{"id":62736,"chapter_name":"兵制三"},{"id":62735,"chapter_name":"兵制二"},{"id":62734,"chapter_name":"兵制一"}]}

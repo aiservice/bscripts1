@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大明奇侠传","leading_role":"佚名","image_path_min":"/files/book/cover/1234/cover_120.jpg","author_name":"无名氏","image_path":"/files/book/cover/1234/cover.jpg","customer_url":"damingqixiachuan"}]

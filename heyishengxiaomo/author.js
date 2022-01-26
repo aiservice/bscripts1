@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"杉杉来吃","leading_role":"顾漫","image_path_min":"/files/book/cover/48153/cover_120.jpg","author_name":"顾漫","image_path":"/files/book/cover/48153/cover.jpg","customer_url":"shanshanlaichi"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"捡到一个异界","leading_role":"胖乎乎的河马","image_path_min":"files/book/cover/34203/cover_120.jpg","author_name":"胖乎乎的河马","image_path":"files/book/cover/34203/cover.jpg","customer_url":"jiandaoyigeyijie"}]

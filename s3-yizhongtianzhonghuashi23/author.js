@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"易中天谈美","leading_role":"易中天","image_path_min":"files/book/cover/62343/cover_120.jpg","author_name":"易中天","image_path":"files/book/cover/62343/cover.jpg","customer_url":"s3-yizhongtiantanmei"}]

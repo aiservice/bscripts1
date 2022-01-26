@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"直播未来两千年","leading_role":"穷拾叁","image_path_min":"files/book/cover/31608/cover_120.jpg","author_name":"穷拾叁","image_path":"files/book/cover/31608/cover.jpg","customer_url":"zhiboweilailiangqiannian"}]

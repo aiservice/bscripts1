@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"宫部美雪经典大全集（共18册）","leading_role":"宫部美雪","image_path_min":"files/book/cover/62243/cover_120.jpg","author_name":"宫部美雪","image_path":"files/book/cover/62243/cover.jpg","customer_url":"s3-gongbumeixuejingdiandaquanji"}]

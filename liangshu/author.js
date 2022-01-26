@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"陈书","leading_role":"姚思廉","image_path_min":"/files/book/cover/1034/cover_120.jpg","author_name":"姚思廉","image_path":"/files/book/cover/1034/cover.jpg","customer_url":"chenshu"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"The Silent Patient","leading_role":"Alex Michaelides ","image_path_min":"files/book/cover/62441/cover_120.jpg","author_name":"[英]亚历克斯·麦克利兹","image_path":"files/book/cover/62441/cover.jpg","customer_url":"s3-the-silent-patient"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"领人归主","leading_role":"冯秉诚","image_path_min":"/files/book/cover/234/cover_120.jpg","author_name":"冯秉诚","image_path":"/files/book/cover/234/cover.jpg","customer_url":"lingrenguizhu"}]

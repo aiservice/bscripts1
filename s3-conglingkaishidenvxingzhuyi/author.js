@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"父权制与资本主义","leading_role":" [日] 上野千鹤子","author_name":"上野千鹤子","image_path":"files/book/cover/63973/cover.jpg","customer_url":"s3-fuquanzhiyuzibenzhuyi"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"天路历程","leading_role":"约翰．班扬","image_path_min":"files/book/cover/69/cover_120.jpg","author_name":"约翰．班扬","image_path":"files/book/cover/69/cover.jpg","customer_url":"the-pilgrim-progress"}]

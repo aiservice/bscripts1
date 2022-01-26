@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"造梦天师","leading_role":"李鸿天","image_path_min":"files/book/cover/31456/cover_120.jpg","author_name":"李鸿天","image_path":"files/book/cover/31456/cover.jpg","customer_url":"zaomengtianshi"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"定意爱我们的孩子","leading_role":"丹尼·席克","image_path_min":"/files/book/cover/40177/cover_120.jpg","author_name":"丹尼·席克","image_path":"/files/book/cover/40177/cover.jpg","customer_url":"dingyiaiwomendehaizi"}]

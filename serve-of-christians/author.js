@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"论上帝的律法","leading_role":"布雷克","image_path_min":"/files/book/cover/719/cover_120.jpg","author_name":"布雷克","image_path":"/files/book/cover/719/cover.jpg","customer_url":"lunshangdidelvfa"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"复原力","leading_role":" [美] 里克·汉森 / [美] 福里斯特·汉森","image_path_min":"files/book/cover/62476/cover_120.jpg","author_name":"里克·汉森","image_path":"files/book/cover/62476/cover.jpg","customer_url":"s3-fuyuanli"}]

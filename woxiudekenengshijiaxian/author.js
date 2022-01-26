@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我真不是仙二代","leading_role":"安不浪","image_path_min":"files/book/cover/58739/cover_120.jpg","author_name":"明月地上霜","image_path":"files/book/cover/58739/cover.jpg","customer_url":"s2-wozhenbushixianerdai"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"路德文集","leading_role":"马丁路德","image_path_min":"/files/book/cover/159/cover_120.jpg","author_name":"马丁路德","image_path":"/files/book/cover/159/cover.jpg","customer_url":"luther-corpus"}]

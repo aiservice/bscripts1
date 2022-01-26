@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"雅比斯的祷告","leading_role":"魏肯生","image_path_min":"/files/book/cover/516/cover_120.jpg","author_name":"魏肯生","image_path":"/files/book/cover/516/cover.jpg","customer_url":"yabisidedaogao"}]

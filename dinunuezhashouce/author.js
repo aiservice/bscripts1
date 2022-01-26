@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"庶女毒妃：王爷请接招","leading_role":"月下高歌","image_path_min":"files/book/cover/42240/cover_120.jpg","author_name":"月下高歌","image_path":"files/book/cover/42240/cover.jpg","customer_url":"shunvdufeiwangyeqingjiezhao"}]

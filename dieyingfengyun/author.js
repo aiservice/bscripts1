@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"民国谍影","leading_role":"寻青藤","image_path_min":"/files/book/cover/31560/cover_120.jpg","author_name":"寻青藤","image_path":"/files/book/cover/31560/cover.jpg","customer_url":"minguodieying"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"吞噬星空之太上问道","leading_role":"落寞随风","image_path_min":"files/book/cover/63164/cover_120.jpg","author_name":"落寞随风","image_path":"files/book/cover/63164/cover.jpg","customer_url":"s2-tunshixingkongzhitaishangwendao"}]

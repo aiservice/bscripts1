@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"世子很凶","leading_role":"关关公子","image_path_min":"files/book/cover/62802/cover_120.jpg","author_name":"关关公子","image_path":"files/book/cover/62802/cover.jpg","customer_url":"s2-shizihenxiong"}]

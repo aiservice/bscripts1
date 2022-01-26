@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督教要义","leading_role":"约翰·加尔文 ","image_path_min":"/files/book/cover/104/cover_120.jpg","author_name":"约翰·加尔文","image_path":"/files/book/cover/104/cover.jpg","customer_url":"christianity"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"认识福音派信仰","leading_role":"英国牧师","image_path_min":"/files/book/cover/4/cover_120.jpg","author_name":"斯托得","image_path":"/files/book/cover/4/cover.jpg","customer_url":"evangelical-faith"}]

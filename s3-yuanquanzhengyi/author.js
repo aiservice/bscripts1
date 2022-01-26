@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"刑法学讲义","leading_role":"罗翔","image_path_min":"files/book/cover/62124/cover_120.jpg","author_name":"罗翔","image_path":"files/book/cover/62124/cover.jpg","customer_url":"s3-xingfaxuejiangyi"}]

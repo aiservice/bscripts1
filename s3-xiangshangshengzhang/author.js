@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"西方博弈往事","leading_role":"九边","image_path_min":"files/book/cover/62224/cover_120.jpg","author_name":"九边","image_path":"files/book/cover/62224/cover.jpg","customer_url":"s3-xifangboyiwangshi"}]

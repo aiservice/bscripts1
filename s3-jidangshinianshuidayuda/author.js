@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"影响商业的50本书","leading_role":"吴晓波","image_path_min":"files/book/cover/62306/cover_120.jpg","author_name":"吴晓波","image_path":"files/book/cover/62306/cover.jpg","customer_url":"s3-yingxiangshangyede50benshu"}]

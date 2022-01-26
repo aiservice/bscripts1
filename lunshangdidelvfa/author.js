@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督徒理所当然的侍奉","leading_role":"布雷克","image_path_min":"/files/book/cover/327/cover_120.jpg","author_name":"布雷克","image_path":"/files/book/cover/327/cover.jpg","customer_url":"serve-of-christians"}]

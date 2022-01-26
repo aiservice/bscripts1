@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督徒的自由","leading_role":"马丁路德","image_path_min":"/files/book/cover/123/cover_120.jpg","author_name":"马丁路德","image_path":"/files/book/cover/123/cover.jpg","customer_url":"the-freedom-of-christian"}]

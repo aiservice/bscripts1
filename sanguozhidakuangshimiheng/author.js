@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"漫威之大怪兽杰顿","leading_role":"羊哭","image_path_min":"/files/book/cover/22897/cover_120.jpg","author_name":"羊哭","image_path":"/files/book/cover/22897/cover.jpg","customer_url":"manweizhidaguaishoujiedun"}]

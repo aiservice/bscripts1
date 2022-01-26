@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"诗眼倦天涯","leading_role":"徐皓峰","image_path_min":"files/book/cover/64851/cover_120.jpg","author_name":"徐皓峰","image_path":"files/book/cover/64851/cover.jpg","customer_url":"s3-shiyanjuantianya"}]

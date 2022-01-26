@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"梁燕城文集","leading_role":"梁燕城博士","image_path_min":"/files/book/cover/554/cover_120.jpg","author_name":"梁燕城","image_path":"/files/book/cover/554/cover.jpg","customer_url":"liangyanchengwenji"}]

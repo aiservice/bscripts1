@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"金匮要略","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"张仲景","image_path":"/styles/index/images/noimage.jpg","customer_url":"jinkuiyaolve"}]

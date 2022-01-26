@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":60972,"chapter_name":"序言"},{"id":60973,"chapter_name":"上卷"},{"id":60974,"chapter_name":"下卷"}],"volume_name":"正文","volume_words":13635}],"customer_url":"chipozichuan","chapterNewList":[{"id":60974,"chapter_name":"下卷"},{"id":60973,"chapter_name":"上卷"},{"id":60972,"chapter_name":"序言"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"超级卡牌系统","leading_role":"黑乎乎的老妖","image_path_min":"files/book/cover/21724/cover_120.jpg","author_name":"黑乎乎的老妖","image_path":"files/book/cover/21724/cover.jpg","customer_url":"chaojikapaixitong"}]

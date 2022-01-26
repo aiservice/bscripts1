@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"般若波罗蜜多心经","leading_role":"佚名","image_path_min":"/files/book/cover/1092/cover_120.jpg","author_name":"玄奘","image_path":"/files/book/cover/1092/cover.jpg","customer_url":"boreboluomiduoxinjing"}]

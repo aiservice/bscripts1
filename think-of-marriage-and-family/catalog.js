@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":6147,"chapter_name":"婚姻与家庭的思考"},{"id":6148,"chapter_name":"结婚或同居：孰好孰坏？"}],"volume_name":"婚姻与家庭的思考","volume_words":13223}],"customer_url":"think-of-marriage-and-family","chapterNewList":[{"id":6148,"chapter_name":"结婚或同居：孰好孰坏？"},{"id":6147,"chapter_name":"婚姻与家庭的思考"}]}

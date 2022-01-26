@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":52988,"chapter_name":"宅经卷上"},{"id":52989,"chapter_name":"宅经卷下"}],"volume_name":"正文","volume_words":6464}],"customer_url":"zhaijing","chapterNewList":[{"id":52989,"chapter_name":"宅经卷下"},{"id":52988,"chapter_name":"宅经卷上"}]}

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":39511,"chapter_name":"作者介绍"},{"id":39512,"chapter_name":"编辑推荐"},{"id":39513,"chapter_name":"目录"}],"volume_name":"引言","volume_words":1748}],"customer_url":"shijianyuanli","chapterNewList":[{"id":39513,"chapter_name":"目录"},{"id":39512,"chapter_name":"编辑推荐"},{"id":39511,"chapter_name":"作者介绍"}]}

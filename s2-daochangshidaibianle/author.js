@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"妖魔哪里走","leading_role":"全金属弹壳","image_path_min":"files/book/cover/63229/cover_120.jpg","author_name":"全金属弹壳","image_path":"files/book/cover/63229/cover.jpg","customer_url":"s2-yaomonalizou"}]

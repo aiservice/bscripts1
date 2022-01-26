@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"契合与转化","leading_role":"庄祖鲲","image_path_min":"/files/book/cover/725/cover_120.jpg","author_name":"庄祖鲲","image_path":"/files/book/cover/725/cover.jpg","customer_url":"qiheyuzhuanhua"}]

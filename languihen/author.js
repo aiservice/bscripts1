@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"玉梨魂","leading_role":"佚名","image_path_min":"/files/book/cover/1254/cover_120.jpg","author_name":"徐枕亚","image_path":"/files/book/cover/1254/cover.jpg","customer_url":"yulihun"}]

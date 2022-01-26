@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":17595,"chapter_name":"少年查尔斯"},{"id":17596,"chapter_name":"印第安少年谌诺奇"}],"volume_name":"正文","volume_words":34036}],"customer_url":"shaonianchaersi","chapterNewList":[{"id":17596,"chapter_name":"印第安少年谌诺奇"},{"id":17595,"chapter_name":"少年查尔斯"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"野猪渡河","leading_role":"张贵兴","image_path_min":"files/book/cover/63685/cover_120.jpg","author_name":"张贵兴","image_path":"files/book/cover/63685/cover.jpg","customer_url":"s3-yezhuduhe"}]

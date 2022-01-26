@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"山茶文具店","leading_role":"[日] 小川糸","image_path_min":"files/book/cover/64124/cover_120.jpg","author_name":"小川糸","image_path":"files/book/cover/64124/cover.jpg","customer_url":"s3-shanchawenjudian"}]

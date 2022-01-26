@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"江城","leading_role":"[美] 彼得·海斯勒","image_path_min":"files/book/cover/63935/cover_120.jpg","author_name":"彼得·海斯勒","image_path":"files/book/cover/63935/cover.jpg","customer_url":"s3-jiangcheng"}]

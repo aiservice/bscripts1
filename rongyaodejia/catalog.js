@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":39625,"chapter_name":"《荣耀的家》简介"},{"id":39626,"chapter_name":"《荣耀的家》目录"},{"id":39627,"chapter_name":"《荣耀的家》序言"}],"volume_name":"正文","volume_words":3146}],"customer_url":"rongyaodejia","chapterNewList":[{"id":39627,"chapter_name":"《荣耀的家》序言"},{"id":39626,"chapter_name":"《荣耀的家》目录"},{"id":39625,"chapter_name":"《荣耀的家》简介"}]}

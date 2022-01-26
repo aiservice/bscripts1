@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"易中天中华史：大航海时代","leading_role":"易中天","image_path_min":"files/book/cover/65162/cover_120.jpg","author_name":"易中天","image_path":"files/book/cover/65162/cover.jpg","customer_url":"s3-yizhongtianzhonghuashi23"}]

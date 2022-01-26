@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"不要和你妈争辩","leading_role":" [瑞] 弗雷德里克·巴克曼","author_name":"弗雷德里克·巴克曼","image_path":"files/book/cover/64077/cover.jpg","customer_url":"s3-buyaohenimazhengbian"}]

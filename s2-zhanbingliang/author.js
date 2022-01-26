@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"超凡大卫","leading_role":"吃瓜子群众","image_path_min":"files/book/cover/64024/cover_120.jpg","author_name":"吃瓜子群众","image_path":"files/book/cover/64024/cover.jpg","customer_url":"s2-chaofandawei"}]

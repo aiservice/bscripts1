@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"关键时机","leading_role":"罗伯兹·李亚敦","image_path_min":"/files/book/cover/48533/cover_120.jpg","author_name":"罗伯兹·李亚敦","image_path":"/files/book/cover/48533/cover.jpg","customer_url":"guanjianshiji"}]

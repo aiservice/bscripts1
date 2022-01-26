@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从斗罗开始打卡","leading_role":"夏竖琴","image_path_min":"files/book/cover/63015/cover_120.jpg","author_name":"夏竖琴","image_path":"files/book/cover/63015/cover.jpg","customer_url":"s2-congdouluokaishidaka"}]

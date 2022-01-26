@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"幻中游","leading_role":"佚名","image_path_min":"/files/book/cover/1498/cover_120.jpg","author_name":"烟霞主人","image_path":"/files/book/cover/1498/cover.jpg","customer_url":"huanzhongyou"}]

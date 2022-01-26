@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"守望果园","leading_role":" [美] 科马克·麦卡锡","image_path_min":"files/book/cover/65487/cover_120.jpg","author_name":"科马克·麦卡锡","image_path":"files/book/cover/65487/cover.jpg","customer_url":"s3-shouwangguoyuan"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"祈念守护人","leading_role":" [日] 东野圭吾","image_path_min":"files/book/cover/62221/cover_120.jpg","author_name":"[日] 东野圭吾","image_path":"files/book/cover/62221/cover.jpg","customer_url":"s3-qinianshouhuren"}]

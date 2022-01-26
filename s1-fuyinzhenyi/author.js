@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"为何相信圣经","leading_role":"纪格睿","image_path_min":"files/book/cover/64869/cover_120.jpg","author_name":"纪格睿","image_path":"files/book/cover/64869/cover.jpg","customer_url":"s1-weihexiangxinshengjing"}]

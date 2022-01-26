@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"还我伊甸芳容：神圣的性","leading_role":"（美）迈克尔·珀尔(Michael Pearl)","image_path_min":"/files/book/cover/440/cover_120.jpg","author_name":"迈克尔·珀尔","image_path":"/files/book/cover/440/cover.jpg","customer_url":"haiwoyidianfangrong"}]

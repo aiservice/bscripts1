@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"伤寒论","leading_role":"佚名","image_path_min":"/files/book/cover/1160/cover_120.jpg","author_name":"张仲景","image_path":"/files/book/cover/1160/cover.jpg","customer_url":"shanghanlun"}]

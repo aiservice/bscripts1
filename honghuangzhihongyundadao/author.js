@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"洪荒之罗睺问道","leading_role":"无量小光","image_path_min":"/files/book/cover/39988/cover_120.jpg","author_name":"无量小光","image_path":"/files/book/cover/39988/cover.jpg","customer_url":"honghuangzhiluohouwendao"}]

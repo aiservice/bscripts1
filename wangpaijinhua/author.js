@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"最终进化","leading_role":"卷土","image_path_min":"/files/book/cover/31905/cover_120.jpg","author_name":"卷土","image_path":"/files/book/cover/31905/cover.jpg","customer_url":"zuizhongjinhua"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"启示·荣耀","leading_role":"路得·沃德·赫芙琳","image_path_min":"/files/book/cover/38586/cover_120.jpg","author_name":"路得·沃德·赫芙琳","image_path":"/files/book/cover/38586/cover.jpg","customer_url":"qishirongyao"}]

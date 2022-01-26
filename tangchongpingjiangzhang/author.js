@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"基督教信仰实义","leading_role":"唐崇平","image_path_min":"/files/book/cover/396/cover_120.jpg","author_name":"唐崇平","image_path":"/files/book/cover/396/cover.jpg","customer_url":"jidujiaoxinyangshiyi"}]

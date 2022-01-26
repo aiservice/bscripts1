@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"钱从哪里来","leading_role":"香帅","image_path_min":"files/book/cover/65678/cover_120.jpg","author_name":"香帅","image_path":"files/book/cover/65678/cover.jpg","customer_url":"s3-qiancongnalilai"}]

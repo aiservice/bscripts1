@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"大道争锋","leading_role":"误道者","image_path_min":"files/book/cover/21201/cover_120.jpg","author_name":"误道者","image_path":"files/book/cover/21201/cover.jpg","customer_url":"dadaozhengfeng"}]

@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":38727,"chapter_name":"尋找真正的北方"},{"id":38728,"chapter_name":"出門在外，缺它不可"}],"volume_name":"正文","volume_words":17146}],"customer_url":"chuanyuerenshengdefengbao","chapterNewList":[{"id":38728,"chapter_name":"出門在外，缺它不可"},{"id":38727,"chapter_name":"尋找真正的北方"}]}

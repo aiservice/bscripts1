@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":60970,"chapter_name":"游仙窟"},{"id":60971,"chapter_name":"游仙窟译文"}],"volume_name":"正文","volume_words":19056}],"customer_url":"youxianku","chapterNewList":[{"id":60971,"chapter_name":"游仙窟译文"},{"id":60970,"chapter_name":"游仙窟"}]}

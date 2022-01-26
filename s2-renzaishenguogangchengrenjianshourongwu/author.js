@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"我在魔法世界开创互联网时代","leading_role":"白天太白","image_path_min":"files/book/cover/63660/cover_120.jpg","author_name":"白天太白","image_path":"files/book/cover/63660/cover.jpg","customer_url":"s2-wozaimofashijiekaichuanghulianwangshidai"}]

@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"血与火：坦格利安王朝史","leading_role":"[美] 乔治·R·R·马丁","image_path_min":"files/book/cover/64081/cover_120.jpg","author_name":"乔治·R·R·马丁","image_path":"files/book/cover/64081/cover.jpg","customer_url":"s3-xueyuhuotangelianwangchaoshi"}]

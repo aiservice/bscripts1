@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"王牌进化","leading_role":"卷土","image_path_min":"files/book/cover/31902/cover_120.jpg","author_name":"卷土","image_path":"files/book/cover/31902/cover.jpg","customer_url":"wangpaijinhua"}]

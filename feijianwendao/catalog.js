@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":3969932,"chapter_name":"第一章 死亡游戏"}],"volume_name":"正文","volume_words":0}],"customer_url":"feijianwendao","chapterNewList":[{"id":3969932,"chapter_name":"第一章 死亡游戏"}]}

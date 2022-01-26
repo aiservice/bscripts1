@@ -1,0 +1,1 @@
+var chapterList={"bookVolumeList":[{"bookChapterList":[{"id":22453,"chapter_name":"敬拜 (一)"},{"id":22454,"chapter_name":"敬拜 (二)"},{"id":22455,"chapter_name":"敬拜 (三)"}],"volume_name":"正文","volume_words":42645}],"customer_url":"jingbai","chapterNewList":[{"id":22455,"chapter_name":"敬拜 (三)"},{"id":22454,"chapter_name":"敬拜 (二)"},{"id":22453,"chapter_name":"敬拜 (一)"}]}

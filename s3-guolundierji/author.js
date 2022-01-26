@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"郭论：第一季（共3册）","leading_role":"郭德纲","image_path_min":"files/book/cover/64844/cover_120.jpg","author_name":"郭德纲","image_path":"files/book/cover/64844/cover.jpg","customer_url":"s3-guolundiyiji"}]

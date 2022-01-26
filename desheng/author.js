@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"当你不愿饶恕时","leading_role":"琼·亨特","image_path_min":"/files/book/cover/773/cover_120.jpg","author_name":"琼·亨特","image_path":"/files/book/cover/773/cover.jpg","customer_url":"dangnibuyuanraoshushi"}]

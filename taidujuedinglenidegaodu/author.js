@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"因为单纯，所以杰出","leading_role":"施以诺","image_path_min":"/files/book/cover/263/cover_120.jpg","author_name":"施以诺","image_path":"/files/book/cover/263/cover.jpg","customer_url":"simple-outstanding"}]

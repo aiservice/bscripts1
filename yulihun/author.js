@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"兰闺恨","leading_role":"佚名","image_path_min":"/files/book/cover/1263/cover_120.jpg","author_name":"徐枕亚","image_path":"/files/book/cover/1263/cover.jpg","customer_url":"languihen"}]

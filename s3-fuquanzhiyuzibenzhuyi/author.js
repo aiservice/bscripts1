@@ -1,0 +1,1 @@
+var authorList=[{"book_name":"从零开始的女性主义","leading_role":" [日] 上野千鹤子 ","author_name":"上野千鹤子","image_path":"files/book/cover/65753/cover.jpg","customer_url":"s3-conglingkaishidenvxingzhuyi"}]
