@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蒋方舟","customer_url":"s3-heweiyizhidaoxingxingweishenmehuifaguangderenyiqisanbu","image_path":"/files/book/cover/62324/cover.jpg","leading_role":"蒋方舟","id":62324,"book_name":"和唯一知道星星为什么会发光的人一起散步"}]

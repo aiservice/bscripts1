@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈忱","customer_url":"shuihuhouchuan","image_path":"/files/book/cover/1282/cover.jpg","leading_role":"佚名","id":1282,"book_name":"水浒后传"}]

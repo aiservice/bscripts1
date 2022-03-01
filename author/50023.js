@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"富察敦崇","customer_url":"yanjingsuishiji","image_path":"/files/book/cover/1524/cover.jpg","leading_role":"佚名","id":1524,"book_name":"燕京岁时记"}]

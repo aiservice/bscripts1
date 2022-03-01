@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林桂枝","customer_url":"s3-miaozan","image_path":"/files/book/cover/63939/cover.jpg","leading_role":"林桂枝","id":63939,"book_name":"秒赞"}]

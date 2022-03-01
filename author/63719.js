@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王清欢","customer_url":"s3-wodexiaoyangtaisijiyouhua","image_path":"/files/book/cover/63658/cover.jpg","leading_role":"王清欢","id":63658,"book_name":"我的小阳台四季有花"}]

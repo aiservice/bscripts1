@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"傅雷","customer_url":"s3-fuleijiashu","image_path":"/files/book/cover/62303/cover.jpg","leading_role":"傅雷","id":62303,"book_name":"傅雷家书"}]

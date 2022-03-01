@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黛比·普瑞德","customer_url":"beizhangfunvedaigaizenmezuo","image_path":"/files/book/cover/38464/cover.jpg","leading_role":"黛比·普瑞德","id":38464,"book_name":"被丈夫虐待该怎么做？"}]

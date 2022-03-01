@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈海贤","customer_url":"s3-lebuqidewoziwofazhandexinlixue","image_path":"/files/book/cover/62175/cover.jpg","leading_role":"陈海贤","id":62175,"book_name":"了不起的我：自我发展的心理学"}]

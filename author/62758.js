@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"严飞","customer_url":"s3-chuantou","image_path":"/files/book/cover/62186/cover.jpg","leading_role":"严飞","id":62186,"book_name":"穿透：像社会学家一样思考"}]

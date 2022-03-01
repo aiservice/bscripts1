@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[澳] 迈克尔·罗伯森","customer_url":"s3-xianyiren","image_path":"/files/book/cover/62232/cover.jpg","leading_role":" [澳] 迈克尔·罗伯森","id":62232,"book_name":"嫌疑人"}]

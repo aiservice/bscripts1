@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨立昆","customer_url":"s3-kexuezhilu","image_path":"/files/book/cover/65104/cover.jpg","leading_role":"[法] 杨立昆","id":65104,"book_name":"科学之路"}]

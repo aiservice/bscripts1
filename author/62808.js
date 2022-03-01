@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]立石贤吾","customer_url":"s3-baihuajiqixuexideshuxue","image_path":"/files/book/cover/62239/cover.jpg","leading_role":"[日]立石贤吾","id":62239,"book_name":"白话机器学习的数学"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"K.J.帕克","customer_url":"s3-gangzhise","image_path":"/files/book/cover/65876/cover.jpg","leading_role":" [英] K.J.帕克","id":65876,"book_name":"钢之色"},{"author_name":"K.J.帕克","customer_url":"s3-ziyuhei","image_path":"/files/book/cover/65875/cover.jpg","leading_role":"[英] K.J.帕克","id":65875,"book_name":"紫与黑"}]

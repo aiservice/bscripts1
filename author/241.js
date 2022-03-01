@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谢炳国","customer_url":"yunifenxiang","image_path":"/files/book/cover/330/cover.jpg","leading_role":"谢炳国","id":330,"book_name":"与你分享"}]

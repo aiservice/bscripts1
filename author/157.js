@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许鼎新","customer_url":"the-hebrew-nation-history","image_path":"/files/book/cover/174/cover.jpg","leading_role":"许鼎新","id":174,"book_name":"希伯来民族简史"}]

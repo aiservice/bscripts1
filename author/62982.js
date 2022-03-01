@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴明益","customer_url":"s3-tianqiaoshangdemoshushi","image_path":"/files/book/cover/62432/cover.jpg","leading_role":"吴明益","id":62432,"book_name":"天桥上的魔术师"}]

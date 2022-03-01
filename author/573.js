@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"科特‧狄汉","customer_url":"wogaihesheijiehunni","image_path":"/files/book/cover/968/cover.jpg","leading_role":"科特‧狄汉","id":968,"book_name":"我该和谁结婚呢"}]

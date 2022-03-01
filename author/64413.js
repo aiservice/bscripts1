@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弗雷德里克•方热","customer_url":"s3-yizhishoushangdezixin","image_path":"/files/book/cover/64635/cover.jpg","leading_role":"[法]弗雷德里克•方热","id":64635,"book_name":"医治受伤的自信"}]

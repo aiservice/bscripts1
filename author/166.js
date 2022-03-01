@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"摩根","customer_url":"jeremiah-research","image_path":"/files/book/cover/188/cover.jpg","leading_role":"摩根","id":188,"book_name":"耶利米书研经"},{"author_name":"摩根","customer_url":"isaiah-research","image_path":"/files/book/cover/187/cover.jpg","leading_role":"摩根","id":187,"book_name":"以赛亚书研经"}]

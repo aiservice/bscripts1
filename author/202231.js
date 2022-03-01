@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥斯卡·王尔德","customer_url":"s3-daolingeleidehuaxiang","image_path":"/files/book/cover/65919/cover.jpg","leading_role":"[英]奥斯卡·王尔德","id":65919,"book_name":"道林·格雷的画像"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迪帕克·瑞吉","customer_url":"s1-muzhedefudaoshigong","image_path":"/files/book/cover/64821/cover.jpg","leading_role":"迪帕克·瑞吉","id":64821,"book_name":"牧者的辅导事工"}]

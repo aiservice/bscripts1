@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧良有、杨臣铮","customer_url":"longwenbianying","image_path":"/files/book/cover/1355/cover.jpg","leading_role":"佚名","id":1355,"book_name":"龙文鞭影"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"德劳因·伯奇","customer_url":"s3-yaowujianshi","image_path":"/files/book/cover/65786/cover.jpg","leading_role":"[英]德劳因·伯奇","id":65786,"book_name":"药物简史"}]

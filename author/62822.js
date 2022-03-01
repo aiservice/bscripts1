@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李柘远","customer_url":"s3-xuexigaoshou","image_path":"/files/book/cover/62253/cover.jpg","leading_role":"李柘远","id":62253,"book_name":"学习高手"}]

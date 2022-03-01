@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲁迅","customer_url":"s3-yecao","image_path":"/files/book/cover/63944/cover.jpg","leading_role":"鲁迅","id":63944,"book_name":"野草"}]

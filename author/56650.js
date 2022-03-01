@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐七公子","customer_url":"sanshengsanshizhenshangshu","image_path":"/files/book/cover/48158/cover.jpg","leading_role":"唐七公子","id":48158,"book_name":"三生三世枕上书"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"薛渔思","customer_url":"hedongji","image_path":"/files/book/cover/1085/cover.jpg","leading_role":"佚名","id":1085,"book_name":"河东记"}]

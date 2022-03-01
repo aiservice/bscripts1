@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李志常","customer_url":"changchunzhenrenxiyouji","image_path":"/files/book/cover/1534/cover.jpg","leading_role":"佚名","id":1534,"book_name":"长春真人西游记"}]

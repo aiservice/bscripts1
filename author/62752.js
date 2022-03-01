@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"二混子","customer_url":"s3-banxiaoshimanhuazhongguoshi","image_path":"/files/book/cover/62178/cover.jpg","leading_role":"二混子","id":62178,"book_name":"半小时漫画中国史（修订版）"}]

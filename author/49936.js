@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林佩琴(清)","customer_url":"leizhengzhicai","image_path":"/files/book/cover/1339/cover.jpg","leading_role":"佚名","id":1339,"book_name":"类证治裁"}]

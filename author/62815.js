@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 保立道久","customer_url":"s3-pinganshidai","image_path":"/files/book/cover/62246/cover.jpg","leading_role":"[日] 保立道久","id":62246,"book_name":"平安时代（岩波日本史 第三卷）"}]

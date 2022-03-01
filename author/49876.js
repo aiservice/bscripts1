@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海上剑痴","customer_url":"xianxiawuhuajian","image_path":"/files/book/cover/1238/cover.jpg","leading_role":"佚名","id":1238,"book_name":"仙侠五花剑"}]

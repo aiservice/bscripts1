@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王定保","customer_url":"tangzhiyan","image_path":"/files/book/cover/1547/cover.jpg","leading_role":"佚名","id":1547,"book_name":"唐摭言"}]

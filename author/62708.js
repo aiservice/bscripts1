@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"呼延云","customer_url":"s3-saoshuling","image_path":"/files/book/cover/62120/cover.jpg","leading_role":"呼延云","id":62120,"book_name":"扫鼠岭"}]

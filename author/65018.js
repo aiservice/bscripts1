@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特·W.钱伯斯","customer_url":"s3-huangyizhiwang","image_path":"/files/book/cover/65486/cover.jpg","leading_role":"[美]罗伯特·W.钱伯斯","id":65486,"book_name":"黄衣之王"}]

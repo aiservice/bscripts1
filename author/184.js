@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周美德","customer_url":"huangrandawu","image_path":"/files/book/cover/214/cover.jpg","leading_role":"周美德","id":214,"book_name":"恍然大悟"}]

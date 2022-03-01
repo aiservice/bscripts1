@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李筌","customer_url":"taibaiyinjing","image_path":"/files/book/cover/1077/cover.jpg","leading_role":"佚名","id":1077,"book_name":"太白阴经"}]

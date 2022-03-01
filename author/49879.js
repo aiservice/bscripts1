@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蓝鼎元","customer_url":"langongan","image_path":"/files/book/cover/1247/cover.jpg","leading_role":"佚名","id":1247,"book_name":"蓝公案"}]

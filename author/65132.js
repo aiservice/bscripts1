@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奇玛曼达·恩戈兹·阿迪契","customer_url":"s3-qinaideanjiweila","image_path":"/files/book/cover/65641/cover.jpg","leading_role":"[尼]奇玛曼达·恩戈兹·阿迪契","id":65641,"book_name":"亲爱的安吉维拉"}]

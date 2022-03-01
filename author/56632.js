@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[德]赫尔曼·黑塞","customer_url":"huangyuanlang","image_path":"/files/book/cover/48138/cover.jpg","leading_role":"[德]赫尔曼·黑塞","id":48138,"book_name":"荒原狼"},{"author_name":"[德]赫尔曼·黑塞","customer_url":"s3-zailunxia","image_path":"/files/book/cover/62068/cover.jpg","leading_role":"[德]赫尔曼·黑塞","id":62068,"book_name":"在轮下"}]

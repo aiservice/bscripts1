@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布鲁克•诺埃尔•摩尔","customer_url":"s3-pipanxingsiwei","image_path":"/files/book/cover/62440/cover.jpg","leading_role":"布鲁克•诺埃尔•摩尔","id":62440,"book_name":"批判性思维"}]

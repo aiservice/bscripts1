@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柯南·道尔","customer_url":"s3-fuermositananji","image_path":"/files/book/cover/62216/cover.jpg","leading_role":"柯南·道尔 (作者), 隗静秋 (译者) ","id":62216,"book_name":"福尔摩斯探案集(全8册)"}]

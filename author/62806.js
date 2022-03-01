@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈春成","customer_url":"s3-yewandeqianshuiting","image_path":"/files/book/cover/62237/cover.jpg","leading_role":"陈春成","id":62237,"book_name":"夜晚的潜水艇"}]

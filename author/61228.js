@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]弗朗西斯卡·海格","customer_url":"s3-liehuodezhaohuan","image_path":"/files/book/cover/59922/cover.jpg","leading_role":"[美]弗朗西斯卡·海格","id":59922,"book_name":"烈火的召唤"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王德培","customer_url":"s3-zhongguojingji2020","image_path":"/files/book/cover/65682/cover.jpg","leading_role":"王德培","id":65682,"book_name":"中国经济2020"}]

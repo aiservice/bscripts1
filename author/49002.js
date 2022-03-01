@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周必克","customer_url":"yusadanzhengzhan","image_path":"/files/book/cover/36295/cover.jpg","leading_role":"周必克","id":36295,"book_name":"与撒但争战"}]

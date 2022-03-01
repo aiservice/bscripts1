@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"毕哲思","customer_url":"the-practice-of-reverence","image_path":"/files/book/cover/407/cover.jpg","leading_role":"毕哲思","id":407,"book_name":"敬虔的操练"}]

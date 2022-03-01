@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"世界宣教协助计划","customer_url":"s1-murenzhizhang","image_path":"/files/book/cover/64656/cover.jpg","leading_role":"世界宣教协助计划","id":64656,"book_name":"牧人之杖"}]

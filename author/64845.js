@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔依斯·迈尔","customer_url":"s1-xinsidezhanchang","image_path":"/files/book/cover/65229/cover.jpg","leading_role":"乔依斯·迈尔","id":65229,"book_name":"心思的战场"}]

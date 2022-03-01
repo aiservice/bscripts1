@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"殷思重","customer_url":"shulinglingxiudesuzao","image_path":"/files/book/cover/225/cover.jpg","leading_role":"殷思重","id":225,"book_name":"属灵领袖的塑造"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三岛由纪夫","customer_url":"s3-jingesi","image_path":"/files/book/cover/64344/cover.jpg","leading_role":"[日] 三岛由纪夫","id":64344,"book_name":"金阁寺"},{"author_name":"三岛由纪夫","customer_url":"s3-wuhouyehang","image_path":"/files/book/cover/64502/cover.jpg","leading_role":" [日] 三岛由纪夫","id":64502,"book_name":"午后曳航"}]

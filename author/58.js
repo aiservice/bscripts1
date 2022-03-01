@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林语堂","customer_url":"faith-journey","image_path":"/files/book/cover/28/cover.jpg","leading_role":"林语堂","id":28,"book_name":"信仰之旅"},{"author_name":"林语堂","customer_url":"renshengdeshengyan","image_path":"/files/book/cover/427/cover.jpg","leading_role":"林语堂","id":427,"book_name":"人生的盛宴"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林政杰","customer_url":"xinshijixuanjiao","image_path":"/files/book/cover/233/cover.jpg","leading_role":"林政杰","id":233,"book_name":"新世纪宣教"}]

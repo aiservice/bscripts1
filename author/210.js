@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"傅士德","customer_url":"shulingcaolianlizan","image_path":"/files/book/cover/279/cover.jpg","leading_role":"傅士德","id":279,"book_name":"属灵操练礼赞"},{"author_name":"傅士德","customer_url":"jianposhenghuozhendi","image_path":"/files/book/cover/991/cover.jpg","leading_role":"傅士德 ","id":991,"book_name":"简朴生活真谛"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"（美）迈克•A. 辛格","customer_url":"s3-chenfushiyan","image_path":"/files/book/cover/62095/cover.jpg","leading_role":"（美）迈克•A. 辛格","id":62095,"book_name":"臣服实验"}]

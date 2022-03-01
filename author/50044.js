@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑处诲","customer_url":"minghuangzalu","image_path":"/files/book/cover/1550/cover.jpg","leading_role":"佚名","id":1550,"book_name":"明皇杂录"}]

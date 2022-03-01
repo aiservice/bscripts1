@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李鸿志","customer_url":"nanrenzuikeaidemingzi","image_path":"/files/book/cover/905/cover.jpg","leading_role":"李鸿志","id":905,"book_name":"父亲，男人最可爱的名字"},{"author_name":"李鸿志","customer_url":"guanxinnidexiayidai","image_path":"/files/book/cover/582/cover.jpg","leading_role":"李鸿志","id":582,"book_name":"关心你的下一代"}]

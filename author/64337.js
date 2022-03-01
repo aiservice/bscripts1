@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐怀中","customer_url":"s3-qianfengji","image_path":"/files/book/cover/64526/cover.jpg","leading_role":"徐怀中","id":64526,"book_name":"牵风记"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王治心","customer_url":"china-fujian-christianity","image_path":"/files/book/cover/178/cover.jpg","leading_role":"王治心","id":178,"book_name":"中国基督教史纲"}]

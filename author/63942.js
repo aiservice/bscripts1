@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林西莉","customer_url":"s3-guqin","image_path":"/files/book/cover/63967/cover.jpg","leading_role":"[瑞典]林西莉","id":63967,"book_name":"古琴"}]

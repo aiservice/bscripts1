@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿利斯泰·贝格","customer_url":"s1-wanmingzhishangdeming","image_path":"/files/book/cover/64870/cover.jpg","leading_role":"阿利斯泰·贝格","id":64870,"book_name":"万名之上的名"}]

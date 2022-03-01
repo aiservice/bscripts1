@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡召华","customer_url":"hushanji","image_path":"/files/book/cover/1397/cover.jpg","leading_role":"佚名","id":1397,"book_name":"笏山记"}]

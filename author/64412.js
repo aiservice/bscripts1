@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲利普·K·迪克","customer_url":"s3-dengdaiqunianlailin","image_path":"/files/book/cover/64634/cover.jpg","leading_role":"[美] 菲利普·K·迪克","id":64634,"book_name":"等待去年来临"}]

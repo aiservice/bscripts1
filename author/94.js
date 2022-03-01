@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伯克富","customer_url":"jidujiaoshenxuegailun","image_path":"/files/book/cover/886/cover.jpg","leading_role":"伯克富","id":886,"book_name":"基督教神学概论"},{"author_name":"伯克富","customer_url":"history-of-christian-doctrine","image_path":"/files/book/cover/78/cover.jpg","leading_role":"伯克富","id":78,"book_name":"基督教教义史"}]

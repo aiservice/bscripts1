@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史考特·楊","customer_url":"s3-chaosuxuexi","image_path":"/files/book/cover/63862/cover.jpg","leading_role":"史考特·楊","id":63862,"book_name":"超速学习"}]

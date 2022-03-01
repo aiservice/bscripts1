@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玉山草亭老人","customer_url":"yumuxingxinbian","image_path":"/files/book/cover/1424/cover.jpg","leading_role":"佚名","id":1424,"book_name":"娱目醒心编"}]

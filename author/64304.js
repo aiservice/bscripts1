@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"静逸投资","customer_url":"s3-touzizhijian","image_path":"/files/book/cover/64479/cover.jpg","leading_role":"静逸投资","id":64479,"book_name":"投资至简"}]

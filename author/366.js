@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈增钦","customer_url":"ruhezuohaofuqi","image_path":"/files/book/cover/574/cover.jpg","leading_role":"陈增钦、陈灵嘉","id":574,"book_name":"如何做好夫妻"}]

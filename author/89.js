@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰．班扬","customer_url":"the-pilgrim-progress","image_path":"/files/book/cover/69/cover.jpg","leading_role":"约翰．班扬","id":69,"book_name":"天路历程"},{"author_name":"约翰．班扬","customer_url":"linghunchengshengzhan","image_path":"/files/book/cover/940/cover.jpg","leading_role":"约翰．班扬","id":940,"book_name":"灵魂城圣战"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"焦源濂","customer_url":"jidushengping","image_path":"/files/book/cover/475/cover.jpg","leading_role":"（美）焦源濂","id":475,"book_name":"基督生平"}]

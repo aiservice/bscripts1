@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戈登·菲","customer_url":"how-to-read-the-bible","image_path":"/files/book/cover/806/cover.jpg","leading_role":"戈登·菲、道格拉斯·斯图尔特","id":806,"book_name":"圣经导读：解经原则"}]

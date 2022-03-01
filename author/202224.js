@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莎拉·贝克韦尔","customer_url":"s3-cunzaizhuyikafeiguan","image_path":"/files/book/cover/65909/cover.jpg","leading_role":"[英] 莎拉·贝克韦尔","id":65909,"book_name":"存在主义咖啡馆"}]

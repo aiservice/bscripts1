@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金子","customer_url":"menghuidaqing","image_path":"/files/book/cover/48148/cover.jpg","leading_role":"金子","id":48148,"book_name":"梦回大清"}]

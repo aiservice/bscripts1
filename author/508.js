@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三位执笔同工","customer_url":"shengtudezhuiqiu","image_path":"/files/book/cover/861/cover.jpg","leading_role":"三位执笔同工","id":861,"book_name":"圣徒的追求"}]

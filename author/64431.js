@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"宝树","customer_url":"s3-santix","image_path":"/files/book/cover/65500/cover.jpg","leading_role":"宝树","id":65500,"book_name":"三体X"},{"author_name":"宝树","customer_url":"s3-gulaodediqiuzhige","image_path":"/files/book/cover/64658/cover.jpg","leading_role":"宝树","id":64658,"book_name":"古老的地球之歌"}]

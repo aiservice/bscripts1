@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"元好问","customer_url":"xuyijianzhi","image_path":"/files/book/cover/1527/cover.jpg","leading_role":"佚名","id":1527,"book_name":"续夷坚志"}]

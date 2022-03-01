@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"欧文·亚隆","customer_url":"s3-zhenliaoyishangdehuangyan","image_path":"/files/book/cover/64827/cover.jpg","leading_role":"[美] 欧文·亚隆Irvin D·Yalom","id":64827,"book_name":"诊疗椅上的谎言"}]

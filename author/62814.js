@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]吉田孝","customer_url":"s3-feiniaonailiangshidai","image_path":"/files/book/cover/62245/cover.jpg","leading_role":" [日]吉田孝","id":62245,"book_name":"飞鸟·奈良时代（岩波日本史 第二卷）"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"东来","customer_url":"s3-qijizhinian","image_path":"/files/book/cover/64632/cover.jpg","leading_role":"东来","id":64632,"book_name":"奇迹之年"}]

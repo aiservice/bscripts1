@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许倬云","customer_url":"s3-xuzhuoyunshuomeiguo","image_path":"/files/book/cover/62204/cover.jpg","leading_role":"许倬云","id":62204,"book_name":"许倬云说美国"}]

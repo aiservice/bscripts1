@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"圣水艾衲居士","customer_url":"doupengxianhua","image_path":"/files/book/cover/1519/cover.jpg","leading_role":"佚名","id":1519,"book_name":"豆棚闲话"}]

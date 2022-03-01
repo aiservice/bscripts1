@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦卡斯蓝","customer_url":"zhibenjinpai","image_path":"/files/book/cover/989/cover.jpg","leading_role":"麦卡斯蓝","id":989,"book_name":"直奔金牌"}]

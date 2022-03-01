@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·耶茨","customer_url":"s3-gemingzhilu","image_path":"/files/book/cover/64846/cover.jpg","leading_role":"[美] 理查德·耶茨","id":64846,"book_name":"革命之路"}]

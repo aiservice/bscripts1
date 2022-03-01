@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曼瑟尔·奥尔森","customer_url":"s3-jitixingdongdeluoji","image_path":"/files/book/cover/64277/cover.jpg","leading_role":"[美] 曼瑟尔·奥尔森","id":64277,"book_name":"集体行动的逻辑"}]

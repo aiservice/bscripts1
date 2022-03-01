@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"好古主人","customer_url":"zhaotaizusanxianantang","image_path":"/files/book/cover/1492/cover.jpg","leading_role":"佚名","id":1492,"book_name":"赵太祖三下南唐"}]

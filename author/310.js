@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王武聪","customer_url":"renzuguizongjingbaizhenshen","image_path":"/files/book/cover/467/cover.jpg","leading_role":"王武聪牧师","id":467,"book_name":"认祖归宗 -- 敬拜真神"}]

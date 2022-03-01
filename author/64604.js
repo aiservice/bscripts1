@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史蒂夫·尼森","customer_url":"s3-ribenlazhutujishu","image_path":"/files/book/cover/64880/cover.jpg","leading_role":"[美] 史蒂夫·尼森","id":64880,"book_name":"日本蜡烛图技术"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"法山叔","customer_url":"s3-jinjidelvshiyouanxiansuo","image_path":"/files/book/cover/62486/cover.jpg","leading_role":"法山叔","id":62486,"book_name":"进击的律师：幽暗线索"},{"author_name":"法山叔","customer_url":"s3-jinjidelvshishuangzixingshengqi","image_path":"/files/book/cover/62487/cover.jpg","leading_role":" 法山叔","id":62487,"book_name":"进击的律师：双子星升起"}]

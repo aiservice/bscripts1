@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭勤贵","customer_url":"s3-weiji15202021","image_path":"/files/book/cover/65377/cover.jpg","leading_role":"郭勤贵","id":65377,"book_name":"危机 : 1520–2021"}]

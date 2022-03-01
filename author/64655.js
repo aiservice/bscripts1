@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叶真中显","customer_url":"s3-blue","image_path":"/files/book/cover/64965/cover.jpg","leading_role":"[日] 叶真中显","id":64965,"book_name":"Blue"}]

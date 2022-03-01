@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥格·曼狄诺","customer_url":"the-greatest-salesman-in-the-world","image_path":"/files/book/cover/95/cover.jpg","leading_role":"奥格·曼狄诺","id":95,"book_name":"世界上最伟大的推销员"}]

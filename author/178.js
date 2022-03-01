@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何怀宏","customer_url":"daodeshangdiyuren","image_path":"/files/book/cover/726/cover.jpg","leading_role":"何怀宏","id":726,"book_name":"道德·上帝与人"},{"author_name":"何怀宏","customer_url":"moral-god-and-man","image_path":"/files/book/cover/207/cover.jpg","leading_role":"何怀宏","id":207,"book_name":"道德·上帝与人"}]

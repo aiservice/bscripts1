@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"温建民","customer_url":"s3-chenzhenianqingyangjizhu","image_path":"/files/book/cover/65515/cover.jpg","leading_role":"温建民 / 叶建新","id":65515,"book_name":"趁着年轻养脊柱"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周国元","customer_url":"s3-maikenxijiegouhuazhanlvesiwei","image_path":"/files/book/cover/64590/cover.jpg","leading_role":"周国元","id":64590,"book_name":"麦肯锡结构化战略思维"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张大春","customer_url":"s3-nanguozhidong","image_path":"/files/book/cover/62468/cover.jpg","leading_role":"张大春","id":62468,"book_name":"南国之冬"}]

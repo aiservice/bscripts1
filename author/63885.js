@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"塔娜·法兰奇","customer_url":"s3-kanbujiandekeren","image_path":"/files/book/cover/63891/cover.jpg","leading_role":"塔娜·法兰奇","id":63891,"book_name":"看不见的客人"}]

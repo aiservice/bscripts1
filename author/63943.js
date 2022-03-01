@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾萨克·阿西莫夫","customer_url":"s3-yonghengdezhongjie","image_path":"/files/book/cover/63969/cover.jpg","leading_role":"[美] 艾萨克·阿西莫夫 ","id":63969,"book_name":"永恒的终结"}]

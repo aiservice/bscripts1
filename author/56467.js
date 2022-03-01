@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰克·福斯特","customer_url":"jinglitianfudeyongbao","image_path":"/files/book/cover/47942/cover.jpg","leading_role":"杰克·福斯特","id":47942,"book_name":"经历天父的拥抱"}]

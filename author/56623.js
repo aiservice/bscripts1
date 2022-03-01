@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴承恩","customer_url":"s3-xiyouji","image_path":"/files/book/cover/51132/cover.jpg","leading_role":"吴承恩","id":51132,"book_name":"西游记"}]

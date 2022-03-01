@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]戈登·奥尔波特","customer_url":"s3-pianjiandebenzhi","image_path":"/files/book/cover/62254/cover.jpg","leading_role":" [美]戈登·奥尔波特","id":62254,"book_name":"偏见的本质"}]

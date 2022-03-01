@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰伊·亚当斯","customer_url":"s1-chenggongdefudao","image_path":"/files/book/cover/62151/cover.jpg","leading_role":"译者: 陈若愚","id":62151,"book_name":"成功的辅导"}]

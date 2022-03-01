@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杜小溪","customer_url":"s3-huaiyunzhejiandashier","image_path":"/files/book/cover/64536/cover.jpg","leading_role":"杜小溪","id":64536,"book_name":"怀孕这件大事儿"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林道亮","customer_url":"shijingxueyuanze","image_path":"/files/book/cover/615/cover.jpg","leading_role":"林道亮","id":615,"book_name":"释经学原则"},{"author_name":"林道亮","customer_url":"shenglingchongman","image_path":"/files/book/cover/841/cover.jpg","leading_role":"林道亮","id":841,"book_name":"从灵洗到圣灵充满"}]

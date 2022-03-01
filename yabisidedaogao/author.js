@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"葡萄树的秘密","leading_role":"魏肯生","image_path_min":"/files/book/cover/336/cover_120.jpg","author_name":"魏肯生","image_path":"/files/book/cover/336/cover.jpg","customer_url":"putaoshudemimi"}]

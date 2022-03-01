@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈汝衡","customer_url":"shuotang","image_path":"/files/book/cover/1633/cover.jpg","leading_role":"佚名","id":1633,"book_name":"说唐"}]

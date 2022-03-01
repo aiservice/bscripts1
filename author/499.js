@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·达秘","customer_url":"jidushiwomendemanzu","image_path":"/files/book/cover/832/cover.jpg","leading_role":"约翰·达秘（John N.Darby）","id":832,"book_name":"基督是我们的满足"}]

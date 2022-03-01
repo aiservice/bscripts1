@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄南丁氏","customer_url":"yangnaiwuyuxiaobaicai","image_path":"/files/book/cover/1442/cover.jpg","leading_role":"佚名","id":1442,"book_name":"杨乃武与小白菜"}]

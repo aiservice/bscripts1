@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"习思cis","customer_url":"s3-cisgupiaojiaoyishu","image_path":"/files/book/cover/63889/cover.jpg","leading_role":"习思cis","id":63889,"book_name":"cis股票交易术"}]

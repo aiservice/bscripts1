@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲利普·迪克","customer_url":"s3-jiyiliehen","image_path":"/files/book/cover/65181/cover.jpg","leading_role":"[美] 菲利普·迪克","id":65181,"book_name":"记忆裂痕"}]

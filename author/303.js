@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗林斯","customer_url":"beyound-death-door","image_path":"/files/book/cover/453/cover.jpg","leading_role":"（美国）罗林斯（Dr.Maurice Rawlings）","id":453,"book_name":"跨越死亡之门"}]

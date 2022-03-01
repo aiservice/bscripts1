@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钱塘散人","customer_url":"baogongchuanbaijiagongan","image_path":"/files/book/cover/1465/cover.jpg","leading_role":"佚名","id":1465,"book_name":"包公传(百家公案)"}]

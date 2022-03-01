@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"格里高利·大卫·罗伯兹","customer_url":"s3-xiangtalan","image_path":"/files/book/cover/62206/cover.jpg","leading_role":"格里高利·大卫·罗伯兹","id":62206,"book_name":"项塔兰"}]

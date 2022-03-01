@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马太·默克","customer_url":"s1-gongtongjingbai","image_path":"/files/book/cover/64822/cover.jpg","leading_role":"马太·默克","id":64822,"book_name":"共同敬拜"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"(美) 彼 得·霍林斯","customer_url":"s3-siweimoxing","image_path":"/files/book/cover/62397/cover.jpg","leading_role":"(美) 彼 得·霍林斯","id":62397,"book_name":"思维模型"}]

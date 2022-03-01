@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安宁","customer_url":"wennuandexian","image_path":"/files/book/cover/48154/cover.jpg","leading_role":"安宁","id":48154,"book_name":"温暖的弦"}]

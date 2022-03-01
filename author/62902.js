@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]托德·罗斯","customer_url":"s3-chengweiheima","image_path":"/files/book/cover/62342/cover.jpg","leading_role":" [美]托德·罗斯 / [美]奥吉·奥加斯","id":62342,"book_name":"成为黑马"}]

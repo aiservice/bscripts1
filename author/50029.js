@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"天然痴叟","customer_url":"shidiantou","image_path":"/files/book/cover/1533/cover.jpg","leading_role":"佚名","id":1533,"book_name":"石点头"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"量子学派","customer_url":"s3-gongshizhimei","image_path":"/files/book/cover/62353/cover.jpg","leading_role":"量子学派","id":62353,"book_name":"公式之美"}]

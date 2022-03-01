@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鹤田丰和","customer_url":"s3-weishenmenizongshibantuerfei","image_path":"/files/book/cover/64588/cover.jpg","leading_role":"[日] 鹤田丰和","id":64588,"book_name":"为什么你总是半途而废"}]

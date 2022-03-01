@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柯林·汉森","customer_url":"s1-xinchengyaoliwenda","image_path":"/files/book/cover/64860/cover.jpg","leading_role":"柯林·汉森","id":64860,"book_name":"新城要理问答"},{"author_name":"柯林·汉森","customer_url":"s1-zhongxinrenshijiaohui","image_path":"/files/book/cover/65681/cover.jpg","leading_role":"柯林·汉森","id":65681,"book_name":"重新认识教会"}]

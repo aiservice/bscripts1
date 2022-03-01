@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贾思勰","customer_url":"qiminyaoshu","image_path":"/files/book/cover/1125/cover.jpg","leading_role":"佚名","id":1125,"book_name":"齐民要术"}]

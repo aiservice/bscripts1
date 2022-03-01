@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西蒙·蒙蒂菲奥里","customer_url":"s3-lishideshengyin","image_path":"/files/book/cover/64542/cover.jpg","leading_role":"西蒙·蒙蒂菲奥里","id":64542,"book_name":"历史的声音"}]

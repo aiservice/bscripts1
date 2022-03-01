@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李慕圣","customer_url":"meditate-on-luther-remember","image_path":"/files/book/cover/183/cover.jpg","leading_role":"李慕圣","id":183,"book_name":"默想路德记"}]

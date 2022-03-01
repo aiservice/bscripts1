@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[加]王贞平","customer_url":"s3-duojiyazhouzhongditangchao","image_path":"/files/book/cover/62241/cover.jpg","leading_role":"[加]王贞平","id":62241,"book_name":"多极亚洲中的唐朝"}]

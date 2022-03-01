@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈少宁","customer_url":"shengdianzhongxianrenjian","image_path":"/files/book/cover/601/cover.jpg","leading_role":"陈少宁","id":601,"book_name":"圣殿重现人间？"}]

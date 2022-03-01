@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[德] 温弗里德·塞巴尔德","customer_url":"s3-tuxingzhihuan","image_path":"/files/book/cover/62336/cover.jpg","leading_role":"[德] 温弗里德·塞巴尔德","id":62336,"book_name":"土星之环"}]

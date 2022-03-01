@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔治·奥威尔","customer_url":"s3-qiaozhiaoweier1984","image_path":"/files/book/cover/65640/cover.jpg","leading_role":"[英] 乔治·奥威尔","id":65640,"book_name":"乔治奥威尔《1984》"}]

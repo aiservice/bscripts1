@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"茂木健一郎","customer_url":"s3-tongshixuewendemenlei","image_path":"/files/book/cover/64549/cover.jpg","leading_role":"[日] 茂木健一郎","id":64549,"book_name":"通识 : 学问的门类"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史蒂夫·布鲁萨特","customer_url":"s3-konglongdexingshuai","image_path":"/files/book/cover/64120/cover.jpg","leading_role":" [美]史蒂夫·布鲁萨特","id":64120,"book_name":"恐龙的兴衰"}]

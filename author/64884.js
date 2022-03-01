@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯文·贝克特","customer_url":"s3-mianhuadiguo","image_path":"/files/book/cover/65285/cover.jpg","leading_role":"[美]斯文·贝克特","id":65285,"book_name":"棉花帝国：一部资本主义全球史"}]

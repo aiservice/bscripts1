@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·汤森德","customer_url":"weiqingshaonianlijiexian","image_path":"/files/book/cover/41862/cover.jpg","leading_role":"约翰·汤森德","id":41862,"book_name":"为青少年立界线"}]

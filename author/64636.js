@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"哈米什•麦肯齐","customer_url":"s3-tesilachuan2","image_path":"/files/book/cover/64932/cover.jpg","leading_role":"哈米什•麦肯齐","id":64932,"book_name":"特斯拉传 : 实现不可能"}]

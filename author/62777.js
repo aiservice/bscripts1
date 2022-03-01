@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴维·迈尔斯","customer_url":"s3-shehuixinlixue","image_path":"/files/book/cover/62207/cover.jpg","leading_role":"戴维·迈尔斯 (David G.Myers)","id":62207,"book_name":"社会心理学"}]

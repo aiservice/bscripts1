@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨绛","customer_url":"s3-womensa","image_path":"/files/book/cover/61109/cover.jpg","leading_role":"杨绛","id":61109,"book_name":"我们仨"}]

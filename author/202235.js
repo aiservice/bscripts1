@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"庆山","customer_url":"s3-yiqiejing","image_path":"/files/book/cover/65924/cover.jpg","leading_role":"庆山","id":65924,"book_name":"一切境"}]

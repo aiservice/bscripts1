@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[南非]卡西·卡斯滕斯","customer_url":"s1-shijiexuyaofuqin","image_path":"/files/book/cover/62113/cover.jpg","leading_role":" [南非]卡西·卡斯滕斯","id":62113,"book_name":"世界需要父亲"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐京兆释道宣","customer_url":"guanghongmingji","image_path":"/files/book/cover/1102/cover.jpg","leading_role":"佚名","id":1102,"book_name":"广弘明集"}]

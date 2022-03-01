@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"商禽","customer_url":"s3-shangqinshiquanji","image_path":"/files/book/cover/63980/cover.jpg","leading_role":"商禽","id":63980,"book_name":"商禽诗全集"}]

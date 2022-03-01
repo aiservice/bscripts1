@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈可·莫林诺","customer_url":"lingchengzhiyin","image_path":"/files/book/cover/868/cover.jpg","leading_role":"迈可·莫林诺","id":868,"book_name":"灵程指引"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"库尔特•P.弗雷","customer_url":"s3-renxingshiyan","image_path":"/files/book/cover/65883/cover.jpg","leading_role":"库尔特•P.弗雷","id":65883,"book_name":"人性实验"}]

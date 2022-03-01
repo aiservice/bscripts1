@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布拉德·斯通","customer_url":"s3-beizuosichuan","image_path":"/files/book/cover/65440/cover.jpg","leading_role":"[美] 布拉德·斯通","id":65440,"book_name":"贝佐斯传 : 贝佐斯及无边界的亚马逊"}]

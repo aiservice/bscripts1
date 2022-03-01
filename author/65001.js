@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高原","customer_url":"s3-qichangxiuchengshouce","image_path":"/files/book/cover/65462/cover.jpg","leading_role":"高原","id":65462,"book_name":"气场修成手册"}]

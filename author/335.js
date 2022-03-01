@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚伯拉罕·海伦堡","customer_url":"zhendaochujie","image_path":"/files/book/cover/514/cover.jpg","leading_role":"亚伯拉罕·海伦堡","id":514,"book_name":"真道初阶"}]

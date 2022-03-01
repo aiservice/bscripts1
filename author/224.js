@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"圣女小德兰","customer_url":"a-small-white-flower","image_path":"/files/book/cover/299/cover.jpg","leading_role":"圣女小德兰","id":299,"book_name":"一朵小白花"}]

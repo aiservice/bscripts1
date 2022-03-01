@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"兰小欢","customer_url":"s3-zhishenshinei","image_path":"/files/book/cover/64911/cover.jpg","leading_role":"兰小欢","id":64911,"book_name":"置身事内"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"泰德·特里普","customer_url":"shepherdingachildsheart","image_path":"/files/book/cover/938/cover.jpg","leading_role":"【美】泰德·特里普","id":938,"book_name":"子女心，父母情"},{"author_name":"泰德·特里普","customer_url":"taosuzinvxin","image_path":"/files/book/cover/997/cover.jpg","leading_role":"泰德·特里普 / 玛吉·特里普 ","id":997,"book_name":"陶塑子女心"}]

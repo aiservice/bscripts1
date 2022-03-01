@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海飘雪","customer_url":"s3-mujinhuaxiyuejinxiu","image_path":"/files/book/cover/59384/cover.jpg","leading_role":"海飘雪","id":59384,"book_name":"木槿花西月锦绣"}]

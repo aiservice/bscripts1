@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧统","customer_url":"zhaomingwenxuan","image_path":"/files/book/cover/1376/cover.jpg","leading_role":"佚名","id":1376,"book_name":"昭明文选"}]

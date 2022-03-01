@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·波洛克","customer_url":"foreign-devil-in-china","image_path":"/files/book/cover/761/cover.jpg","leading_role":"约翰·波洛克","id":761,"book_name":"钟爱华传"}]

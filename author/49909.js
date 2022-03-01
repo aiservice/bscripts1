@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洪迈","customer_url":"yijianzhi","image_path":"/files/book/cover/1292/cover.jpg","leading_role":"佚名","id":1292,"book_name":"夷坚志"}]

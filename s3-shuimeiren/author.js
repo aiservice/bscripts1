@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"雪国","leading_role":"[日]川端康成","image_path_min":"files/book/cover/59447/cover_120.jpg","author_name":"[日]川端康成","image_path":"files/book/cover/59447/cover.jpg","customer_url":"s3-xueguo"}]

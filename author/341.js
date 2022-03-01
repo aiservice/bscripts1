@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"司布尔","customer_url":"effective-prayer-and-bible-reading-method","image_path":"/files/book/cover/523/cover.jpg","leading_role":"司布尔R.C. Sproul","id":523,"book_name":"有效的祷告与读经方法"}]

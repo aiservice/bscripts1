@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Thomas Cathcart","customer_url":"s3-meigerendouhuisi","image_path":"/files/book/cover/64551/cover.jpg","leading_role":" Thomas Cathcart / Daniel Klein","id":64551,"book_name":"每个人都会死"}]

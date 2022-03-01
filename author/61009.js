@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]乔治·卢卡斯","customer_url":"s3-xingqiudazhan","image_path":"/files/book/cover/59493/cover.jpg","leading_role":"[美]乔治·卢卡斯","id":59493,"book_name":"星球大战"}]

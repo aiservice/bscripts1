@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄丽群","customer_url":"s3-haibiandefangjian","image_path":"/files/book/cover/65256/cover.jpg","leading_role":"黄丽群","id":65256,"book_name":"海边的房间"}]

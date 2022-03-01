@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"欧大卫","customer_url":"jinglizanmeidenengli","image_path":"/files/book/cover/38957/cover.jpg","leading_role":"欧大卫","id":38957,"book_name":"经历赞美的能力"},{"author_name":"欧大卫","customer_url":"s1-pojianerchu","image_path":"/files/book/cover/62143/cover.jpg","leading_role":"欧大卫","id":62143,"book_name":"破茧而出"}]

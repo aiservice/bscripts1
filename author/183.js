@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莫提默·J·艾德勒 查尔斯·范多伦","customer_url":"how-to-read-a-book","image_path":"/files/book/cover/213/cover.jpg","leading_role":"莫提默·J·艾德勒 查尔斯·范多伦","id":213,"book_name":"如何阅读一本书"}]

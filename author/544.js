@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李嘉琦","customer_url":"haizideyushiqushi","image_path":"/files/book/cover/918/cover.jpg","leading_role":"李嘉琦 樊道霞","id":918,"book_name":"孩子的瘀事趣事"}]

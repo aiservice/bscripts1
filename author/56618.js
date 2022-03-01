@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[清]沈复","customer_url":"fushengliuji","image_path":"/files/book/cover/48123/cover.jpg","leading_role":"[清]沈复","id":48123,"book_name":"浮生六记"}]

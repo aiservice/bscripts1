@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[以] 埃特加·凯雷特","customer_url":"s3-yinhexibianyuandexiaoshichang","image_path":"/files/book/cover/62281/cover.jpg","leading_role":" [以] 埃特加·凯雷特","id":62281,"book_name":"银河系边缘的小失常"}]

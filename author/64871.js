@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李德·哈特","customer_url":"s3-diercishijiedazhanzhanshi","image_path":"/files/book/cover/65264/cover.jpg","leading_role":"[英] 李德·哈特","id":65264,"book_name":"第二次世界大战战史"}]

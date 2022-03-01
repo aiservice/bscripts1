@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Joel R Beeke","customer_url":"god-set-by-the-life-of-the-brush","image_path":"/files/book/cover/912/cover.jpg","leading_role":"Joel R Beeke and Heidi Boorsma","id":912,"book_name":"神所定生命的画笔"}]

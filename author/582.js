@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"米雪","customer_url":"zhenzhuxianglian","image_path":"/files/book/cover/990/cover.jpg","leading_role":"米雪 ","id":990,"book_name":"珍珠项链"}]

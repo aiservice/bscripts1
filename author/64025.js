@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曾彦修","customer_url":"s3-cengyanxiufangtanlu","image_path":"/files/book/cover/64089/cover.jpg","leading_role":"曾彦修 / 李晋西","id":64089,"book_name":"曾彦修访谈录"}]

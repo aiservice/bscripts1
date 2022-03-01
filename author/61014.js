@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"千寻千寻","customer_url":"s3-ruguokeyizheyangai","image_path":"/files/book/cover/59500/cover.jpg","leading_role":"千寻千寻","id":59500,"book_name":"如果可以这样爱"}]

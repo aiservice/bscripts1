@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄仁宇","customer_url":"wanlishiwunian","image_path":"/files/book/cover/48131/cover.jpg","leading_role":"黄仁宇","id":48131,"book_name":"万历十五年"}]

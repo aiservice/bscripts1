@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赫尔岑","customer_url":"s3-wangshiyusuixiang","image_path":"/files/book/cover/64665/cover.jpg","leading_role":" [俄] 赫尔岑","id":64665,"book_name":"往事与随想（全三册）"}]

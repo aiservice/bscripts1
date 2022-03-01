@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴兢","customer_url":"zhenguanzhengyao","image_path":"/files/book/cover/1305/cover.jpg","leading_role":"佚名","id":1305,"book_name":"贞观政要"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"多梅尼科·斯塔尔诺内","customer_url":"s3-xiedai","image_path":"/files/book/cover/64044/cover.jpg","leading_role":"[意] 多梅尼科·斯塔尔诺内","id":64044,"book_name":"鞋带"}]

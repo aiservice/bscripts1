@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩非","customer_url":"hanfeizi","image_path":"/files/book/cover/1215/cover.jpg","leading_role":"佚名","id":1215,"book_name":"韩非子"}]

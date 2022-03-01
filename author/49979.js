@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐述夔","customer_url":"kuaishichuan","image_path":"/files/book/cover/1432/cover.jpg","leading_role":"佚名","id":1432,"book_name":"快士传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"释智升","customer_url":"kaiyuanshijiaolu","image_path":"/files/book/cover/1087/cover.jpg","leading_role":"佚名","id":1087,"book_name":"开元释教录"}]

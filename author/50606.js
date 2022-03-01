@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"施路德","customer_url":"qingtingshendeshengyin","image_path":"/files/book/cover/38822/cover.jpg","leading_role":"施路德","id":38822,"book_name":"倾听神的声音"}]

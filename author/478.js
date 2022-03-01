@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约瑟·麦道卫","customer_url":"youxiaodejiaozizhilu","image_path":"/files/book/cover/785/cover.jpg","leading_role":"约瑟·麦道卫 鲍勃·哈斯泰特勒","id":785,"book_name":"有效的教子之路"}]

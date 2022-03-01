@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 大山诚一郎","customer_url":"s3-jueduibuzaichangzhengming","image_path":"/files/book/cover/62202/cover.jpg","leading_role":"[日] 大山诚一郎","id":62202,"book_name":"绝对不在场证明"},{"author_name":"[日] 大山诚一郎","customer_url":"s3-guijibowuguan","image_path":"/files/book/cover/62298/cover.jpg","leading_role":"[日] 大山诚一郎","id":62298,"book_name":"诡计博物馆"}]

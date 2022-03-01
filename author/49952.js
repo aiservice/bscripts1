@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙膑","customer_url":"sunbinbingfa","image_path":"/files/book/cover/1372/cover.jpg","leading_role":"佚名","id":1372,"book_name":"孙膑兵法"}]

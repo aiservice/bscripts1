@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"翁贝托·埃科","customer_url":"s3-bulagegongmu","image_path":"/files/book/cover/65420/cover.jpg","leading_role":"[意] 翁贝托·埃科","id":65420,"book_name":"布拉格公墓"}]

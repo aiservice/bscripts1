@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"［美］撒迦利亚·西琴","customer_url":"s3-diqiubiannianshi","image_path":"/files/book/cover/62377/cover.jpg","leading_role":"［美］撒迦利亚·西琴","id":62377,"book_name":"地球编年史"}]

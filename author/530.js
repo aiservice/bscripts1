@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴绍球","customer_url":"rongyaodefuyin","image_path":"/files/book/cover/895/cover.jpg","leading_role":"吴绍球","id":895,"book_name":"荣耀的福音"}]

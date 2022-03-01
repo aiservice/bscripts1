@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·德比希尔","customer_url":"s3-daishudelishi","image_path":"/files/book/cover/64466/cover.jpg","leading_role":"[美] 约翰·德比希尔","id":64466,"book_name":"代数的历史"}]

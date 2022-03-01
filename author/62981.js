@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 约翰·契弗","customer_url":"s3-yuehanqifuduanpianxiaoshuoji","image_path":"/files/book/cover/62431/cover.jpg","leading_role":"[美] 约翰·契弗 ","id":62431,"book_name":"约翰·契弗短篇小说集"}]

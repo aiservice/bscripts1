@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"这里是中国1","leading_role":"星球研究所","image_path_min":"files/book/cover/64857/cover_120.jpg","author_name":"星球研究所","image_path":"files/book/cover/64857/cover.jpg","customer_url":"s3-zhelishizhongguo1"}]

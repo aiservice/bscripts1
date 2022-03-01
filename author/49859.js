@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鬼谷子","customer_url":"guiguzi","image_path":"/files/book/cover/1214/cover.jpg","leading_role":"佚名","id":1214,"book_name":"鬼谷子"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡罗琳·帕克丝特","customer_url":"s3-babietazhiquan","image_path":"/files/book/cover/65415/cover.jpg","leading_role":" [美] 卡罗琳·帕克丝特","id":65415,"book_name":"巴别塔之犬"}]

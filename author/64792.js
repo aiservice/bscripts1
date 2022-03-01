@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"妮塔·琼森","customer_url":"s1-maijixidedengcideshengzhi","image_path":"/files/book/cover/65158/cover.jpg","leading_role":"妮塔·琼森","id":65158,"book_name":"麦基洗德等次的圣职"}]

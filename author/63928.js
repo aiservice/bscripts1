@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贡布里希","customer_url":"s3-yishudegushi","image_path":"/files/book/cover/63946/cover.jpg","leading_role":"[英]贡布里希 (Sir E.H.Gombrich) ","id":63946,"book_name":"艺术的故事"}]

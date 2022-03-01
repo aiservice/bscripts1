@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"饭爷","customer_url":"s3-xiaolvrensheng","image_path":"/files/book/cover/64571/cover.jpg","leading_role":"饭爷 ","id":64571,"book_name":"效率人生"}]

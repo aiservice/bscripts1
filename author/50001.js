@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴兴白云道人","customer_url":"saihualing","image_path":"/files/book/cover/1481/cover.jpg","leading_role":"佚名","id":1481,"book_name":"赛花铃"}]

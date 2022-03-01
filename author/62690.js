@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]弗·司各特·菲茨杰拉德","customer_url":"s3-lebuqidegaicibi","image_path":"/files/book/cover/62084/cover.jpg","leading_role":"[美]弗·司各特·菲茨杰拉德","id":62084,"book_name":"了不起的盖茨比"}]

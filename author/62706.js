@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]露易莎•梅•奥尔科特","customer_url":"s3-xiaofuren","image_path":"/files/book/cover/62119/cover.jpg","leading_role":"[美]露易莎•梅•奥尔科特","id":62119,"book_name":"小妇人"}]

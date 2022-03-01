@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"庄祖鲲","customer_url":"mission-history","image_path":"/files/book/cover/79/cover.jpg","leading_role":"宣教","id":79,"book_name":"宣教历史"},{"author_name":"庄祖鲲","customer_url":"qiheyuzhuanhua","image_path":"/files/book/cover/725/cover.jpg","leading_role":"庄祖鲲","id":725,"book_name":"契合与转化"}]

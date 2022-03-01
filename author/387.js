@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弥尔顿","customer_url":"doushicansun","image_path":"/files/book/cover/630/cover.jpg","leading_role":"（英）弥尔顿","id":630,"book_name":"斗士参孙"}]

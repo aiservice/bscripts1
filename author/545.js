@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"瑞尼.麦克林","customer_url":"yonghengruqinshijian","image_path":"/files/book/cover/919/cover.jpg","leading_role":"瑞尼.麦克林(RENNY MCLEAN)","id":919,"book_name":"永恒入侵时间"}]

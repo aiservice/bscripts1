@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弗里德里希·奥古斯特·冯·哈耶克","customer_url":"s3-hayekezuopinji","image_path":"/files/book/cover/64874/cover.jpg","leading_role":"[英]弗里德里希·奥古斯特·冯·哈耶克","id":64874,"book_name":"哈耶克作品辑（3册合辑）"}]

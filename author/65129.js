@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弗朗斯•约翰松","customer_url":"s3-siweibushexian","image_path":"/files/book/cover/65638/cover.jpg","leading_role":"弗朗斯•约翰松","id":65638,"book_name":"思维不设限"}]

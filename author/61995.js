@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大冰","customer_url":"s3-guaimomotou","image_path":"/files/book/cover/61159/cover.jpg","leading_role":"大冰","id":61159,"book_name":"乖，摸摸头"}]

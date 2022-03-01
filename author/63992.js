@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凑佳苗","customer_url":"s3-wangfushujian","image_path":"/files/book/cover/64043/cover.jpg","leading_role":" [日] 凑佳苗","id":64043,"book_name":"往复书简"},{"author_name":"凑佳苗","customer_url":"s3-gaobai","image_path":"/files/book/cover/65921/cover.jpg","leading_role":" [日] 凑佳苗","id":65921,"book_name":"告白"}]

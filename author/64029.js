@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"埃丝特•佩瑞尔","customer_url":"s3-qinmixianjing","image_path":"/files/book/cover/64095/cover.jpg","leading_role":" [比]埃丝特•佩瑞尔（Esther Perel)","id":64095,"book_name":"亲密陷阱"}]

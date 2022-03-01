@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫·史文森","customer_url":"s3-feifandechenggong","image_path":"/files/book/cover/65634/cover.jpg","leading_role":"大卫·史文森","id":65634,"book_name":"非凡的成功"}]

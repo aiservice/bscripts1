@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李亚迪","customer_url":"living","image_path":"/files/book/cover/145/cover.jpg","leading_role":"李亚迪","id":145,"book_name":"活祭"}]

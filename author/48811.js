@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"素庵主人","customer_url":"jinxiangting","leading_role":"佚名","id":1253,"book_name":"锦香亭"},{"author_name":"素庵主人","customer_url":"diyimeinvchuan","image_path":"/files/book/cover/1478/cover.jpg","leading_role":"佚名","id":1478,"book_name":"第一美女传"}]

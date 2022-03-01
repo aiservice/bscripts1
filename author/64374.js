@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯瑟琳·布","customer_url":"s3-meihaoshidaidebeihou","image_path":"/files/book/cover/64577/cover.jpg","leading_role":"[美]凯瑟琳·布","id":64577,"book_name":"美好时代的背后"}]

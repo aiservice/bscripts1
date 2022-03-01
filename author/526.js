@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄迦勒","customer_url":"wenzhaijiejingxilie","image_path":"/files/book/cover/889/cover.jpg","leading_role":"黄迦勒","id":889,"book_name":"基督徒文摘解经系列"}]

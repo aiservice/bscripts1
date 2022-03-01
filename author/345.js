@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"祈理魁","customer_url":"qilikuishenfuchuan","image_path":"/files/book/cover/529/cover.jpg","leading_role":"祈理魁","id":529,"book_name":"祈理魁神父传"}]

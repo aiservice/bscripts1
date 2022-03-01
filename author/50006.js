@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吕安世","customer_url":"ershisishitongsuyanyi","image_path":"/files/book/cover/1489/cover.jpg","leading_role":"佚名","id":1489,"book_name":"二十四史通俗演义"}]

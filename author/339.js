@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡森","customer_url":"renshikunandeaomi","image_path":"/files/book/cover/521/cover.jpg","leading_role":"卡森 ( D．A Carson )","id":521,"book_name":"认识苦难的奥秘"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"彼得·杰弗里","customer_url":"seeking-god","image_path":"/files/book/cover/324/cover.jpg","leading_role":"彼得·杰弗里","id":324,"book_name":"寻求上帝"}]

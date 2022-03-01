@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈江挺","customer_url":"s3-chaogudezhihui","image_path":"/files/book/cover/64942/cover.jpg","leading_role":"陈江挺","id":64942,"book_name":"炒股的智慧"}]

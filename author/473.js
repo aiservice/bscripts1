@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谢模善","customer_url":"jiezhongshengpai","image_path":"/files/book/cover/778/cover.jpg","leading_role":"谢模善","id":778,"book_name":"揭重生派"}]

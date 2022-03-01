@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"牛僧孺","customer_url":"xuanguailu","image_path":"/files/book/cover/1536/cover.jpg","leading_role":"佚名","id":1536,"book_name":"玄怪录"}]

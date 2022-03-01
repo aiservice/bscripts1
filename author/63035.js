@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊庭正康","customer_url":"s3-dangshizheyangshuojiuhaole","image_path":"/files/book/cover/62490/cover.jpg","leading_role":"[日]伊庭正康","id":62490,"book_name":"当时这样说就好了"}]

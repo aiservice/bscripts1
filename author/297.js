@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈克尔·珀尔","customer_url":"create-to-need-a-help-meet","image_path":"/files/book/cover/596/cover.jpg","leading_role":"迈克尔·珀尔","id":596,"book_name":"丈夫，天生需要帮助者"},{"author_name":"迈克尔·珀尔","customer_url":"haiwoyidianfangrong","image_path":"/files/book/cover/440/cover.jpg","leading_role":"（美）迈克尔·珀尔(Michael Pearl)","id":440,"book_name":"还我伊甸芳容：神圣的性"}]

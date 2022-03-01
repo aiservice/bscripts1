@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"水如天儿","customer_url":"s3-binbianbushihaitanghong","image_path":"/files/book/cover/59112/cover.jpg","leading_role":"程凤台","id":59112,"book_name":"鬓边不是海棠红"}]

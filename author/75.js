@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林老师","customer_url":"children-religious-education","image_path":"/files/book/cover/47/cover.jpg","leading_role":"林老师","id":47,"book_name":"儿童宗教教育讲义"},{"author_name":"林老师","customer_url":"jidujiaojiaoyugailunjiangyi","image_path":"/files/book/cover/742/cover.jpg","leading_role":"林老师","id":742,"book_name":"基督教教育概论讲义"}]

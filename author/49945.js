@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈规","customer_url":"shouchenglu","image_path":"/files/book/cover/1363/cover.jpg","leading_role":"佚名","id":1363,"book_name":"守城录"}]

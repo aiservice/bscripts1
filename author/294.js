@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗宾森","customer_url":"shiyongjiejingjiangdao","image_path":"/files/book/cover/437/cover.jpg","leading_role":"罗宾森(Haddon W. Robinson) ","id":437,"book_name":"实用解经讲道"}]

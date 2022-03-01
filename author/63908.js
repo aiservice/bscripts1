@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"列夫·托尔斯泰","customer_url":"s3-zhanzhengyuheping","image_path":"/files/book/cover/64963/cover.jpg","leading_role":"列夫·托尔斯泰","id":64963,"book_name":"战争与和平（全四册）"},{"author_name":"列夫·托尔斯泰","customer_url":"s3-yifanyiliqizhisi","image_path":"/files/book/cover/63923/cover.jpg","leading_role":"[俄] 列夫·托尔斯泰","id":63923,"book_name":"伊凡·伊里奇之死"}]

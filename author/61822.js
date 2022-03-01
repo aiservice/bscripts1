@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡崇达","customer_url":"s3-pinang","image_path":"/files/book/cover/60883/cover.jpg","leading_role":"蔡崇达","id":60883,"book_name":"皮囊"}]

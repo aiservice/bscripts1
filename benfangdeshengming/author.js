@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"传承的生命","leading_role":"林曾秀芬","image_path_min":"/files/book/cover/588/cover_120.jpg","author_name":"林曾秀芬","image_path":"/files/book/cover/588/cover.jpg","customer_url":"chuanchengdeshengming"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲇川哲也","customer_url":"s3-heisetiane","image_path":"/files/book/cover/61611/cover.jpg","leading_role":"鲇川哲也","id":61611,"book_name":"黑色天鹅"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥斯•希尔曼","customer_url":"nijingzhongdizhufu","image_path":"/files/book/cover/993/cover.jpg","leading_role":"奥斯•希尔曼","id":993,"book_name":"逆境中的祝福"}]

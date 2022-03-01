@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汪寄","customer_url":"haiguochunqiu","image_path":"/files/book/cover/1504/cover.jpg","leading_role":"佚名","id":1504,"book_name":"海国春秋"}]

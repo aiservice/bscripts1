@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约拿单·爱德华兹","customer_url":"s1-aiyuaideguoshi","image_path":"/files/book/cover/65908/cover.jpg","leading_role":"约拿单·爱德华兹","id":65908,"book_name":"爱与爱的果实"}]

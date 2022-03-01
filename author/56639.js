@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大仲马","customer_url":"jidushanbojue","image_path":"/files/book/cover/48146/cover.jpg","leading_role":"大仲马","id":48146,"book_name":"基督山伯爵"}]

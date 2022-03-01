@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高铭","customer_url":"s3-tiancaizaizuofengzizaiyou","image_path":"/files/book/cover/65646/cover.jpg","leading_role":"高铭","id":65646,"book_name":"天才在左 疯子在右（完整版）"}]

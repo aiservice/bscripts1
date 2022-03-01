@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安·R·韦尔斯","customer_url":"huaipiqidegeleisi","image_path":"/files/book/cover/373/cover.jpg","leading_role":"安·R·韦尔斯","id":373,"book_name":"坏脾气的格蕾丝"},{"author_name":"安·R·韦尔斯","customer_url":"rexinnanhaichali","image_path":"/files/book/cover/374/cover.jpg","leading_role":"安·R·韦尔斯","id":374,"book_name":"热心男孩查理"}]

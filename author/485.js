@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"J.C.莱尔","customer_url":"holiness","image_path":"/files/book/cover/801/cover.jpg","leading_role":"[英]J.C.莱尔","id":801,"book_name":"圣洁"}]

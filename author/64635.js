@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·芒森","customer_url":"s3-tesilachuan1","image_path":"/files/book/cover/64931/cover.jpg","leading_role":" [美] 理查德·芒森","id":64931,"book_name":"特斯拉传 : 现代的发明者"}]

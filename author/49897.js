@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张杰鑫","customer_url":"sanxiajian","image_path":"/files/book/cover/1276/cover.jpg","leading_role":"佚名","id":1276,"book_name":"三侠剑"}]

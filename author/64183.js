@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"董均伦","customer_url":"s3-liaozhaichaziquanliangce","image_path":"/files/book/cover/64313/cover.jpg","leading_role":"董均伦","id":64313,"book_name":"聊斋汊子（全两册）"}]

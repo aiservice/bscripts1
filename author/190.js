@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梅·威廉","customer_url":"the-bible-stories-and-skills","image_path":"/files/book/cover/226/cover.jpg","leading_role":"梅·威廉","id":226,"book_name":"圣经故事与技巧"}]

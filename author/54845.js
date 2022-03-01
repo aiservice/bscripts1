@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯什·卢纳","customer_url":"bupingyanjian","image_path":"/files/book/cover/45963/cover.jpg","leading_role":"凯什·卢纳","id":45963,"book_name":"不凭眼见"}]

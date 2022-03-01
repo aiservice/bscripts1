@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张预","customer_url":"shiqishibaijiangchuan","image_path":"/files/book/cover/1358/cover.jpg","leading_role":"佚名","id":1358,"book_name":"十七史百将传"}]

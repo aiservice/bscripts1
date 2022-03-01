@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"香婴居士","customer_url":"xinjuanxiuxiangqutoutuojidianquanchuan","image_path":"/files/book/cover/1400/cover.jpg","leading_role":"佚名","id":1400,"book_name":"新镌绣像麴头陀济颠全传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿里·沙维特","customer_url":"wodeyingxuzhidi","image_path":"/files/book/cover/42631/cover.jpg","leading_role":"阿里·沙维特","id":42631,"book_name":"我的应许之地"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萨米·蒂皮特","customer_url":"weijiatingdaogao","image_path":"/files/book/cover/585/cover.jpg","leading_role":"(美国）萨米·蒂皮特 (Sammy Tippit)","id":585,"book_name":"奉他的名：为家庭祷告"}]

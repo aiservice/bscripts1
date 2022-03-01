@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"古老的地球之歌","leading_role":"宝树","image_path_min":"files/book/cover/64658/cover_120.jpg","author_name":"宝树","image_path":"files/book/cover/64658/cover.jpg","customer_url":"s3-gulaodediqiuzhige"}]

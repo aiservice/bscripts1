@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"达礼治","customer_url":"shengmingdekaiduan","image_path":"/files/book/cover/488/cover.jpg","leading_role":"达礼治","id":488,"book_name":"生命的开端"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"司马穰苴","customer_url":"simafa","image_path":"/files/book/cover/1198/cover.jpg","leading_role":"佚名","id":1198,"book_name":"司马法"}]

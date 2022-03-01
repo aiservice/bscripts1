@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈研一","customer_url":"s3-wanmeixianyiren","image_path":"/files/book/cover/64593/cover.jpg","leading_role":"陈研一","id":64593,"book_name":"完美嫌疑人"},{"author_name":"陈研一","customer_url":"s3-wuxingzhiren","image_path":"/files/book/cover/64552/cover.jpg","leading_role":"陈研一","id":64552,"book_name":"无形之刃"}]

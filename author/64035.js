@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贾雷德·戴蒙德","customer_url":"s3-jubian","image_path":"/files/book/cover/64101/cover.jpg","leading_role":"[美] 贾雷德·戴蒙德","id":64101,"book_name":"剧变"}]

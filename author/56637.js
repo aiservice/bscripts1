@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"C.S.刘易斯","customer_url":"naniyachuanqi","image_path":"/files/book/cover/48144/cover.jpg","leading_role":"C.S.刘易斯","id":48144,"book_name":"纳尼亚传奇"}]

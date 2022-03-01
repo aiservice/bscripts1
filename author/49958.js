@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"董诰等 纂修","customer_url":"quantangwen","image_path":"/files/book/cover/1393/cover.jpg","leading_role":"佚名","id":1393,"book_name":"全唐文"}]

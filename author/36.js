@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亨利·布克比","customer_url":"god-used-by-people","image_path":"/files/book/cover/9/cover.jpg","leading_role":"耶稣","id":9,"book_name":"神所使用的人"}]

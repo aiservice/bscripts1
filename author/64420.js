@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"岛田洋七","customer_url":"s3-zuohedechaojiama","image_path":"/files/book/cover/64645/cover.jpg","leading_role":"[日] 岛田洋七","id":64645,"book_name":"佐贺的超级阿嬷"}]

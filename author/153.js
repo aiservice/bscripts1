@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"池凤桐","customer_url":"the-origin-of-the-christian-faith","image_path":"/files/book/cover/169/cover.jpg","leading_role":"池凤桐","id":169,"book_name":"基督信仰的起源"}]

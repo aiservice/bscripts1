@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"栾保群","customer_url":"s3-shuohuner","image_path":"/files/book/cover/64042/cover.jpg","leading_role":"栾保群","id":64042,"book_name":"说魂儿"}]

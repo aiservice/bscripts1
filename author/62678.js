@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法]雨果","customer_url":"s3-balishengmuyuan","image_path":"/files/book/cover/62066/cover.jpg","leading_role":"[法]雨果","id":62066,"book_name":"巴黎圣母院"},{"author_name":"[法]雨果","customer_url":"s3-beicanshijie","image_path":"/files/book/cover/62080/cover.jpg","leading_role":"[法]雨果","id":62080,"book_name":"悲惨世界"}]

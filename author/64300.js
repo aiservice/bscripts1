@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑西希","customer_url":"s3-bianchibianshoudeyingyangshu","image_path":"/files/book/cover/64471/cover.jpg","leading_role":"郑西希","id":64471,"book_name":"边吃边瘦的营养书"}]

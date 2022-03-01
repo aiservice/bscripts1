@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏寞","customer_url":"s3-chenxiangruxie","image_path":"/files/book/cover/64739/cover.jpg","leading_role":"苏寞 ","id":64739,"book_name":"沉香如屑"}]

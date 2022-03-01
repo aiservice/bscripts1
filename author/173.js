@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查理·毕列治","customer_url":"proverbs-annotation","image_path":"/files/book/cover/202/cover.jpg","leading_role":"查理·毕列治","id":202,"book_name":"箴言注释"}]

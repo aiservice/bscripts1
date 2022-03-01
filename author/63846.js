@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小林泰三","customer_url":"s3-guanyunagerendebeiwanglu","image_path":"/files/book/cover/63844/cover.jpg","leading_role":"[日]小林泰三","id":63844,"book_name":"关于那个人的备忘录"}]

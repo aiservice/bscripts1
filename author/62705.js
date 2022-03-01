@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"琼妮·厄尔克森·多田","customer_url":"s1-fengwenyouni","image_path":"/files/book/cover/62118/cover.jpg","leading_role":"琼妮·厄尔克森·多田","id":62118,"book_name":"风闻有你"}]

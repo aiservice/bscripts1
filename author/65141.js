@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"红眸","customer_url":"s3-feichangyifan","image_path":"/files/book/cover/65651/cover.jpg","leading_role":"红眸","id":65651,"book_name":"非常疑犯"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"列昂尼德•姆列钦","customer_url":"s3-bolieriniefushidai","image_path":"/files/book/cover/65796/cover.jpg","leading_role":" [俄]列昂尼德•姆列钦","id":65796,"book_name":"勃列日涅夫时代"}]

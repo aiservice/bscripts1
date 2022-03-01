@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴敬梓","customer_url":"rulinwaishi","image_path":"/files/book/cover/1008/cover.jpg","leading_role":"吴敬梓","id":1008,"book_name":"儒林外史"}]

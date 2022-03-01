@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莫林.凯勒斯","customer_url":"to-praise-from-the-prison","image_path":"/files/book/cover/536/cover.jpg","leading_role":"莫林.凯勒斯","id":536,"book_name":"从监狱到赞美"}]

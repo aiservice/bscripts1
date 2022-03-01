@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚设·因崔特","customer_url":"s1-yushenduiqi","image_path":"/files/book/cover/65259/cover.jpg","leading_role":"亚设·因崔特","id":65259,"book_name":"与神对齐"}]

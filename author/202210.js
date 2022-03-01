@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"祈祷君","customer_url":"s3-kaiduan","image_path":"/files/book/cover/65894/cover.jpg","leading_role":"祈祷君","id":65894,"book_name":"开端"}]

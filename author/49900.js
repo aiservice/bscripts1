@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李汝珍","customer_url":"jinghuayuan","image_path":"/files/book/cover/1281/cover.jpg","leading_role":"李汝珍","id":1281,"book_name":"镜花缘"}]

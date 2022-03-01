@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚历克斯·维连金","customer_url":"s3-duoyuanyuzhoushishenme","image_path":"/files/book/cover/64837/cover.jpg","leading_role":"[美]亚历克斯·维连金","id":64837,"book_name":"多元宇宙是什么"}]

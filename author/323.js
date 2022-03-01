@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰奥勒","customer_url":"kexueyushengjing","image_path":"/files/book/cover/493/cover.jpg","leading_role":"约翰奥勒","id":493,"book_name":"科学与圣经"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迪安·博内特","customer_url":"s3-shiwobanichunkulema","image_path":"/files/book/cover/63910/cover.jpg","leading_role":"[英] 迪安·博内特","id":63910,"book_name":"是我把你蠢哭了吗"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰弗里·贝蒂","customer_url":"s3-chongtudeyanhua","image_path":"/files/book/cover/64585/cover.jpg","leading_role":"[英]杰弗里·贝蒂（Geoffrey Beattie）","id":64585,"book_name":"冲突的演化"}]

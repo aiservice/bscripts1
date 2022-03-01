@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蚂小蚁","customer_url":"s3-aishangshouna","image_path":"/files/book/cover/65389/cover.jpg","leading_role":"蚂小蚁","id":65389,"book_name":"爱上收纳"}]

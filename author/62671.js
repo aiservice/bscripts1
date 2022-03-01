@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]查尔斯·狄更斯","customer_url":"s3-shuangchengji","image_path":"/files/book/cover/62059/cover.jpg","leading_role":"[英]查尔斯·狄更斯","id":62059,"book_name":"双城记"},{"author_name":"[英]查尔斯·狄更斯","customer_url":"s3-daweikaopofei","image_path":"/files/book/cover/62081/cover.jpg","leading_role":"[英]查尔斯·狄更斯","id":62081,"book_name":"大卫 · 考坡菲"}]

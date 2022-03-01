@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"公羊高","customer_url":"chunqiugongyangchuan","image_path":"/files/book/cover/1210/cover.jpg","leading_role":"佚名","id":1210,"book_name":"春秋公羊传"}]

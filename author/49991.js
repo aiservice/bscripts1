@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"古吴娥川主人","customer_url":"shenghuameng","image_path":"/files/book/cover/1459/cover.jpg","leading_role":"佚名","id":1459,"book_name":"生花梦"}]

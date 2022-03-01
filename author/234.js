@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张郁风","customer_url":"renshizhenli","image_path":"/files/book/cover/322/cover.jpg","leading_role":"张郁风","id":322,"book_name":"认识真理"}]

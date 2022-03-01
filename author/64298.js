@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李善友","customer_url":"s3-diyixingyuanli","image_path":"/files/book/cover/64469/cover.jpg","leading_role":"李善友","id":64469,"book_name":"第一性原理"}]

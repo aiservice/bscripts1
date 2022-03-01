@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[波] 奥尔加·托卡尔丘克","customer_url":"s3-guaidangushiji","image_path":"/files/book/cover/62348/cover.jpg","leading_role":"[波] 奥尔加·托卡尔丘克","id":62348,"book_name":"怪诞故事集"}]

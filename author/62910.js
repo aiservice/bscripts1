@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张贵兴","customer_url":"s3-yezhuduhe","image_path":"/files/book/cover/63685/cover.jpg","leading_role":"张贵兴","id":63685,"book_name":"野猪渡河"},{"author_name":"张贵兴","customer_url":"s3-houbei","image_path":"/files/book/cover/62350/cover.jpg","leading_role":"张贵兴","id":62350,"book_name":"猴杯"}]

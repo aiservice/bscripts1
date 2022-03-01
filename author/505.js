@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"易迪克","customer_url":"zhailunanxing","image_path":"/files/book/cover/856/cover.jpg","leading_role":"易迪克","id":856,"book_name":"窄路难行"}]

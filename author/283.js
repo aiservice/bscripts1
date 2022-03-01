@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"桑安柱","customer_url":"conghuaiyidaoxinyang","image_path":"/files/book/cover/415/cover.jpg","leading_role":"桑安柱","id":415,"book_name":"从怀疑到信仰"}]

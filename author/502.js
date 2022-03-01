@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡路义","customer_url":"jiuenyaoyi","image_path":"/files/book/cover/843/cover.jpg","leading_role":"蔡路义","id":843,"book_name":"救恩要义"}]

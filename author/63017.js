@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赵冬梅","customer_url":"s3-faduyurenxin","image_path":"/files/book/cover/62471/cover.jpg","leading_role":"赵冬梅","id":62471,"book_name":"法度与人心"}]

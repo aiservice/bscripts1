@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马玉玲","customer_url":"qidaixiayigefuxing","image_path":"/files/book/cover/917/cover.jpg","leading_role":"马玉玲","id":917,"book_name":"期待下一个復兴"}]

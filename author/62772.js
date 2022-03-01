@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"是光的孩子们","customer_url":"s3-dashanlidexiaoshiren","image_path":"/files/book/cover/62203/cover.jpg","leading_role":"是光的孩子们","id":62203,"book_name":"大山里的小诗人"}]

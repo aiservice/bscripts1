@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[奥地利]斯蒂芬·茨威格","customer_url":"s3-renleiqunxingshanyaoshi","image_path":"/files/book/cover/62102/cover.jpg","leading_role":"[奥地利]斯蒂芬·茨威格","id":62102,"book_name":"人类群星闪耀时"}]

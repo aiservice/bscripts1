@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华德凯瑟","customer_url":"the-old-testament-theology-to-investigate","image_path":"/files/book/cover/186/cover.jpg","leading_role":"华德凯瑟","id":186,"book_name":"旧约神学探讨"}]

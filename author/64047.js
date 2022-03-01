@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"琼·贝兹","customer_url":"s3-zuanshiyutiexiu","image_path":"/files/book/cover/64116/cover.jpg","leading_role":" [美] 琼·贝兹","id":64116,"book_name":"钻石与铁锈"}]

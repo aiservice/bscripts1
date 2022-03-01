@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周密","customer_url":"wulinjiushi","image_path":"/files/book/cover/1322/cover.jpg","leading_role":"佚名","id":1322,"book_name":"武林旧事"}]

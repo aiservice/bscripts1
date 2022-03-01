@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"银行螺丝钉","customer_url":"s3-zhishujijintouzizhinan","image_path":"/files/book/cover/62235/cover.jpg","leading_role":"银行螺丝钉","id":62235,"book_name":"指数基金投资指南"}]

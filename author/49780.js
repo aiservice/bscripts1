@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孔颖达","customer_url":"maoshizhengyi","image_path":"/files/book/cover/1091/cover.jpg","leading_role":"佚名","id":1091,"book_name":"毛诗正义"},{"author_name":"孔颖达","customer_url":"chunqiuzuochuanzhengyi","image_path":"/files/book/cover/1089/cover.jpg","leading_role":"佚名","id":1089,"book_name":"春秋左传正义"}]

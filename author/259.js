@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈希增","customer_url":"shenglingzhongdexile","image_path":"/files/book/cover/370/cover.jpg","leading_role":"陈希增","id":370,"book_name":"圣灵中的喜乐"}]

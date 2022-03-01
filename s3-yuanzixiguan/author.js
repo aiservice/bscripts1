@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"Atomic Habits","leading_role":"詹姆斯．克利爾（James Clear）","image_path_min":"files/book/cover/64342/cover_120.jpg","author_name":"James Clear","image_path":"files/book/cover/64342/cover.jpg","customer_url":"s3-atomichabits"}]

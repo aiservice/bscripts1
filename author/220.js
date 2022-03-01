@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林文月","customer_url":"fuluolunsinandinggeerchuan","image_path":"/files/book/cover/291/cover.jpg","leading_role":"林文月","id":291,"book_name":"弗罗伦斯·南丁格尔传"}]

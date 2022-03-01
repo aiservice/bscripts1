@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘琳","customer_url":"s3-ruhewenbierencaikenshuo","image_path":"/files/book/cover/64297/cover.jpg","leading_role":" 刘琳","id":64297,"book_name":"如何问，别人才肯说"}]

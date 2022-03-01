@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"屈原","customer_url":"chuci","image_path":"/files/book/cover/1164/cover.jpg","leading_role":"佚名","id":1164,"book_name":"楚辞"},{"author_name":"屈原","customer_url":"yuanyou","image_path":"/files/book/cover/1187/cover.jpg","leading_role":"佚名","id":1187,"book_name":"远游"}]

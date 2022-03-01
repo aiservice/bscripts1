@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"墨憨斋","customer_url":"xingminghua","image_path":"/files/book/cover/1470/cover.jpg","leading_role":"佚名","id":1470,"book_name":"醒名花"}]

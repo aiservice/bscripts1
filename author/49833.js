@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"扬雄","customer_url":"taixuanjing","image_path":"/files/book/cover/1177/cover.jpg","leading_role":"佚名","id":1177,"book_name":"太玄经"},{"author_name":"扬雄","customer_url":"fayanyishu","image_path":"/files/book/cover/1178/cover.jpg","leading_role":"佚名","id":1178,"book_name":"法言义疏"}]

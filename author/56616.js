@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孔子","customer_url":"lunyu","image_path":"/files/book/cover/1050/cover.jpg","leading_role":"孔子的弟子及再传弟子","id":1050,"book_name":"论语"},{"author_name":"孔子","customer_url":"s3-lunyu","image_path":"/files/book/cover/50994/cover.jpg","leading_role":"孔子","id":50994,"book_name":"论语"}]

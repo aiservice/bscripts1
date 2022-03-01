@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"包智敏","customer_url":"jiaoqiandenglushangguang","image_path":"/files/book/cover/600/cover.jpg","leading_role":"包智敏","id":600,"book_name":"脚前的灯，路上的光"}]

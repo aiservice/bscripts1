@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡西•科恩","customer_url":"s3-ruhepeiyanghaizideshejiaoshang","image_path":"/files/book/cover/62352/cover.jpg","leading_role":"卡西•科恩","id":62352,"book_name":"如何培养孩子的社交商"}]

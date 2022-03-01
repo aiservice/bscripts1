@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史祈生","customer_url":"xinyuezhongdefunv","image_path":"/files/book/cover/831/cover.jpg","leading_role":"史祈生","id":831,"book_name":"新约中的妇女"}]

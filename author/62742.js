@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"【英】罗伯特·戴博德","customer_url":"s3-hamaxianshengqukanxinliyisheng","image_path":"/files/book/cover/62170/cover.jpg","leading_role":"【英】罗伯特·戴博德","id":62170,"book_name":"蛤蟆先生去看心理医生"}]

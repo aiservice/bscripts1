@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[清]曾国藩","customer_url":"bingjian","image_path":"/files/book/cover/48122/cover.jpg","leading_role":"[清]曾国藩","id":48122,"book_name":"冰鉴"}]

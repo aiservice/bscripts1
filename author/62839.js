@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[以]尤瓦尔•赫拉利","customer_url":"s3-renleijianshizhishimanhua","image_path":"/files/book/cover/62270/cover.jpg","leading_role":"[以]尤瓦尔•赫拉利","id":62270,"book_name":"人类简史（知识漫画）"}]

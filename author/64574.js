@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许卫红","customer_url":"s3-kaoguyouyisi","image_path":"/files/book/cover/64838/cover.jpg","leading_role":"许卫红","id":64838,"book_name":"考古有意思：秦始皇的兵与城"}]

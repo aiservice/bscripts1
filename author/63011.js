@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马克‧W 莫菲特","customer_url":"s3-congbuluodaoguojia","image_path":"/files/book/cover/62465/cover.jpg","leading_role":"马克‧W 莫菲特(Mark W. Moffett)","id":62465,"book_name":"从部落到国家"}]

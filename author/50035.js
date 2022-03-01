@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐临","customer_url":"mingbaoji","image_path":"/files/book/cover/1540/cover.jpg","leading_role":"佚名","id":1540,"book_name":"冥报记"}]

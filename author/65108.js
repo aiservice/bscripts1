@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洪榕","customer_url":"s3-caifuziyouxinsiwei","image_path":"/files/book/cover/65608/cover.jpg","leading_role":"洪榕","id":65608,"book_name":"财富自由新思维"}]

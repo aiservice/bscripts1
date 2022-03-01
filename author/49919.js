@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"芙蓉夫人","customer_url":"chipozichuan","image_path":"/files/book/cover/1308/cover.jpg","leading_role":"佚名","id":1308,"book_name":"痴婆子传"}]

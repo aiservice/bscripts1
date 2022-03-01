@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冯秉诚","customer_url":"lingrenguizhu","image_path":"/files/book/cover/234/cover.jpg","leading_role":"冯秉诚","id":234,"book_name":"领人归主"},{"author_name":"冯秉诚","customer_url":"lichengzixuanwenji","image_path":"/files/book/cover/555/cover.jpg","leading_role":"冯秉诚（里程）","id":555,"book_name":"里程自选文集"}]

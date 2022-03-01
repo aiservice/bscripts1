@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"哈努·拉贾涅米","customer_url":"s3-xiadaoruoangsanbuqu","image_path":"/files/book/cover/65877/cover.jpg","leading_role":"[芬] 哈努·拉贾涅米","id":65877,"book_name":"“侠盗若昂”三部曲"}]

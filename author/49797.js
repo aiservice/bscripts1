@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘勰","customer_url":"wenxindiaolong","image_path":"/files/book/cover/1117/cover.jpg","leading_role":"佚名","id":1117,"book_name":"文心雕龙"}]

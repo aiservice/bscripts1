@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"文牧","customer_url":"jidushengpingheyanxun","image_path":"/files/book/cover/678/cover.jpg","leading_role":"文牧","id":678,"book_name":"基督生平和言训"}]

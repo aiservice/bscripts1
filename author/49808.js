@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王叔和","customer_url":"maijing","image_path":"/files/book/cover/1131/cover.jpg","leading_role":"佚名","id":1131,"book_name":"脉经"}]

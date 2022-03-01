@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汤姆·威廉斯","customer_url":"s3-zuiezhichengdeqishi","image_path":"/files/book/cover/64115/cover.jpg","leading_role":"[英]汤姆·威廉斯","id":64115,"book_name":"罪恶之城的骑士"}]

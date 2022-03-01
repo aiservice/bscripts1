@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华理克","customer_url":"biaoganrensheng","image_path":"/files/book/cover/72/cover.jpg","leading_role":"华理克","id":72,"book_name":"标竿人生"},{"author_name":"华理克","customer_url":"gaibianshengmingdaneng","image_path":"/files/book/cover/931/cover.jpg","leading_role":"华理克","id":931,"book_name":"改变生命大能"}]

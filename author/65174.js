@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王胜寒","customer_url":"s3-tuikaihongjiudemen","image_path":"/files/book/cover/65698/cover.jpg","leading_role":"王胜寒","id":65698,"book_name":"推开红酒的门"}]

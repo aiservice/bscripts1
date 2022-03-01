@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"琼·T·埃贝尔","customer_url":"s3-shuailaodezhenxiang","image_path":"/files/book/cover/64901/cover.jpg","leading_role":"琼·T·埃贝尔 / 丽诺尔·T.舒可曼","id":64901,"book_name":"衰老的真相"}]

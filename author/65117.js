@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏珊·佩德森","customer_url":"s3-shouhuzhe","image_path":"/files/book/cover/65621/cover.jpg","leading_role":"苏珊·佩德森","id":65621,"book_name":"守护者 : 国际联盟与帝国危机"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]玛丽.沃斯通克拉夫特","customer_url":"s3-weinvquanbianhu","image_path":"/files/book/cover/62309/cover.jpg","leading_role":"[英]玛丽.沃斯通克拉夫特","id":62309,"book_name":"为女权辩护"}]

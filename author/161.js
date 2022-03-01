@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴理恩","customer_url":"israel-history-overview","image_path":"/files/book/cover/179/cover.jpg","leading_role":"吴理恩","id":179,"book_name":"以色列史综览"}]

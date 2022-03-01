@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史伯克","customer_url":"shenglingjiaohuiwg","image_path":"/files/book/cover/163/cover.jpg","leading_role":"史伯克","id":163,"book_name":"圣灵、教会和万国"}]

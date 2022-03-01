@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲁道夫•德雷克斯","customer_url":"s3-haizitiaozhan","image_path":"/files/book/cover/64567/cover.jpg","leading_role":"鲁道夫•德雷克斯 ","id":64567,"book_name":"孩子：挑战"},{"author_name":"鲁道夫•德雷克斯","customer_url":"s3-fumutiaozhan","image_path":"/files/book/cover/64566/cover.jpg","leading_role":"[美] 鲁道夫•德雷克斯","id":64566,"book_name":"父母：挑战"}]

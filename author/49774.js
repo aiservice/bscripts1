@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李绛","customer_url":"lixiangguolunshiji","image_path":"/files/book/cover/1082/cover.jpg","leading_role":"佚名","id":1082,"book_name":"李相国论事集"}]

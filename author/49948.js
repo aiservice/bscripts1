@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"岑仲勉 撰","customer_url":"mozichengshougepianjianzhu","image_path":"/files/book/cover/1368/cover.jpg","leading_role":"佚名","id":1368,"book_name":"墨子城守各篇简注"}]

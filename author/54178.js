@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"珊朵拉","customer_url":"weihehaiyaoguanxinyiselie","image_path":"/files/book/cover/45097/cover.jpg","leading_role":"珊朵拉","id":45097,"book_name":"为何还要关心以色列"}]

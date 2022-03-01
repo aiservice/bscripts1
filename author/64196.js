@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐·惠特尼","customer_url":"s1-jiatingjingbai","image_path":"/files/book/cover/64334/cover.jpg","leading_role":"唐·惠特尼（Donald S. Whitney）著","id":64334,"book_name":"家庭敬拜"}]

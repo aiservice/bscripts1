@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贵志佑介","customer_url":"s3-bolizhichui","image_path":"/files/book/cover/65433/cover.jpg","leading_role":"贵志佑介","id":65433,"book_name":"玻璃之锤"}]

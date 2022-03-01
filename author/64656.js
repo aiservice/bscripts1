@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马尔科姆·格拉德威尔","customer_url":"s3-moshengrenxiaoying","image_path":"/files/book/cover/64966/cover.jpg","leading_role":" [加] 马尔科姆·格拉德威尔","id":64966,"book_name":"陌生人效应"}]

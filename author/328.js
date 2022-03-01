@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"帕特·基辛格","customer_url":"pinghengdezhihui","image_path":"/files/book/cover/502/cover.jpg","leading_role":"帕特·基辛格 ","id":502,"book_name":"平衡的智慧"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"闲斋氏","customer_url":"yetansuilu","image_path":"/files/book/cover/1435/cover.jpg","leading_role":"佚名","id":1435,"book_name":"夜谭随录"}]

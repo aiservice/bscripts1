@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 格雷格·卢金诺夫","customer_url":"s3-jiaoguandexinling","image_path":"/files/book/cover/62383/cover.jpg","leading_role":" [美] 格雷格·卢金诺夫","id":62383,"book_name":"娇惯的心灵"}]

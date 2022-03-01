@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陆羽","customer_url":"chajing","image_path":"/files/book/cover/1088/cover.jpg","leading_role":"佚名","id":1088,"book_name":"茶经"}]

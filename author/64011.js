@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"R.塔格特·墨菲","customer_url":"s3-ribenjiqilishijiasuo","image_path":"/files/book/cover/64071/cover.jpg","leading_role":"[美] R.塔格特·墨菲","id":64071,"book_name":"日本及其历史枷锁"}]

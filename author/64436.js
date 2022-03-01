@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王铁钧","customer_url":"s3-hanzidegushi","image_path":"/files/book/cover/64663/cover.jpg","leading_role":"王铁钧","id":64663,"book_name":"汉字的故事"}]

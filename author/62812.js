@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"宫部美雪","customer_url":"s3-gongbumeixuejingdiandaquanji","image_path":"/files/book/cover/62243/cover.jpg","leading_role":"宫部美雪","id":62243,"book_name":"宫部美雪经典大全集（共18册）"},{"author_name":"宫部美雪","customer_url":"s3-mofangfan","image_path":"/files/book/cover/64873/cover.jpg","leading_role":" [日] 宫部美雪","id":64873,"book_name":"模仿犯"}]

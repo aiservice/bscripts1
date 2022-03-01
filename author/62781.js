@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王伟","customer_url":"s3-yibenshukandongdiyuanshijie","image_path":"/files/book/cover/62211/cover.jpg","leading_role":"鬼谷工作室·王伟 著","id":62211,"book_name":"一本书看懂地缘世界"}]

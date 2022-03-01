@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洪光良","customer_url":"hongguangliangjiangzhang","image_path":"/files/book/cover/775/cover.jpg","leading_role":"洪光良","id":775,"book_name":"洪光良讲章"}]

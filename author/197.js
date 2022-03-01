@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李加理","customer_url":"xinyangdeyuanwei","image_path":"/files/book/cover/242/cover.jpg","leading_role":"李加理","id":242,"book_name":"信仰的原委"}]

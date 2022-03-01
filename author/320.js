@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"费伯益","customer_url":"ruhemingbianshendeshengyin","image_path":"/files/book/cover/486/cover.jpg","leading_role":"费伯益","id":486,"book_name":"如何明辨神的声音"}]

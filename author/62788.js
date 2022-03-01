@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱因斯坦","customer_url":"s3-wodesixiangyuguannian","image_path":"/files/book/cover/62218/cover.jpg","leading_role":"爱因斯坦","id":62218,"book_name":"我的思想与观念"}]

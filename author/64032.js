@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲利普·古雷维奇","customer_url":"s3-xiangningaozhimingtianwomenyijiajiuyaobeisha","image_path":"/files/book/cover/64098/cover.jpg","leading_role":"[美]菲利普·古雷维奇","id":64098,"book_name":"向您告知，明天我们一家就要被杀"}]

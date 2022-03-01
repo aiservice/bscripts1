@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈蒙恩","customer_url":"198sifuyinyinanwenyuda","image_path":"/files/book/cover/681/cover.jpg","leading_role":"陈蒙恩","id":681,"book_name":"198四福音疑难问与答"}]

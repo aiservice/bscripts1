@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨潇","customer_url":"s3-zhongzou","image_path":"/files/book/cover/65397/cover.jpg","leading_role":"杨潇","id":65397,"book_name":"重走 : 在公路、河流和驿道上寻找西南联大"}]

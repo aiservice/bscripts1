@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史蒂尔","customer_url":"jidutugongzuodezhidaoyuanze","image_path":"/files/book/cover/946/cover.jpg","leading_role":" 史蒂尔 著 张澄道 译","id":946,"book_name":"基督徒工作的指导原则"}]

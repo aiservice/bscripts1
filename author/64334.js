@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈克尔·⽡提裘提斯","customer_url":"s3-jifengchuifudetudi","image_path":"/files/book/cover/64521/cover.jpg","leading_role":" [英] 迈克尔·⽡提裘提斯","id":64521,"book_name":"季风吹拂的土地"}]

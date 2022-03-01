@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王余佑","customer_url":"qiankundalve","image_path":"/files/book/cover/1369/cover.jpg","leading_role":"佚名","id":1369,"book_name":"乾坤大略"}]

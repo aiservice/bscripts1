@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李天禄","customer_url":"riyongdeyinshi","image_path":"/files/book/cover/864/cover.jpg","leading_role":"李天禄","id":864,"book_name":"日用的饮食"}]

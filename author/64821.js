@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尤瓦尔·赫拉利","customer_url":"s3-renleijianshi2","image_path":"/files/book/cover/65197/cover.jpg","leading_role":"[以] 尤瓦尔·赫拉利","id":65197,"book_name":"人类简史 : 从动物到上帝"}]

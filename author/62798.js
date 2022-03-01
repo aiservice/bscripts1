@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金鱼酱","customer_url":"s3-renjiangaobai","image_path":"/files/book/cover/62228/cover.jpg","leading_role":"金鱼酱","id":62228,"book_name":"人间告白"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴乔治","customer_url":"lingdaohualingdao","image_path":"/files/book/cover/902/cover.jpg","leading_role":"巴乔治（George Barna）","id":902,"book_name":"领导话领导"}]

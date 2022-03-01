@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"司马迁","customer_url":"shiji","image_path":"/files/book/cover/1026/cover.jpg","leading_role":"司马迁","id":1026,"book_name":"史记"}]

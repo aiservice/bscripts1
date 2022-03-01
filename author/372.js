@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卢勤","customer_url":"nizhenbang","image_path":"/files/book/cover/589/cover.jpg","leading_role":"卢勤","id":589,"book_name":"告诉孩子，你真棒！"}]

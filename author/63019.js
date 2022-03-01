@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"万维钢","customer_url":"s3-xuexijiujingshishenme","image_path":"/files/book/cover/62473/cover.jpg","leading_role":"万维钢","id":62473,"book_name":"学习究竟是什么"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"托尼·罗宾斯","customer_url":"s3-bukehandongdecaiwuziyou","image_path":"/files/book/cover/64345/cover.jpg","leading_role":"[美]托尼·罗宾斯","id":64345,"book_name":"不可撼动的财务自由"}]

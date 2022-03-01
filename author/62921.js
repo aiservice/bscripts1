@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"武志红","customer_url":"s3-helingyigezijitantanxin","image_path":"/files/book/cover/62360/cover.jpg","leading_role":"武志红","id":62360,"book_name":"和另一个自己谈谈心"}]

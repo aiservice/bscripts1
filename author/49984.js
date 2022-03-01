@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴研人","customer_url":"jiumingqiyuan","image_path":"/files/book/cover/1439/cover.jpg","leading_role":"佚名","id":1439,"book_name":"九命奇冤"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"米兰达·裘丽","customer_url":"s3-meiyourenbinigengshuyuzheli","image_path":"/files/book/cover/65777/cover.jpg","leading_role":" [美] 米兰达·裘丽","id":65777,"book_name":"没有人比你更属于这里"}]

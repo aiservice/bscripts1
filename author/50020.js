@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王韬","customer_url":"songyinmanlu","image_path":"/files/book/cover/1520/cover.jpg","leading_role":"佚名","id":1520,"book_name":"淞隐漫录"}]

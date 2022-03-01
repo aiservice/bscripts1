@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林牧","customer_url":"jiuyuelishiyudaolun","image_path":"/files/book/cover/185/cover.jpg","leading_role":"林 牧","id":185,"book_name":"旧约历史与导论讲义"}]

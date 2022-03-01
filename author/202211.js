@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海瑟·安·汤普森","customer_url":"s3-shuizhongxue","image_path":"/files/book/cover/65895/cover.jpg","leading_role":" [美]海瑟·安·汤普森","id":65895,"book_name":"水中血"}]

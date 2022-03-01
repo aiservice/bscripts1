@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陶立夏","customer_url":"s3-tianyueliang","image_path":"/files/book/cover/65421/cover.jpg","leading_role":"陶立夏 / 卤猫","id":65421,"book_name":"甜月亮"}]

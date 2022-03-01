@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·迪克森·卡尔","customer_url":"s3-sankouguancai","image_path":"/files/book/cover/65762/cover.jpg","leading_role":"[美]约翰·迪克森·卡尔","id":65762,"book_name":"三口棺材"},{"author_name":"约翰·迪克森·卡尔","customer_url":"s3-eryuzhiren","image_path":"/files/book/cover/65833/cover.jpg","leading_role":" [美] 约翰·迪克森·卡尔","id":65833,"book_name":"耳语之人"}]

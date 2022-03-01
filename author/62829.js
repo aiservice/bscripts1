@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"(德) 蒂尔·伦内伯格","customer_url":"s3-womenweishenmehuijuedelei","image_path":"/files/book/cover/62260/cover.jpg","leading_role":" (德) 蒂尔·伦内伯格","id":62260,"book_name":"我们为什么会觉得累"}]

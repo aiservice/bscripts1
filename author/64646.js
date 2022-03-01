@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"兰思思","customer_url":"s3-xiegushidezheng","image_path":"/files/book/cover/64953/cover.jpg","leading_role":"兰思思","id":64953,"book_name":"写故事的筝"}]

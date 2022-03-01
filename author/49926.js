@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"灌圃耐得翁","customer_url":"douchengjisheng","image_path":"/files/book/cover/1323/cover.jpg","leading_role":"佚名","id":1323,"book_name":"都城纪胜"}]

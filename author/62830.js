@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]中岛敦","customer_url":"s3-shanyueji","image_path":"/files/book/cover/62261/cover.jpg","leading_role":" [日]中岛敦","id":62261,"book_name":"山月记"}]

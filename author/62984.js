@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 左霆","customer_url":"s3-dingyuejingji","image_path":"/files/book/cover/62434/cover.jpg","leading_role":" [美] 左霆","id":62434,"book_name":"订阅经济"}]

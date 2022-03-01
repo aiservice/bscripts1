@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"十四郎","customer_url":"s3-liulimeirensha","image_path":"/files/book/cover/62372/cover.jpg","leading_role":"十四郎","id":62372,"book_name":"琉璃美人煞"},{"author_name":"十四郎","customer_url":"s3-sanqianyasha","image_path":"/files/book/cover/59114/cover.jpg","leading_role":"十四郎","id":59114,"book_name":"三千鸦杀"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"托马斯.文森特","customer_url":"weisiminsidexiaojiaoliwendashiyi","image_path":"/files/book/cover/269/cover.jpg","leading_role":"托马斯.文森特","id":269,"book_name":"威斯敏斯德小教理问答释义"}]

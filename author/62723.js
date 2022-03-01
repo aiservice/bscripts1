@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"那多","customer_url":"s3-qishidexianji","image_path":"/files/book/cover/62135/cover.jpg","leading_role":"那多","id":62135,"book_name":"骑士的献祭"}]

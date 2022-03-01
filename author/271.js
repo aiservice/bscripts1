@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"保罗•班德","customer_url":"shendejiezuo1","image_path":"/files/book/cover/388/cover.jpg","leading_role":"保罗•班德 / 杨腓力","id":388,"book_name":"神的杰作"}]

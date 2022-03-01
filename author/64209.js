@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏科图·梅塔","customer_url":"s3-mengmaiyuwangconglin","image_path":"/files/book/cover/64349/cover.jpg","leading_role":"[印] 苏科图·梅塔","id":64349,"book_name":"孟买：欲望丛林"}]

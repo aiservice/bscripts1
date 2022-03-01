@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"候乐道","customer_url":"shulingdeenci","image_path":"/files/book/cover/417/cover.jpg","leading_role":"候乐道","id":417,"book_name":"属灵的恩赐"}]

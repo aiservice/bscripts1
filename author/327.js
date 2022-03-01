@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡识珍","customer_url":"tashishei","image_path":"/files/book/cover/501/cover.jpg","leading_role":"蔡识珍","id":501,"book_name":"她是谁"}]

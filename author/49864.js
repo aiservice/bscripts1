@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李海观","customer_url":"qiludeng","image_path":"/files/book/cover/1220/cover.jpg","leading_role":"佚名","id":1220,"book_name":"歧路灯"}]

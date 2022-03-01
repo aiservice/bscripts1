@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴致进","customer_url":"fuyinzhiguang","image_path":"/files/book/cover/507/cover.jpg","leading_role":"戴致进","id":507,"book_name":"福音之光"}]

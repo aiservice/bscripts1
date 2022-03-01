@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李汉文","customer_url":"jiyaochajing52ke","image_path":"/files/book/cover/825/cover.jpg","leading_role":"李汉文","id":825,"book_name":"基要查经52课"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"内森·沃尔夫","customer_url":"s3-bingdufangyuhexinlifuyuanlisanbuqu","image_path":"/files/book/cover/64296/cover.jpg","leading_role":"内森·沃尔夫, 乔·马钱特等","id":64296,"book_name":"病毒防御和心理复原力三部曲"}]

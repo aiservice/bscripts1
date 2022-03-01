@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈彼得","customer_url":"s1-engaowujia","image_path":"/files/book/cover/62142/cover.jpg","leading_role":"陈彼得","id":62142,"book_name":"恩膏无价"}]

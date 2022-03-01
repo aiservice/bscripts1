@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梅尔维尔","customer_url":"s3-baijing","image_path":"/files/book/cover/65670/cover.jpg","leading_role":" [美] 梅尔维尔","id":65670,"book_name":"白鲸"}]

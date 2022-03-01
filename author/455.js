@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"章伯斯","customer_url":"jiechengweizhu","image_path":"/files/book/cover/749/cover.jpg","leading_role":"章伯斯","id":749,"book_name":"竭诚为主"}]

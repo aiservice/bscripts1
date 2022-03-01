@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]阿伏伽德六","customer_url":"s3-manshikongxuzhiwu","image_path":"/files/book/cover/62368/cover.jpg","leading_role":"[日]阿伏伽德六","id":62368,"book_name":"满是空虚之物"}]

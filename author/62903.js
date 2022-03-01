@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"易中天","customer_url":"s3-yizhongtianzhonghuashi23","image_path":"/files/book/cover/65162/cover.jpg","leading_role":"易中天","id":65162,"book_name":"易中天中华史：大航海时代"},{"author_name":"易中天","customer_url":"s3-yizhongtiantanmei","image_path":"/files/book/cover/62343/cover.jpg","leading_role":"易中天","id":62343,"book_name":"易中天谈美"}]

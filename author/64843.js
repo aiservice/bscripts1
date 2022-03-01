@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏珊·格林菲尔德","customer_url":"s3-danaodeyitian","image_path":"/files/book/cover/65227/cover.jpg","leading_role":"[英] 苏珊·格林菲尔德","id":65227,"book_name":"大脑的一天"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曺秉镐","customer_url":"5empires-in-the-bible","image_path":"/files/book/cover/753/cover.jpg","leading_role":"【韩】曺秉镐","id":753,"book_name":"消失的帝国"}]

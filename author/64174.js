@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"稻盛和夫","customer_url":"s3-daoshenghefujingyingshilu","image_path":"/files/book/cover/64300/cover.jpg","leading_role":"稻盛和夫","id":64300,"book_name":"稻盛和夫经营实录（共5册）"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"肯•福莱特","customer_url":"s3-anyeyulimingquan2ce","image_path":"/files/book/cover/62470/cover.jpg","leading_role":"肯•福莱特","id":62470,"book_name":"暗夜与黎明（全2册）"}]

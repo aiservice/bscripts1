@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马虫医生","customer_url":"s3-nidediyibenchuyeshouce","image_path":"/files/book/cover/64096/cover.jpg","leading_role":"马虫医生","id":64096,"book_name":"你的第一本「初夜」手册"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马西莫·匹格里奇","customer_url":"s3-zhexuedezhiyin","image_path":"/files/book/cover/64786/cover.jpg","leading_role":"马西莫·匹格里奇","id":64786,"book_name":"哲学的指引"}]

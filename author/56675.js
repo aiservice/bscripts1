@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[韩]赵南柱","customer_url":"82nianshengdejinzhiying","image_path":"/files/book/cover/48216/cover.jpg","leading_role":"金智英","id":48216,"book_name":"82年生的金智英"}]

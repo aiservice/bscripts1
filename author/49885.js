@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"崔象川","customer_url":"yuchanji","image_path":"/files/book/cover/1259/cover.jpg","leading_role":"佚名","id":1259,"book_name":"玉蟾记"}]

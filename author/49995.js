@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"佩蘅子","customer_url":"wujiangxue","image_path":"/files/book/cover/1469/cover.jpg","leading_role":"佚名","id":1469,"book_name":"吴江雪"}]

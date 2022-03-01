@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马克•哈登","customer_url":"s3-shenyexiaogoushenmishijian","image_path":"/files/book/cover/63890/cover.jpg","leading_role":"[英]马克•哈登 Mark Haddon","id":63890,"book_name":"深夜小狗神秘事件"}]

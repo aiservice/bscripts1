@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]毛姆","customer_url":"renxingdejiasuo","image_path":"/files/book/cover/48133/cover.jpg","leading_role":"[英]毛姆","id":48133,"book_name":"人性的枷锁"},{"author_name":"[英]毛姆","customer_url":"yueliangheliubianshi","image_path":"/files/book/cover/48141/cover.jpg","leading_role":"[英]毛姆","id":48141,"book_name":"月亮和六便士"}]

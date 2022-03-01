@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金松岑、曾朴","customer_url":"niehaihua","image_path":"/files/book/cover/1258/cover.jpg","leading_role":"佚名","id":1258,"book_name":"孽海花"}]

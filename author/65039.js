@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"豆豆","customer_url":"s3-yaoyuandejiushizhu","image_path":"/files/book/cover/65513/cover.jpg","leading_role":"豆豆","id":65513,"book_name":"遥远的救世主"}]

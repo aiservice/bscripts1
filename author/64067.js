@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"范内瓦·布什","customer_url":"s3-kexuewujindeqianyan","image_path":"/files/book/cover/64137/cover.jpg","leading_role":"范内瓦·布什 / 拉什·D.霍尔特 / 崔传刚","id":64137,"book_name":"科学：无尽的前沿"}]

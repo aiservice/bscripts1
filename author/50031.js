@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"醒世居士","customer_url":"baduanjin","image_path":"/files/book/cover/1535/cover.jpg","leading_role":"佚名","id":1535,"book_name":"八段锦"}]

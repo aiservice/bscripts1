@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金冲及","customer_url":"s3-xiangkaiguolingxiuxuexigongzuofangfa","image_path":"/files/book/cover/64825/cover.jpg","leading_role":"金冲及","id":64825,"book_name":"向开国领袖学习工作方法"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨爱德","customer_url":"qichu","image_path":"/files/book/cover/877/cover.jpg","leading_role":"杨爱德","id":877,"book_name":"起初"}]

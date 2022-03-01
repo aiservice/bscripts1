@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赛斯","customer_url":"qinzishuangyingdejiaoyangzhihui","image_path":"/files/book/cover/41614/cover.jpg","leading_role":"赛斯 & 萝伦 达尔","id":41614,"book_name":"亲子双赢的教养智慧"}]

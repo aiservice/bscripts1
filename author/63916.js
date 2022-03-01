@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡勒德·胡赛尼","customer_url":"s3-zhuifengzhengderen","image_path":"/files/book/cover/63933/cover.jpg","leading_role":"[美] 卡勒德·胡赛尼","id":63933,"book_name":"追风筝的人"},{"author_name":"卡勒德·胡赛尼","customer_url":"s3-canlanqianyang","image_path":"/files/book/cover/63960/cover.jpg","leading_role":" [美] 卡勒德·胡赛尼","id":63960,"book_name":"灿烂千阳"}]

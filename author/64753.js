@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"香农·柯克","customer_url":"s3-beiqiujindenvhai","image_path":"/files/book/cover/65100/cover.jpg","leading_role":"[美] 香农·柯克","id":65100,"book_name":"被囚禁的女孩"}]

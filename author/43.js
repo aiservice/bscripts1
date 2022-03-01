@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱利安·威尔逊","customer_url":"the-end-of-the-sacred","image_path":"/files/book/cover/11/cover.jpg","leading_role":"埃里克·利德尔","id":11,"book_name":"神圣的终点"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗杰•夸伊","customer_url":"yesuquanmao","image_path":"/files/book/cover/873/cover.jpg","leading_role":"罗杰•夸伊","id":873,"book_name":"耶稣全貌"}]

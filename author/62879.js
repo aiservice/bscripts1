@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 叶真中显","customer_url":"s3-juejiao","image_path":"/files/book/cover/62319/cover.jpg","leading_role":"[日] 叶真中显","id":62319,"book_name":"绝叫"}]

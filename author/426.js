@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"歌士瑞","customer_url":"jidutuzhenweibian","image_path":"/files/book/cover/697/cover.jpg","leading_role":"歌士瑞（ William Guthrie ）  易铭 译 ","id":697,"book_name":"基督徒真伪辨"}]

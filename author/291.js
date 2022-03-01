@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"中国基督教书刊","customer_url":"duanwenjijin","image_path":"/files/book/cover/432/cover.jpg","leading_role":"中国基督教书刊","id":432,"book_name":"短文集锦"}]

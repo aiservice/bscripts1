@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李伊","customer_url":"s3-touzinvwang","image_path":"/files/book/cover/64894/cover.jpg","leading_role":"李伊","id":64894,"book_name":"投资女王"}]

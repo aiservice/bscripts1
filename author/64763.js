@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王慧玲","customer_url":"s3-jicengnvxing","image_path":"/files/book/cover/65117/cover.jpg","leading_role":"王慧玲","id":65117,"book_name":"基层女性"}]

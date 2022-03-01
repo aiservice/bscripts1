@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲利普·拉金","customer_url":"s3-yingyaozhizuo","image_path":"/files/book/cover/64848/cover.jpg","leading_role":" [英] 菲利普·拉金","id":64848,"book_name":"应邀之作：拉金随笔"}]

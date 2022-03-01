@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丹尼斯·雷尼","customer_url":"gongduhaoshiguang","image_path":"/files/book/cover/43191/cover.jpg","leading_role":"丹尼斯·雷尼","id":43191,"book_name":"共度好时光"}]

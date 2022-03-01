@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗隐","customer_url":"chanshu","image_path":"/files/book/cover/1107/cover.jpg","leading_role":"佚名","id":1107,"book_name":"谗书"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴勇","customer_url":"chaqianyuzhuangbei","image_path":"/files/book/cover/830/cover.jpg","leading_role":"吴勇","id":830,"book_name":"差遣与装备"}]

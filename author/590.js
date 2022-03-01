@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丁墨","customer_url":"nihewodeqingchengshiguang","image_path":"/files/book/cover/1001/cover.jpg","leading_role":"林浅","id":1001,"book_name":"你和我的倾城时光"}]

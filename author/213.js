@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨钟禄","customer_url":"moshiyuyan","image_path":"/files/book/cover/282/cover.jpg","leading_role":"杨钟禄","id":282,"book_name":"末世预言"}]

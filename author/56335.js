@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"纪思","customer_url":"moshihuarenmingding","image_path":"/files/book/cover/47787/cover.jpg","leading_role":"纪思","id":47787,"book_name":"末世华人命定"}]

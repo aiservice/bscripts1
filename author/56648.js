@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"明前雨后","customer_url":"huerjinxia","image_path":"/files/book/cover/48156/cover.jpg","leading_role":"明前雨后","id":48156,"book_name":"忽而今夏"}]

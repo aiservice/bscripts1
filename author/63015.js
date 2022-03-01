@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洪灝","customer_url":"s3-yucejingjizhouqiyushichangpaomo","image_path":"/files/book/cover/62469/cover.jpg","leading_role":"洪灝 ","id":62469,"book_name":"预测：经济、周期与市场泡沫"}]

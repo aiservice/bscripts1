@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"盗墓笔记书友","customer_url":"daomubijishuping","image_path":"/files/book/cover/48285/cover.jpg","leading_role":"盗墓笔记书友","id":48285,"book_name":"盗墓笔记 书评"}]

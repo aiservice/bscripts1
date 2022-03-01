@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许牧世","customer_url":"mantankuangshiqishushengjing","image_path":"/files/book/cover/675/cover.jpg","leading_role":"许牧世","id":675,"book_name":"漫谈旷世奇书圣经"}]

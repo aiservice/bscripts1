@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨筱松","customer_url":"hanlongjing","image_path":"/files/book/cover/1108/cover.jpg","leading_role":"佚名","id":1108,"book_name":"撼龙经"}]

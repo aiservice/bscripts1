@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑执","customer_url":"s3-xianzheng","image_path":"/files/book/cover/62276/cover.jpg","leading_role":"郑执","id":62276,"book_name":"仙症"}]

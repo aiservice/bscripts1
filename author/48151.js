@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"东山云中道人","customer_url":"tangzhongkuipingguichuan","image_path":"/files/book/cover/1630/cover.jpg","leading_role":"佚名","id":1630,"book_name":"唐钟馗平鬼传"}]

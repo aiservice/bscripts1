@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许嵩","customer_url":"jiankangshilu","image_path":"/files/book/cover/1081/cover.jpg","leading_role":"佚名","id":1081,"book_name":"建康实录"}]

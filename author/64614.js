@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"便雅悯兴起","customer_url":"s1-pochuzhouzuxilie","image_path":"/files/book/cover/64898/cover.jpg","leading_role":"便雅悯兴起","id":64898,"book_name":"破除咒诅系列"}]

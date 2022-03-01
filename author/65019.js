@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"科马克·麦卡锡","customer_url":"s3-changlu","image_path":"/files/book/cover/65669/cover.jpg","leading_role":" [美] 科马克·麦卡锡","id":65669,"book_name":"长路"},{"author_name":"科马克·麦卡锡","customer_url":"s3-shouwangguoyuan","image_path":"/files/book/cover/65487/cover.jpg","leading_role":" [美] 科马克·麦卡锡","id":65487,"book_name":"守望果园"}]

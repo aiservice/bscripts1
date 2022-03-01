@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布雷特·安德森","customer_url":"s3-laxiabaiyechuangdewuhou","image_path":"/files/book/cover/65767/cover.jpg","leading_role":" [英]布雷特·安德森","id":65767,"book_name":"拉下百叶窗的午后"}]

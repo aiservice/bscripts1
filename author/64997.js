@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈军","customer_url":"s3-dayingxiaozhexue","image_path":"/files/book/cover/65457/cover.jpg","leading_role":" 陈军","id":65457,"book_name":"大营销哲学"}]

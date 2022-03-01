@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玛丽·奥利弗","customer_url":"s3-shigeshouce","image_path":"/files/book/cover/64080/cover.jpg","leading_role":"[美]玛丽·奥利弗（Mary Oliver）","id":64080,"book_name":"诗歌手册"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴琦","customer_url":"s3-dandushizhounianteji","image_path":"/files/book/cover/62330/cover.jpg","leading_role":"吴琦 主编","id":62330,"book_name":"单读十周年特辑"}]

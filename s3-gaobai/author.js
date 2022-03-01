@@ -1,1 +1,0 @@
-var authorList=[{"image_path_min":"/files/book/cover/64043/cover.jpg","author_name":"凑佳苗","customer_url":"s3-wangfushujian","image_path":"/files/book/cover/64043/cover.jpg","leading_role":" [日] 凑佳苗","book_name":"往复书简"}]

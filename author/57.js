@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尹道明","customer_url":"the-light-guide","image_path":"/files/book/cover/27/cover.jpg","leading_role":"尹道明","id":27,"book_name":"圣光指引"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马克·尉克勤","customer_url":"jifengxiyu","image_path":"/files/book/cover/43091/cover.jpg","leading_role":"马克·尉克勤","id":43091,"book_name":"疾风细语"}]

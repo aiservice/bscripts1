@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴晓波","customer_url":"s3-yingxiangshangyede50benshu","image_path":"/files/book/cover/62306/cover.jpg","leading_role":"吴晓波","id":62306,"book_name":"影响商业的50本书"},{"author_name":"吴晓波","customer_url":"s3-jidangshinianshuidayuda","image_path":"/files/book/cover/65098/cover.jpg","leading_role":"吴晓波","id":65098,"book_name":"激荡十年，水大鱼大"}]

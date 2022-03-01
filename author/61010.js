@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"电线","customer_url":"s3-xiangmichenchenjinrushuang","image_path":"/files/book/cover/59494/cover.jpg","leading_role":"电线","id":59494,"book_name":"香蜜沉沉烬如霜"}]

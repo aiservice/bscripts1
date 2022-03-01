@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 侯世达 / [美] 丹尼尔·丹","customer_url":"s3-woshishuihuoshenme","image_path":"/files/book/cover/62392/cover.jpg","leading_role":" [美] 侯世达 / [美] 丹尼尔·丹尼特","id":62392,"book_name":"我是谁，或什么"}]

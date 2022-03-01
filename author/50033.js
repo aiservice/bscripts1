@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"抱瓮老人","customer_url":"jinguqiguan","image_path":"/files/book/cover/1537/cover.jpg","leading_role":"佚名","id":1537,"book_name":"今古奇观"}]

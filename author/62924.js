@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李杰","customer_url":"s3-fulixintu","image_path":"/files/book/cover/62362/cover.jpg","leading_role":"李杰 ","id":62362,"book_name":"复利信徒"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"胡适","customer_url":"s3-hushiwenji","image_path":"/files/book/cover/64114/cover.jpg","leading_role":"胡适","id":64114,"book_name":"胡适文集"}]

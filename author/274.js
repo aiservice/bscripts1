@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐崇平","customer_url":"tangchongpingjiangzhang","image_path":"/files/book/cover/768/cover.jpg","leading_role":"唐崇平","id":768,"book_name":"唐崇平讲章"},{"author_name":"唐崇平","customer_url":"jidujiaoxinyangshiyi","image_path":"/files/book/cover/396/cover.jpg","leading_role":"唐崇平","id":396,"book_name":"基督教信仰实义"}]

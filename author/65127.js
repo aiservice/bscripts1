@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"今村夏子","customer_url":"s3-wurenzhixiaodezhenyouzi","image_path":"/files/book/cover/65635/cover.jpg","leading_role":" [日] 今村夏子","id":65635,"book_name":"无人知晓的真由子"}]

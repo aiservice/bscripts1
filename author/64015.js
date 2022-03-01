@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玛格丽特·阿特伍德","customer_url":"s3-zhengyan","image_path":"/files/book/cover/64076/cover.jpg","leading_role":"[加] 玛格丽特·阿特伍德","id":64076,"book_name":"证言"}]

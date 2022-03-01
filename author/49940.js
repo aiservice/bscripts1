@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许慎","customer_url":"shuowenjiezi","image_path":"/files/book/cover/1353/cover.jpg","leading_role":"佚名","id":1353,"book_name":"说文解字"}]

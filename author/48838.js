@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙高亮","customer_url":"yushaobaocuizhongchuan","leading_role":"佚名","id":1473,"book_name":"于少保萃忠传"}]

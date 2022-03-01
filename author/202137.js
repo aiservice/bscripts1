@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"霍昌·纳哈万迪","customer_url":"s3-yilangsiqiannian","image_path":"/files/book/cover/65774/cover.jpg","leading_role":"[伊]霍昌·纳哈万迪","id":65774,"book_name":"伊朗四千年"}]

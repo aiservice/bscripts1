@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"风之色彩","customer_url":"heart-belongs-to-where","image_path":"/files/book/cover/3/cover.jpg","leading_role":"心归何处","id":3,"book_name":"心归何处"},{"author_name":"风之色彩","customer_url":"shengjingqishideshenxingbiaoji","image_path":"/files/book/cover/244/cover.jpg","leading_role":"风之色彩","id":244,"book_name":"圣经启示的神性标记"}]

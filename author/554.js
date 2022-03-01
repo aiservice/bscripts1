@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑起老","customer_url":"zuimeidepeiban","image_path":"/files/book/cover/930/cover.jpg","leading_role":"[韩]郑起老","id":930,"book_name":"最美的陪伴"}]

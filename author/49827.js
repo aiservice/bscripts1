@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"桓宽","customer_url":"yantielun","image_path":"/files/book/cover/1166/cover.jpg","leading_role":"佚名","id":1166,"book_name":"盐铁论"}]

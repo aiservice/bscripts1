@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"都门贪梦道人","customer_url":"yongqingshengpinghouchuan","image_path":"/files/book/cover/1476/cover.jpg","leading_role":"佚名","id":1476,"book_name":"永庆升平后传"}]

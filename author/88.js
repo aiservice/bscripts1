@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"慕理","customer_url":"grace-and-salvation","image_path":"/files/book/cover/68/cover.jpg","leading_role":"慕理","id":68,"book_name":"再思救赎奇恩"}]

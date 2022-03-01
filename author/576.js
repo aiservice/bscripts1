@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗炳良","customer_url":"shenglezonglun","image_path":"/files/book/cover/977/cover.jpg","leading_role":"罗炳良","id":977,"book_name":"圣乐综论"}]

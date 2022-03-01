@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰夫·贝索斯","customer_url":"s3-chuangzaoyumanxiang","image_path":"/files/book/cover/64523/cover.jpg","leading_role":"杰夫·贝索斯","id":64523,"book_name":"創造與漫想"}]

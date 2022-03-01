@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙述宇","customer_url":"s3-jinpingmeideyishu","image_path":"/files/book/cover/65257/cover.jpg","leading_role":"孙述宇","id":65257,"book_name":"金瓶梅的艺术"}]

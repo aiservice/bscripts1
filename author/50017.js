@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"颐琐述","customer_url":"huangxiuqiu","image_path":"/files/book/cover/1516/cover.jpg","leading_role":"佚名","id":1516,"book_name":"黄绣球"}]

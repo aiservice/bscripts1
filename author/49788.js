@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"段安节","customer_url":"lefuzalu","image_path":"/files/book/cover/1104/cover.jpg","leading_role":"佚名","id":1104,"book_name":"乐府杂录"}]

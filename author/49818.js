@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘劭","customer_url":"renwuzhi","image_path":"/files/book/cover/1145/cover.jpg","leading_role":"佚名","id":1145,"book_name":"人物志"}]

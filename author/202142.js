@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特•泽塔勒","customer_url":"s3-daxuejiangzhi","image_path":"/files/book/cover/65779/cover.jpg","leading_role":"罗伯特•泽塔勒","id":65779,"book_name":"大雪将至"}]

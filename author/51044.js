@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王翔","customer_url":"yudaoxiaogushitongwangmeilizhididexiaolu","image_path":"/files/book/cover/40488/cover.jpg","leading_role":"王翔","id":40488,"book_name":"喻道小故事"}]

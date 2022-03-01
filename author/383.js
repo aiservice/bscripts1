@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙大信","customer_url":"lingjiedemoshi","image_path":"/files/book/cover/623/cover.jpg","leading_role":"孙大信","id":623,"book_name":"灵界的默示"}]

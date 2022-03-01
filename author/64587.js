@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"星球研究所","customer_url":"s3-zhelishizhongguo1","image_path":"/files/book/cover/64857/cover.jpg","leading_role":"星球研究所","id":64857,"book_name":"这里是中国1"},{"author_name":"星球研究所","customer_url":"s3-zhelishizhongguo2","image_path":"/files/book/cover/64858/cover.jpg","leading_role":"星球研究所","id":64858,"book_name":"这里是中国2"}]

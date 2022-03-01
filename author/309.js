@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴国安","customer_url":"chaoyueshikongdeshenyan","image_path":"/files/book/cover/466/cover.jpg","leading_role":"吴国安","id":466,"book_name":"圣经 -- 超越时空的神言"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王炳文","customer_url":"s3-conghudidaorongxu","image_path":"/files/book/cover/64643/cover.jpg","leading_role":"王炳文","id":64643,"book_name":"从胡地到戎墟"}]

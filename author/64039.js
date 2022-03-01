@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"长洱","customer_url":"s3-tiancaijibenfa","image_path":"/files/book/cover/64108/cover.jpg","leading_role":"长洱","id":64108,"book_name":"天才基本法"}]

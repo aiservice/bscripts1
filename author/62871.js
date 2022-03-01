@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"严伯钧","customer_url":"s3-duilizhimeixifangyishu500nian","image_path":"/files/book/cover/64340/cover.jpg","leading_role":"严伯钧","id":64340,"book_name":"对立之美：西方艺术 500 年"},{"author_name":"严伯钧","customer_url":"s3-liujiwuli","image_path":"/files/book/cover/62311/cover.jpg","leading_role":"严伯钧","id":62311,"book_name":"六极物理"}]

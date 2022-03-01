@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈紫莲","customer_url":"s3-goufu200tian","image_path":"/files/book/cover/64329/cover.jpg","leading_role":"陈紫莲","id":64329,"book_name":"狗夫200天"}]

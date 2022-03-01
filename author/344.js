@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马伯利","customer_url":"shenshuozangyu","image_path":"/files/book/cover/528/cover.jpg","leading_role":"马伯利","id":528,"book_name":"神说藏语"}]

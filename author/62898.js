@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李录","customer_url":"s3-wenmingxiandaihuajiazhitouziyuzhongguo","image_path":"/files/book/cover/62338/cover.jpg","leading_role":"李录","id":62338,"book_name":"文明、现代化、价值投资与中国"}]

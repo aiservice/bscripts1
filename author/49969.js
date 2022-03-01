@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄淦","customer_url":"fengjianchunqiu","image_path":"/files/book/cover/1416/cover.jpg","leading_role":"佚名","id":1416,"book_name":"锋剑春秋"}]

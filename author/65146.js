@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏·布莱克","customer_url":"s3-fayibaogao1","image_path":"/files/book/cover/65659/cover.jpg","leading_role":"[英] 苏·布莱克","id":65659,"book_name":"法医报告1：死亡教会我们什么"},{"author_name":"苏·布莱克","customer_url":"s3-fayibaogao2","image_path":"/files/book/cover/65660/cover.jpg","leading_role":"[英] 苏·布莱克","id":65660,"book_name":"法医报告2 : 遗骨会说话"}]

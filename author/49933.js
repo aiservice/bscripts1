@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沙门释法显","customer_url":"foguoji","image_path":"/files/book/cover/1334/cover.jpg","leading_role":"佚名","id":1334,"book_name":"佛国记"}]

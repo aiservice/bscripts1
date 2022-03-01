@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"诺曼·格鲁伯","customer_url":"s1-daidaoshituhaoweier","image_path":"/files/book/cover/58693/cover.jpg","leading_role":"诺曼·格鲁伯  (英文名称: Norman P. Grubb)","id":58693,"book_name":"代祷使徒豪威尔"}]

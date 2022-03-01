@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布魯斯.魏金生","customer_url":"gaibianshengmingdexuexi","image_path":"/files/book/cover/736/cover.jpg","leading_role":"布魯斯.魏金生","id":736,"book_name":"改变生命的学习"}]

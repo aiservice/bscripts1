@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"先秦无名","customer_url":"shanhaijing","image_path":"/files/book/cover/1184/cover.jpg","leading_role":"佚名","id":1184,"book_name":"山海经"}]

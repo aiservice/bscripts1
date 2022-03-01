@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蓝培德","customer_url":"moshifengyun","image_path":"/files/book/cover/846/cover.jpg","leading_role":"蓝培德","id":846,"book_name":"从撒迦利亚书看末世风云"},{"author_name":"蓝培德","customer_url":"s1-yubeizhuzailai","image_path":"/files/book/cover/65105/cover.jpg","leading_role":"蓝培德","id":65105,"book_name":"预备主再来"}]

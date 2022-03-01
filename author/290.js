@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"信望爱丛书","customer_url":"quanbianxiaoyu","image_path":"/files/book/cover/426/cover.jpg","leading_role":"信望爱丛书","id":426,"book_name":"泉边小语"}]

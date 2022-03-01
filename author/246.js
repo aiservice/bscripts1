@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡罗·华特森","customer_url":"my-first-book-of-prayers","image_path":"/files/book/cover/346/cover.jpg","leading_role":"卡罗·华特森","id":346,"book_name":"我的第一本祷告"}]

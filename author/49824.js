@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赵晔","customer_url":"wuyuechunqiu","image_path":"/files/book/cover/1162/cover.jpg","leading_role":"佚名","id":1162,"book_name":"吴越春秋"}]

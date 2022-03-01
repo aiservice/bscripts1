@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路易丝·厄德里克","customer_url":"s3-zhenxiangsibuqu","image_path":"/files/book/cover/64480/cover.jpg","leading_role":"[美] 路易丝·厄德里克","id":64480,"book_name":"真相四部曲"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"毕啸南","customer_url":"s3-zainimenlikaiyiqian","image_path":"/files/book/cover/65183/cover.jpg","leading_role":"毕啸南","id":65183,"book_name":"在你们离开以前"}]

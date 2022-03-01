@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陆士谔","customer_url":"shiweigui","image_path":"/files/book/cover/1417/cover.jpg","leading_role":"佚名","id":1417,"book_name":"十尾龟"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高井浩章","customer_url":"s3-qimiaodepansuanshetuan","image_path":"/files/book/cover/62472/cover.jpg","leading_role":"高井浩章","id":62472,"book_name":"奇妙的盘算社团"}]

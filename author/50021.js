@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王辟之","customer_url":"mianshuiyantanlu","image_path":"/files/book/cover/1521/cover.jpg","leading_role":"佚名","id":1521,"book_name":"渑水燕谈录"}]

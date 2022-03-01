@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·穆勒","customer_url":"s3-lunziyou","image_path":"/files/book/cover/65923/cover.jpg","leading_role":" [英] 约翰·穆勒","id":65923,"book_name":"论自由"}]

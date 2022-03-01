@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"傅真","customer_url":"aidetianmi","image_path":"/files/book/cover/700/cover.jpg","leading_role":"傅真","id":700,"book_name":"爱的甜蜜"}]

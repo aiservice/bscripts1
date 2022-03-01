@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"山东省基督教协会","customer_url":"zhengtan","image_path":"/files/book/cover/748/cover.jpg","leading_role":"山东省基督教协会","id":748,"book_name":"证坛"}]

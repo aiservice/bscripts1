@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"诺姆·乔姆斯基","customer_url":"s3-leguanerbujuewang","image_path":"/files/book/cover/65794/cover.jpg","leading_role":" [美] 诺姆·乔姆斯基","id":65794,"book_name":"乐观而不绝望"}]

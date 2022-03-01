@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 欧·亨利","customer_url":"s3-maiqideliwu","image_path":"/files/book/cover/62386/cover.jpg","leading_role":"[美] 欧·亨利","id":62386,"book_name":"麦琪的礼物"}]

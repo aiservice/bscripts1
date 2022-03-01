@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汪昂","customer_url":"yifangjijie","image_path":"/files/book/cover/1338/cover.jpg","leading_role":"佚名","id":1338,"book_name":"医方集解"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伍绮诗","customer_url":"s3-wushenggaobai","image_path":"/files/book/cover/60020/cover.jpg","leading_role":"伍绮诗","id":60020,"book_name":"无声告白"}]

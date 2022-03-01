@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冷佛","customer_url":"chunashimoufuan","image_path":"/files/book/cover/1430/cover.jpg","leading_role":"佚名","id":1430,"book_name":"春阿氏谋夫案"}]

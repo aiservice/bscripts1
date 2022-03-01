@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]理查德·罗珀","customer_url":"s3-andelubuxiangguduzhonglao","image_path":"/files/book/cover/62286/cover.jpg","leading_role":"[英]理查德·罗珀 ","id":62286,"book_name":"安德鲁不想孤独终老"}]

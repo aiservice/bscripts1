@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐哲身","customer_url":"handaigongtingyanshi","image_path":"/files/book/cover/1591/cover.jpg","leading_role":"佚名","id":1591,"book_name":"汉代宫廷艳史"}]

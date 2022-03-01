@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周必大","customer_url":"wenzhongji","image_path":"/files/book/cover/1386/cover.jpg","leading_role":"佚名","id":1386,"book_name":"文忠集"}]

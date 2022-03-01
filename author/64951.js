@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"铃木光司","customer_url":"s3-huanjiequanji","image_path":"/files/book/cover/65392/cover.jpg","leading_role":"铃木光司","id":65392,"book_name":"环界全集"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邓敏","customer_url":"understanding-of-christian-education","image_path":"/files/book/cover/55/cover.jpg","leading_role":"邓敏","id":55,"book_name":"认识基督教教育"}]

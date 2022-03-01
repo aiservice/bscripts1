@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"说地谈天","leading_role":"计文","image_path_min":"/files/book/cover/33/cover_120.jpg","author_name":"计文","image_path":"/files/book/cover/33/cover.jpg","customer_url":"said-to-chat"}]

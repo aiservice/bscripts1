@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯塔尼斯瓦夫·莱姆","customer_url":"s3-jiqirendashi","image_path":"/files/book/cover/64346/cover.jpg","leading_role":"[波兰] 斯塔尼斯瓦夫·莱姆","id":64346,"book_name":"机器人大师"}]

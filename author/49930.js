@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈舜俞","customer_url":"lushanji","image_path":"/files/book/cover/1330/cover.jpg","leading_role":"佚名","id":1330,"book_name":"庐山记"}]

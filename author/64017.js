@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔治•斯坦纳","customer_url":"s3-manchangdexingqiliu","image_path":"/files/book/cover/64078/cover.jpg","leading_role":" [美]乔治•斯坦纳 / [法]洛尔•阿德勒","id":64078,"book_name":"漫长的星期六"}]

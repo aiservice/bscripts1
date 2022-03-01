@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特·穆齐尔","customer_url":"s3-sangenvren","image_path":"/files/book/cover/63656/cover.jpg","leading_role":"罗伯特·穆齐尔","id":63656,"book_name":"三个女人"}]

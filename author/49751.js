@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫·穆雷","customer_url":"jidutuyehuiyiyu","image_path":"/files/book/cover/37263/cover.jpg","leading_role":"穆雷博士","id":37263,"book_name":"基督徒也会抑郁"}]

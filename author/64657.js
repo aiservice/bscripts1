@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯·英庇","customer_url":"s3-aiyinsitandeguaiwu","image_path":"/files/book/cover/64967/cover.jpg","leading_role":"[英]克里斯·英庇（Chris Impey）","id":64967,"book_name":"爱因斯坦的怪物"}]

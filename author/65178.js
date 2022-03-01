@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约瑟夫·弗兰克","customer_url":"s3-tuosituoyefusiji","image_path":"/files/book/cover/65703/cover.jpg","leading_role":"[美]约瑟夫·弗兰克","id":65703,"book_name":"陀思妥耶夫斯基 : 作家与他的时代"}]

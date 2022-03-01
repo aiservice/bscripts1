@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"肯•威尔伯","customer_url":"s3-enchongyuyongqi","image_path":"/files/book/cover/64662/cover.jpg","leading_role":"[美]肯•威尔伯","id":64662,"book_name":"恩宠与勇气：超越死亡"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"池井户润","customer_url":"s3-banzezhishuquanwuce","image_path":"/files/book/cover/64046/cover.jpg","leading_role":"池井户润","id":64046,"book_name":"半泽直树（全五册)"},{"author_name":"池井户润","customer_url":"s3-qigehuiyi","image_path":"/files/book/cover/62132/cover.jpg","leading_role":"[日]池井户润","id":62132,"book_name":"七个会议"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沈石溪","customer_url":"s3-langwangmeng","image_path":"/files/book/cover/62344/cover.jpg","leading_role":"沈石溪","id":62344,"book_name":"狼王梦"}]

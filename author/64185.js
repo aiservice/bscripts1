@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉·夏伊勒","customer_url":"s3-disandiguodexingwangnacuideguoshi","image_path":"/files/book/cover/64315/cover.jpg","leading_role":"威廉·夏伊勒","id":64315,"book_name":"第三帝国的兴亡：纳粹德国史"}]

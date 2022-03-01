@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郦道元","customer_url":"shuijingzhu","image_path":"/files/book/cover/1136/cover.jpg","leading_role":"佚名","id":1136,"book_name":"水经注"}]

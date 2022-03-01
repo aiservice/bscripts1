@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约瑟·派博","customer_url":"zhuri","image_path":"/files/book/cover/38221/cover.jpg","leading_role":" Joseph A. Pipa（约瑟·派博)","id":38221,"book_name":"主日"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"渡边淳一","customer_url":"shileyuan","image_path":"/files/book/cover/48142/cover.jpg","leading_role":"渡边淳一","id":48142,"book_name":"失乐园"}]

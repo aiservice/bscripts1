@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"如莲居士","customer_url":"xuegangfantang","image_path":"/files/book/cover/1500/cover.jpg","leading_role":"佚名","id":1500,"book_name":"薛刚反唐"},{"author_name":"如莲居士","customer_url":"shuotanghechuan","leading_role":"佚名","id":1298,"book_name":"说唐合传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凌濛初","customer_url":"chukepaianjingqi","image_path":"/files/book/cover/1632/cover.jpg","leading_role":"佚名","id":1632,"book_name":"初刻拍案惊奇"}]

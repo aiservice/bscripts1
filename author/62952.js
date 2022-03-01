@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦家","customer_url":"s3-fengsheng","image_path":"/files/book/cover/62393/cover.jpg","leading_role":"麦家","id":62393,"book_name":"风声"}]

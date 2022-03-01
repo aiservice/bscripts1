@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华阳散人","customer_url":"yuanyangzhen","image_path":"/files/book/cover/1531/cover.jpg","leading_role":"佚名","id":1531,"book_name":"鸳鸯针"},{"author_name":"华阳散人","customer_url":"yizhenqi","leading_role":"佚名","id":1565,"book_name":"一枕奇"}]

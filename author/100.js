@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"里程","customer_url":"youziyin","image_path":"/files/book/cover/84/cover.jpg","leading_role":"里程","id":84,"book_name":"游子吟"}]

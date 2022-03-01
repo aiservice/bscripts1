@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王斐","customer_url":"s3-douyinjianying","image_path":"/files/book/cover/65872/cover.jpg","leading_role":"王斐 ","id":65872,"book_name":"抖音+剪映+Premiere短视频制作从新手到高手"}]

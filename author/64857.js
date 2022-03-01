@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔乔·莫伊斯","customer_url":"s3-yujiannizhiqian","image_path":"/files/book/cover/65244/cover.jpg","leading_role":"[英] 乔乔·莫伊斯","id":65244,"book_name":"遇见你之前"}]

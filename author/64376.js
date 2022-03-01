@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"好奇博士团队","customer_url":"s3-yqlfspyqyyyy","image_path":"/files/book/cover/64582/cover.jpg","leading_role":"好奇博士团队","id":64582,"book_name":"一起来粉碎朋友圈养生谣言"}]

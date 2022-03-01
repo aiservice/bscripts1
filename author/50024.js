@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"守朴翁","customer_url":"xingmengpianyan","image_path":"/files/book/cover/1526/cover.jpg","leading_role":"佚名","id":1526,"book_name":"醒梦骈言"}]

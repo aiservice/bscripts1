@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汉特夫妇","customer_url":"yizhishouce","image_path":"/files/book/cover/38898/cover.jpg","leading_role":" 汉特夫妇","id":38898,"book_name":"医治手册"}]

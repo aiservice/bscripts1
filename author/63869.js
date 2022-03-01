@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"辽京","customer_url":"s3-wanhun","image_path":"/files/book/cover/63871/cover.jpg","leading_role":"辽京","id":63871,"book_name":"晚婚"}]

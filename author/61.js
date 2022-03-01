@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄伯桢","customer_url":"the-golden-apples-metaphors","image_path":"/files/book/cover/32/cover.jpg","leading_role":"黄伯桢","id":32,"book_name":"金苹果喻言"}]

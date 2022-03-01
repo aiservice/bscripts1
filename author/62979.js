@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 连城三纪彦","customer_url":"s3-yiduojiegenghua","image_path":"/files/book/cover/62428/cover.jpg","leading_role":"[日] 连城三纪彦","id":62428,"book_name":"一朵桔梗花"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭璞","customer_url":"zangshu","image_path":"/files/book/cover/1129/cover.jpg","leading_role":"佚名","id":1129,"book_name":"葬书"},{"author_name":"郭璞","customer_url":"eryazhushu","image_path":"/files/book/cover/1141/cover.jpg","leading_role":"佚名","id":1141,"book_name":"尔雅注疏"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"温铁军","customer_url":"s3-quanqiuhuayuguojiajingzheng","image_path":"/files/book/cover/64293/cover.jpg","leading_role":"温铁军","id":64293,"book_name":"全球化与国家竞争"},{"author_name":"温铁军","customer_url":"s3-jiegouxiandaihua","image_path":"/files/book/cover/65673/cover.jpg","leading_role":"温铁军","id":65673,"book_name":"解构现代化：温铁军演讲录"}]

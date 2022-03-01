@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黎业文","customer_url":"shijingxuejiangyi","image_path":"/files/book/cover/643/cover.jpg","leading_role":"黎业文","id":643,"book_name":"释经学讲义"}]

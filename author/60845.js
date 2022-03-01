@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]小酒井不木","customer_url":"s3-lianaiquxian","image_path":"/files/book/cover/59105/cover.jpg","leading_role":"[日]小酒井不木","id":59105,"book_name":"恋爱曲线"}]

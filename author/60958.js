@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧如瑟","customer_url":"s3-jiuzhouhuzhufuren","image_path":"/files/book/cover/59388/cover.jpg","leading_role":"萧如瑟","id":59388,"book_name":"九州 · 斛珠夫人"}]

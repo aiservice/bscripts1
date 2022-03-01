@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"园子温","customer_url":"s3-yongdianyingranjinyuwang","image_path":"/files/book/cover/65907/cover.jpg","leading_role":"[日] 园子温","id":65907,"book_name":"用电影燃尽欲望"}]

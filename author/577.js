@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆士·杜布森","customer_url":"peiyunanhai","image_path":"/files/book/cover/979/cover.jpg","leading_role":"詹姆士·杜布森","id":979,"book_name":"培育男孩"}]

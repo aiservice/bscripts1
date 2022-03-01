@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"劳伦斯·布洛克","customer_url":"s3-fuzhizui","image_path":"/files/book/cover/65823/cover.jpg","leading_role":"[美] 劳伦斯·布洛克","id":65823,"book_name":"父之罪"},{"author_name":"劳伦斯·布洛克","customer_url":"s3-zaisiwangzhizhong","image_path":"/files/book/cover/64123/cover.jpg","leading_role":"劳伦斯·布洛克","id":64123,"book_name":"在死亡之中"}]

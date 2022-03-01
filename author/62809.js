@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英] 威廉·博伊德","customer_url":"s3-fanrenzhixin","image_path":"/files/book/cover/62240/cover.jpg","leading_role":"[英] 威廉·博伊德","id":62240,"book_name":"凡人之心"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马修·柯比","customer_url":"s3-cikexintiaomoyi","image_path":"/files/book/cover/65238/cover.jpg","leading_role":"[美] 马修·柯比","id":65238,"book_name":"刺客信条：末裔"}]

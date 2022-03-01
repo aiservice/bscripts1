@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[墨] 吉尔莫·德尔·托罗","customer_url":"s3-panshendemigong","image_path":"/files/book/cover/62401/cover.jpg","leading_role":"[墨] 吉尔莫·德尔·托罗","id":62401,"book_name":"潘神的迷宫"}]

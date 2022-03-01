@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洪梗","customer_url":"qingpingshantanghuaben","image_path":"/files/book/cover/1532/cover.jpg","leading_role":"佚名","id":1532,"book_name":"清平山堂话本"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"神农氏","customer_url":"shennongbencaojing","image_path":"/files/book/cover/1183/cover.jpg","leading_role":"佚名","id":1183,"book_name":"神农本草经"}]

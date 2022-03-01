@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何兆武","customer_url":"s3-shangxueji","image_path":"/files/book/cover/64148/cover.jpg","leading_role":"何兆武","id":64148,"book_name":"上学记"}]

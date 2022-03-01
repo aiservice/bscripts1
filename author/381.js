@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈宏博","customer_url":"yuyanjieshi","image_path":"/files/book/cover/616/cover.jpg","leading_role":"陈宏博","id":616,"book_name":"预言解释"}]

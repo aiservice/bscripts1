@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"云石,蔡东藩,傅传松,聂作平","customer_url":"s3-damingfengyun","image_path":"/files/book/cover/65887/cover.jpg","leading_role":"云石,蔡东藩,傅传松,聂作平","id":65887,"book_name":"大明风云 （套装共9册）"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"于德志","customer_url":"s3-fanneihao","image_path":"/files/book/cover/62482/cover.jpg","leading_role":"于德志","id":62482,"book_name":"反内耗"}]

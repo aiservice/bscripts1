@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰瑞•席哲","customer_url":"when-god-doesnt-answer","image_path":"/files/book/cover/752/cover.jpg","leading_role":"杰瑞•席哲","id":752,"book_name":"当他沉默时"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"比尔·盖茨","customer_url":"s3-qihoujingjiyurenleiweilai","image_path":"/files/book/cover/63903/cover.jpg","leading_role":"[美] 比尔·盖茨","id":63903,"book_name":"气候经济与人类未来"}]

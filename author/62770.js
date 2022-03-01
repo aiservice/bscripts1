@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"温瑞安","customer_url":"s3-nishuihan","image_path":"/files/book/cover/62201/cover.jpg","leading_role":"温瑞安","id":62201,"book_name":"逆水寒"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]海莲·汉芙","customer_url":"s3-chalingshizijie84hao","image_path":"/files/book/cover/62103/cover.jpg","leading_role":"[美]海莲·汉芙","id":62103,"book_name":"查令十字街84号"}]

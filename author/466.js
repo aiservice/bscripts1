@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冯秉承","customer_url":"fengbingchengjiangzhang","image_path":"/files/book/cover/769/cover.jpg","leading_role":"冯秉承","id":769,"book_name":"冯秉承讲章"}]

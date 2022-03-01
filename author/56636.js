@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"J·H·法布尔","customer_url":"kunchongji","image_path":"/files/book/cover/48143/cover.jpg","leading_role":"J·H·法布尔","id":48143,"book_name":"昆虫记"}]

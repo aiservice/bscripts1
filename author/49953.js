@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"《天工开物》","customer_url":"tiangongkaiwu","image_path":"/files/book/cover/1374/cover.jpg","leading_role":"佚名","id":1374,"book_name":"天工开物"}]

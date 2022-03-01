@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"本·奥尔林","customer_url":"s3-huanleshuxue","image_path":"/files/book/cover/64455/cover.jpg","leading_role":"[美] 本·奥尔林","id":64455,"book_name":"欢乐数学"}]

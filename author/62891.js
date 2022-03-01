@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张五常","customer_url":"s3-jingjijieshisijuanben","image_path":"/files/book/cover/62331/cover.jpg","leading_role":"张五常","id":62331,"book_name":"经济解释（四卷本）"}]

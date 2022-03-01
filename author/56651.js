@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"侧侧轻寒","customer_url":"zanzhonglu","image_path":"/files/book/cover/48159/cover.jpg","leading_role":"侧侧轻寒","id":48159,"book_name":"簪中录"}]

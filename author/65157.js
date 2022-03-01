@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"松本清张","customer_url":"s3-siwangyoudi","image_path":"/files/book/cover/65675/cover.jpg","leading_role":" [日] 松本清张","id":65675,"book_name":"死亡邮递"}]

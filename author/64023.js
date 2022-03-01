@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·J. 埃文斯","customer_url":"s3-disandiguodedaolai","image_path":"/files/book/cover/64087/cover.jpg","leading_role":"[英] 理查德·J. 埃文斯","id":64087,"book_name":"第三帝国的到来"}]

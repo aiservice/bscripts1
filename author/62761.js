@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 雷·布拉德伯里","customer_url":"s3-shiyueguodu","image_path":"/files/book/cover/62189/cover.jpg","leading_role":"[美] 雷·布拉德伯里","id":62189,"book_name":"十月国度"}]

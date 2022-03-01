@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马霞","customer_url":"s3-tianxiahuobi","image_path":"/files/book/cover/65656/cover.jpg","leading_role":"马霞","id":65656,"book_name":"天下货币"}]

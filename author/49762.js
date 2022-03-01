@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汉·戴德","customer_url":"dadailiji","image_path":"/files/book/cover/1064/cover.jpg","leading_role":"佚名","id":1064,"book_name":"大戴礼记"}]

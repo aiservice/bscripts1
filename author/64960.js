@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萨曼塔·施维伯林","customer_url":"s3-qizuokongwu","image_path":"/files/book/cover/65405/cover.jpg","leading_role":"[阿] 萨曼塔·施维伯林","id":65405,"book_name":"七座空屋"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"彼得·沃森","customer_url":"s3-xuwushidai","image_path":"/files/book/cover/64505/cover.jpg","leading_role":"[英]彼得·沃森","id":64505,"book_name":"虚无时代"}]

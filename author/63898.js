@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯瑟琳•福布斯","customer_url":"s3-mamadeyinhangzhanghuwodemama","image_path":"/files/book/cover/63911/cover.jpg","leading_role":" [美] 凯瑟琳•福布斯","id":63911,"book_name":"妈妈的银行账户 : 我的妈妈"}]

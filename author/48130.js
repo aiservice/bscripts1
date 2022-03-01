@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆斯·斯奈德","customer_url":"taoshuchuan","image_path":"/files/book/cover/35277/cover.jpg","leading_role":" 詹姆斯·斯奈德","id":35277,"book_name":"陶恕传"}]

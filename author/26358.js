@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"落魄道人","customer_url":"changyandao","image_path":"/files/book/cover/1631/cover.jpg","leading_role":"佚名","id":1631,"book_name":"常言道"}]

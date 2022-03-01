@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路易斯","customer_url":"qingqingruwu","image_path":"/files/book/cover/397/cover.jpg","leading_role":"路易斯","id":397,"book_name":"卿卿如晤"}]

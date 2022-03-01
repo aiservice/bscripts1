@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"田雅各","customer_url":"the-bible-mane-essence","image_path":"/files/book/cover/182/cover.jpg","leading_role":"田雅各","id":182,"book_name":"圣经各卷要义"},{"author_name":"田雅各","customer_url":"jiaohuiyugongren","image_path":"/files/book/cover/230/cover.jpg","leading_role":"田雅各","id":230,"book_name":"教会与工人"}]

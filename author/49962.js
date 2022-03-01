@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"袁于令","customer_url":"suishiyiwen","image_path":"/files/book/cover/1401/cover.jpg","leading_role":"佚名","id":1401,"book_name":"隋史遗文"}]

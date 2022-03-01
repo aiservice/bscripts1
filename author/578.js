@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"哈门·艾爱","customer_url":"lingwuxingfu","image_path":"/files/book/cover/981/cover.jpg","leading_role":"哈门·艾爱","id":981,"book_name":"领悟幸福"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"托马斯·厄·肯培","customer_url":"we-act-like-christ","image_path":"/files/book/cover/97/cover.jpg","leading_role":"托马斯·厄·肯培","id":97,"book_name":"效法基督"}]

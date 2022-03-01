@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦肯金","customer_url":"a-promise-kept","image_path":"/files/book/cover/817/cover.jpg","leading_role":"[美] 麦肯金","id":817,"book_name":"守住一生的承诺"}]

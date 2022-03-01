@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"正阳真人","customer_url":"zhonglvchuandaoji","image_path":"/files/book/cover/1511/cover.jpg","leading_role":"佚名","id":1511,"book_name":"钟吕传道集"}]

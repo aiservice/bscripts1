@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯蒂安·罗伊-斯米特","customer_url":"s3-niujinguojiguanxishouce","image_path":"/files/book/cover/62266/cover.jpg","leading_role":"克里斯蒂安·罗伊-斯米特","id":62266,"book_name":"牛津国际关系手册"}]

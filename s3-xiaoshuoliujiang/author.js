@@ -1,1 +1,0 @@
-var authorList=[{"image_path_min":"/files/book/cover/64633/cover.jpg","author_name":"王安忆","customer_url":"s3-yibadaoqiangezi","image_path":"/files/book/cover/64633/cover.jpg","leading_role":"王安忆","book_name":"一把刀，千个字"}]

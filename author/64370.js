@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"基思·法拉奇","customer_url":"s3-bieduziyongcan","image_path":"/files/book/cover/64572/cover.jpg","leading_role":" [美] 基思·法拉奇","id":64572,"book_name":"别独自用餐"}]

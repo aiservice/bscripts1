@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"云海孤月","customer_url":"s3-nanbeichaonaxieshierhejigong4ce","image_path":"/files/book/cover/62446/cover.jpg","leading_role":"云海孤月","id":62446,"book_name":"南北朝那些事儿合集（共4册）"}]

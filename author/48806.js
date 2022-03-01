@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张仲景","customer_url":"shanghanlun","image_path":"/files/book/cover/1160/cover.jpg","leading_role":"佚名","id":1160,"book_name":"伤寒论"},{"author_name":"张仲景","customer_url":"jinkuiyaolve","image_path":"/files/book/cover/1168/cover.jpg","leading_role":"佚名","id":1168,"book_name":"金匮要略"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孔二狗","customer_url":"s3-dongbeiwangshizhiheidaofengyun20nian","image_path":"/files/book/cover/61448/cover.jpg","leading_role":"孔二狗","id":61448,"book_name":"东北往事之黑道风云20年"}]

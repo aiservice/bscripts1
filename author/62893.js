@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陀思妥耶夫斯基","customer_url":"s3-zuiyufa","image_path":"/files/book/cover/62333/cover.jpg","leading_role":"陀思妥耶夫斯基","id":62333,"book_name":"罪与罚"}]

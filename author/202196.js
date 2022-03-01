@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安德烈亚斯·法迈尔","customer_url":"s3-deguodalishi","image_path":"/files/book/cover/65878/cover.jpg","leading_role":"[德]安德烈亚斯·法迈尔","id":65878,"book_name":"德国大历史"}]

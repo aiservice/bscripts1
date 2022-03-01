@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法]安托万·德·圣·埃克苏佩里","customer_url":"s3-xiaowangzi","image_path":"/files/book/cover/62087/cover.jpg","leading_role":"[法]安托万·德·圣·埃克苏佩里","id":62087,"book_name":"小王子"}]

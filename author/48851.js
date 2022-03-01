@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱鼎臣","customer_url":"nanhaiguanyinpusachushenxiuxingchuan","leading_role":"佚名","id":1577,"book_name":"南海观音菩萨出身修行传"}]

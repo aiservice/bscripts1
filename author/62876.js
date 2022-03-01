@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"边芹","customer_url":"s3-shuizaidaoyanshijie","image_path":"/files/book/cover/62316/cover.jpg","leading_role":"边芹","id":62316,"book_name":"谁在导演世界"}]

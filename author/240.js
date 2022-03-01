@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"以西结·克沃维尔","customer_url":"meditation-practice","image_path":"/files/book/cover/329/cover.jpg","leading_role":"以西结·克沃维尔","id":329,"book_name":"默想操练"}]

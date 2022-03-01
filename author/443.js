@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"荣格","customer_url":"shenhuarenge","image_path":"/files/book/cover/724/cover.jpg","leading_role":"荣格","id":724,"book_name":"神话人格"}]

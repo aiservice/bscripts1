@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雍正皇帝","customer_url":"dayijuemilu","image_path":"/files/book/cover/1410/cover.jpg","leading_role":"佚名","id":1410,"book_name":"大义觉迷录"}]

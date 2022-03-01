@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路风","customer_url":"s3-xinhuo","image_path":"/files/book/cover/64540/cover.jpg","leading_role":"路风","id":64540,"book_name":"新火：走向自主创新2"}]

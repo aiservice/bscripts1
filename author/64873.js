@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"星野道夫","customer_url":"s3-lvxingzhimu","image_path":"/files/book/cover/65274/cover.jpg","leading_role":" [日]星野道夫","id":65274,"book_name":"旅行之木"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴军","customer_url":"s3-geju","image_path":"/files/book/cover/62125/cover.jpg","leading_role":"吴军","id":62125,"book_name":"格局"},{"author_name":"吴军","customer_url":"s3-langchaozhidian","image_path":"/files/book/cover/63968/cover.jpg","leading_role":"吴军","id":63968,"book_name":"浪潮之巅"}]

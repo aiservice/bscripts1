@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伯特汤普逊","customer_url":"jidujiaoxinyangjingdeqikaoyanma","image_path":"/files/book/cover/474/cover.jpg","leading_role":"伯特汤普逊、威尼杰克逊","id":474,"book_name":"基督教信仰经得起考验吗"}]

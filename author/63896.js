@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玛丽–法郎士·阿兹布鲁克","customer_url":"s3-bufucong","image_path":"/files/book/cover/63909/cover.jpg","leading_role":"[法] 玛丽–法郎士·阿兹布鲁克","id":63909,"book_name":"不服从"}]

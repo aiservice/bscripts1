@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"俞成华","customer_url":"shengmingdexinxi","image_path":"/files/book/cover/499/cover.jpg","leading_role":"俞成华","id":499,"book_name":"生命的信息"}]

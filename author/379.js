@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"甘雅各","customer_url":"ruguomeiyoushengjing","image_path":"/files/book/cover/610/cover.jpg","leading_role":"甘雅各博士 / 杰利纽康","id":610,"book_name":"如果没有圣经"}]

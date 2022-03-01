@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]凯瑟琳·玛丽·布伦德尔","customer_url":"s3-niujintongshike","image_path":"/files/book/cover/62403/cover.jpg","leading_role":" [英]凯瑟琳·玛丽·布伦德尔","id":62403,"book_name":"牛津通识课"}]

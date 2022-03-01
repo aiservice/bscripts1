@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弗朗西斯·陈","customer_url":"s1-beiyiwangdeshengling","image_path":"/files/book/cover/65461/cover.jpg","leading_role":"[美]弗朗西斯·陈","id":65461,"book_name":"被遗忘的圣灵"}]

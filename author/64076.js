@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曾仕强","customer_url":"s3-renxingdeaomi","image_path":"/files/book/cover/64147/cover.jpg","leading_role":"曾仕强","id":64147,"book_name":"人性的奥秘"}]

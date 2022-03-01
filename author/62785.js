@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 彼得·德鲁克","customer_url":"s3-renshiguanli","image_path":"/files/book/cover/62215/cover.jpg","leading_role":"[美] 彼得·德鲁克","id":62215,"book_name":"认识管理"}]

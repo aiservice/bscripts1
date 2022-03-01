@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李百川","customer_url":"lvyexianzong","image_path":"/files/book/cover/1228/cover.jpg","leading_role":"佚名","id":1228,"book_name":"绿野仙踪"}]

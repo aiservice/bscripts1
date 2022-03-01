@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"竹溪山人","customer_url":"fenzhuanglou","image_path":"/files/book/cover/1482/cover.jpg","leading_role":"佚名","id":1482,"book_name":"粉妆楼"}]

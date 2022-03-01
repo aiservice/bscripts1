@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆斯·乔伊斯","customer_url":"s3-youlixisi","image_path":"/files/book/cover/64307/cover.jpg","leading_role":"詹姆斯·乔伊斯","id":64307,"book_name":"尤利西斯"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英] 尼克·莱恩","customer_url":"s3-fuzashengmingdeqiyuan","image_path":"/files/book/cover/62278/cover.jpg","leading_role":" [英] 尼克·莱恩","id":62278,"book_name":"复杂生命的起源"}]

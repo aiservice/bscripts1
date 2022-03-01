@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安东尼·雷·辛顿","customer_url":"s3-wozhidaoguangzainali","image_path":"/files/book/cover/64897/cover.jpg","leading_role":" [美]安东尼·雷·辛顿 / [美]劳拉·洛夫·哈丁","id":64897,"book_name":"我知道光在哪里"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张景岳","customer_url":"jingyuequanshu","image_path":"/files/book/cover/1348/cover.jpg","leading_role":"佚名","id":1348,"book_name":"景岳全书"}]

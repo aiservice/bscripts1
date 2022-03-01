@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"庾岭劳人","customer_url":"shenlouzhi","image_path":"/files/book/cover/1270/cover.jpg","leading_role":"佚名","id":1270,"book_name":"蜃楼志"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾诚","customer_url":"s3-chuangyedechangshi","image_path":"/files/book/cover/64513/cover.jpg","leading_role":"艾诚","id":64513,"book_name":"创业的常识"}]

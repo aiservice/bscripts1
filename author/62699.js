@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丁恩·布里格斯","customer_url":"s1-tianguoyihuizaixingqi","image_path":"/files/book/cover/62100/cover.jpg","leading_role":"丁恩·布里格斯","id":62100,"book_name":"天国议会在兴起"}]

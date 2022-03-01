@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]田中彰","customer_url":"s3-mingzhiweixin","image_path":"/files/book/cover/62250/cover.jpg","leading_role":"[日]田中彰","id":62250,"book_name":"明治维新（岩波日本史 第七卷）"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"令狐德棻等","customer_url":"zhoushu","image_path":"/files/book/cover/1037/cover.jpg","leading_role":"令狐德棻等","id":1037,"book_name":"周书"}]

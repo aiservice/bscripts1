@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"哈辅源，姜振名","customer_url":"kangxixiayichuan","image_path":"/files/book/cover/1242/cover.jpg","leading_role":"佚名","id":1242,"book_name":"康熙侠义传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"无垢道人","customer_url":"baxiandedao","image_path":"/files/book/cover/1229/cover.jpg","leading_role":"佚名","id":1229,"book_name":"八仙得道"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"班固","customer_url":"hanshu","image_path":"/files/book/cover/1027/cover.jpg","leading_role":"班固","id":1027,"book_name":"汉书"}]

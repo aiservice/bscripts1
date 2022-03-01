@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王良","customer_url":"s3-shangyeyinhangzichanfuzhaiguanlishijian","image_path":"/files/book/cover/65451/cover.jpg","leading_role":"王良 / 薛斐","id":65451,"book_name":"商业银行资产负债管理实践"}]

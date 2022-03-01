@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"有田秀穗","customer_url":"s3-jianyanaokexue","image_path":"/files/book/cover/65662/cover.jpg","leading_role":"[日]有田秀穗","id":65662,"book_name":"减压脑科学"}]

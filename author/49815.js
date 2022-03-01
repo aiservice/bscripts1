@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"范宁","customer_url":"chunqiuguliangchuanzhushu","image_path":"/files/book/cover/1139/cover.jpg","leading_role":"佚名","id":1139,"book_name":"春秋谷梁传注疏"}]

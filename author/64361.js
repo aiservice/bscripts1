@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何偉(Peter Hessler)","customer_url":"s3-aijidegemingkaoguxue","image_path":"/files/book/cover/64559/cover.jpg","leading_role":"何偉(Peter Hessler)","id":64559,"book_name":"埃及的革命考古學"}]

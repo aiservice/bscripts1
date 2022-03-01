@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[澳]路斯·哈里斯","customer_url":"s3-actjiuzhemejiandan","image_path":"/files/book/cover/62290/cover.jpg","leading_role":" [澳]路斯·哈里斯","id":62290,"book_name":"ACT，就这么简单"}]

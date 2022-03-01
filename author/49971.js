@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梁章钜 梁恭辰","customer_url":"yinglianconghuaquanbian","image_path":"/files/book/cover/1418/cover.jpg","leading_role":"佚名","id":1418,"book_name":"楹联丛话全编"}]

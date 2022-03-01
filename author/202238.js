@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李婷婷","customer_url":"s3-suoyoudejianqiang","image_path":"/files/book/cover/65927/cover.jpg","leading_role":"李婷婷","id":65927,"book_name":"所有的坚强，都是伤痛的茧"}]

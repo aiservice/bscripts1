@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]里德·哈斯廷斯","customer_url":"s3-bujuyige","image_path":"/files/book/cover/62370/cover.jpg","leading_role":"[美]里德·哈斯廷斯","id":62370,"book_name":"不拘一格"}]

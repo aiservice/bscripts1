@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙皓晖","customer_url":"s3-daqindiguo","image_path":"/files/book/cover/59497/cover.jpg","leading_role":"孙皓晖","id":59497,"book_name":"大秦帝国"}]

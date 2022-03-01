@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陶秉珍","customer_url":"s3-kunchongmanhua","image_path":"/files/book/cover/62133/cover.jpg","leading_role":"陶秉珍","id":62133,"book_name":"昆虫漫话"}]

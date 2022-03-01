@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"腓力·曼都法","customer_url":"qinaishengling","image_path":"/files/book/cover/45391/cover.jpg","leading_role":"腓力·曼都法","id":45391,"book_name":"亲爱圣灵"}]

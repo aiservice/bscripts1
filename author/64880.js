@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"塔比·杰克逊·吉","customer_url":"s3-nvxingzhuyiyoushenmeyong","image_path":"/files/book/cover/65281/cover.jpg","leading_role":"[英]塔比·杰克逊·吉","id":65281,"book_name":"女性主义有什么用？"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"保罗•纳斯","customer_url":"s3-wutangjijianshengwuke","image_path":"/files/book/cover/65890/cover.jpg","leading_role":"[英] 保罗•纳斯","id":65890,"book_name":"五堂极简生物课"}]

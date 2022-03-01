@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李逸侯","customer_url":"songdaishibachaoyanshiyanyi","leading_role":"佚名","id":1598,"book_name":"宋代十八朝艳史演义"}]

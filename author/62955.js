@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何绍茂","customer_url":"s3-huaweizhanlvecaiwujiangyi","image_path":"/files/book/cover/62396/cover.jpg","leading_role":"何绍茂","id":62396,"book_name":"华为战略财务讲义"}]

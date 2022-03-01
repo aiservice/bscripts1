@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金惟纯","customer_url":"s3-renshengzhiyouyijianshi","image_path":"/files/book/cover/65190/cover.jpg","leading_role":"金惟纯","id":65190,"book_name":"人生只有一件事"}]

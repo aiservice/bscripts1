@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"花蚀","customer_url":"s3-guangdongwuyuanshijianzhengjingshi","image_path":"/files/book/cover/64512/cover.jpg","leading_role":"花蚀","id":64512,"book_name":"逛动物园是件正经事"}]

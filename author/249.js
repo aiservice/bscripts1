@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰.甘乃迪","customer_url":"jianzhengdehuoju","image_path":"/files/book/cover/351/cover.jpg","leading_role":"约翰.甘乃迪","id":351,"book_name":"见证的火炬"}]

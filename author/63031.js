@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陆烨华","customer_url":"s3-chaonenglizhentanshiwusuo2","image_path":"/files/book/cover/62485/cover.jpg","leading_role":"陆烨华","id":62485,"book_name":"神秘组织：超能力侦探事务所2"}]

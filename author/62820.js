@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"(日) 由井正臣","customer_url":"s3-diguoshiqi","image_path":"/files/book/cover/62251/cover.jpg","leading_role":"(日) 由井正臣","id":62251,"book_name":"帝国时期（岩波日本史 第八卷）"}]

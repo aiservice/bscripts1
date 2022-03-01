@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亨利·克劳德 约翰·汤森德","customer_url":"s1-weihunyinlijiexian","image_path":"/files/book/cover/64929/cover.jpg","leading_role":"[美]亨利·克劳德 约翰·汤森德","id":64929,"book_name":"为婚姻立界线"}]

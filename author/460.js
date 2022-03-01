@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约书亚·哈里斯","customer_url":"boy-meets-girl","image_path":"/files/book/cover/755/cover.jpg","leading_role":"约书亚·哈里斯","id":755,"book_name":"当男孩遇见女孩"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冨田和成","customer_url":"s3-weishenmejingyingkeyikuaisujileicaifu","image_path":"/files/book/cover/65683/cover.jpg","leading_role":"[日]冨田和成","id":65683,"book_name":"为什么精英可以快速积累财富"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曹操","customer_url":"sunzilvejie","image_path":"/files/book/cover/1148/cover.jpg","leading_role":"佚名","id":1148,"book_name":"孙子略解"}]

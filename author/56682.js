@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"墨宝非宝","customer_url":"s3-yishengyishimeirengu","image_path":"/files/book/cover/64912/cover.jpg","leading_role":"墨宝非宝","id":64912,"book_name":"一生一世美人骨"},{"author_name":"墨宝非宝","customer_url":"qinaidereaide","image_path":"/files/book/cover/48225/cover.jpg","leading_role":"墨宝非宝","id":48225,"book_name":"亲爱的，热爱的"}]

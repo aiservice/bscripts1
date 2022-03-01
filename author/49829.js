@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘珍","customer_url":"dongguanhanjixiaozhu","image_path":"/files/book/cover/1169/cover.jpg","leading_role":"佚名","id":1169,"book_name":"东观汉记校注"}]

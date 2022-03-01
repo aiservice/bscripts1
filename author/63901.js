@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥野宣之","customer_url":"s3-ruheyouxiaoyueduyibenshu","image_path":"/files/book/cover/63915/cover.jpg","leading_role":"[日] 奥野宣之","id":63915,"book_name":"如何有效阅读一本书"}]

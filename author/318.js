@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲁益士","customer_url":"meizaijiduxinyang","image_path":"/files/book/cover/481/cover.jpg","leading_role":"鲁益士教授（剑桥）","id":481,"book_name":"美哉基督信仰"}]

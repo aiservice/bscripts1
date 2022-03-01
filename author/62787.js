@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[韩]孙元平","customer_url":"s3-xingren","image_path":"/files/book/cover/62217/cover.jpg","leading_role":"[韩]孙元平","id":62217,"book_name":"杏仁"}]

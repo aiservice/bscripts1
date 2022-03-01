@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"石成金","customer_url":"tongtianle","image_path":"/files/book/cover/1615/cover.jpg","leading_role":"佚名","id":1615,"book_name":"通天乐"}]

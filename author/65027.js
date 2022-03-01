@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆斯·克利尔","customer_url":"s3-zhangkongxiguan","image_path":"/files/book/cover/65499/cover.jpg","leading_role":"[美] 詹姆斯·克利尔","id":65499,"book_name":"掌控习惯"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"肖恩·卡罗尔","customer_url":"s3-datujing","image_path":"/files/book/cover/64121/cover.jpg","leading_role":" [美]肖恩·卡罗尔","id":64121,"book_name":"大图景"},{"author_name":"肖恩·卡罗尔","customer_url":"s3-congyonghengdaocike","image_path":"/files/book/cover/65212/cover.jpg","leading_role":"[美]肖恩·卡罗尔","id":65212,"book_name":"从永恒到此刻 : 追寻时间的终极奥秘"}]

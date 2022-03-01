@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"思仁","customer_url":"love-the-search","image_path":"/files/book/cover/102/cover.jpg","leading_role":"思仁","id":102,"book_name":"爱的寻觅"}]

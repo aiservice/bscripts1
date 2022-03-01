@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西蒙·沙玛","customer_url":"s3-fengyuhengdu","image_path":"/files/book/cover/62402/cover.jpg","leading_role":" 西蒙·沙玛","id":62402,"book_name":"风雨横渡 : 英国、奴隶和美国革命"}]

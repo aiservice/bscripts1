@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"埃德·斯塔福德","customer_url":"s3-zhengfuyamasun","image_path":"/files/book/cover/63846/cover.jpg","leading_role":"[英]埃德·斯塔福德","id":63846,"book_name":"征服亚马孙"}]

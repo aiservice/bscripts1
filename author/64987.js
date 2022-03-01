@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘瑞江","customer_url":"s3-huangboshuohuayoudao","image_path":"/files/book/cover/65439/cover.jpg","leading_role":"刘瑞江","id":65439,"book_name":"黄渤说话有道"}]

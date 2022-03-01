@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴政纬","customer_url":"s3-conghanchengdaoyanjing","image_path":"/files/book/cover/64868/cover.jpg","leading_role":"吴政纬","id":64868,"book_name":"从汉城到燕京"}]

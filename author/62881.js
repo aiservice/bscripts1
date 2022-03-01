@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[瑞] 帕特里克•斯文松","customer_url":"s3-manyudelvxing","image_path":"/files/book/cover/62321/cover.jpg","leading_role":"[瑞] 帕特里克•斯文松","id":62321,"book_name":"鳗鱼的旅行"}]

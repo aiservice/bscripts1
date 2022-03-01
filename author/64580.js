@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈尔·克利格","customer_url":"s3-shuigehaojue","image_path":"/files/book/cover/64847/cover.jpg","leading_role":"[加]迈尔·克利格","id":64847,"book_name":"睡个好觉"}]

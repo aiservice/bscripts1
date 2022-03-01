@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"流潋紫","customer_url":"zhenhuanchuan","image_path":"/files/book/cover/48174/cover.jpg","leading_role":"流潋紫","id":48174,"book_name":"甄嬛传"},{"author_name":"流潋紫","customer_url":"ruyichuan","image_path":"/files/book/cover/48173/cover.jpg","leading_role":"流潋紫","id":48173,"book_name":"如懿传"}]

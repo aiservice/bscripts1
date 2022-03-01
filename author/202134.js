@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林青霞","customer_url":"s3-jingqianjinghou","image_path":"/files/book/cover/65765/cover.jpg","leading_role":"林青霞","id":65765,"book_name":"镜前镜后"}]

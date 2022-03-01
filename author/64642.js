@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"樊鸿台 · 罗启华","customer_url":"s1-yesuyizhidedaneng","image_path":"/files/book/cover/64947/cover.jpg","leading_role":"樊鸿台 · 罗启华","id":64947,"book_name":"耶稣医治的大能"}]

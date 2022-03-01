@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"比尔","customer_url":"s1-wojiayeyoujurenzhongjiezhe","image_path":"/files/book/cover/62153/cover.jpg","leading_role":"比尔&贝尼·强生","id":62153,"book_name":"我家也有巨人終結者"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"于中旻","customer_url":"semantic-interpretation-of-the","image_path":"/files/book/cover/195/cover.jpg","leading_role":"于中旻","id":195,"book_name":"语意释经"}]

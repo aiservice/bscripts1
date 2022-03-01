@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鸠摩罗什","customer_url":"jingangjing","image_path":"/files/book/cover/1138/cover.jpg","leading_role":"佚名","id":1138,"book_name":"金刚经"}]

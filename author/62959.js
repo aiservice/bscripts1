@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 威廉·福克纳","customer_url":"s3-bayuezhiguang","image_path":"/files/book/cover/62400/cover.jpg","leading_role":" [美] 威廉·福克纳","id":62400,"book_name":"八月之光"}]

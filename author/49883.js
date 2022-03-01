@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"醉月山人","customer_url":"huliyuanquanchuan","image_path":"/files/book/cover/1255/cover.jpg","leading_role":"佚名","id":1255,"book_name":"狐狸缘全传"}]

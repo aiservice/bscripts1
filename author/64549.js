@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"秦朔","customer_url":"s3-daguozhicheng","image_path":"/files/book/cover/64810/cover.jpg","leading_role":"秦朔","id":64810,"book_name":"大国之城"}]

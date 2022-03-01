@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"方汝浩","customer_url":"dongduji","image_path":"/files/book/cover/1512/cover.jpg","leading_role":"佚名","id":1512,"book_name":"东度记"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"敦煌变文集新书","customer_url":"dunhuangbianwenjixinshu","image_path":"/files/book/cover/1384/cover.jpg","leading_role":"佚名","id":1384,"book_name":"敦煌变文集新书"}]

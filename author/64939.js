@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉•W.李","customer_url":"s3-chichuziyuli","image_path":"/files/book/cover/65376/cover.jpg","leading_role":"[美] 威廉•W.李","id":65376,"book_name":"吃出自愈力"}]

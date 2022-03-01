@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安克伯","customer_url":"the-truth-of-the-catholic-church","image_path":"/files/book/cover/205/cover.jpg","leading_role":"安克伯","id":205,"book_name":"天主教的真相"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·道金斯","customer_url":"s3-jiyinzhihe","image_path":"/files/book/cover/62462/cover.jpg","leading_role":"理查德·道金斯","id":62462,"book_name":"基因之河"}]

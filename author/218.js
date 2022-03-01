@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海伦·凯勒","customer_url":"if-give-me-three-days-light","image_path":"/files/book/cover/288/cover.jpg","leading_role":"海伦·凯勒","id":288,"book_name":"假如给我三天光明"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊恩·布鲁玛","customer_url":"s3-dongjingqimeng","image_path":"/files/book/cover/65172/cover.jpg","leading_role":"[荷] 伊恩·布鲁玛","id":65172,"book_name":"东京绮梦 : 日本最后的前卫年代"}]

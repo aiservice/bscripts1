@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"申京淑","customer_url":"s3-qingzhaoguhaowomama","image_path":"/files/book/cover/63914/cover.jpg","leading_role":"[韩]申京淑","id":63914,"book_name":"请照顾好我妈妈"}]

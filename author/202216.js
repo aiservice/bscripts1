@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弗兰茨·卡夫卡","customer_url":"s3-chengbao","image_path":"/files/book/cover/65901/cover.jpg","leading_role":"[奥] 弗兰茨·卡夫卡","id":65901,"book_name":"城堡"}]

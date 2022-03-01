@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘璋","customer_url":"zhanguichuan","image_path":"/files/book/cover/1609/cover.jpg","leading_role":"佚名","id":1609,"book_name":"斩鬼传"}]

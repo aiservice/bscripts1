@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"太永浩","customer_url":"s3-sanloushujishideanhao","image_path":"/files/book/cover/65432/cover.jpg","leading_role":"太永浩","id":65432,"book_name":"三楼书记室的暗号"}]

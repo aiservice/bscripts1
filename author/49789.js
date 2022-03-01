@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李世民","customer_url":"difan","image_path":"/files/book/cover/1106/cover.jpg","leading_role":"佚名","id":1106,"book_name":"帝范"}]

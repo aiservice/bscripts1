@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蓝凡恩 Vann Lane","customer_url":"children-and-the-renaissance","image_path":"/files/book/cover/45/cover.jpg","leading_role":"蓝凡恩 Vann Lane","id":45,"book_name":"儿童与复兴"}]

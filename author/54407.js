@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李当乐","customer_url":"jiekaifangyandeaomi","image_path":"/files/book/cover/45390/cover.jpg","leading_role":"李當樂","id":45390,"book_name":"揭开方言的奥秘"}]

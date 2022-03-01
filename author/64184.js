@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈冠学","customer_url":"s3-tianyuanzhiqiu","image_path":"/files/book/cover/64314/cover.jpg","leading_role":"陈冠学 ","id":64314,"book_name":"田园之秋"}]

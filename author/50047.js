@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩邦庆","customer_url":"haishanghualiechuan","image_path":"/files/book/cover/1555/cover.jpg","leading_role":"佚名","id":1555,"book_name":"海上花列传"}]

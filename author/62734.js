@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特·莫里斯","customer_url":"s1-mengfurensheng","image_path":"/files/book/cover/62155/cover.jpg","leading_role":"罗伯特·莫里斯","id":62155,"book_name":"蒙福人生"}]

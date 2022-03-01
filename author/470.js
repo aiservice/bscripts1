@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"琼·亨特","customer_url":"dangnibuyuanraoshushi","image_path":"/files/book/cover/773/cover.jpg","leading_role":"琼·亨特","id":773,"book_name":"当你不愿饶恕时"},{"author_name":"琼·亨特","customer_url":"desheng","image_path":"/files/book/cover/35323/cover.jpg","leading_role":"[美]琼·亨特（June Hunt）","id":35323,"book_name":"得胜"}]

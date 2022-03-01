@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史哈拿","customer_url":"secret-believers","image_path":"/files/book/cover/7/cover.jpg","leading_role":"耶稣","id":7,"book_name":"信徒快乐秘诀"}]

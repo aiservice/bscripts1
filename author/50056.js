@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"清溪道人","customer_url":"chanzhenhoushi","image_path":"/files/book/cover/1578/cover.jpg","leading_role":"佚名","id":1578,"book_name":"禅真后史"},{"author_name":"清溪道人","customer_url":"chanzhenyishi","image_path":"/files/book/cover/1580/cover.jpg","leading_role":"佚名","id":1580,"book_name":"禅真逸史"}]

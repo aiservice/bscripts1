@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"老子","customer_url":"daodejing","image_path":"/files/book/cover/1207/cover.jpg","leading_role":"佚名","id":1207,"book_name":"道德经"}]

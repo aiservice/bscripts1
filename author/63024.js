@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏世民","customer_url":"s3-sushiminwodejingyanyujiaoxun","image_path":"/files/book/cover/62478/cover.jpg","leading_role":" [美] 苏世民","id":62478,"book_name":"苏世民：我的经验与教训"},{"author_name":"苏世民","customer_url":"s3-what-it-takes","image_path":"/files/book/cover/64738/cover.jpg","leading_role":" [美] 苏世民","id":64738,"book_name":"What It Takes"}]

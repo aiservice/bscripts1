@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"波纳文图拉","customer_url":"heart-journey-to-god","image_path":"/files/book/cover/377/cover.jpg","leading_role":"波纳文图拉","id":377,"book_name":"心向上帝的旅程"}]

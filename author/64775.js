@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李静","customer_url":"s3-fumuhuashuxunlian","image_path":"/files/book/cover/65138/cover.jpg","leading_role":"李静","id":65138,"book_name":"父母话术训练"}]

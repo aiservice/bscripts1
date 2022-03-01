@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"寇绍恩","customer_url":"koushaoenjiangzhang","image_path":"/files/book/cover/442/cover.jpg","leading_role":"寇绍恩","id":442,"book_name":"寇绍恩讲章_恩典365"}]

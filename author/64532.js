@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿尔贝托·莫拉维亚","customer_url":"s3-bishi","image_path":"/files/book/cover/64787/cover.jpg","leading_role":"[意] 阿尔贝托·莫拉维亚","id":64787,"book_name":"鄙视"}]

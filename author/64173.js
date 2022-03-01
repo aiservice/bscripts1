@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"维克多·弗兰克","customer_url":"s3-shengmingdetanwen","image_path":"/files/book/cover/64362/cover.jpg","leading_role":"[奥] 维克多·弗兰克","id":64362,"book_name":"生命的探问"},{"author_name":"维克多·弗兰克","customer_url":"s3-huochushengmingdeyiyi","image_path":"/files/book/cover/64299/cover.jpg","leading_role":"[奥] 维克多·弗兰克","id":64299,"book_name":"活出生命的意义"}]

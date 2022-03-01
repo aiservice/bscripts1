@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡燕生","customer_url":"aiguoqirenzhangshengcai","image_path":"/files/book/cover/565/cover.jpg","leading_role":"蔡燕生","id":565,"book_name":"爱国奇人张圣才"}]

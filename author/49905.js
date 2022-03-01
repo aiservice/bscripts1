@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西周生","customer_url":"xingshiyinyuanchuan","image_path":"/files/book/cover/1286/cover.jpg","leading_role":"佚名","id":1286,"book_name":"醒世姻缘传"}]

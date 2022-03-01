@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫・爱登堡","customer_url":"s3-daweiaidengbaozizhuan","image_path":"/files/book/cover/65215/cover.jpg","leading_role":"大卫・爱登堡","id":65215,"book_name":"大卫·爱登堡自传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"壮者","customer_url":"saomizhou","image_path":"/files/book/cover/1619/cover.jpg","leading_role":"佚名","id":1619,"book_name":"扫迷帚"}]

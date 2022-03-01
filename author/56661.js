@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"仐三","customer_url":"wodangdaoshinaxienian","image_path":"/files/book/cover/48169/cover.jpg","leading_role":"仐三","id":48169,"book_name":"我当道士那些年"}]

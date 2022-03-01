@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吉米·埃文斯","customer_url":"panshishangdehunyin","image_path":"/files/book/cover/937/cover.jpg","leading_role":"【美】吉米·埃文斯 卡伦·埃文斯 著","id":937,"book_name":"磐石上的婚姻"}]

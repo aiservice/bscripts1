@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马丁路德","customer_url":"the-freedom-of-christian","image_path":"/files/book/cover/123/cover.jpg","leading_role":"马丁路德","id":123,"book_name":"基督徒的自由"},{"author_name":"马丁路德","customer_url":"luther-corpus","image_path":"/files/book/cover/159/cover.jpg","leading_role":"马丁路德","id":159,"book_name":"路德文集"}]

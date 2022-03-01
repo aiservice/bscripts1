@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"塔米姆·安萨利","customer_url":"s3-wuguizeyouxi","image_path":"/files/book/cover/64922/cover.jpg","leading_role":"[美] 塔米姆·安萨利","id":64922,"book_name":"无规则游戏"}]

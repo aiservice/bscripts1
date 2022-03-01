@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"保罗·约翰逊","customer_url":"s1-youtairensiqiannian","image_path":"/files/book/cover/64452/cover.jpg","leading_role":"[英]保罗·约翰逊","id":64452,"book_name":"犹太人四千年"}]

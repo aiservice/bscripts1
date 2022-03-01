@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"九滴水","customer_url":"s3-zuiandiaochake","image_path":"/files/book/cover/64595/cover.jpg","leading_role":"九滴水","id":64595,"book_name":"罪案调查科（全2册）"}]

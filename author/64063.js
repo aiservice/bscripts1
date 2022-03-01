@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡天新","customer_url":"s3-shuxuechuanqi","image_path":"/files/book/cover/64133/cover.jpg","leading_role":"蔡天新","id":64133,"book_name":"数学传奇"}]

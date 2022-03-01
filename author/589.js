@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吉尔·布里斯柯","customer_url":"fubeimanyi","image_path":"/files/book/cover/1000/cover.jpg","leading_role":" 吉尔·布里斯柯 翻译：张燕","id":1000,"book_name":"福杯满溢"}]

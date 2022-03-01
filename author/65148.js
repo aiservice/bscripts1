@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"费伊·邦德·艾伯蒂","customer_url":"s3-guduchuan","image_path":"/files/book/cover/65663/cover.jpg","leading_role":"[英]费伊·邦德·艾伯蒂","id":65663,"book_name":"孤独传"}]

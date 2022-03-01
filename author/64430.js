@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱光潜","customer_url":"s3-geiqingniandeshierfengxin","image_path":"/files/book/cover/64657/cover.jpg","leading_role":"朱光潜","id":64657,"book_name":"给青年的十二封信"}]

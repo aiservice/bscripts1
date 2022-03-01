@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"劳伦斯·赖特","customer_url":"s3-shiyuezhishang","image_path":"/files/book/cover/64955/cover.jpg","leading_role":"[美]劳伦斯·赖特","id":64955,"book_name":"十月之殇"}]

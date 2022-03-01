@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赵熙之","customer_url":"s3-yelvren","image_path":"/files/book/cover/59385/cover.jpg","leading_role":"赵熙之","id":59385,"book_name":"夜旅人"}]

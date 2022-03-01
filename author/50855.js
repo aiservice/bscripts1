@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吉姆·歌珥","customer_url":"guizaiyingxushang","image_path":"/files/book/cover/39799/cover.jpg","leading_role":"吉姆·歌珥","id":39799,"book_name":"跪在应许上"},{"author_name":"吉姆·歌珥","customer_url":"xianjian","image_path":"/files/book/cover/41248/cover.jpg","leading_role":"吉姆·歌珥","id":41248,"book_name":"先见"}]

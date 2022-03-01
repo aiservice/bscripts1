@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡拉·迪瓦伊","customer_url":"s3-miankong","image_path":"/files/book/cover/64288/cover.jpg","leading_role":"卡拉·迪瓦伊, 罗恩·科尔曼","id":64288,"book_name":"面孔"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"松本美荣","customer_url":"s3-nongsuoshuimianfa","image_path":"/files/book/cover/64913/cover.jpg","leading_role":"[日] 松本美荣","id":64913,"book_name":"浓缩睡眠法"}]

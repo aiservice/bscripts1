@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾盖瑞／贝南罗特","customer_url":"conglingsuikaishi","image_path":"/files/book/cover/770/cover.jpg","leading_role":"【美】艾盖瑞／贝南罗特","id":770,"book_name":"从零岁开始"}]

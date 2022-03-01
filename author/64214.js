@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黎锦熙","customer_url":"s3-hanyusiqiannian","image_path":"/files/book/cover/64361/cover.jpg","leading_role":" 黎锦熙 (绘) ","id":64361,"book_name":"汉语四千年"}]

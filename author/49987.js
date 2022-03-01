@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"天花主人","customer_url":"jingmengti","image_path":"/files/book/cover/1444/cover.jpg","leading_role":"佚名","id":1444,"book_name":"惊梦啼"}]

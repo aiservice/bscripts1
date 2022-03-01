@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"格雷厄姆·格林","customer_url":"s3-renxingdeyinsu","image_path":"/files/book/cover/64520/cover.jpg","leading_role":"[英] 格雷厄姆·格林","id":64520,"book_name":"人性的因素"}]

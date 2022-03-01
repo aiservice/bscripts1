@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李雨堂","customer_url":"wanhualou","image_path":"/files/book/cover/1285/cover.jpg","leading_role":"佚名","id":1285,"book_name":"万花楼"}]

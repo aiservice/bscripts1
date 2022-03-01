@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海宴","customer_url":"s3-langyabang","image_path":"/files/book/cover/59556/cover.jpg","leading_role":"海宴","id":59556,"book_name":"琅琊榜"}]

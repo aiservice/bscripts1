@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"释迦里","customer_url":"guanlizhenyan","image_path":"/files/book/cover/728/cover.jpg","leading_role":"(美)释迦里博士","id":728,"book_name":"管理箴言"}]

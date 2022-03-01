@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李德尔夫妇","customer_url":"why-do-you-want-to-believe","image_path":"/files/book/cover/77/cover.jpg","leading_role":"李德尔夫妇","id":77,"book_name":"你为何要信"},{"author_name":"李德尔夫妇","customer_url":"niweiheyaoxin","leading_role":"李德尔夫妇","id":506,"book_name":"你为何要信"}]

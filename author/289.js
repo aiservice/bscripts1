@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"甘.雅各","customer_url":"if-jesus-had-never-been-born","image_path":"/files/book/cover/423/cover.jpg","leading_role":"甘.雅各","id":423,"book_name":"如果没有耶稣"}]

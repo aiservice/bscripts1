@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"落难天使","customer_url":"s3-guanyuwohexiaodeyiqie","image_path":"/files/book/cover/63892/cover.jpg","leading_role":"落难天使 ","id":63892,"book_name":"关于我和肖的一切"}]

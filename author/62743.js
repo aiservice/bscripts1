@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"项飙 / 吴琦","customer_url":"s3-bazijizuoweifangfa","image_path":"/files/book/cover/62171/cover.jpg","leading_role":"项飙 / 吴琦","id":62171,"book_name":"把自己作为方法 - 与项飙谈话"}]

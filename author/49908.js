@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钱彩、金丰","customer_url":"shuoyuequanchuan","image_path":"/files/book/cover/1291/cover.jpg","leading_role":"佚名","id":1291,"book_name":"说岳全传"}]

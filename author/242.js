@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·卫斯理","customer_url":"john-wesley-diary","image_path":"/files/book/cover/334/cover.jpg","leading_role":"（英）约翰·卫斯理（John Wesley）","id":334,"book_name":"约翰·卫斯理日记"}]

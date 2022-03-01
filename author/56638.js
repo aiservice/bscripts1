@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"儒勒·凡尔纳","customer_url":"shenmidao","image_path":"/files/book/cover/48145/cover.jpg","leading_role":"儒勒·凡尔纳","id":48145,"book_name":"神秘岛"}]

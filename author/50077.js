@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"儒林医隐","customer_url":"yijiejing","image_path":"/files/book/cover/1622/cover.jpg","leading_role":"佚名","id":1622,"book_name":"医界镜"}]

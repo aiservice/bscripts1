@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王晋康","customer_url":"s3-yuzhoujingluan","image_path":"/files/book/cover/65416/cover.jpg","leading_role":"王晋康","id":65416,"book_name":"宇宙晶卵"}]

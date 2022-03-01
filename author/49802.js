@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"颜之推","customer_url":"yanshijiaxun","image_path":"/files/book/cover/1123/cover.jpg","leading_role":"佚名","id":1123,"book_name":"颜氏家训"}]

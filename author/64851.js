@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马修•恩格尔克","customer_url":"s3-ruhexiangrenleixuejiayiyangsikao","image_path":"/files/book/cover/65237/cover.jpg","leading_role":"[英]马修•恩格尔克","id":65237,"book_name":"如何像人类学家一样思考"}]

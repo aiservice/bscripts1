@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿颖","customer_url":"s1-yiyuniyekeyiquanyu","image_path":"/files/book/cover/62123/cover.jpg","leading_role":"阿颖","id":62123,"book_name":"抑郁，你也可以痊愈"}]

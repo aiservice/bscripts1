@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆斯•曼西","customer_url":"shijianyuanli","image_path":"/files/book/cover/988/cover.jpg","leading_role":"[美]詹姆斯•曼西（James A. Muncy）","id":988,"book_name":"时间原理"}]

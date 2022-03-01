@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱默生•艾格里奇","customer_url":"nrxyzz-nrxya","image_path":"/files/book/cover/766/cover.jpg","leading_role":"[美国] 爱默生•艾格里奇","id":766,"book_name":"男人需要尊重 女人需要爱"}]

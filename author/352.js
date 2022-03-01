@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰.加尔文","customer_url":"luomarenshuzhushi","image_path":"/files/book/cover/540/cover.jpg","leading_role":"约翰.加尔文","id":540,"book_name":"罗马人书注释"}]

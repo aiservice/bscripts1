@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丹尼尔·卡尼曼","customer_url":"s3-zaosheng","image_path":"/files/book/cover/65194/cover.jpg","leading_role":"[以] 丹尼尔·卡尼曼 ","id":65194,"book_name":"噪声 : 人类判断的缺陷"}]

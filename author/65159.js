@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"田丰","customer_url":"s3-qibuhuaigui","image_path":"/files/book/cover/65677/cover.jpg","leading_role":"田丰 / 林凯玄","id":65677,"book_name":"岂不怀归：三和青年调查"}]

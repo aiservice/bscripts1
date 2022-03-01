@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·史崔勒基","customer_url":"s3-shijiejintoudekafeiguan","image_path":"/files/book/cover/65476/cover.jpg","leading_role":"[美]约翰·史崔勒基","id":65476,"book_name":"世界尽头的咖啡馆"}]

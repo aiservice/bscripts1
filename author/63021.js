@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"珍妮斯•A. 拉德威","customer_url":"s3-yuedulangmanxiaoshuo","image_path":"/files/book/cover/62475/cover.jpg","leading_role":" [美国]珍妮斯•A. 拉德威","id":62475,"book_name":"阅读浪漫小说"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄旭荣","customer_url":"the-authority-of-the-bible-and-the-canon","image_path":"/files/book/cover/190/cover.jpg","leading_role":"黄旭荣","id":190,"book_name":"圣经的权威及正典"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"荻岸散人","customer_url":"pingshanlengyan","image_path":"/files/book/cover/1584/cover.jpg","leading_role":"佚名","id":1584,"book_name":"平山冷燕"},{"author_name":"荻岸散人","customer_url":"yujiaoli","image_path":"/files/book/cover/1563/cover.jpg","leading_role":"佚名","id":1563,"book_name":"玉娇梨"}]

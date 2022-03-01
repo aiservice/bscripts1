@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邵贵恩","customer_url":"yushenyuehui","image_path":"/files/book/cover/38752/cover.jpg","leading_role":"邵贵恩","id":38752,"book_name":"与神约会"}]

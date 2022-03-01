@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王弼","customer_url":"zhouyizhengyi","image_path":"/files/book/cover/1149/cover.jpg","leading_role":"佚名","id":1149,"book_name":"周易正义"}]

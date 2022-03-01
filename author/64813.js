@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑慧清","customer_url":"s1-tianguodeaomi","image_path":"/files/book/cover/65188/cover.jpg","leading_role":"郑慧清","id":65188,"book_name":"天国的奥秘"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Graham Peck","customer_url":"s3-zhanshizhongguo","image_path":"/files/book/cover/62185/cover.jpg","leading_role":"Graham Peck","id":62185,"book_name":"战时中国"}]

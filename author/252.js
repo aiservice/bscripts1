@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马特生","customer_url":"christian-ethics","image_path":"/files/book/cover/355/cover.jpg","leading_role":"马特生","id":355,"book_name":"基督教伦理学"}]

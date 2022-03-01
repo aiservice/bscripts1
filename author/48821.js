@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华岳","customer_url":"cuiweibeizhenglu","image_path":"/files/book/cover/1362/cover.jpg","leading_role":"佚名","id":1362,"book_name":"翠微北征录"},{"author_name":"华岳","customer_url":"cuiweixianshengbeizhenglu","leading_role":"佚名","id":1356,"book_name":"翠微先生北征录"}]

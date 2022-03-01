@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莱瑞·克莱布","customer_url":"inside-out","image_path":"/files/book/cover/786/cover.jpg","leading_role":"[美]莱瑞·克莱布博士","id":786,"book_name":"里外更新"},{"author_name":"莱瑞·克莱布","customer_url":"shattered-dreams","image_path":"/files/book/cover/787/cover.jpg","leading_role":"[美]莱瑞• 克莱布（Larry Crabb）","id":787,"book_name":"破碎的梦"}]

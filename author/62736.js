@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"夏雪莲","customer_url":"s1-tianmenyujianglindefengbao","image_path":"/files/book/cover/62159/cover.jpg","leading_role":"夏雪莲博士","id":62159,"book_name":"天门与将临的风暴"}]

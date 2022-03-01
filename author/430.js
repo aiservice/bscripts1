@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐崇怀","customer_url":"jiyaozhenli","image_path":"/files/book/cover/701/cover.jpg","leading_role":"唐崇怀","id":701,"book_name":"基要真理"}]

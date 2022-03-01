@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孟元老","customer_url":"dongjingmenghualu","image_path":"/files/book/cover/1320/cover.jpg","leading_role":"佚名","id":1320,"book_name":"东京梦华录"}]

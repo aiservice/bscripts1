@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沈约","customer_url":"songshu","image_path":"/files/book/cover/1031/cover.jpg","leading_role":"沈约","id":1031,"book_name":"宋书"}]

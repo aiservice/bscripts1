@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"说唐合传","leading_role":"佚名","image_path_min":"/styles/index/images/noimage.jpg","author_name":"如莲居士","image_path":"/styles/index/images/noimage.jpg","customer_url":"shuotanghechuan"}]

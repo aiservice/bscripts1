@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲利普·桑兹","customer_url":"s3-dongxijie","image_path":"/files/book/cover/64090/cover.jpg","leading_role":"[英] 菲利普·桑兹","id":64090,"book_name":"东西街"}]

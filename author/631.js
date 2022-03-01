@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"子思","customer_url":"zhongyong","image_path":"/files/book/cover/1053/cover.jpg","leading_role":"子思","id":1053,"book_name":"中庸"}]

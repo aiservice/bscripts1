@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吉姆·葛兰特","customer_url":"duohunji","image_path":"/files/book/cover/39383/cover.jpg","leading_role":"吉姆·葛兰特","id":39383,"book_name":"夺魂记"}]

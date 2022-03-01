@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"聂辉华","customer_url":"s3-yiqiejieqiyue","image_path":"/files/book/cover/64888/cover.jpg","leading_role":"聂辉华","id":64888,"book_name":"一切皆契约"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张熙和","customer_url":"dijiduxilie","image_path":"/files/book/cover/827/cover.jpg","leading_role":"张熙和","id":827,"book_name":"敌基督系列"}]

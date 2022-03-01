@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三浦紫苑","customer_url":"s3-naanaashenqucun","image_path":"/files/book/cover/64828/cover.jpg","leading_role":"[日] 三浦紫苑","id":64828,"book_name":"哪啊哪啊神去村"}]

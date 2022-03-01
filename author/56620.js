@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曹雪芹","customer_url":"s3-hongloumeng","image_path":"/files/book/cover/50998/cover.jpg","leading_role":"曹雪芹","id":50998,"book_name":"红楼梦"}]

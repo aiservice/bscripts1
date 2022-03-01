@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叶非夜","customer_url":"shiguanghenidouhenmei","image_path":"/files/book/cover/32799/cover.jpg","leading_role":"林嘉歌","id":32799,"book_name":"时光和你都很美"}]

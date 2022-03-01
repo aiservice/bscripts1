@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[加]马克·金维尔","customer_url":"s3-jiepouwuliao","image_path":"/files/book/cover/62236/cover.jpg","leading_role":"[加]马克·金维尔","id":62236,"book_name":"解剖无聊"}]

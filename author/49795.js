@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赵元一","customer_url":"fengtianlu","image_path":"/files/book/cover/1113/cover.jpg","leading_role":"佚名","id":1113,"book_name":"奉天录"}]

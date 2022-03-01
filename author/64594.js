@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"枡野俊明","customer_url":"s3-nizhendebubitaohaosuoyouren","image_path":"/files/book/cover/64867/cover.jpg","leading_role":"枡野俊明","id":64867,"book_name":"你真的不必討好所有人"}]

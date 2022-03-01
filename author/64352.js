@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海瑟．理察遜","customer_url":"s3-tongwangziyouzhilu","image_path":"/files/book/cover/64548/cover.jpg","leading_role":"海瑟．理察遜","id":64548,"book_name":"通往自由之路"}]

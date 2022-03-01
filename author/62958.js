@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[加] 宋怡明","customer_url":"s3-beitongzhideyishu","image_path":"/files/book/cover/62399/cover.jpg","leading_role":"[加] 宋怡明","id":62399,"book_name":"被统治的艺术"}]

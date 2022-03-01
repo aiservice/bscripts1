@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗欣顿·米斯特里","customer_url":"s3-dadizhishang","image_path":"/files/book/cover/64811/cover.jpg","leading_role":"[加]罗欣顿·米斯特里","id":64811,"book_name":"大地之上"}]

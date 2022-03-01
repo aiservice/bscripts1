@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"托玛斯．赫尔","customer_url":"living-stones-of-the-himalayas","image_path":"/files/book/cover/532/cover.jpg","leading_role":"托玛斯．赫尔和辛西亚","id":532,"book_name":"喜马拉雅山的活石"}]

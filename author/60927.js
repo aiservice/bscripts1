@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲜橙","customer_url":"s3-amaicongjun","image_path":"/files/book/cover/59322/cover.jpg","leading_role":"鲜橙","id":59322,"book_name":"阿麦从军"}]

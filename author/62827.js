@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"饕餮海","customer_url":"s3-gongshou","image_path":"/files/book/cover/62258/cover.jpg","leading_role":"饕餮海 / 定风波 / 优美","id":62258,"book_name":"攻守"}]

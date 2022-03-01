@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"敬之","customer_url":"shengjing-renyanhaishitianyan","image_path":"/files/book/cover/464/cover.jpg","leading_role":"敬之","id":464,"book_name":"圣经 -- 人言还是天言？"}]

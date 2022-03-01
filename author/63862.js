@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梁晓声","customer_url":"s3-renshijian","image_path":"/files/book/cover/63861/cover.jpg","leading_role":"梁晓声","id":63861,"book_name":"人世间"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"角田光代","customer_url":"s3-podaoshangdejia","image_path":"/files/book/cover/64045/cover.jpg","leading_role":"[日] 角田光代","id":64045,"book_name":"坡道上的家"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梅琳达·盖茨","customer_url":"s3-nvxingdeshike","image_path":"/files/book/cover/64597/cover.jpg","leading_role":"[美]梅琳达·盖茨","id":64597,"book_name":"女性的时刻"}]

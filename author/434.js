@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张子华","customer_url":"jiangdaoxue1","image_path":"/files/book/cover/705/cover.jpg","leading_role":"张子华","id":705,"book_name":"讲道学"}]

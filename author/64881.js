@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尹红心、 李伟","customer_url":"s3-feimanxuexifa","image_path":"/files/book/cover/65282/cover.jpg","leading_role":"尹红心、 李伟","id":65282,"book_name":"费曼学习法"}]

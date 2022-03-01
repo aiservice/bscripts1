@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"宋鸿兵","customer_url":"s3-huobizhanzhengtaozhuang5ce","image_path":"/files/book/cover/62312/cover.jpg","leading_role":"宋鸿兵","id":62312,"book_name":"货币战争（套装5册）"}]

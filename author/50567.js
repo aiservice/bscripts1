@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴尔·费夫","customer_url":"yinmichu","image_path":"/files/book/cover/38704/cover.jpg","leading_role":"戴尔·费夫","id":38704,"book_name":"隐秘处"}]

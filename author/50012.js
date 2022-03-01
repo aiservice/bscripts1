@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"元和观我斋主人","customer_url":"yingsuhua","image_path":"/files/book/cover/1503/cover.jpg","leading_role":"佚名","id":1503,"book_name":"罂粟花"}]

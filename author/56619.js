@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路遥","customer_url":"pingfandeshijie","image_path":"/files/book/cover/48124/cover.jpg","leading_role":"路遥","id":48124,"book_name":"平凡的世界"},{"author_name":"路遥","customer_url":"s3-rensheng","image_path":"/files/book/cover/61267/cover.jpg","leading_role":"高加林","id":61267,"book_name":"人生"}]

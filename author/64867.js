@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张秀玉","customer_url":"s3-lishiminchuan","image_path":"/files/book/cover/65258/cover.jpg","leading_role":"张秀玉","id":65258,"book_name":"李世民传"}]

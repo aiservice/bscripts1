@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾玛·沈","customer_url":"s3-licaijiushilishenghuo","image_path":"/files/book/cover/65782/cover.jpg","leading_role":"艾玛·沈","id":65782,"book_name":"理财就是理生活"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"辛杰米","customer_url":"the-wind-fire-confidence","image_path":"/files/book/cover/30/cover.jpg","leading_role":"辛杰米","id":30,"book_name":"风火信心"}]

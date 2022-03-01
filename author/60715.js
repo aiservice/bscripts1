@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"荣萨卡","customer_url":"s1-shituyushituxingengao","image_path":"/files/book/cover/58694/cover.jpg","leading_role":"荣萨卡","id":58694,"book_name":"使徒与使徒性恩膏"}]

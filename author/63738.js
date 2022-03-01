@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"车浩","customer_url":"s3-chehaodexingfati","image_path":"/files/book/cover/63686/cover.jpg","leading_role":"车浩","id":63686,"book_name":"车浩的刑法题"}]

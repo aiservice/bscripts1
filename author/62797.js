@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄汉城 / 史哲 / 林小琬","customer_url":"s3-zhongguochengshidaxipai","image_path":"/files/book/cover/62227/cover.jpg","leading_role":"黄汉城 / 史哲 / 林小琬","id":62227,"book_name":"中国城市大洗牌"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"加亚·文斯","customer_url":"s3-renleijinhuashi","image_path":"/files/book/cover/65480/cover.jpg","leading_role":" [英]加亚·文斯","id":65480,"book_name":"人类进化史"}]

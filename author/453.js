@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"祈连堡","customer_url":"muyangyufudao","image_path":"/files/book/cover/739/cover.jpg","leading_role":"祈连堡","id":739,"book_name":"牧养与辅导"}]

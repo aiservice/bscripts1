@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张路得","customer_url":"yishengaini","image_path":"/files/book/cover/636/cover.jpg","leading_role":"张路得","id":636,"book_name":"一生爱你"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"俞达","customer_url":"qingloumeng","image_path":"/files/book/cover/1568/cover.jpg","leading_role":"佚名","id":1568,"book_name":"青楼梦"}]

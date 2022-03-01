@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘同","customer_url":"s3-yigerenjiuyigeren","image_path":"/files/book/cover/62208/cover.jpg","leading_role":"刘同","id":62208,"book_name":"一个人就一个人"}]

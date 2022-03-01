@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐坚","customer_url":"chuxueji","image_path":"/files/book/cover/1111/cover.jpg","leading_role":"佚名","id":1111,"book_name":"初学记"}]

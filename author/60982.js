@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"米兰Lady","customer_url":"s3-guchengbi","image_path":"/files/book/cover/59442/cover.jpg","leading_role":"米兰Lady","id":59442,"book_name":"孤城闭"}]

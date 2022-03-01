@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯坦尼斯拉夫·莱姆","customer_url":"s3-suolalisixing","image_path":"/files/book/cover/64908/cover.jpg","leading_role":"[波] 斯坦尼斯拉夫·莱姆","id":64908,"book_name":"索拉里斯星"}]

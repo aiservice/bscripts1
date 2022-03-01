@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沙希利·浦洛基","customer_url":"s3-qieernuobeili","image_path":"/files/book/cover/63924/cover.jpg","leading_role":"[美]沙希利·浦洛基","id":63924,"book_name":"切尔诺贝利"}]

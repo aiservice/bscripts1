@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"帕特里夏·圣约翰","customer_url":"woailuxian","image_path":"/files/book/cover/583/cover.jpg","leading_role":"（英）帕特里夏·圣约翰（Patricia St John）","id":583,"book_name":"我爱吕西安"}]

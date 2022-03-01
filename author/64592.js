@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蒂尔曼·拉姆","customer_url":"s3-chuanqizhijia","image_path":"/files/book/cover/64865/cover.jpg","leading_role":"[德]蒂尔曼·拉姆","id":64865,"book_name":"传奇之家 : 托马斯·曼一家的故事"}]

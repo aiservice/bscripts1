@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"米斯蒂·伯诺","customer_url":"she-said-yes","image_path":"/files/book/cover/154/cover.jpg","leading_role":"米斯蒂·伯诺","id":154,"book_name":"她说是的"}]

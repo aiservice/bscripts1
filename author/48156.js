@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫·赫卓格","customer_url":"rongyaoruqin","image_path":"/files/book/cover/35331/cover.jpg","leading_role":"大卫·赫卓格","id":35331,"book_name":"荣耀入侵"},{"author_name":"大卫·赫卓格","customer_url":"tiantangdefayuan","image_path":"/files/book/cover/40461/cover.jpg","leading_role":"大卫·赫卓格","id":40461,"book_name":"天堂的法院"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伦·桑得福","customer_url":"haojiezhongsheng","image_path":"/files/book/cover/43092/cover.jpg","leading_role":"罗伦·桑得福","id":43092,"book_name":"耗竭重生"}]

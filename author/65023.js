@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱德华·吉本","customer_url":"s3-luomadiguoshuaiwangshi","image_path":"/files/book/cover/65493/cover.jpg","leading_role":"[英]爱德华·吉本","id":65493,"book_name":"罗马帝国衰亡史"}]

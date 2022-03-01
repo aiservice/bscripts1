@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"傅格森","customer_url":"s1-panshizhishang","image_path":"/files/book/cover/62149/cover.jpg","leading_role":"傅格森","id":62149,"book_name":"磐石之上"},{"author_name":"傅格森","customer_url":"jidutushenghuo","image_path":"/files/book/cover/684/cover.jpg","leading_role":"傅格森","id":684,"book_name":"基督徒生活"}]

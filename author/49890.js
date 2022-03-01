@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尹湛纳希","customer_url":"yicenglou","image_path":"/files/book/cover/1267/cover.jpg","leading_role":"佚名","id":1267,"book_name":"一层楼"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"诺曼·莱特","customer_url":"xingfuhunyinshengjing","image_path":"/files/book/cover/859/cover.jpg","leading_role":"诺曼·莱特","id":859,"book_name":"幸福婚姻圣经"}]

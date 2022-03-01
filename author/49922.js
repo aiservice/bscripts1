@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周去非","customer_url":"lingwaidaida","image_path":"/files/book/cover/1319/cover.jpg","leading_role":"佚名","id":1319,"book_name":"岭外代答"}]

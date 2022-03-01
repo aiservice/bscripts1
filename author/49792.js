@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"欧阳询","customer_url":"yiwenleiju","image_path":"/files/book/cover/1109/cover.jpg","leading_role":"佚名","id":1109,"book_name":"艺文类聚"}]

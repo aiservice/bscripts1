@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨牧谷","customer_url":"after-the-hurricane-microphone","image_path":"/files/book/cover/19/cover.jpg","leading_role":"圣灵","id":19,"book_name":"狂飙后的微声"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史多美·奥玛森","customer_url":"wife-the-power-of-prayer","image_path":"/files/book/cover/67/cover.jpg","leading_role":"史多美·奥玛森","id":67,"book_name":"妻子祷告的力量"},{"author_name":"史多美·奥玛森","customer_url":"ruheweizijidaogao","image_path":"/files/book/cover/975/cover.jpg","leading_role":"史多美·奥玛森","id":975,"book_name":"如何为自己祷告"}]

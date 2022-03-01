@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡瑞尔.麦克布莱德","customer_url":"s3-muaidejiban","image_path":"/files/book/cover/62179/cover.jpg","leading_role":"卡瑞尔.麦克布莱德","id":62179,"book_name":"母爱的羁绊"}]

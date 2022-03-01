@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿利斯特·麦格拉斯","customer_url":"s1-nasalerenyesu","image_path":"/files/book/cover/63927/cover.jpg","leading_role":"阿利斯特·麦格拉斯","id":63927,"book_name":"拿撒勒人耶稣"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉·西尔斯","customer_url":"xiersiyuerjing","image_path":"/files/book/cover/695/cover.jpg","leading_role":"（美）威廉·西尔斯，（美）玛莎·西尔斯","id":695,"book_name":"西尔斯育儿经"}]

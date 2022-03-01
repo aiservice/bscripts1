@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 特德·姜","customer_url":"s3-huxi","image_path":"/files/book/cover/62230/cover.jpg","leading_role":"[美] 特德·姜","id":62230,"book_name":"呼吸"},{"author_name":"[美] 特德·姜","customer_url":"s3-niyishengdegushi","image_path":"/files/book/cover/65394/cover.jpg","leading_role":"[美] 特德·姜","id":65394,"book_name":"你一生的故事"}]

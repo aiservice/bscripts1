@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄奇帆","customer_url":"s3-fenxiyusikao","image_path":"/files/book/cover/64130/cover.jpg","leading_role":"黄奇帆","id":64130,"book_name":"分析与思考"}]

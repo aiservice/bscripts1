@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰克·海福德","customer_url":"fangyanzhimei","image_path":"/files/book/cover/45962/cover.jpg","leading_role":"杰克·海福德","id":45962,"book_name":"方言之美"}]

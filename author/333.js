@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"方孝锋","customer_url":"chuxinchajing","image_path":"/files/book/cover/512/cover.jpg","leading_role":"方孝锋","id":512,"book_name":"初信查经"}]

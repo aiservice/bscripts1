@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路得·沃德·赫芙琳","customer_url":"qishirongyao","image_path":"/files/book/cover/38586/cover.jpg","leading_role":"路得·沃德·赫芙琳","id":38586,"book_name":"启示荣耀"},{"author_name":"路得·沃德·赫芙琳","customer_url":"heliurongyao","image_path":"/files/book/cover/39294/cover.jpg","leading_role":"路得·沃德·赫芙琳","id":39294,"book_name":"河流荣耀"}]

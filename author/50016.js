@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陶宗仪","customer_url":"nancunchuogenglu","image_path":"/files/book/cover/1515/cover.jpg","leading_role":"佚名","id":1515,"book_name":"南村辍耕录"}]

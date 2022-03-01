@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"涤然","customer_url":"diranxinxiang","image_path":"/files/book/cover/347/cover.jpg","leading_role":"涤然","id":347,"book_name":"涤然信箱"}]

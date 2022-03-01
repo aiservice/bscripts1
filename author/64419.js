@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"森村诚一","customer_url":"s3-gaocengdesijiao","image_path":"/files/book/cover/64644/cover.jpg","leading_role":"[日]森村诚一","id":64644,"book_name":"高层的死角"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"褚澄","customer_url":"chushiweishu","image_path":"/files/book/cover/1119/cover.jpg","leading_role":"佚名","id":1119,"book_name":"褚氏遗书"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫·佛斯特","customer_url":"congxingxiazhideshifang","image_path":"/files/book/cover/42414/cover.jpg","leading_role":"大卫·佛斯特","id":42414,"book_name":"从性辖制得释放"}]

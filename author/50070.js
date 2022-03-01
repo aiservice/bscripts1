@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨尔增","customer_url":"liangjinmishi","image_path":"/files/book/cover/1614/cover.jpg","leading_role":"佚名","id":1614,"book_name":"两晋秘史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叶灵力","customer_url":"about-taoism","image_path":"/files/book/cover/64/cover.jpg","leading_role":"叶灵力","id":64,"book_name":"讲道学"}]

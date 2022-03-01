@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉·艾斯珀","customer_url":"s3-biaoyanli","image_path":"/files/book/cover/65676/cover.jpg","leading_role":" [美]威廉·艾斯珀","id":65676,"book_name":"表演力"}]

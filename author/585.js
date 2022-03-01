@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"傅歌","customer_url":"rongyaodejia","image_path":"/files/book/cover/994/cover.jpg","leading_role":"（美）傅歌（Robert Tucker）","id":994,"book_name":"荣耀的家"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"里克·汉森","customer_url":"s3-danaoxingfumima","image_path":"/files/book/cover/64900/cover.jpg","leading_role":"里克·汉森（Rick Hanson）","id":64900,"book_name":"大脑幸福密码"},{"author_name":"里克·汉森","customer_url":"s3-fuyuanli","image_path":"/files/book/cover/62476/cover.jpg","leading_role":" [美] 里克·汉森 / [美] 福里斯特·汉森","id":62476,"book_name":"复原力"}]

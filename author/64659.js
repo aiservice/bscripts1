@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡洛·金茨堡","customer_url":"s3-yejiandezhandou","image_path":"/files/book/cover/64972/cover.jpg","leading_role":"[意]卡洛·金茨堡","id":64972,"book_name":"奶酪与蛆虫+夜间的战斗（全2册）"}]

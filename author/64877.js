@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"科尔杜拉·努斯鲍姆","customer_url":"s3-xiexiedanjintianbuxing","image_path":"/files/book/cover/65278/cover.jpg","leading_role":" [德]科尔杜拉·努斯鲍姆","id":65278,"book_name":"谢谢，但今天不行"}]

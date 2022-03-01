@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"简·古道尔","customer_url":"s3-dianranxiwang","image_path":"/files/book/cover/64883/cover.jpg","leading_role":" [英]简·古道尔","id":64883,"book_name":"点燃希望"}]

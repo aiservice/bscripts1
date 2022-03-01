@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贺淑芳","customer_url":"s3-humianrujing","image_path":"/files/book/cover/64338/cover.jpg","leading_role":" [马来西亚] 贺淑芳","id":64338,"book_name":"湖面如镜"}]

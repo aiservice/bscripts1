@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周公旦","customer_url":"zhouli","image_path":"/files/book/cover/1209/cover.jpg","leading_role":"佚名","id":1209,"book_name":"周礼"}]

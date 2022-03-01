@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邦兹","customer_url":"qidaochulaidenengli","image_path":"/files/book/cover/519/cover.jpg","leading_role":"邦兹著 滕近辉译","id":519,"book_name":"祈祷出来的能力"}]

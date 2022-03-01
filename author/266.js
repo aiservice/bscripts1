@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"辛杰米 梅定恩","customer_url":"fenghuodaneng","image_path":"/files/book/cover/378/cover.jpg","leading_role":"辛杰米 梅定恩","id":378,"book_name":"风火大能"}]

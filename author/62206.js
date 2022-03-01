@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周梅森","customer_url":"s3-renmindecaichan","image_path":"/files/book/cover/65619/cover.jpg","leading_role":"周梅森","id":65619,"book_name":"人民的财产"},{"author_name":"周梅森","customer_url":"s3-renmindemingyi","image_path":"/files/book/cover/61451/cover.jpg","leading_role":"周梅森","id":61451,"book_name":"人民的名义"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"枫江半云友","customer_url":"yinfengxiao","image_path":"/files/book/cover/1477/cover.jpg","leading_role":"佚名","id":1477,"book_name":"引凤萧"}]

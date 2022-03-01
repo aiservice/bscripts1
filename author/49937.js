@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙思邈","customer_url":"beijiqianjinyaofang","image_path":"/files/book/cover/1349/cover.jpg","leading_role":"佚名","id":1349,"book_name":"备急千金要方"},{"author_name":"孙思邈","customer_url":"qianjinyifang","image_path":"/files/book/cover/1340/cover.jpg","leading_role":"佚名","id":1340,"book_name":"千金翼方"}]

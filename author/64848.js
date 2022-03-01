@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"糖衣古典","customer_url":"s3-shihuangjinguan","image_path":"/files/book/cover/65233/cover.jpg","leading_role":"糖衣古典","id":65233,"book_name":"鬼吹灯前传3：始皇金棺"}]

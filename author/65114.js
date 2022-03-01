@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·格里高利","customer_url":"s1-jiaoxueqilv","image_path":"/files/book/cover/65616/cover.jpg","leading_role":"约翰·格里高利","id":65616,"book_name":"教学七律"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆斯·P.霍根","customer_url":"s3-xingzhijichengzhequan3ce","image_path":"/files/book/cover/64129/cover.jpg","leading_role":"[英] 詹姆斯·P.霍根","id":64129,"book_name":"星之继承者（全3册）"}]

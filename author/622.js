@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"欧阳修","customer_url":"guitianlu","image_path":"/files/book/cover/1545/cover.jpg","leading_role":"佚名","id":1545,"book_name":"归田录"},{"author_name":"欧阳修","customer_url":"xinwudaishi","image_path":"/files/book/cover/1044/cover.jpg","leading_role":"欧阳修","id":1044,"book_name":"新五代史"}]

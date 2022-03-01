@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张景岳(明)","customer_url":"gufangbazhen","leading_role":"佚名","id":1350,"book_name":"古方八阵"}]

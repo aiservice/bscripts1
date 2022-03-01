@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林棹","customer_url":"s3-liuxi","image_path":"/files/book/cover/63979/cover.jpg","leading_role":"林棹","id":63979,"book_name":"流溪"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许仲琳","customer_url":"fengshenyanyi","image_path":"/files/book/cover/1073/cover.jpg","leading_role":"佚名","id":1073,"book_name":"封神演义"}]

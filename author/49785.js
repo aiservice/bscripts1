@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"道世","customer_url":"fayuanzhulin","image_path":"/files/book/cover/1098/cover.jpg","leading_role":"佚名","id":1098,"book_name":"法苑珠林"}]

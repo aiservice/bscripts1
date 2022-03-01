@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯泰西·希夫","customer_url":"s3-liewu","image_path":"/files/book/cover/64573/cover.jpg","leading_role":"[美] 斯泰西·希夫","id":64573,"book_name":"猎巫"}]

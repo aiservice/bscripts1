@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特•慕烈•麦克谦","customer_url":"zhongxindeshifeng","image_path":"/files/book/cover/494/cover.jpg","leading_role":"罗伯特•慕烈•麦克谦","id":494,"book_name":"忠心的事奉"}]

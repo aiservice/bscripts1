@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘静","customer_url":"womenzhengnianqing","image_path":"/files/book/cover/48218/cover.jpg","leading_role":"刘静","id":48218,"book_name":"我们正年轻"}]

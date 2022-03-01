@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"私塾夫人(马睿欣)","customer_url":"the-wisdom-of-discipline","image_path":"/files/book/cover/816/cover.jpg","leading_role":"私塾夫人(马睿欣)","id":816,"book_name":"管教的智慧"}]

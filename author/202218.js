@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯瑟琳•曼尼克","customer_url":"s3-haohaogaobie","image_path":"/files/book/cover/65903/cover.jpg","leading_role":" [英] 凯瑟琳•曼尼克","id":65903,"book_name":"好好告别"}]

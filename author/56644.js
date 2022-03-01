@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"念一","customer_url":"daxuemangongdao","image_path":"/files/book/cover/48151/cover.jpg","leading_role":"念一","id":48151,"book_name":"大雪满弓刀"}]

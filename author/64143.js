@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯特琳·柯林斯","customer_url":"s3-zhichangmamashengcunbaogao","image_path":"/files/book/cover/64259/cover.jpg","leading_role":"(美)凯特琳·柯林斯 (Caitlyn Collins)","id":64259,"book_name":"职场妈妈生存报告"}]

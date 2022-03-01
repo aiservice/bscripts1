@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"塞万提斯·萨维德拉","customer_url":"s3-tangjihede","image_path":"/files/book/cover/64125/cover.jpg","leading_role":"[西] 塞万提斯·萨维德拉","id":64125,"book_name":"堂吉诃德"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"达屈·席兹","customer_url":"s1-daogaozhongdiquanbing","image_path":"/files/book/cover/62442/cover.jpg","leading_role":"达屈·席兹","id":62442,"book_name":"祷告中的权柄"},{"author_name":"达屈·席兹","customer_url":"shengguoyoushangdedaogao","image_path":"/files/book/cover/40520/cover.jpg","leading_role":"达屈·席兹","id":40520,"book_name":"胜过忧伤的祷告"}]

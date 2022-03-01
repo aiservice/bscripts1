@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐芸洲","customer_url":"qijianshisanxia","image_path":"/files/book/cover/1237/cover.jpg","leading_role":"佚名","id":1237,"book_name":"七剑十三侠"}]

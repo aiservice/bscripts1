@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"程善之","customer_url":"canshuihu","image_path":"/files/book/cover/1407/cover.jpg","leading_role":"佚名","id":1407,"book_name":"残水浒"}]

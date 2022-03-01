@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦道格·胡艾弗","customer_url":"zhenainidezhenbianren","image_path":"/files/book/cover/901/cover.jpg","leading_role":"麦道格·胡艾弗","id":901,"book_name":"珍爱你的枕边人"}]

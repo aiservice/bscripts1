@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"盖瑞.查普曼","customer_url":"aiyunuanxintian","image_path":"/files/book/cover/992/cover.jpg","leading_role":"盖瑞.查普曼","id":992,"book_name":"爱语暖心田"}]

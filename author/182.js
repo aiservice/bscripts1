@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱学勤","customer_url":"the-fall-of-the-moral-ideal-countries","image_path":"/files/book/cover/212/cover.jpg","leading_role":"朱学勤","id":212,"book_name":"道德理想国的覆灭"}]

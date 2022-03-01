@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"笠翁先生","customer_url":"hejinhuiwenchuan","image_path":"/files/book/cover/1579/cover.jpg","leading_role":"佚名","id":1579,"book_name":"合锦回文传"}]

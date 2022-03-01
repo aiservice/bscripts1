@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"董说","customer_url":"xiyoujibu","image_path":"/files/book/cover/1457/cover.jpg","leading_role":"佚名","id":1457,"book_name":"西游记补"}]

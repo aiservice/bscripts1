@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李冗","customer_url":"duyizhi","image_path":"/files/book/cover/1084/cover.jpg","leading_role":"佚名","id":1084,"book_name":"独异志"}]

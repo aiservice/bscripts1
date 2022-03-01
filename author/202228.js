@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"文德琳·范·德拉","customer_url":"s3-pengranxindong","image_path":"/files/book/cover/65916/cover.jpg","leading_role":"[美]文德琳·范·德拉 安南","id":65916,"book_name":"怦然心动"}]

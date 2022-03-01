@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周神助","customer_url":"godliness-and-health","image_path":"/files/book/cover/42/cover.jpg","leading_role":"耶稣","id":42,"book_name":"敬虔与健康"},{"author_name":"周神助","customer_url":"shifangjiejing","image_path":"/files/book/cover/40175/cover.jpg","leading_role":"周神助","id":40175,"book_name":"释放洁净"}]

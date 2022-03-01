@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"计文","customer_url":"said-to-chat","image_path":"/files/book/cover/33/cover.jpg","leading_role":"计文","id":33,"book_name":"说地谈天"},{"author_name":"计文","customer_url":"kuayuesiwang","image_path":"/files/book/cover/746/cover.jpg","leading_role":"计文","id":746,"book_name":"跨越死亡"}]

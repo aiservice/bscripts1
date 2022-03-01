@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Windy Liu","customer_url":"s3-xinzhituwei","image_path":"/files/book/cover/65398/cover.jpg","leading_role":"Windy Liu","id":65398,"book_name":"心智突围"}]

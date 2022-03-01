@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭璞注，袁珂點校","customer_url":"shanhaijingxiaozhu","image_path":"/files/book/cover/1542/cover.jpg","leading_role":"佚名","id":1542,"book_name":"山海经校注"}]

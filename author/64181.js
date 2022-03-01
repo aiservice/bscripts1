@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大山誠一郎","customer_url":"s3-zimubiaomiti","image_path":"/files/book/cover/64309/cover.jpg","leading_role":"大山誠一郎","id":64309,"book_name":"字母表谜题"}]

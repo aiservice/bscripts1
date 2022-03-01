@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林纾","customer_url":"jinlingqiu","image_path":"/files/book/cover/1266/cover.jpg","leading_role":"佚名","id":1266,"book_name":"金陵秋"}]

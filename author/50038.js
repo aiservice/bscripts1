@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李肇","customer_url":"tangguoshibu","image_path":"/files/book/cover/1543/cover.jpg","leading_role":"佚名","id":1543,"book_name":"唐国史补"}]

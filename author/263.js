@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查尔斯·琼斯","customer_url":"shaonianchaersi","image_path":"/files/book/cover/375/cover.jpg","leading_role":"少年查尔斯","id":375,"book_name":"少年查尔斯"}]

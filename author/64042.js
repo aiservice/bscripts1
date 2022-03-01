@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"施罗默·桑德","customer_url":"s3-xugoudeyiseliedi","image_path":"/files/book/cover/64111/cover.jpg","leading_role":" [以] 施罗默·桑德","id":64111,"book_name":"虚构的以色列地"}]

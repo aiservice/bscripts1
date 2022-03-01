@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"桑戴.阿得拉加","customer_url":"weishenzuogeyouqianren","image_path":"/files/book/cover/838/cover.jpg","leading_role":"桑戴.阿得拉加","id":838,"book_name":"为神作个有钱人"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"慕安德烈","customer_url":"budaogaodezui","image_path":"/files/book/cover/387/cover.jpg","leading_role":"慕安德烈","id":387,"book_name":"不祷告的罪"},{"author_name":"慕安德烈","customer_url":"s1-shenglingquanbeidezhufu","image_path":"/files/book/cover/62139/cover.jpg","leading_role":"慕安德烈","id":62139,"book_name":"圣灵全备的祝福"}]

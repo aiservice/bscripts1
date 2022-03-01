@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王世贞","customer_url":"yanyibian","image_path":"/files/book/cover/1530/cover.jpg","leading_role":"佚名","id":1530,"book_name":"艳异编"}]

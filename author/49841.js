@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尉缭","customer_url":"weiliaozi","image_path":"/files/book/cover/1191/cover.jpg","leading_role":"佚名","id":1191,"book_name":"尉缭子"}]

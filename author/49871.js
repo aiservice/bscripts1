@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"俞万春","customer_url":"dangkouzhi","image_path":"/files/book/cover/1230/cover.jpg","leading_role":"佚名","id":1230,"book_name":"荡寇志"}]

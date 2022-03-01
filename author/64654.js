@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三谷淳","customer_url":"s3-yanchimanzu","image_path":"/files/book/cover/64964/cover.jpg","leading_role":"[日]三谷淳","id":64964,"book_name":"延迟满足"}]

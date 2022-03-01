@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"比尔·索布里斯基","customer_url":"dajisadanquanshi","image_path":"/files/book/cover/38518/cover.jpg","leading_role":"比尔·索布里斯基","id":38518,"book_name":"打击撒旦权势"}]

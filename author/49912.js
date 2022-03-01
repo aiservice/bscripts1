@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙光宪","customer_url":"beimengsuoyan","image_path":"/files/book/cover/1300/cover.jpg","leading_role":"佚名","id":1300,"book_name":"北梦琐言"}]

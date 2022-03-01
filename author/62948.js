@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谷崎润一郎","customer_url":"s3-chunqinchao","image_path":"/files/book/cover/62387/cover.jpg","leading_role":"谷崎润一郎","id":62387,"book_name":"春琴抄"}]

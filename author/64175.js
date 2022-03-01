@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡门•玛丽亚•马查多","customer_url":"s3-paiduikongjuzheng","image_path":"/files/book/cover/64301/cover.jpg","leading_role":"[美]卡门•玛丽亚•马查多","id":64301,"book_name":"派对恐惧症"}]

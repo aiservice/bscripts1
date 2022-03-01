@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Tsevan Rabtan","customer_url":"s3-renleishanexiaoshi","image_path":"/files/book/cover/62314/cover.jpg","leading_role":"Tsevan Rabtan / Alejandra Acosta","id":62314,"book_name":"人类善恶小史"}]

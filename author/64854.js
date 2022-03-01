@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"清清育儿互助组","customer_url":"s3-zilvdehaiziyoudageju","image_path":"/files/book/cover/65240/cover.jpg","leading_role":" 清清育儿互助组","id":65240,"book_name":"自律的孩子有大格局"}]

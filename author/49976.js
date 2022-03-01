@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鸡林冷血生","customer_url":"yingxionglei","image_path":"/files/book/cover/1426/cover.jpg","leading_role":"佚名","id":1426,"book_name":"英雄泪"}]

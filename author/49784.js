@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王孝通","customer_url":"jigusuanjing","image_path":"/files/book/cover/1097/cover.jpg","leading_role":"佚名","id":1097,"book_name":"缉古算经"}]

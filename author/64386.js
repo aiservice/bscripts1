@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"拉维·提德哈","customer_url":"s3-zhongyangxingzhan","image_path":"/files/book/cover/64596/cover.jpg","leading_role":"[以] 拉维·提德哈","id":64596,"book_name":"中央星站"}]

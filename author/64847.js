@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"翁贝托·艾柯","customer_url":"s3-zhongshijizhimei","image_path":"/files/book/cover/65232/cover.jpg","leading_role":"[意] 翁贝托·艾柯","id":65232,"book_name":"中世纪之美"}]

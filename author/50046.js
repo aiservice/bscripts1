@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭璞　注","customer_url":"mutianzichuan","image_path":"/files/book/cover/1552/cover.jpg","leading_role":"佚名","id":1552,"book_name":"穆天子传"}]

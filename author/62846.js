@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[意] 埃莱娜·费兰特","customer_url":"s3-suipian","image_path":"/files/book/cover/62279/cover.jpg","leading_role":"[意] 埃莱娜·费兰特","id":62279,"book_name":"碎片"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"圣马克西母","customer_url":"four-hundred-theory-of-love","image_path":"/files/book/cover/109/cover.jpg","leading_role":"圣马克西母","id":109,"book_name":"论爱四百则"}]

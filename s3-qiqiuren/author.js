@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"第歐根尼變奏曲","leading_role":"陳浩基","image_path_min":"files/book/cover/64647/cover_120.jpg","author_name":"陳浩基","image_path":"files/book/cover/64647/cover.jpg","customer_url":"s3-diougennibianzouqu"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"彼得·魏格纳","customer_url":"s1-caifudazhuanyi","image_path":"/files/book/cover/62101/cover.jpg","leading_role":"彼得·魏格纳","id":62101,"book_name":"财富大转移"},{"author_name":"彼得·魏格纳","customer_url":"jinrishitu","image_path":"/files/book/cover/41013/cover.jpg","leading_role":"彼得·魏格纳","id":41013,"book_name":"今日使徒"}]

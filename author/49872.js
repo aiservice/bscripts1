@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"常杰淼","customer_url":"yongzhengjianxiatu","image_path":"/files/book/cover/1231/cover.jpg","leading_role":"佚名","id":1231,"book_name":"雍正剑侠图"}]

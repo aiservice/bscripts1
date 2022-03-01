@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥拉西奥·基罗加","customer_url":"s3-aiqingfengkuanghesiwangdegushi","image_path":"/files/book/cover/62460/cover.jpg","leading_role":"奥拉西奥·基罗加","id":62460,"book_name":"爱情、疯狂和死亡的故事"}]

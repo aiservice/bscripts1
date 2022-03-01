@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周国平","customer_url":"s3-dangnixuehuiduchu","image_path":"/files/book/cover/62127/cover.jpg","leading_role":"周国平","id":62127,"book_name":"当你学会独处"}]

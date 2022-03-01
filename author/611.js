@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧子显","customer_url":"nanqishu","image_path":"/files/book/cover/1032/cover.jpg","leading_role":"萧子显","id":1032,"book_name":"南齐书"}]

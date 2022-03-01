@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沈保罗","customer_url":"investigator-bible-study-textbook","image_path":"/files/book/cover/127/cover.jpg","leading_role":"沈保罗","id":127,"book_name":"慕道友查经班课本"}]

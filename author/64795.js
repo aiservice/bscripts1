@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊·伊·巴纳耶夫","customer_url":"s3-qunxingcanlandeniandai","image_path":"/files/book/cover/65163/cover.jpg","leading_role":"[俄] 伊·伊·巴纳耶夫","id":65163,"book_name":"群星灿烂的年代"}]

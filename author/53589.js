@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"季纳","customer_url":"xinyueshengjingbeijingzhushi","image_path":"/files/book/cover/44236/cover.jpg","leading_role":"（美）季纳著","id":44236,"book_name":"新约圣经背景注释"}]

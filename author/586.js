@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黎永明","customer_url":"shengmingdeguanmian","image_path":"/files/book/cover/996/cover.jpg","leading_role":"黎永明","id":996,"book_name":"生命的冠冕"}]

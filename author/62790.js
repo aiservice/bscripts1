@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[德]耶尔·阿德勒","customer_url":"s3-rentidemimi","image_path":"/files/book/cover/62220/cover.jpg","leading_role":"[德]耶尔·阿德勒 / [德]卡佳· 施皮策","id":62220,"book_name":"人体的秘密"}]

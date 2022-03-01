@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴贻棠","customer_url":"fengyuejian","image_path":"/files/book/cover/1272/cover.jpg","leading_role":"佚名","id":1272,"book_name":"风月鉴"}]

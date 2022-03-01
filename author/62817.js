@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 今谷明","customer_url":"s3-zhanguoshiqi","image_path":"/files/book/cover/62248/cover.jpg","leading_role":"[日] 今谷明","id":62248,"book_name":"战国时期（岩波日本史 第五卷）"}]

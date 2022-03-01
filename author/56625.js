@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钱钟书","customer_url":"weicheng","image_path":"/files/book/cover/48130/cover.jpg","leading_role":"钱钟书","id":48130,"book_name":"围城"}]

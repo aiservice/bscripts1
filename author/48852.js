@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"平江不肖生","customer_url":"jianghuqixiachuan","image_path":"/files/book/cover/1277/cover.jpg","leading_role":"佚名","id":1277,"book_name":"江湖奇侠传"},{"author_name":"平江不肖生","customer_url":"zhangwenxiangcimaan","leading_role":"佚名","id":1581,"book_name":"张文祥刺马案"}]

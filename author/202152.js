@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿利斯泰尔·霍恩","customer_url":"s3-balixianluo","image_path":"/files/book/cover/65793/cover.jpg","leading_role":"[英] 阿利斯泰尔·霍恩","id":65793,"book_name":"巴黎陷落"}]

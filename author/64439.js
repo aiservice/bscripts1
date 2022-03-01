@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡伦·霍妮","customer_url":"s3-womenneixindechongtu","image_path":"/files/book/cover/64666/cover.jpg","leading_role":"[美] 卡伦·霍妮","id":64666,"book_name":"我们内心的冲突"}]

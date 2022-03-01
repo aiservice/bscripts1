@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼科斯","customer_url":"generations-of-christian-doctrine","image_path":"/files/book/cover/283/cover.jpg","leading_role":"尼科斯","id":283,"book_name":"历代基督教信条"}]

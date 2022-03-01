@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梦花馆主","customer_url":"jiuweihu","image_path":"/files/book/cover/1472/cover.jpg","leading_role":"佚名","id":1472,"book_name":"九尾狐"}]

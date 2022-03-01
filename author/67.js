@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"平罗德","customer_url":"a-match-made-in-heaven","image_path":"/files/book/cover/38/cover.jpg","leading_role":"平罗德","id":38,"book_name":"天作之合"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安阳酒民","customer_url":"qingmengtuo","image_path":"/files/book/cover/1251/cover.jpg","leading_role":"佚名","id":1251,"book_name":"情梦柝"}]

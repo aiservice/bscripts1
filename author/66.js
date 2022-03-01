@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘莺孙","customer_url":"a-happy-woman","image_path":"/files/book/cover/37/cover.jpg","leading_role":"刘莺孙","id":37,"book_name":"幸福的女人"}]

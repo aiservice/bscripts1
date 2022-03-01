@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法]小仲马","customer_url":"s3-chahuanv","image_path":"/files/book/cover/62062/cover.jpg","leading_role":"[法]小仲马","id":62062,"book_name":"茶花女"}]

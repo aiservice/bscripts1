@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李林静芝","customer_url":"zimeidejiaose","image_path":"/files/book/cover/320/cover.jpg","leading_role":"李林静芝","id":320,"book_name":"姊妹的角色"}]

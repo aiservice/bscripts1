@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张嘉佳","customer_url":"s3-tiantanglvxingtuan","image_path":"/files/book/cover/65195/cover.jpg","leading_role":"张嘉佳","id":65195,"book_name":"天堂旅行团"}]

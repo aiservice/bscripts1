@@ -1,1 +1,0 @@
-var authorList=[{"image_path_min":"/files/book/cover/62282/cover.jpg","author_name":"李沧东","customer_url":"s3-shaozhi","image_path":"/files/book/cover/62282/cover.jpg","leading_role":" [韩] 李沧东","book_name":"烧纸"}]

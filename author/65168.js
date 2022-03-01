@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"托马斯·爱斯科","customer_url":"s1-qinaidetimotai","image_path":"/files/book/cover/65690/cover.jpg","leading_role":"托马斯·爱斯科","id":65690,"book_name":"亲爱的提摩太"}]

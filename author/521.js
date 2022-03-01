@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦克瑟","customer_url":"kanlingenpai","image_path":"/files/book/cover/878/cover.jpg","leading_role":"麦克瑟","id":878,"book_name":"从神学观点看灵恩派"}]

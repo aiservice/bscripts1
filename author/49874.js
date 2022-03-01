@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"纪振伦","customer_url":"xuyingliechuan","image_path":"/files/book/cover/1235/cover.jpg","leading_role":"佚名","id":1235,"book_name":"续英烈传"}]

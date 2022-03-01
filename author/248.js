@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴克莱","customer_url":"flowers-full-size","image_path":"/files/book/cover/348/cover.jpg","leading_role":"巴克莱","id":348,"book_name":"花香满径"}]

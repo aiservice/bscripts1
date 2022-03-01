@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"董仲舒","customer_url":"chunqiufanlu","image_path":"/files/book/cover/1065/cover.jpg","leading_role":"佚名","id":1065,"book_name":"春秋繁露"}]

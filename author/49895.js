@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曹绣君","customer_url":"gujinqinghai","image_path":"/files/book/cover/1274/cover.jpg","leading_role":"佚名","id":1274,"book_name":"古今情海"}]

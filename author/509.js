@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"A. S. Worrell","customer_url":"chengshengliuke","image_path":"/files/book/cover/862/cover.jpg","leading_role":"A. S. Worrell著 余慈度译","id":862,"book_name":"成圣六课"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"（荷）圣伯尔拿，（法）肯培多马","customer_url":"zhongshijilingxiuwenxuexuanji","image_path":"/files/book/cover/302/cover.jpg","leading_role":"（荷）圣伯尔拿，（法）肯培多马","id":302,"book_name":"中世纪灵修文学选集"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"瓦西里·格罗斯曼","customer_url":"s3-shenghuoyumingyun","image_path":"/files/book/cover/64791/cover.jpg","leading_role":"[俄] 瓦西里·格罗斯曼","id":64791,"book_name":"生活与命运"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈彦","customer_url":"s3-zhuangtai","image_path":"/files/book/cover/62257/cover.jpg","leading_role":"陈彦","id":62257,"book_name":"装台"}]

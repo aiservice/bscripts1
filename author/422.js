@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"任以撒","customer_url":"xitongshenxue","image_path":"/files/book/cover/685/cover.jpg","leading_role":"任以撒","id":685,"book_name":"系统神学"}]

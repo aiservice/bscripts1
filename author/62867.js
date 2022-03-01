@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法] 拉罗什福科","customer_url":"s3-weishanshixieexiangmeidedezhijing","image_path":"/files/book/cover/62307/cover.jpg","leading_role":"[法] 拉罗什福科","id":62307,"book_name":"伪善是邪恶向美德的致敬"}]

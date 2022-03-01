@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"逆时侦查组2","leading_role":"张小猫","image_path_min":"files/book/cover/64599/cover_120.jpg","author_name":"张小猫","image_path":"files/book/cover/64599/cover.jpg","customer_url":"s3-nishizhenchazu2"}]

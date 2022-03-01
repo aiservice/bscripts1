@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"石田衣良","customer_url":"s3-qiuzhiji","image_path":"/files/book/cover/64574/cover.jpg","leading_role":"[日] 石田衣良","id":64574,"book_name":"求职记"}]

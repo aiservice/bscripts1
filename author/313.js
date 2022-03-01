@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄福华","customer_url":"zheshang","image_path":"/files/book/cover/473/cover.jpg","leading_role":"（新加坡）黄福华","id":473,"book_name":"哲商"}]

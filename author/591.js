@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"枇杷花开","customer_url":"yifeinanqiu","image_path":"/files/book/cover/1002/cover.jpg","leading_role":"枇杷花开","id":1002,"book_name":"医妃难囚"}]

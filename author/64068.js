@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布里奇特·柯林斯","customer_url":"s3-dingshujiang","image_path":"/files/book/cover/64138/cover.jpg","leading_role":"[英]布里奇特·柯林斯","id":64138,"book_name":"订书匠"}]

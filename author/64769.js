@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"塔拉·韦斯特弗","customer_url":"s3-nidangxiangniaofeiwangnideshan","image_path":"/files/book/cover/65126/cover.jpg","leading_role":"[美] 塔拉·韦斯特弗","id":65126,"book_name":"你当像鸟飞往你的山"}]

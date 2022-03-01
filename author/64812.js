@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安永碳中和课题组","customer_url":"s3-yibenshududongtanzhonghe","image_path":"/files/book/cover/65187/cover.jpg","leading_role":"安永碳中和课题组","id":65187,"book_name":"一本书读懂碳中和"}]

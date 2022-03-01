@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"本·伯南克","customer_url":"s3-miehuo","image_path":"/files/book/cover/64295/cover.jpg","leading_role":"[美] 本·伯南克 / [美] 蒂莫西·盖特纳 / [美] 亨利·保尔森","id":64295,"book_name":"灭火"}]

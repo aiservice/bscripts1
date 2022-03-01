@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"埃莱娜·费兰特","customer_url":"s3-chengnianrendehuangyanshenghuo","image_path":"/files/book/cover/65147/cover.jpg","leading_role":"[意] 埃莱娜·费兰特","id":65147,"book_name":"成年人的谎言生活"},{"author_name":"埃莱娜·费兰特","customer_url":"s3-shizongdehaizi","image_path":"/files/book/cover/63932/cover.jpg","leading_role":"[意] 埃莱娜·费兰特","id":63932,"book_name":"失踪的孩子"}]

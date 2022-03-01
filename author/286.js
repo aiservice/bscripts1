@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰.府来","customer_url":"shenhulideaomi","image_path":"/files/book/cover/420/cover.jpg","leading_role":"约翰.府来","id":420,"book_name":"神护理的奥秘"}]

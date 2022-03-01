@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐颖","customer_url":"s3-hongyan","image_path":"/files/book/cover/64959/cover.jpg","leading_role":"唐颖","id":64959,"book_name":"红颜"}]

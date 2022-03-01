@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"寐语者","customer_url":"s3-jiangshanguren","image_path":"/files/book/cover/59496/cover.jpg","leading_role":"寐语者","id":59496,"book_name":"江山故人"}]

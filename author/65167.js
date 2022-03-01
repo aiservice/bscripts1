@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"兰晓龙","customer_url":"s3-dongyushi","image_path":"/files/book/cover/65689/cover.jpg","leading_role":"兰晓龙","id":65689,"book_name":"冬与狮"}]

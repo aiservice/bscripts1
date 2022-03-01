@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]托马斯·哈里斯","customer_url":"s3-chenmodegaoyang","image_path":"/files/book/cover/59450/cover.jpg","leading_role":"[美]托马斯·哈里斯","id":59450,"book_name":"沉默的羔羊"}]

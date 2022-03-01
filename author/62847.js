@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张忌","customer_url":"s3-nanhuodian","image_path":"/files/book/cover/62280/cover.jpg","leading_role":"张忌","id":62280,"book_name":"南货店"}]

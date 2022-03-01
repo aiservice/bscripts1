@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"切特·雷莫","customer_url":"s3-geiyangwangzhedetianwenchaoshengzhilv","image_path":"/files/book/cover/64119/cover.jpg","leading_role":"切特·雷莫（Chet Raymo）","id":64119,"book_name":"给仰望者的天文朝圣之旅"}]

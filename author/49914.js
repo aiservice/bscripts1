@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孟棨","customer_url":"benshishi","image_path":"/files/book/cover/1302/cover.jpg","leading_role":"佚名","id":1302,"book_name":"本事诗"}]

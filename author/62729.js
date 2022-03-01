@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗拔士·李亚敦","customer_url":"s1-shulingfenbianli","image_path":"/files/book/cover/62148/cover.jpg","leading_role":"罗拔士·李亚敦","id":62148,"book_name":"属灵分辨力"}]

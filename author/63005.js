@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"费尔南多·佩索阿","customer_url":"s3-buanzhishu","image_path":"/files/book/cover/62459/cover.jpg","leading_role":"费尔南多·佩索阿","id":62459,"book_name":"不安之书"}]

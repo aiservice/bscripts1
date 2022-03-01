@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"左丘萌","customer_url":"s3-zhongguozhuangshudatangnverxing","image_path":"/files/book/cover/64097/cover.jpg","leading_role":"左丘萌 / 末春","id":64097,"book_name":"中国妆束：大唐女儿行"}]

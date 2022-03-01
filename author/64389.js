@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·尼斯贝特","customer_url":"s3-renzhisanbuqu","image_path":"/files/book/cover/64600/cover.jpg","leading_role":"理查德·尼斯贝特","id":64600,"book_name":"认知三部曲"}]

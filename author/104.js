@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴比·琼斯、杰姬·肯德尔","customer_url":"lady-in-waiting","image_path":"/files/book/cover/89/cover.jpg","leading_role":"戴比·琼斯、杰姬·肯德尔","id":89,"book_name":"清心守候的女人"}]

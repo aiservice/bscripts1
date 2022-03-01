@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何剑峰","customer_url":"s3-xinxingguanzhuangbingduganranfanghu","image_path":"/files/book/cover/64122/cover.jpg","leading_role":"何剑峰/宋铁","id":64122,"book_name":"新型冠状病毒感染防护"}]

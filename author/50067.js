@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钟毓龙","customer_url":"shanggumishi","image_path":"/files/book/cover/1610/cover.jpg","leading_role":"佚名","id":1610,"book_name":"上古秘史"}]

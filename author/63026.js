@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马特·里克特","customer_url":"s3-youyadeshouweizhe","image_path":"/files/book/cover/62480/cover.jpg","leading_role":"[美] 马特·里克特","id":62480,"book_name":"优雅的守卫者"}]

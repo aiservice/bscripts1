@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路易斯·梅南","customer_url":"s3-xingershangxuejulebu","image_path":"/files/book/cover/65891/cover.jpg","leading_role":"[美]路易斯·梅南","id":65891,"book_name":"形而上学俱乐部"}]

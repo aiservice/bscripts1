@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丹·费金","customer_url":"s3-tangmusihe","image_path":"/files/book/cover/65893/cover.jpg","leading_role":" [美] 丹·费金","id":65893,"book_name":"汤姆斯河"}]

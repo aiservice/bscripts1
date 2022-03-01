@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马丁·狄汉","customer_url":"our-daily-bread","image_path":"/files/book/cover/814/cover.jpg","leading_role":"马丁·狄汉","id":814,"book_name":"修剪生命荒芜"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邓析","customer_url":"dengxizi","image_path":"/files/book/cover/1192/cover.jpg","leading_role":"佚名","id":1192,"book_name":"邓析子"}]

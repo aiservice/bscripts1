@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡苏娟","customer_url":"anshizhihou","image_path":"/files/book/cover/300/cover.jpg","leading_role":"蔡苏娟","id":300,"book_name":"暗室之后"}]

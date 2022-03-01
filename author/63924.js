@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林海音","customer_url":"s3-chengnanjiushi","image_path":"/files/book/cover/63940/cover.jpg","leading_role":"林海音","id":63940,"book_name":"城南旧事"}]

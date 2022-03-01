@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"基督教教义史","leading_role":"伯克富","image_path_min":"/files/book/cover/78/cover_120.jpg","author_name":"伯克富","image_path":"/files/book/cover/78/cover.jpg","customer_url":"history-of-christian-doctrine"}]

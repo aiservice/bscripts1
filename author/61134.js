@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布永康","customer_url":"s1-huoyanrensheng","image_path":"/files/book/cover/59729/cover.jpg","leading_role":"布永康","id":59729,"book_name":"火焰人生"}]

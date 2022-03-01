@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谭适德","customer_url":"fangyanshenguanglun","image_path":"/files/book/cover/41010/cover.jpg","leading_role":"谭适德","id":41010,"book_name":"方言深广论"}]

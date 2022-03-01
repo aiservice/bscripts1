@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘和平","customer_url":"s3-beipingwuzhanshi","image_path":"/files/book/cover/61184/cover.jpg","leading_role":"刘和平","id":61184,"book_name":"北平无战事"}]

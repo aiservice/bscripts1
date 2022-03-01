@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王浚卿","customer_url":"lengyanguan","image_path":"/files/book/cover/1265/cover.jpg","leading_role":"佚名","id":1265,"book_name":"冷眼观"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱德华 J. 杨格","customer_url":"due-to-the-glory-of-god","image_path":"/files/book/cover/2/cover.jpg","leading_role":"神","id":2,"book_name":"神预定得荣耀的人"}]

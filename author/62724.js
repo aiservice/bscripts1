@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿莱克斯•肯德里克","customer_url":"s1-lianaizhenaitiaozhan40tian","image_path":"/files/book/cover/62137/cover.jpg","leading_role":"阿莱克斯•肯德里克 / 斯蒂芬•肯德里克","id":62137,"book_name":"炼爱-真爱挑战40天"}]

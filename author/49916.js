@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张读","customer_url":"xuanshizhi","image_path":"/files/book/cover/1304/cover.jpg","leading_role":"佚名","id":1304,"book_name":"宣室志"}]

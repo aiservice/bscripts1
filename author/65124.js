@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"岸见一郎","customer_url":"s3-beijujuedeyongqi","image_path":"/files/book/cover/65631/cover.jpg","leading_role":"[日] 岸见一郎","id":65631,"book_name":"被拒绝的勇气"}]

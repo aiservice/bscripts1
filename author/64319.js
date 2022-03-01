@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柏拉图","customer_url":"s3-lixiangguo","image_path":"/files/book/cover/64503/cover.jpg","leading_role":"[古希腊]柏拉图","id":64503,"book_name":"理想国"}]

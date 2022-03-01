@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔舒亚·B.弗里曼","customer_url":"s3-jushou","image_path":"/files/book/cover/64957/cover.jpg","leading_role":"[美]乔舒亚·B.弗里曼","id":64957,"book_name":"巨兽 : 工厂与现代世界的形成"}]

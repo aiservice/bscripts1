@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈寿","customer_url":"sanguozhi","image_path":"/files/book/cover/1029/cover.jpg","leading_role":"陈寿","id":1029,"book_name":"三国志"}]

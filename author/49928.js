@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"顾祖禹","customer_url":"dushifangyujiyao","image_path":"/files/book/cover/1326/cover.jpg","leading_role":"佚名","id":1326,"book_name":"读史方舆纪要"}]

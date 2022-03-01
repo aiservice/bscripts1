@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈长方","customer_url":"buliketan","image_path":"/files/book/cover/1411/cover.jpg","leading_role":"佚名","id":1411,"book_name":"步里客谈"}]

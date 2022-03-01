@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"保罗·克里瓦切克","customer_url":"s3-babilun","image_path":"/files/book/cover/65778/cover.jpg","leading_role":" [英]保罗·克里瓦切克","id":65778,"book_name":"巴比伦：美索不达米亚和文明的诞生"}]

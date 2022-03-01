@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李景沆","customer_url":"grace-course","image_path":"/files/book/cover/12/cover.jpg","leading_role":"李景沆","id":12,"book_name":"蒙恩历程"}]

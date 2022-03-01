@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·霍夫施塔特","customer_url":"s3-meiguoshenghuozhongdifanzhizhuyi","image_path":"/files/book/cover/65406/cover.jpg","leading_role":"[美] 理查德·霍夫施塔特","id":65406,"book_name":"美国生活中的反智主义"}]

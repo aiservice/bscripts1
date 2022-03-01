@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"脱脱等","customer_url":"liaoshi","image_path":"/files/book/cover/1046/cover.jpg","leading_role":"脱脱等","id":1046,"book_name":"辽史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴宁顿","customer_url":"jidutushenghuogangyao","image_path":"/files/book/cover/480/cover.jpg","leading_role":"巴宁顿","id":480,"book_name":"基督徒生活纲要"}]

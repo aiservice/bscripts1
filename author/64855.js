@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"帕特里克·拉登·基夫","customer_url":"s3-shenmeyebieshuo","image_path":"/files/book/cover/65241/cover.jpg","leading_role":" [美]帕特里克·拉登·基夫","id":65241,"book_name":"什么也别说 : 一桩北爱尔兰谋杀案"}]

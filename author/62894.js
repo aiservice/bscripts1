@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"香帅","customer_url":"s3-xiangshuaicaifubaogao","image_path":"/files/book/cover/62334/cover.jpg","leading_role":"香帅","id":62334,"book_name":"香帅财富报告"},{"author_name":"香帅","customer_url":"s3-qiancongnalilai","image_path":"/files/book/cover/65678/cover.jpg","leading_role":"香帅","id":65678,"book_name":"钱从哪里来"}]

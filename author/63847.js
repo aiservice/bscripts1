@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"前川誉","customer_url":"s3-siwangqingsaoriji","image_path":"/files/book/cover/63845/cover.jpg","leading_role":"[日]前川誉","id":63845,"book_name":"死亡清扫日记"}]

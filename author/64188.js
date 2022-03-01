@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗尔德•达尔","customer_url":"s3-haoxiaozitongniangushi","image_path":"/files/book/cover/64319/cover.jpg","leading_role":"罗尔德•达尔","id":64319,"book_name":"好小子童年故事"}]

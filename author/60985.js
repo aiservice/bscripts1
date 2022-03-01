@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]乔丹·贝尔福特","customer_url":"s3-huaerjiezhilang","image_path":"/files/book/cover/59445/cover.jpg","leading_role":"[美]乔丹·贝尔福特","id":59445,"book_name":"华尔街之狼"}]

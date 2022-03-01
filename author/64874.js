@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰-弗朗斯瓦·马里昂","customer_url":"s3-yuchunxinlixue","image_path":"/files/book/cover/65275/cover.jpg","leading_role":"[法] 约翰-弗朗斯瓦·马里昂","id":65275,"book_name":"愚蠢心理学"}]

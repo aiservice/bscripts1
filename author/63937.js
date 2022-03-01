@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柴静","customer_url":"s3-kanjian","image_path":"/files/book/cover/63958/cover.jpg","leading_role":"柴静","id":63958,"book_name":"看见"}]

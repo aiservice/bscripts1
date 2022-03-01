@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗尔德·达尔","customer_url":"s3-madierda","image_path":"/files/book/cover/64534/cover.jpg","leading_role":"[挪威] 罗尔德·达尔","id":64534,"book_name":"玛蒂尔达"}]

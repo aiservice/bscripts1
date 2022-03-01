@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘鹗","customer_url":"laocanyouji","image_path":"/files/book/cover/1587/cover.jpg","leading_role":"佚名","id":1587,"book_name":"老残游记"},{"author_name":"刘鹗","customer_url":"laocanyoujixuji","image_path":"/files/book/cover/1588/cover.jpg","leading_role":"佚名","id":1588,"book_name":"老残游记续集"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汪宗沂","customer_url":"wuhoubazhenbingfajilve","leading_role":"佚名","id":1357,"book_name":"武侯八阵兵法辑略"}]

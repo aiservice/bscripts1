@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沃尔夫冈·毕纳","customer_url":"aiyuzui","image_path":"/files/book/cover/34953/cover.jpg","leading_role":" (德)沃尔夫冈·毕纳|译者:李晶浩","id":34953,"book_name":"爱与罪"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"舒仁度","customer_url":"mulerijijinghua","image_path":"/files/book/cover/537/cover.jpg","leading_role":"舒仁度","id":537,"book_name":"慕勒日记精华"}]

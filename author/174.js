@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李道生","customer_url":"the-old-testament-problem-total-solution","image_path":"/files/book/cover/203/cover.jpg","leading_role":"李道生","id":203,"book_name":"旧约圣经问题总解"}]

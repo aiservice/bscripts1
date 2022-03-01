@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗兰•米勒","customer_url":"s3-qinmiguanxi","image_path":"/files/book/cover/62363/cover.jpg","leading_role":"罗兰•米勒","id":62363,"book_name":"亲密关系"}]

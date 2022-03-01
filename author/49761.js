@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"荀悦","customer_url":"qianhanji","image_path":"/files/book/cover/1063/cover.jpg","leading_role":"佚名","id":1063,"book_name":"前汉纪"}]

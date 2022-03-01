@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沈从文","customer_url":"s3-biancheng","image_path":"/files/book/cover/62086/cover.jpg","leading_role":"沈从文","id":62086,"book_name":"边城"}]

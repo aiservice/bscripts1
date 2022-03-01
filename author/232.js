@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"慕马快乐","customer_url":"kuailedeyisheng","image_path":"/files/book/cover/318/cover.jpg","leading_role":"慕马快乐","id":318,"book_name":"快乐的一生"}]

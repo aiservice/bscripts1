@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李培林","customer_url":"s3-dangdaizhongguojiejijiecengbiandong","image_path":"/files/book/cover/63930/cover.jpg","leading_role":"李培林","id":63930,"book_name":"当代中国阶级阶层变动"}]

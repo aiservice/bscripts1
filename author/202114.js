@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"岩井俊二","customer_url":"s3-qingshu","image_path":"/files/book/cover/65743/cover.jpg","leading_role":" [日] 岩井俊二","id":65743,"book_name":"情书"}]

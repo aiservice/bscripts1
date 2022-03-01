@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴顿·格尔曼","customer_url":"s3-meiguoheijing","image_path":"/files/book/cover/65931/cover.jpg","leading_role":"[美]巴顿·格尔曼","id":65931,"book_name":"美国黑镜"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冨岛佑允","customer_url":"s3-yuanlaishuxuezhemehaowan","image_path":"/files/book/cover/65160/cover.jpg","leading_role":"[日]冨岛佑允","id":65160,"book_name":"原来数学这么好玩"}]

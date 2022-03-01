@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫·爱泼斯坦","customer_url":"s3-chengzhangdebianjie","image_path":"/files/book/cover/64495/cover.jpg","leading_role":" [加] 大卫·爱泼斯坦","id":64495,"book_name":"成长的边界"}]

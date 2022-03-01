@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿比吉特·班纳吉","customer_url":"s3-pinqiongdebenzhi","image_path":"/files/book/cover/63951/cover.jpg","leading_role":"[印]阿比吉特·班纳吉","id":63951,"book_name":"贫穷的本质"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黛博拉•皮葛斯","customer_url":"s1-30tianzhanshengnidekoushe","image_path":"/files/book/cover/64106/cover.jpg","leading_role":"黛博拉•皮葛斯  翻译：廖雪瑛","id":64106,"book_name":"30天战胜你的口舌"}]

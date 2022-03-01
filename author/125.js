@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"多位作者","customer_url":"religious-dialogue","image_path":"/files/book/cover/122/cover.jpg","leading_role":"多位作者","id":122,"book_name":"信仰对话录"}]

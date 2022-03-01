@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙科柳","customer_url":"s3-changjinghuafuneng","image_path":"/files/book/cover/64126/cover.jpg","leading_role":"孙科柳、孙科江","id":64126,"book_name":"场景化赋能"}]

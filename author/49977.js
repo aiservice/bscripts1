@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"德龄","customer_url":"yuxiangpiaomiaolu","image_path":"/files/book/cover/1428/cover.jpg","leading_role":"佚名","id":1428,"book_name":"御香缥缈录"}]

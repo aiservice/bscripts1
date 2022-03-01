@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陆可铎","customer_url":"fearless","image_path":"/files/book/cover/759/cover.jpg","leading_role":"陆可铎","id":759,"book_name":"你当刚强壮胆"}]

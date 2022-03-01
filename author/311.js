@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘大卫","customer_url":"kexueyuxinyang","image_path":"/files/book/cover/470/cover.jpg","leading_role":"刘大卫","id":470,"book_name":"科学与信仰"}]

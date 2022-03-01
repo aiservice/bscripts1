@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莎拉·弗莱尔","customer_url":"s3-jiemiinstagram","image_path":"/files/book/cover/62483/cover.jpg","leading_role":"[美] 莎拉·弗莱尔","id":62483,"book_name":"解密 Instagram"}]

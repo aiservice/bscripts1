@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"若花燃燃","customer_url":"s3-lixiangzhicheng","image_path":"/files/book/cover/64971/cover.jpg","leading_role":"若花燃燃","id":64971,"book_name":"理想之城：苏筱的战争"}]

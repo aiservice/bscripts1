@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"云间天赘生","customer_url":"shangjiexianxingji","image_path":"/files/book/cover/1613/cover.jpg","leading_role":"佚名","id":1613,"book_name":"商界现形记"}]

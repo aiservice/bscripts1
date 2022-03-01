@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"江左樵子","customer_url":"qiaoshitongsuyanyi","image_path":"/files/book/cover/1497/cover.jpg","leading_role":"佚名","id":1497,"book_name":"樵史通俗演义"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈慰中","customer_url":"zhongyongxitongshenxue","image_path":"/files/book/cover/696/cover.jpg","leading_role":"(加拿大)陈慰中","id":696,"book_name":"中庸系统神学"}]

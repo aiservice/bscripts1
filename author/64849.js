@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏起","customer_url":"s3-lianganbotaoershinianjishi","image_path":"/files/book/cover/65234/cover.jpg","leading_role":" 苏起","id":65234,"book_name":"两岸波涛二十年纪实"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林曾秀芬","customer_url":"benfangdeshengming","image_path":"/files/book/cover/545/cover.jpg","leading_role":"林曾秀芬","id":545,"book_name":"奔放的生命"},{"author_name":"林曾秀芬","customer_url":"chuanchengdeshengming","image_path":"/files/book/cover/588/cover.jpg","leading_role":"林曾秀芬","id":588,"book_name":"传承的生命"}]

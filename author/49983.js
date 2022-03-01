@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"不署撰人","customer_url":"bimuyu","image_path":"/files/book/cover/1436/cover.jpg","leading_role":"佚名","id":1436,"book_name":"比目鱼"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[澳] 克莱夫·詹姆斯","customer_url":"s3-wenhuashiyi","image_path":"/files/book/cover/62271/cover.jpg","leading_role":"[澳] 克莱夫·詹姆斯","id":62271,"book_name":"文化失忆"}]

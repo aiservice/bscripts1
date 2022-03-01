@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赖特","customer_url":"shipianzhushi","image_path":"/files/book/cover/352/cover.jpg","leading_role":"赖特","id":352,"book_name":"诗篇注释"}]

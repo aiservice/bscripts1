@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"施耐庵","customer_url":"shuihuzhuan","image_path":"/files/book/cover/1005/cover.jpg","leading_role":"施耐庵","id":1005,"book_name":"水浒传"}]

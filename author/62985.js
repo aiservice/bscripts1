@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"浮石","customer_url":"s3-qingci","image_path":"/files/book/cover/62437/cover.jpg","leading_role":"浮石","id":62437,"book_name":"青瓷"}]

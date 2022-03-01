@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾基新","customer_url":"shengjingnantihuibian","image_path":"/files/book/cover/628/cover.jpg","leading_role":"艾基新","id":628,"book_name":"圣经难题汇编"}]

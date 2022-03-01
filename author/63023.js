@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海伦·费舍尔","customer_url":"s3-womenweihejiehunyouweihebuzhong","image_path":"/files/book/cover/62477/cover.jpg","leading_role":"[美]海伦·费舍尔（Helen Fisher）","id":62477,"book_name":"我们为何结婚，又为何不忠"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青十五","customer_url":"s3-celvechanpinjingli","image_path":"/files/book/cover/64672/cover.jpg","leading_role":"青十五","id":64672,"book_name":"策略产品经理：模型与方法论"}]

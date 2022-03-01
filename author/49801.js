@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧绎","customer_url":"jinlouzi","image_path":"/files/book/cover/1122/cover.jpg","leading_role":"佚名","id":1122,"book_name":"金楼子"}]

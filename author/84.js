@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邓敏","customer_url":"teachers-training","image_path":"/files/book/cover/63/cover.jpg","leading_role":"师资训练","id":63,"book_name":"师资训练"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贾玉铭","customer_url":"lingxiurike","image_path":"/files/book/cover/854/cover.jpg","leading_role":"贾玉铭","id":854,"book_name":"灵修日课"}]

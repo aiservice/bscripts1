@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"E·B·怀特","customer_url":"s3-xialuodewang","image_path":"/files/book/cover/64070/cover.jpg","leading_role":"[美] E·B·怀特","id":64070,"book_name":"夏洛的网"}]

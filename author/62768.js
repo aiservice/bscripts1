@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈磊","customer_url":"s3-banxiaoshimanhuadataozhuang","image_path":"/files/book/cover/62390/cover.jpg","leading_role":"陈磊","id":62390,"book_name":"半小时漫画大套装"},{"author_name":"陈磊","customer_url":"s3-banxiaoshimanhuajingjixue3","image_path":"/files/book/cover/62197/cover.jpg","leading_role":"陈磊","id":62197,"book_name":"半小时漫画经济学3"}]

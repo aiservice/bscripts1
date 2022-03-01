@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉·斯蒂尔","customer_url":"s1-muzhedegongzuo","image_path":"/files/book/cover/65692/cover.jpg","leading_role":"威廉·斯蒂尔","id":65692,"book_name":"牧者的工作"}]

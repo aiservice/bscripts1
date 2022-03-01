@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"帕斯卡·梅西耶","customer_url":"s3-lisibenyeche","image_path":"/files/book/cover/65116/cover.jpg","leading_role":"[瑞士]帕斯卡·梅西耶","id":65116,"book_name":"里斯本夜车"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"魏秀仁","customer_url":"huayuehen","image_path":"/files/book/cover/1284/cover.jpg","leading_role":"佚名","id":1284,"book_name":"花月痕"}]

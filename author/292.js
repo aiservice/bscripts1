@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林荣树","customer_url":"kujingfusheng","image_path":"/files/book/cover/433/cover.jpg","leading_role":"林荣树","id":433,"book_name":"苦境浮生"}]

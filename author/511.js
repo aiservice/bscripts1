@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邵庆彰","customer_url":"fssmmmg","image_path":"/files/book/cover/865/cover.jpg","leading_role":"邵庆彰","id":865,"book_name":"丰盛生命面面观"}]

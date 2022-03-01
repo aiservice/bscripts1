@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沈志华","customer_url":"s3-daguocangsangshijiang","image_path":"/files/book/cover/64907/cover.jpg","leading_role":"沈志华","id":64907,"book_name":"大国沧桑十讲"}]

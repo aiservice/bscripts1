@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贺学友","customer_url":"s3-xiaoshoutiejun","image_path":"/files/book/cover/65761/cover.jpg","leading_role":"贺学友","id":65761,"book_name":"销售铁军"}]

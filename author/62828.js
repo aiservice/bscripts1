@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马修·麦凯","customer_url":"s3-zizun","image_path":"/files/book/cover/62259/cover.jpg","leading_role":"马修·麦凯","id":62259,"book_name":"自尊"}]

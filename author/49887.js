@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烟水散人","customer_url":"hepuzhu","image_path":"/files/book/cover/1264/cover.jpg","leading_role":"佚名","id":1264,"book_name":"合浦珠"}]

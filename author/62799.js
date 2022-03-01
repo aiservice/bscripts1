@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"宋琳 / 柏桦","customer_url":"s3-qinaidezhangzao","image_path":"/files/book/cover/62229/cover.jpg","leading_role":"宋琳 / 柏桦","id":62229,"book_name":"亲爱的张枣"}]

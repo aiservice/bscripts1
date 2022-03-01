@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥尔加·托卡尔丘克","customer_url":"s3-yunyou","image_path":"/files/book/cover/64075/cover.jpg","leading_role":" [波] 奥尔加·托卡尔丘克","id":64075,"book_name":"云游"}]

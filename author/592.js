@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金庸","customer_url":"tianlongbabu","image_path":"/files/book/cover/1003/cover.jpg","leading_role":"金庸","id":1003,"book_name":"天龙八部"}]

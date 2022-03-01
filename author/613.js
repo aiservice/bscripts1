@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"魏收","customer_url":"weishu","image_path":"/files/book/cover/1035/cover.jpg","leading_role":"魏收","id":1035,"book_name":"魏书"}]

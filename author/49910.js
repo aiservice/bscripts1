@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凌濛初","customer_url":"erkepaianjingqi","image_path":"/files/book/cover/1293/cover.jpg","leading_role":"佚名","id":1293,"book_name":"二刻拍案惊奇"}]

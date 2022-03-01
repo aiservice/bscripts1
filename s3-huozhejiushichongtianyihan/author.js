@@ -1,1 +1,0 @@
-var authorList=[{"image_path_min":"/files/book/cover/65911/cover.jpg","author_name":"陈年喜","customer_url":"s3-weichen","image_path":"/files/book/cover/65911/cover.jpg","leading_role":"陈年喜","book_name":"微尘"}]

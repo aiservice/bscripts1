@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄锦树","customer_url":"s3-yu","image_path":"/files/book/cover/64131/cover.jpg","leading_role":"[马] 黄锦树","id":64131,"book_name":"雨"}]

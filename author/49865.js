@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王永彬","customer_url":"weiluyehua","image_path":"/files/book/cover/1222/cover.jpg","leading_role":"佚名","id":1222,"book_name":"围炉夜话"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冯仑","customer_url":"s3-kangzhujiushibenshi","image_path":"/files/book/cover/62299/cover.jpg","leading_role":"冯仑","id":62299,"book_name":"扛住就是本事"}]

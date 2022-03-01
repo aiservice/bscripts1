@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李硕","customer_url":"s3-louchuantiemaliujinu","image_path":"/files/book/cover/62474/cover.jpg","leading_role":"李硕","id":62474,"book_name":"楼船铁马刘寄奴"}]

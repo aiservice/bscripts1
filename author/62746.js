@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]文森特·鲁吉罗","customer_url":"s3-chaoyueganjuepipanxingsikaozhinan","image_path":"/files/book/cover/62173/cover.jpg","leading_role":"[美]文森特·鲁吉罗","id":62173,"book_name":"超越感觉：批判性思考指南"}]

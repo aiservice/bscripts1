@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭强生","customer_url":"s3-duandai","image_path":"/files/book/cover/65255/cover.jpg","leading_role":"郭强生","id":65255,"book_name":"断代"}]

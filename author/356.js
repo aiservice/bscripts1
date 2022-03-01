@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玛丽.琼斯","customer_url":"maliqiongsihetadeshengjing","image_path":"/files/book/cover/544/cover.jpg","leading_role":"玛丽.琼斯","id":544,"book_name":"玛丽.琼斯和她的圣经"}]

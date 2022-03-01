@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"幾米","customer_url":"s3-zuihoudehuangzu","image_path":"/files/book/cover/62451/cover.jpg","leading_role":"幾米","id":62451,"book_name":"最后的皇族"}]

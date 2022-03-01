@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨本芬","customer_url":"s3-qiuyuan","image_path":"/files/book/cover/62219/cover.jpg","leading_role":"杨本芬","id":62219,"book_name":"秋园"},{"author_name":"杨本芬","customer_url":"s3-fumu","image_path":"/files/book/cover/65799/cover.jpg","leading_role":"杨本芬","id":65799,"book_name":"浮木"}]

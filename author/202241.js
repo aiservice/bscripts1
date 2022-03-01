@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"浦洛基","customer_url":"s3-wukelan2000nianshi","image_path":"/files/book/cover/65932/cover.jpg","leading_role":"[美] 浦洛基","id":65932,"book_name":"欧洲之门：乌克兰2000年史"}]

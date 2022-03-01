@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"翟辛蒂","customer_url":"s1-tianshengnvcai","image_path":"/files/book/cover/62327/cover.jpg","leading_role":"翟辛蒂","id":62327,"book_name":"天生女才"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沈大成","customer_url":"s3-xiaoxingxingdiaozaixiawu","image_path":"/files/book/cover/62176/cover.jpg","leading_role":"沈大成","id":62176,"book_name":"小行星掉在下午"},{"author_name":"沈大成","customer_url":"s3-miluyuan","image_path":"/files/book/cover/65403/cover.jpg","leading_role":"沈大成","id":65403,"book_name":"迷路员"}]

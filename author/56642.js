@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Twentine","customer_url":"nagebuweirenzhidegushi","image_path":"/files/book/cover/48149/cover.jpg","leading_role":"Twentine","id":48149,"book_name":"那个不为人知的故事"}]

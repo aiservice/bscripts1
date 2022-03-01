@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"全球爱之音","customer_url":"s1-jidutuduihunyinderenshi","image_path":"/files/book/cover/62167/cover.jpg","leading_role":"全球爱之音","id":62167,"book_name":"基督徒对婚姻的认识"}]

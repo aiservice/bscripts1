@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"加兰、哈斯勒合","customer_url":"marriage-of-au","image_path":"/files/book/cover/99/cover.jpg","leading_role":"加兰、哈斯勒合","id":99,"book_name":"婚之盟"}]

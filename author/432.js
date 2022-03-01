@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乌尔西努","customer_url":"haidebaojiaoliwenda","image_path":"/files/book/cover/703/cover.jpg","leading_role":"乌尔西努（Zacharius Ursinus）","id":703,"book_name":"海德堡教理问答"}]

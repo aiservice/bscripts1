@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"池谷裕二","customer_url":"s3-kaoshinaokexue","image_path":"/files/book/cover/64465/cover.jpg","leading_role":"[日]池谷裕二","id":64465,"book_name":"考试脑科学"}]

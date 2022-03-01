@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"文在寅","customer_url":"s3-mingyunwenzaiyinzizhuan","image_path":"/files/book/cover/62226/cover.jpg","leading_role":"文在寅","id":62226,"book_name":"命运：文在寅自传"}]

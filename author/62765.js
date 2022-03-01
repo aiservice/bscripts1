@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈寅恪","customer_url":"s3-chenyinkewenji","image_path":"/files/book/cover/62194/cover.jpg","leading_role":"陈寅恪","id":62194,"book_name":"陈寅恪文集"}]

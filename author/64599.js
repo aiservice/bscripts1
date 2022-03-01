@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贝希·霍华德","customer_url":"s1-aluohebeidangzhudetuya","image_path":"/files/book/cover/64872/cover.jpg","leading_role":"贝希·霍华德","id":64872,"book_name":"阿洛和被挡住的涂鸦"}]

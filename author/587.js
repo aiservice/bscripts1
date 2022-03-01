@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"保罗·哈钦斯","customer_url":"tangxibangtanxianji1","image_path":"/files/book/cover/998/cover.jpg","leading_role":"(美)保罗·哈钦斯","id":998,"book_name":"糖溪帮探险记第1季"}]

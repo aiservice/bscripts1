@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·格里格","customer_url":"s3-xinlixueyushenghuo","image_path":"/files/book/cover/62213/cover.jpg","leading_role":"理查德·格里格 (Richard J.Gerrig)","id":62213,"book_name":"心理学与生活"}]

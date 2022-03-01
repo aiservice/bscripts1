@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张悦然","customer_url":"s3-dunwudeshike","image_path":"/files/book/cover/62337/cover.jpg","leading_role":"张悦然 ","id":62337,"book_name":"顿悟的时刻"}]

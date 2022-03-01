@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"北溟鱼","customer_url":"s3-changanke","image_path":"/files/book/cover/63981/cover.jpg","leading_role":"北溟鱼","id":63981,"book_name":"长安客"}]

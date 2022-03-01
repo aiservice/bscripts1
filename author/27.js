@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"L.史特博","customer_url":"review-of-jesus","image_path":"/files/book/cover/1/cover.jpg","leading_role":"耶稣","id":1,"book_name":"重审耶稣"}]

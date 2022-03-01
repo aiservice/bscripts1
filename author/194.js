@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏文峰","customer_url":"dailingxiaozuchajing","image_path":"/files/book/cover/235/cover.jpg","leading_role":"苏文峰","id":235,"book_name":"带领小组查经"}]

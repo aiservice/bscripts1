@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"利斯·范·萨斯特伦","customer_url":"s3-fumianqingxuzhengmianjiejue","image_path":"/files/book/cover/65650/cover.jpg","leading_role":" [美]利斯·范·萨斯特伦","id":65650,"book_name":"负面情绪，正面解决"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华思德","customer_url":"meditate-on-biblical-figures","image_path":"/files/book/cover/117/cover.jpg","leading_role":"华思德","id":117,"book_name":"默想圣经人物"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"特洛尔奇","customer_url":"christian-social-ideology","image_path":"/files/book/cover/175/cover.jpg","leading_role":"特洛尔奇","id":175,"book_name":"基督教社会思想史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李天徽","customer_url":"chusirushengdezhenli","image_path":"/files/book/cover/673/cover.jpg","leading_role":"李天徽","id":673,"book_name":"出死入生的真理"}]

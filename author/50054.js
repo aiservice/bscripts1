@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱星祚","customer_url":"ershisizundedaoluohanchuan","image_path":"/files/book/cover/1573/cover.jpg","leading_role":"佚名","id":1573,"book_name":"二十四尊得道罗汉传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴维杰","customer_url":"neizaiyizhi","image_path":"/files/book/cover/568/cover.jpg","leading_role":"吴维杰","id":568,"book_name":"你可以自己进行内在医治"}]

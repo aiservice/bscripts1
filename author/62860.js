@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘子超","customer_url":"s3-shiluodeweixing","image_path":"/files/book/cover/62297/cover.jpg","leading_role":"刘子超","id":62297,"book_name":"失落的卫星"},{"author_name":"刘子超","customer_url":"s3-wuyejianglinqiandida","image_path":"/files/book/cover/64910/cover.jpg","leading_role":"刘子超","id":64910,"book_name":"午夜降临前抵达"}]

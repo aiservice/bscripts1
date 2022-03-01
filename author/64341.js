@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿尔伯特·埃利斯","customer_url":"s3-wodeqingxuweihezongbeitarenzuoyou","image_path":"/files/book/cover/64535/cover.jpg","leading_role":"[美]阿尔伯特·埃利斯","id":64535,"book_name":"我的情绪为何总被他人左右"}]

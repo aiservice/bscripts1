@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斋藤茂男","customer_url":"s3-baoshiqiongmin","image_path":"/files/book/cover/64102/cover.jpg","leading_role":"[日] 斋藤茂男","id":64102,"book_name":"饱食穷民"},{"author_name":"斋藤茂男","customer_url":"s3-qizimendesiqiuqi","image_path":"/files/book/cover/64103/cover.jpg","leading_role":"[日]斋藤茂男","id":64103,"book_name":"妻子们的思秋期"}]

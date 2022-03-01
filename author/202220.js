@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"董小白","customer_url":"s3-liuliangyingxiao","image_path":"/files/book/cover/65905/cover.jpg","leading_role":"董小白","id":65905,"book_name":"流量营销"}]

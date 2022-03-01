@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"远志明","customer_url":"shenzhouchanhuilu","image_path":"/files/book/cover/965/cover.jpg","leading_role":"远志明","id":965,"book_name":"神州忏悔录"}]

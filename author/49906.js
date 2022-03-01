@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安遥时","customer_url":"baogongan","image_path":"/files/book/cover/1288/cover.jpg","leading_role":"佚名","id":1288,"book_name":"包公案"}]

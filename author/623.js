@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"脱脱、阿鲁图","customer_url":"songshi","image_path":"/files/book/cover/1045/cover.jpg","leading_role":"脱脱、阿鲁图","id":1045,"book_name":"宋史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蒋话","customer_url":"s3-shashoudeliwu","image_path":"/files/book/cover/63926/cover.jpg","leading_role":"蒋话","id":63926,"book_name":"杀手的礼物"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李爱实","customer_url":"shengjingyiduxuexiao","image_path":"/files/book/cover/37686/cover.jpg","leading_role":"[韩]李爱实（Aesil Lee）","id":37686,"book_name":"圣经易读学校"}]

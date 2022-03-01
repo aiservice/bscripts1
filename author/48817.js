@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李时珍","customer_url":"bencaogangmu","image_path":"/files/book/cover/1341/cover.jpg","leading_role":"佚名","id":1341,"book_name":"本草纲目"},{"author_name":"李时珍","customer_url":"binhumaixue","leading_role":"佚名","id":1346,"book_name":"濒湖脉学"},{"author_name":"李时珍","customer_url":"qijingbamaikao","leading_role":"佚名","id":1335,"book_name":"奇经八脉考"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玄奘","customer_url":"datangxiyuji","image_path":"/files/book/cover/1076/cover.jpg","leading_role":"佚名","id":1076,"book_name":"大唐西域记"},{"author_name":"玄奘","customer_url":"boreboluomiduoxinjing","image_path":"/files/book/cover/1092/cover.jpg","leading_role":"佚名","id":1092,"book_name":"般若波罗蜜多心经"}]

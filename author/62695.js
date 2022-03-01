@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法]儒勒·凡尔纳","customer_url":"s3-haidiliangwanli","image_path":"/files/book/cover/62091/cover.jpg","leading_role":"[法]儒勒·凡尔纳","id":62091,"book_name":"海底两万里"}]

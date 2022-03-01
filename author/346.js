@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"芬妮·克罗","customer_url":"xiayandekanjianshen","image_path":"/files/book/cover/530/cover.jpg","leading_role":"诗歌皇后芬妮·克罗","id":530,"book_name":"瞎眼的看见神"}]

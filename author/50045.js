@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西湖居士","customer_url":"diqingyanyi","image_path":"/files/book/cover/1551/cover.jpg","leading_role":"佚名","id":1551,"book_name":"狄青演义"}]

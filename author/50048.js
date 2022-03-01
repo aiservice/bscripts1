@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青心才人","customer_url":"jinyunqiaochuan","image_path":"/files/book/cover/1558/cover.jpg","leading_role":"佚名","id":1558,"book_name":"金云翘传"}]

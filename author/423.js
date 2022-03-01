@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"寇世远","customer_url":"koushiyuanyanjingji01","image_path":"/files/book/cover/907/cover.jpg","leading_role":"寇世远","id":907,"book_name":"寇世远研经集• 01 认识圣灵"},{"author_name":"寇世远","customer_url":"shifengzhidao1","image_path":"/files/book/cover/694/cover.jpg","leading_role":"寇世远","id":694,"book_name":"事奉之道（一）"}]

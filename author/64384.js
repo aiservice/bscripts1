@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"佐佐木典士","customer_url":"s3-ruheyangchenghaoxiguan","image_path":"/files/book/cover/64594/cover.jpg","leading_role":"[日] 佐佐木典士","id":64594,"book_name":"如何养成好习惯"}]

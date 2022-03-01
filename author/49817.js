@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"康僧铠","customer_url":"wuliangshoujing","image_path":"/files/book/cover/1144/cover.jpg","leading_role":"佚名","id":1144,"book_name":"无量寿经"}]

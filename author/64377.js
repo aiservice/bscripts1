@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"加思·尼克斯","customer_url":"s3-guwangguochuanqi","image_path":"/files/book/cover/64583/cover.jpg","leading_role":"[澳]加思·尼克斯","id":64583,"book_name":"古王国传奇五部曲"}]

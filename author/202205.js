@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"达芙妮·杜穆里埃","customer_url":"s3-yamaijialvguan","image_path":"/files/book/cover/65889/cover.jpg","leading_role":"[英] 达芙妮·杜穆里埃","id":65889,"book_name":"牙买加旅馆"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李文丰","customer_url":"s3-shengmingdefanzhuan","image_path":"/files/book/cover/65925/cover.jpg","leading_role":"李文丰","id":65925,"book_name":"生命的反转：急重症科医生手记"}]

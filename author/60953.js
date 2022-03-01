@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尾鱼","customer_url":"s3-siteng","image_path":"/files/book/cover/59382/cover.jpg","leading_role":"尾鱼","id":59382,"book_name":"司藤"}]

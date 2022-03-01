@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卢云","customer_url":"yunitongxing","image_path":"/files/book/cover/335/cover.jpg","leading_role":"卢云","id":335,"book_name":"与你同行"},{"author_name":"卢云","customer_url":"yusuiyuehehao","image_path":"/files/book/cover/38559/cover.jpg","leading_role":"[荷]卢云（Henri J. M. Nouwen）","id":38559,"book_name":"与岁月和好"}]

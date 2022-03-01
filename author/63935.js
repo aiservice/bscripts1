@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蕾切尔·劳丹","customer_url":"s3-meishiyuwenming","image_path":"/files/book/cover/63954/cover.jpg","leading_role":"蕾切尔·劳丹","id":63954,"book_name":"美食与文明"}]

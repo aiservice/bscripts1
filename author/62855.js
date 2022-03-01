@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张在旺","customer_url":"s3-youxiaojingpinfenxi","image_path":"/files/book/cover/62288/cover.jpg","leading_role":"张在旺","id":62288,"book_name":"有效竞品分析"}]

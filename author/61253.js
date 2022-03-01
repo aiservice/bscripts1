@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼尔·安得生","customer_url":"s1-jikaikunsuo","image_path":"/files/book/cover/59965/cover.jpg","leading_role":"鄧嘉宛","id":59965,"book_name":"击开捆锁"}]

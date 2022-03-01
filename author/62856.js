@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[爱尔兰] 萨莉·鲁尼","customer_url":"s3-zhengchangren","image_path":"/files/book/cover/62289/cover.jpg","leading_role":" [爱尔兰] 萨莉·鲁尼","id":62289,"book_name":"正常人"}]

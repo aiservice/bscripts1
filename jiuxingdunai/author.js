@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"九星毒奶","leading_role":"育","author_name":"育","image_path":"files/book/cover/62925/cover.jpg","customer_url":"s2-jiuxingdunai"},{"book_name":"九星之主","leading_role":"育","author_name":"育","image_path":"files/book/cover/62937/cover.jpg","customer_url":"s2-jiuxingzhizhu"}]

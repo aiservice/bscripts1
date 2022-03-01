@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"褦襶道人","customer_url":"zhuangdianchanchuan","image_path":"/files/book/cover/1404/cover.jpg","leading_role":"佚名","id":1404,"book_name":"妆钿铲传"}]

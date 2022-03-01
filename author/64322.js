@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼克·奥特纳","customer_url":"s3-qingliaoyuquanji","image_path":"/files/book/cover/64506/cover.jpg","leading_role":"尼克·奥特纳","id":64506,"book_name":"轻疗愈全集"}]

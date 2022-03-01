@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴起","customer_url":"wuzi","image_path":"/files/book/cover/1202/cover.jpg","leading_role":"佚名","id":1202,"book_name":"吴子"}]

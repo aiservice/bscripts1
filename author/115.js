@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"薛查理","customer_url":"holy-love-language-male","image_path":"/files/book/cover/100/cover.jpg","leading_role":"薛查理","id":100,"book_name":"圣地爱语（男性篇）"},{"author_name":"薛查理","customer_url":"holy-love-language-female","image_path":"/files/book/cover/101/cover.jpg","leading_role":"薛查理","id":101,"book_name":"圣地爱语（女性篇）"}]

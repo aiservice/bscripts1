@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张晓风","customer_url":"tantianshuodi","image_path":"/files/book/cover/343/cover.jpg","leading_role":"张晓风","id":343,"book_name":"谈天说地"},{"author_name":"张晓风","customer_url":"anquangan","image_path":"/files/book/cover/215/cover.jpg","leading_role":"张晓风","id":215,"book_name":"安全感"}]

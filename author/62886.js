@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"加略山","customer_url":"s1-30gejinglishenhuifudedaogao","image_path":"/files/book/cover/62326/cover.jpg","leading_role":"出版社：加略山","id":62326,"book_name":"30个经历神回覆的祷告"}]

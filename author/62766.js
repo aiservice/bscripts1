@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王石","customer_url":"s3-wodegaibian","image_path":"/files/book/cover/62195/cover.jpg","leading_role":"王石","id":62195,"book_name":"我的改变"}]

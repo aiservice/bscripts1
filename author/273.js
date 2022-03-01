@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莫林．凯勒斯","customer_url":"the-power-of-praise","image_path":"/files/book/cover/392/cover.jpg","leading_role":"莫林．凯勒斯","id":392,"book_name":"赞美的大能"}]

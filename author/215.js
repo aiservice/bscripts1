@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡鸿志","customer_url":"jinglishenyabolahandegushi","image_path":"/files/book/cover/284/cover.jpg","leading_role":"蔡鸿志","id":284,"book_name":"经历神——亚伯拉罕的故事"}]

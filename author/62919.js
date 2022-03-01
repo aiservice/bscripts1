@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙幼军","customer_url":"s3-guailaotouer","image_path":"/files/book/cover/62405/cover.jpg","leading_role":"孙幼军 ","id":62405,"book_name":"怪老头儿"},{"author_name":"孙幼军","customer_url":"s3-xiaobutouqiyuji","image_path":"/files/book/cover/62358/cover.jpg","leading_role":"孙幼军 ","id":62358,"book_name":"小布头奇遇记"}]

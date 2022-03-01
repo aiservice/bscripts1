@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔·纳瓦罗","customer_url":"s3-fbiweixianrengeshibieshu","image_path":"/files/book/cover/63684/cover.jpg","leading_role":"[美]乔·纳瓦罗 Joe Navarro","id":63684,"book_name":"FBI危险人格识别术"}]

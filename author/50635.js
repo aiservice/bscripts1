@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯什‧卢纳","customer_url":"xiangshenglingzhijing","image_path":"/files/book/cover/38899/cover.jpg","leading_role":"凯什‧卢纳","id":38899,"book_name":"向圣灵致敬"}]

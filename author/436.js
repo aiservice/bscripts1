@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"袁择善","customer_url":"yuehanfuyin","image_path":"/files/book/cover/710/cover.jpg","leading_role":"袁择善","id":710,"book_name":"约翰福音"}]

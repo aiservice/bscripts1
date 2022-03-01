@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"村上春树","customer_url":"s3-diyirenchengdanshu","image_path":"/files/book/cover/65701/cover.jpg","leading_role":" [日]村上春树","id":65701,"book_name":"第一人称单数"},{"author_name":"村上春树","customer_url":"s3-nuoweidesenlin","image_path":"/files/book/cover/62082/cover.jpg","leading_role":"[日]村上春树","id":62082,"book_name":"挪威的森林"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玉花堂主人","customer_url":"leifengtaqichuan","image_path":"/files/book/cover/1506/cover.jpg","leading_role":"佚名","id":1506,"book_name":"雷峰塔奇传"}]

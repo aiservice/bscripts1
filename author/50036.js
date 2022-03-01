@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高彦休","customer_url":"tangqueshi","image_path":"/files/book/cover/1541/cover.jpg","leading_role":"佚名","id":1541,"book_name":"唐阙史"}]

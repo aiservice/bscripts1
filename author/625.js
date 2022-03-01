@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"脱脱","customer_url":"jinshi","image_path":"/files/book/cover/1047/cover.jpg","leading_role":"脱脱","id":1047,"book_name":"金史"}]

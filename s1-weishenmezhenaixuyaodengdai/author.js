@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"模范爸爸","leading_role":"模范爸爸","image_path_min":"files/book/cover/62114/cover_120.jpg","author_name":"麦道卫","image_path":"files/book/cover/62114/cover.jpg","customer_url":"s1-mofanbaba"}]

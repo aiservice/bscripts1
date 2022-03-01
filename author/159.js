@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"霍默·希特","customer_url":"the-prophet-of-the-exiles-and-exile-period-before","image_path":"/files/book/cover/177/cover.jpg","leading_role":"霍默·希特","id":177,"book_name":"被掳前和被掳时期的先知"}]

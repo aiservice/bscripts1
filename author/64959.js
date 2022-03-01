@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊恩·麦克尤恩","customer_url":"s3-zuichudeaiqingzuihoudeyishi","image_path":"/files/book/cover/65404/cover.jpg","leading_role":"[英] 伊恩·麦克尤恩","id":65404,"book_name":"最初的爱情，最后的仪式"}]

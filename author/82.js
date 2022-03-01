@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"江惠兰","customer_url":"sleep-township-story","image_path":"/files/book/cover/61/cover.jpg","leading_role":"江惠兰","id":61,"book_name":"睡梦乡故事"}]

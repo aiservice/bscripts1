@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]太宰治","customer_url":"s3-renjianshige","image_path":"/files/book/cover/59923/cover.jpg","leading_role":"[日]太宰治","id":59923,"book_name":"人间失格"}]

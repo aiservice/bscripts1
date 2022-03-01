@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"兰迪·希尔茨","customer_url":"s3-shijidekuqi","image_path":"/files/book/cover/64824/cover.jpg","leading_role":"[美]兰迪·希尔茨","id":64824,"book_name":"世纪的哭泣 : 艾滋病的故事"}]

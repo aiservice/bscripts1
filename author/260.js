@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黃共明","customer_url":"leyuan-shileyuan-xunhuileyuan","image_path":"/files/book/cover/371/cover.jpg","leading_role":"黃共明","id":371,"book_name":"乐园 失乐园 寻回乐园"}]

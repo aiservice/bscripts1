@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿格妮丝·博蒙","customer_url":"zaibanyangdemabeihou","image_path":"/files/book/cover/376/cover.jpg","leading_role":"阿格妮丝·博蒙","id":376,"book_name":"在班扬的马背后"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张应俞","customer_url":"dupianxinshu","image_path":"/files/book/cover/1621/cover.jpg","leading_role":"佚名","id":1621,"book_name":"杜骗新书"}]

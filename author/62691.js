@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]丹·西蒙斯","customer_url":"s3-haibolian","image_path":"/files/book/cover/62085/cover.jpg","leading_role":"[美]丹·西蒙斯","id":62085,"book_name":"海伯利安"}]

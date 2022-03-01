@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊丽莎白·阿塞韦多","customer_url":"s3-shirenx","image_path":"/files/book/cover/64339/cover.jpg","leading_role":" [美] 伊丽莎白·阿塞韦多","id":64339,"book_name":"诗人X"}]

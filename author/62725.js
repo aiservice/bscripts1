@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"崔洛逖·尉克勒","customer_url":"s1-yimengshidai","image_path":"/files/book/cover/62138/cover.jpg","leading_role":"崔洛逖·尉克勒","id":62138,"book_name":"译梦时代"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"关启文","customer_url":"think-of-marriage-and-family","image_path":"/files/book/cover/166/cover.jpg","leading_role":"关启文","id":166,"book_name":"婚姻与家庭的思考"}]

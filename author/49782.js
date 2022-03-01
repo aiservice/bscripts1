@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何休、徐彦","customer_url":"chunqiugongyangchuanzhushu","image_path":"/files/book/cover/1093/cover.jpg","leading_role":"佚名","id":1093,"book_name":"春秋公羊传注疏"}]

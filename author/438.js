@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"温伟耀","customer_url":"zhuiqiushulingdedeyushi","image_path":"/files/book/cover/716/cover.jpg","leading_role":"温伟耀","id":716,"book_name":"追求属灵的得与失"}]

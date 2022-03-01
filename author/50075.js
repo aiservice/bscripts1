@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李宝嘉","customer_url":"wenmingxiaoshi","image_path":"/files/book/cover/1620/cover.jpg","leading_role":"佚名","id":1620,"book_name":"文明小史"}]

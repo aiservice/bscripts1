@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱德华·布鲁克","customer_url":"s3-shijieqihuanditu","image_path":"/files/book/cover/63950/cover.jpg","leading_role":"爱德华·布鲁克－海钦","id":63950,"book_name":"世界奇幻地图"}]

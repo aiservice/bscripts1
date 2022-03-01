@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴夫．恩格","customer_url":"how-to-deal-with-concerns-about","image_path":"/files/book/cover/216/cover.jpg","leading_role":"戴夫．恩格 ","id":216,"book_name":"如何面对忧虑"}]

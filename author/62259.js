@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[古罗马]马可·奥勒留","customer_url":"s3-chensilu","image_path":"/files/book/cover/61521/cover.jpg","leading_role":"[古罗马]马可·奥勒留","id":61521,"book_name":"沉思录"}]

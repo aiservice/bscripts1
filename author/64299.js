@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘晓辉","customer_url":"s3-feiziransiwang","image_path":"/files/book/cover/64470/cover.jpg","leading_role":"刘晓辉","id":64470,"book_name":"非自然死亡"}]

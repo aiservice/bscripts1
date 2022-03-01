@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿诺德·范德拉尔","customer_url":"s3-shoushudaoxiadelishi","image_path":"/files/book/cover/64933/cover.jpg","leading_role":"[荷] 阿诺德·范德拉尔","id":64933,"book_name":"手术刀下的历史"}]

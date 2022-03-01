@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张恂子","customer_url":"suidaigongweishi","image_path":"/files/book/cover/1592/cover.jpg","leading_role":"佚名","id":1592,"book_name":"隋代宫闱史"}]

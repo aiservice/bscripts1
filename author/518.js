@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蓝莲花","customer_url":"lingxiushenxuefazhanshi","image_path":"/files/book/cover/876/cover.jpg","leading_role":"蓝莲花","id":876,"book_name":"灵修神学发展史"}]

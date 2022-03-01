@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]伍绮诗","customer_url":"s3-xiaoxiaoxiaoxiaodehuo","image_path":"/files/book/cover/60021/cover.jpg","leading_role":"[美]伍绮诗","id":60021,"book_name":"小小小小的火"}]

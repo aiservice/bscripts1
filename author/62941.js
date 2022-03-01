@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[伊] 胡桑·莫拉迪·凯尔马尼","customer_url":"s3-laoshishuigangpole","image_path":"/files/book/cover/62381/cover.jpg","leading_role":"[伊] 胡桑·莫拉迪·凯尔马尼","id":62381,"book_name":"老师，水缸破了！"}]

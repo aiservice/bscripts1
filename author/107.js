@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"考门夫人","customer_url":"streams-in-the-desert","image_path":"/files/book/cover/93/cover.jpg","leading_role":"考门夫人","id":93,"book_name":"荒漠甘泉"}]

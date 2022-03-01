@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"扶霞·邓洛普","customer_url":"s3-chuancai","image_path":"/files/book/cover/65263/cover.jpg","leading_role":"[英]扶霞·邓洛普","id":65263,"book_name":"川菜"},{"author_name":"扶霞·邓洛普","customer_url":"s3-yumizhixiang","image_path":"/files/book/cover/65262/cover.jpg","leading_role":" [英]扶霞·邓洛普","id":65262,"book_name":"鱼米之乡 : 中国人的雅致饮食文化"}]

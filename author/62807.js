@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"施展","customer_url":"s3-yichuzhongguozhizaoweilaishi","image_path":"/files/book/cover/62238/cover.jpg","leading_role":"施展","id":62238,"book_name":"溢出 : 中国制造未来史"}]

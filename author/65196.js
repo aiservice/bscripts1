@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马基雅维利","customer_url":"s3-junzhulun","image_path":"/files/book/cover/65731/cover.jpg","leading_role":" [意] 马基雅维利","id":65731,"book_name":"君主论"}]

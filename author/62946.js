@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"翟东升","customer_url":"s3-huobiquanliyuren","image_path":"/files/book/cover/62385/cover.jpg","leading_role":"翟东升","id":62385,"book_name":"货币、权力与人"}]

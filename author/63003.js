@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高善文","customer_url":"s3-jingjiyunxingdezhenxiang","image_path":"/files/book/cover/62457/cover.jpg","leading_role":"高善文","id":62457,"book_name":"经济运行的真相"}]

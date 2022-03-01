@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯蒂芬·金","customer_url":"s3-yinengyanjiusuo","image_path":"/files/book/cover/64367/cover.jpg","leading_role":" [美] 斯蒂芬·金","id":64367,"book_name":"异能研究所"}]

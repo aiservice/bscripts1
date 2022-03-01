@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张圣才","customer_url":"xuchuncaochuan","image_path":"/files/book/cover/296/cover.jpg","leading_role":"张圣才","id":296,"book_name":"圣徒与战士——许春草传"}]

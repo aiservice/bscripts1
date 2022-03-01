@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯·布鲁诺","customer_url":"16jujingwendudongshengjing","image_path":"/files/book/cover/37453/cover.jpg","leading_role":" Chris Bruno（克里斯·布鲁诺）","id":37453,"book_name":"16句经文读懂圣经"}]

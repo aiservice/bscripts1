@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼克·开利福大","customer_url":"lijiexinyue","image_path":"/files/book/cover/635/cover.jpg","leading_role":"尼克·开利福大","id":635,"book_name":"理解新约"},{"author_name":"尼克·开利福大","customer_url":"endian","image_path":"/files/book/cover/412/cover.jpg","leading_role":"尼克·开利福大","id":412,"book_name":"恩典"}]

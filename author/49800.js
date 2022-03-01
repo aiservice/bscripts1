@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钟嵘","customer_url":"shipin","image_path":"/files/book/cover/1121/cover.jpg","leading_role":"佚名","id":1121,"book_name":"诗品"}]

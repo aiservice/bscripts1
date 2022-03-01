@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩松落","customer_url":"s3-gushishizhegeshijiedejieyao","image_path":"/files/book/cover/65902/cover.jpg","leading_role":"韩松落","id":65902,"book_name":"故事是这个世界的解药"}]

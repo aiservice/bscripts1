@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"休·瓦格纳","customer_url":"s3-renleidongji","image_path":"/files/book/cover/64890/cover.jpg","leading_role":"[英] 休·瓦格纳","id":64890,"book_name":"人类动机"}]

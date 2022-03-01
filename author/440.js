@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·多诺修","customer_url":"tiantangzhendecunzai","image_path":"/files/book/cover/721/cover.jpg","leading_role":"约翰·多诺修","id":721,"book_name":"天堂真的存在"}]

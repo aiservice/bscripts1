@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萨莉·克拉克森","customer_url":"mission-of-motherhood","image_path":"/files/book/cover/776/cover.jpg","leading_role":"【美】萨莉·克拉克森","id":776,"book_name":"母亲的使命"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安妮·布鲁克斯","customer_url":"annidejubaopen","image_path":"/files/book/cover/372/cover.jpg","leading_role":"安妮·布鲁克斯","id":372,"book_name":"安妮的聚宝盆"}]

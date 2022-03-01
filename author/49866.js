@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈伯元","customer_url":"guanchangxianxingji","image_path":"/files/book/cover/1223/cover.jpg","leading_role":"佚名","id":1223,"book_name":"官场现形记"}]

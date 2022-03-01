@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"格兰·奥斯邦","customer_url":"jidujiaoshijingxueshouce","image_path":"/files/book/cover/622/cover.jpg","leading_role":"格兰·奥斯邦","id":622,"book_name":"基督教释经学手册"}]

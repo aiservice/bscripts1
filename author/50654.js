@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"齐克‧尼斯","customer_url":"junzundejingbai","image_path":"/files/book/cover/38989/cover.jpg","leading_role":"齐克‧尼斯","id":38989,"book_name":"君尊的敬拜"}]

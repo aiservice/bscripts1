@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨致和","customer_url":"xiyoujichuan","image_path":"/files/book/cover/1586/cover.jpg","leading_role":"佚名","id":1586,"book_name":"西游记传"}]

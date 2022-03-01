@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特·哈里斯","customer_url":"s3-munihei","image_path":"/files/book/cover/65208/cover.jpg","leading_role":"[英] 罗伯特·哈里斯","id":65208,"book_name":"慕尼黑"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘大鹏","customer_url":"s3-tuixiangzhairiji","image_path":"/files/book/cover/64807/cover.jpg","leading_role":"刘大鹏","id":64807,"book_name":"退想斋日记"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩江","customer_url":"s3-sushizhe","image_path":"/files/book/cover/65632/cover.jpg","leading_role":"[韩] 韩江","id":65632,"book_name":"素食者"}]

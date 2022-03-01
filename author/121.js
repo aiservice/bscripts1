@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马可．奥勒留","customer_url":"meditation","image_path":"/files/book/cover/115/cover.jpg","leading_role":"马可．奥勒留","id":115,"book_name":"沉思录"}]

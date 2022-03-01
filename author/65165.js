@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾里希·弗洛姆","customer_url":"s3-zhanyouhaishicunzai","image_path":"/files/book/cover/65687/cover.jpg","leading_role":"艾里希·弗洛姆","id":65687,"book_name":"占有还是存在"}]

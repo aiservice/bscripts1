@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叶福成","customer_url":"kaitianpidi","image_path":"/files/book/cover/496/cover.jpg","leading_role":"叶福成  译：王炳钦","id":496,"book_name":"开天辟地"}]

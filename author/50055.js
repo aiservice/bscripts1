@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱名世","customer_url":"niulangzhinvchuan","image_path":"/files/book/cover/1576/cover.jpg","leading_role":"佚名","id":1576,"book_name":"牛郎织女传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"里夫斯","customer_url":"s1-bumiedehuoyan","image_path":"/files/book/cover/65691/cover.jpg","leading_role":"[英]里夫斯","id":65691,"book_name":"不灭的火焰"}]

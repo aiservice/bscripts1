@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨恒均","customer_url":"s3-zhimingxilie","image_path":"/files/book/cover/64146/cover.jpg","leading_role":"杨恒均","id":64146,"book_name":"致命三部曲"}]

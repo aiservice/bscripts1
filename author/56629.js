@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]艾米莉·勃朗特","customer_url":"huxiaoshanzhuang","image_path":"/files/book/cover/48134/cover.jpg","leading_role":"[英]艾米莉·勃朗特","id":48134,"book_name":"呼啸山庄"}]

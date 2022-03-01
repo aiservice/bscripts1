@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布伦达·帕克","customer_url":"s3-xiedaihuangjinyuzijiangdejulushi","image_path":"/files/book/cover/65917/cover.jpg","leading_role":"布伦达·帕克 / 杰弗里·帕克","id":65917,"book_name":"携带黄金鱼子酱的居鲁士"}]

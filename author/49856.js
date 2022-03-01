@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"扁鹊","customer_url":"nanjing","image_path":"/files/book/cover/1208/cover.jpg","leading_role":"佚名","id":1208,"book_name":"难经"}]

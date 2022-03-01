@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰.本仁","customer_url":"fengshengdeendian","image_path":"/files/book/cover/543/cover.jpg","leading_role":"约翰.本仁","id":543,"book_name":"丰盛的恩典"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉·卡克斯顿","customer_url":"s3-lienahudegushi","image_path":"/files/book/cover/64507/cover.jpg","leading_role":"[英] 威廉·卡克斯顿","id":64507,"book_name":"列那狐的故事"}]

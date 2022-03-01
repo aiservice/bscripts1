@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洛莉·戈特利布","customer_url":"s3-yexunigaizhaogerenliaoliao","image_path":"/files/book/cover/64884/cover.jpg","leading_role":" [美]洛莉·戈特利布","id":64884,"book_name":"也许你该找个人聊聊"}]

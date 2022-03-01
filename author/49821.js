@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩婴","customer_url":"hanshiwaizhuan","image_path":"/files/book/cover/1152/cover.jpg","leading_role":"佚名","id":1152,"book_name":"韩诗外传"}]

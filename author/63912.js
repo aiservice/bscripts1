@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨华","customer_url":"s3-moshengdeshuren","image_path":"/files/book/cover/63929/cover.jpg","leading_role":"杨华","id":63929,"book_name":"陌生的熟人"}]

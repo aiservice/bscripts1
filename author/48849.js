@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"无名氏","customer_url":"wumeiyuanquanchuan","leading_role":"佚名","id":1572,"book_name":"五美缘全传"},{"author_name":"无名氏","customer_url":"damingqixiachuan","image_path":"/files/book/cover/1234/cover.jpg","leading_role":"佚名","id":1234,"book_name":"大明奇侠传"}]

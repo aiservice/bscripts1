@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"道格 · 门德斯","customer_url":"s3-wuweidetiancai","image_path":"/files/book/cover/64740/cover.jpg","leading_role":"道格 · 门德斯","id":64740,"book_name":"无畏的天才"}]

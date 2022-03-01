@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"David R. Morrow","customer_url":"s3-gaoxiaolunzheng","image_path":"/files/book/cover/64317/cover.jpg","leading_role":" David R. Morrow / Anthoney Weston","id":64317,"book_name":"高效论证"}]

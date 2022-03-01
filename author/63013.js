@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张卉妍","customer_url":"s3-beidatouzike","image_path":"/files/book/cover/62467/cover.jpg","leading_role":"张卉妍 ","id":62467,"book_name":"北大投资课"}]

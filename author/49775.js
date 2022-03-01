@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘知几","customer_url":"shitong","image_path":"/files/book/cover/1083/cover.jpg","leading_role":"佚名","id":1083,"book_name":"史通"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"厦门曾厝垵堂","customer_url":"taosheng201407","image_path":"/files/book/cover/891/cover.jpg","leading_role":"厦门曾厝垵堂","id":891,"book_name":"《涛声》第一期（2014年7月刊）"}]

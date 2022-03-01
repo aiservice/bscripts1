@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王跃文","customer_url":"s3-daqingxiangguo","image_path":"/files/book/cover/61111/cover.jpg","leading_role":"王跃文","id":61111,"book_name":"大清相国"}]

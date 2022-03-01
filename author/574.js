@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"飞扬","customer_url":"shulingzhenyan","image_path":"/files/book/cover/973/cover.jpg","leading_role":"飞扬","id":973,"book_name":"圣经金句和属灵箴言"}]

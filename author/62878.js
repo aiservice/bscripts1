@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[西]安德烈斯·巴尔瓦","customer_url":"s3-guangminggongheguo","image_path":"/files/book/cover/62318/cover.jpg","leading_role":"[西]安德烈斯·巴尔瓦","id":62318,"book_name":"光明共和国"}]

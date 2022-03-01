@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]香奈儿·米勒","customer_url":"s3-zhixiaowoxingming","image_path":"/files/book/cover/62287/cover.jpg","leading_role":"[美]香奈儿·米勒","id":62287,"book_name":"知晓我姓名"}]

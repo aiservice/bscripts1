@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Joel R. Beeke","customer_url":"zhuiqiushengjie","image_path":"/files/book/cover/421/cover.jpg","leading_role":"Joel R. Beeke","id":421,"book_name":"追求圣洁"}]

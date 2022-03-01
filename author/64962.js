@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叶遁","customer_url":"s3-liaodongyiwenshouji","image_path":"/files/book/cover/65409/cover.jpg","leading_role":"叶遁","id":65409,"book_name":"辽东轶闻手记 : 纸人割头颅"}]

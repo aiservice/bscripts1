@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孟子","customer_url":"mengzi","image_path":"/files/book/cover/1051/cover.jpg","leading_role":"孟子及其弟子万章、公孙丑等著","id":1051,"book_name":"孟子"},{"author_name":"孟子","customer_url":"s3-mengzi","image_path":"/files/book/cover/50921/cover.jpg","leading_role":"孟子","id":50921,"book_name":"孟子"}]

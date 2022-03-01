@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"傅礼敦","customer_url":"budaoyaojue","image_path":"/files/book/cover/222/cover.jpg","leading_role":"傅礼敦","id":222,"book_name":"布道要诀"}]

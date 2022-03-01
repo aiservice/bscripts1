@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"无名子","customer_url":"jiuyunji","image_path":"/files/book/cover/1488/cover.jpg","leading_role":"佚名","id":1488,"book_name":"九云记"}]

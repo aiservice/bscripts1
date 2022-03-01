@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔治·里奇","customer_url":"nine-minutes-of-death","image_path":"/files/book/cover/211/cover.jpg","leading_role":"乔治·里奇 ","id":211,"book_name":"死亡九分钟"}]

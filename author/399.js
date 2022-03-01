@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"江本胜","customer_url":"shuizhidaodaan","image_path":"/files/book/cover/661/cover.jpg","leading_role":"江本胜 翻译:猿渡静子","id":661,"book_name":"水知道答案"}]

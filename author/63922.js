@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·泰普勒","customer_url":"s3-duoweidusikao","image_path":"/files/book/cover/63938/cover.jpg","leading_role":"[英]理查德·泰普勒","id":63938,"book_name":"多维度思考"}]

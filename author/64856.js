@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"若泽·萨拉马戈","customer_url":"s3-xiudaoyuanjishi","image_path":"/files/book/cover/65243/cover.jpg","leading_role":"[葡]若泽·萨拉马戈","id":65243,"book_name":"修道院纪事"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"齐东野人","customer_url":"suiyangdiyanshi","image_path":"/files/book/cover/1595/cover.jpg","leading_role":"佚名","id":1595,"book_name":"隋炀帝艳史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"埃文·鲁泽","customer_url":"xianglouxishuobu","image_path":"/files/book/cover/624/cover.jpg","leading_role":"埃文·鲁泽（Erwin W.Lutzer）","id":624,"book_name":"向陋习说不—赢得内心的争战"}]

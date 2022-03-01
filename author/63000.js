@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 恰克·帕拉尼克","customer_url":"s3-changzi","image_path":"/files/book/cover/62454/cover.jpg","leading_role":"[美] 恰克·帕拉尼克","id":62454,"book_name":"肠子"}]

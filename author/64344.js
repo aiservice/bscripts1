@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白修德","customer_url":"s3-zhuixunlishi","image_path":"/files/book/cover/64538/cover.jpg","leading_role":"[美] 白修德","id":64538,"book_name":"追寻历史"}]

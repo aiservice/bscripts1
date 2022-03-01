@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼罗","customer_url":"s3-wuxinfashi","image_path":"/files/book/cover/59492/cover.jpg","leading_role":"尼罗","id":59492,"book_name":"无心法师"}]

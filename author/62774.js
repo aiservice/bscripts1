@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]雷蒙德•P.谢德林","customer_url":"s3-youtairensanqiannianjianshi","image_path":"/files/book/cover/62205/cover.jpg","leading_role":"[美]雷蒙德•P.谢德林","id":62205,"book_name":"犹太人三千年简史"}]

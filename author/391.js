@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钟保罗","customer_url":"qishiluzhujiejiangjie","image_path":"/files/book/cover/641/cover.jpg","leading_role":"钟保罗","id":641,"book_name":"启示录逐节讲解"}]

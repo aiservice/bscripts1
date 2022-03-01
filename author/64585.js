@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈伟","customer_url":"s3-xifangzhengzhisixiangshi","image_path":"/files/book/cover/64855/cover.jpg","leading_role":"陈伟","id":64855,"book_name":"西方政治思想史"}]

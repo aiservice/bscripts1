@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梁家麟","customer_url":"jidujiaohuishilue","image_path":"/files/book/cover/594/cover.jpg","leading_role":"梁家麟","id":594,"book_name":"基督教会史略"},{"author_name":"梁家麟","customer_url":"pingsheiyixing","image_path":"/files/book/cover/434/cover.jpg","leading_role":"梁家麟","id":434,"book_name":"凭谁意行"}]

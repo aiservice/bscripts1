@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"仓知淳","customer_url":"s3-xingjiangshanzhuangsharenshijian","image_path":"/files/book/cover/64792/cover.jpg","leading_role":"[日] 仓知淳","id":64792,"book_name":"星降山庄杀人事件"}]

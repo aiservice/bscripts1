@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柯洛宜","customer_url":"dangniwuyanyiduishi","image_path":"/files/book/cover/986/cover.jpg","leading_role":"柯洛宜","id":986,"book_name":"当你无言以对时"}]

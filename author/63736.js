@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"托比亚斯·S·贝克尔等","customer_url":"s3-guanghuanquan4ce","image_path":"/files/book/cover/63683/cover.jpg","leading_role":"托比亚斯·S·贝克尔等","id":63683,"book_name":"光环（全4册）"}]

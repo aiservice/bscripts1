@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰克.福斯特","customer_url":"erzidechaoziranjuexing","image_path":"/files/book/cover/779/cover.jpg","leading_role":"杰克.福斯特","id":779,"book_name":"儿子的超自然觉醒"}]

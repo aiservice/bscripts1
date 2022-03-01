@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"慕迪","customer_url":"moody-child-stories","image_path":"/files/book/cover/60/cover.jpg","leading_role":"慕迪","id":60,"book_name":"慕迪儿童故事集"}]

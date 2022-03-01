@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王充","customer_url":"lunheng","image_path":"/files/book/cover/1173/cover.jpg","leading_role":"佚名","id":1173,"book_name":"论衡"}]

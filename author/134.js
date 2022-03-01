@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊莉沙白·伊略","customer_url":"the-new-card","image_path":"/files/book/cover/144/cover.jpg","leading_role":"伊莉沙白·伊略","id":144,"book_name":"奥卡人的新生"}]

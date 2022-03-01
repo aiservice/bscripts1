@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄丹尼","customer_url":"after-israel-national-history","image_path":"/files/book/cover/167/cover.jpg","leading_role":"黄丹尼","id":167,"book_name":"以色列复国史"}]

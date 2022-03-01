@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨天真","customer_url":"s3-bazijidanghuishier","image_path":"/files/book/cover/64276/cover.jpg","leading_role":"杨天真","id":64276,"book_name":"把自己当回事儿"}]

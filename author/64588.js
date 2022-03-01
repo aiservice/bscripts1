@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吕莳媛","customer_url":"s3-womenyuedejuli","image_path":"/files/book/cover/64859/cover.jpg","leading_role":"吕莳媛","id":64859,"book_name":"我们与恶的距离"}]

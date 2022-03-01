@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"祁伯尔","customer_url":"lishideguiji","image_path":"/files/book/cover/280/cover.jpg","leading_role":"祁伯尔","id":280,"book_name":"历史的轨迹：二千年教会史"}]

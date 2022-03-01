@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"桐华","customer_url":"s3-changxiangsi","image_path":"/files/book/cover/59386/cover.jpg","leading_role":"桐华","id":59386,"book_name":"长相思"}]

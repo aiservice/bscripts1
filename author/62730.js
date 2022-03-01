@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫·鲍力森","customer_url":"s1-zouchuxinliyougu","image_path":"/files/book/cover/62150/cover.jpg","leading_role":"大卫·鲍力森","id":62150,"book_name":"走出心理幽谷"}]

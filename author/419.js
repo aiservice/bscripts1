@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦瑞尔·戴维斯","customer_url":"daerwenyujiyaozhuyi","image_path":"/files/book/cover/680/cover.jpg","leading_role":"（英）麦瑞尔·戴维斯","id":680,"book_name":"达尔文与基要主义"}]

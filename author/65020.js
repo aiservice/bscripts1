@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周晓枫","customer_url":"s3-huanshouzhiwen","image_path":"/files/book/cover/65488/cover.jpg","leading_role":"周晓枫","id":65488,"book_name":"幻兽之吻"}]

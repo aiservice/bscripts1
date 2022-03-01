@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔恩·卡岑巴赫","customer_url":"s3-guanjiandeshaoshu","image_path":"/files/book/cover/62128/cover.jpg","leading_role":"乔恩·卡岑巴赫；詹姆斯·托马斯；格雷琴·安德森","id":62128,"book_name":"关键的少数"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"潇湘冬儿","customer_url":"tegonghuangfeichuqiaochuan","image_path":"/files/book/cover/48175/cover.jpg","leading_role":"潇湘冬儿","id":48175,"book_name":"特工皇妃楚乔传"}]

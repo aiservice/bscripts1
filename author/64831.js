@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿丑","customer_url":"s3-shenmijiazu","image_path":"/files/book/cover/65209/cover.jpg","leading_role":"阿丑","id":65209,"book_name":"神秘家族"}]

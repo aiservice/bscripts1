@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陶弘景","customer_url":"gujindaojianlu","image_path":"/files/book/cover/1126/cover.jpg","leading_role":"佚名","id":1126,"book_name":"古今刀剑录"}]

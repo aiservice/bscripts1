@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梁燕城","customer_url":"the-mystery-of-my-experience","image_path":"/files/book/cover/146/cover.jpg","leading_role":"梁燕城","id":146,"book_name":"我的神秘经验"},{"author_name":"梁燕城","customer_url":"liangyanchengwenji","image_path":"/files/book/cover/554/cover.jpg","leading_role":"梁燕城博士","id":554,"book_name":"梁燕城文集"}]

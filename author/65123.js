@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚历克西斯·威利特","customer_url":"s3-womendenaozigouyongma","image_path":"/files/book/cover/65630/cover.jpg","leading_role":"[英] 亚历克西斯·威利特","id":65630,"book_name":"我们的脑子够用吗？"}]

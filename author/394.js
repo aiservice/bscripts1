@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卢文","customer_url":"yiduanraozhonghua","image_path":"/files/book/cover/646/cover.jpg","leading_role":"卢文","id":646,"book_name":"异端扰中华"}]

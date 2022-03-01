@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏绯云","customer_url":"teach-children-lessons","image_path":"/files/book/cover/39/cover.jpg","leading_role":"苏绯云博士","id":39,"book_name":"教子女心得"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧江祥","customer_url":"jidujiaosixiangshi","image_path":"/files/book/cover/707/cover.jpg","leading_role":"萧江祥","id":707,"book_name":"基督教思想史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]白玛琳/[马来]骆思洁","customer_url":"zhenzhengdemengshijiaoyuzaijiating","image_path":"/files/book/cover/48221/cover.jpg","leading_role":"[美]白玛琳/[马来]骆思洁","id":48221,"book_name":"真正的蒙氏教育在家庭"}]

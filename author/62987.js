@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曹天元","customer_url":"s3-shangdizhishaizima","image_path":"/files/book/cover/62439/cover.jpg","leading_role":"曹天元","id":62439,"book_name":"上帝掷骰子吗？"}]

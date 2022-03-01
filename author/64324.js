@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"二冬","customer_url":"s3-shanjuqinian","image_path":"/files/book/cover/64508/cover.jpg","leading_role":"二冬","id":64508,"book_name":"山居七年"}]

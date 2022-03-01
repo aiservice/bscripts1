@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"翁桂","customer_url":"mingyuetai","image_path":"/files/book/cover/1567/cover.jpg","leading_role":"佚名","id":1567,"book_name":"明月台"}]

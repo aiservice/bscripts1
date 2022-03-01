@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法]司汤达","customer_url":"s3-hongyuhei","image_path":"/files/book/cover/62069/cover.jpg","leading_role":"[法]司汤达","id":62069,"book_name":"红与黑"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"司马彪","customer_url":"jiuzhouchunqiu","image_path":"/files/book/cover/1134/cover.jpg","leading_role":"佚名","id":1134,"book_name":"九州春秋"}]

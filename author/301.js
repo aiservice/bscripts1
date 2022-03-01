@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊丽莎白·乔治","customer_url":"beautiful-in-goodeyes","image_path":"/files/book/cover/444/cover.jpg","leading_role":"(美国)伊丽莎白·乔治(Elizabeth George)","id":444,"book_name":"全然美丽"}]

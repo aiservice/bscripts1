@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安多马","customer_url":"jidutudejinqianguan","image_path":"/files/book/cover/727/cover.jpg","leading_role":"安多马","id":727,"book_name":"基督徒的金钱观"}]

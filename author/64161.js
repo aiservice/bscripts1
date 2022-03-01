@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李•布萝珊","customer_url":"s3-kefuyali","image_path":"/files/book/cover/64285/cover.jpg","leading_role":"英]李•布萝珊 / [英]吉莉安•托德 ","id":64285,"book_name":"克服压力"}]

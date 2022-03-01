@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐•派普","customer_url":"90minutes-in-heaven","image_path":"/files/book/cover/751/cover.jpg","leading_role":" 唐．派普、賽思．墨菲","id":751,"book_name":"去过天堂90分钟"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"日本NHK","customer_url":"s3-gaozhongshengqiongmangzu","image_path":"/files/book/cover/65399/cover.jpg","leading_role":"日本NHK","id":65399,"book_name":"高中生穷忙族"},{"author_name":"日本NHK","customer_url":"s3-laohouliangdaipochan","image_path":"/files/book/cover/65452/cover.jpg","leading_role":"日本NHK","id":65452,"book_name":"老后两代破产"}]

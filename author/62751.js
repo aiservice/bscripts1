@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[德] 贝蒂娜·施汤内特","customer_url":"s3-yelusalengzhiqiandeaiximan","image_path":"/files/book/cover/62177/cover.jpg","leading_role":" [德] 贝蒂娜·施汤内特","id":62177,"book_name":"耶路撒冷之前的艾希曼"}]

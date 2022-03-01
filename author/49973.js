@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烟霞散人","customer_url":"zhongkuizhanguichuan","image_path":"/files/book/cover/1422/cover.jpg","leading_role":"佚名","id":1422,"book_name":"钟馗斩鬼传"},{"author_name":"烟霞散人","customer_url":"fenghuangchi","image_path":"/files/book/cover/1468/cover.jpg","leading_role":"佚名","id":1468,"book_name":"凤凰池"}]

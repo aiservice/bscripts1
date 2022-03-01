@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[德]冯·埃里希·曼施泰因","customer_url":"s3-shiqudeshengli","image_path":"/files/book/cover/62275/cover.jpg","leading_role":" [德]冯·埃里希·曼施泰因","id":62275,"book_name":"失去的胜利"}]

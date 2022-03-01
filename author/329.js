@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"科特·丁韩","customer_url":"why-the-good-god-allow-suffering","image_path":"/files/book/cover/503/cover.jpg","leading_role":"科特．丁韩","id":503,"book_name":"为什么良善的上帝容许苦难存在"}]

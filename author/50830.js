@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿尔弗雷德·阿德勒","customer_url":"zhengxiangsikaodeliliang","image_path":"/files/book/cover/39689/cover.jpg","leading_role":" [奥]阿尔弗雷德·阿德勒","id":39689,"book_name":"正向思考的力量"}]

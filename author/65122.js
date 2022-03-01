@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"N.K.杰米辛","customer_url":"s3-posuidexingqius","image_path":"/files/book/cover/65629/cover.jpg","leading_role":"[美]N.K.杰米辛","id":65629,"book_name":"破碎的星球（三部曲）"}]

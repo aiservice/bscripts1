@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"里灰","customer_url":"s3-nishizheshijiexiegeiwodeqingshu","image_path":"/files/book/cover/65157/cover.jpg","leading_role":"里灰","id":65157,"book_name":"你是这世界，写给我的情书"}]

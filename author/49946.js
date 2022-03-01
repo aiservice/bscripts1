@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"晁错","customer_url":"yanbingshishu","image_path":"/files/book/cover/1364/cover.jpg","leading_role":"佚名","id":1364,"book_name":"言兵事疏"}]

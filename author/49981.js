@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏曼殊","customer_url":"duanhonglingyanji","image_path":"/files/book/cover/1434/cover.jpg","leading_role":"佚名","id":1434,"book_name":"断鸿零雁记"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里丝蒂·莱夫特里","customer_url":"s3-alepoyangfengren","image_path":"/files/book/cover/65207/cover.jpg","leading_role":" [英] 克里丝蒂·莱夫特里","id":65207,"book_name":"阿勒颇养蜂人"}]

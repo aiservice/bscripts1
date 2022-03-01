@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马克·亚当斯","customer_url":"s3-daomaqiubiqiuyouzhuan","image_path":"/files/book/cover/65199/cover.jpg","leading_role":"[美]马克·亚当斯","id":65199,"book_name":"到马丘比丘右转"}]

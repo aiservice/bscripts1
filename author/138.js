@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"江登兴","customer_url":"the-god-of-my-ancestors","image_path":"/files/book/cover/148/cover.jpg","leading_role":"江登兴","id":148,"book_name":"我祖先的神"}]

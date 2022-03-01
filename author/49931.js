@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"連横（雅堂）","customer_url":"taiwantongshi","image_path":"/files/book/cover/1331/cover.jpg","leading_role":"佚名","id":1331,"book_name":"台湾通史"}]

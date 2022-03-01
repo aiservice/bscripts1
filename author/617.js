@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李延寿","customer_url":"nanshi","image_path":"/files/book/cover/1039/cover.jpg","leading_role":"李延寿","id":1039,"book_name":"南史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]乔治·奥威尔","customer_url":"s3-1984","image_path":"/files/book/cover/62083/cover.jpg","leading_role":"[英]乔治·奥威尔","id":62083,"book_name":"1984"},{"author_name":"[英]乔治·奥威尔","customer_url":"s3-dongwuzhuangyuan","image_path":"/files/book/cover/62067/cover.jpg","leading_role":"[英]乔治·奥威尔","id":62067,"book_name":"动物庄园"}]

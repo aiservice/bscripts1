@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"珊朵拉·泰普林斯奇","customer_url":"s1-yiseliedeengao","image_path":"/files/book/cover/61132/cover.jpg","leading_role":"珊朵拉·泰普林斯奇","id":61132,"book_name":"以色列的恩膏"}]

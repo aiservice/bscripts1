@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"怀恩夫人","customer_url":"huaienfurendejiugejianglun","image_path":"/files/book/cover/41775/cover.jpg","leading_role":"怀恩夫人","id":41775,"book_name":"怀恩夫人的九个讲论"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金爱烂","customer_url":"s3-nidexiatianhaihaoma","image_path":"/files/book/cover/65437/cover.jpg","leading_role":"[韩]金爱烂","id":65437,"book_name":"你的夏天还好吗？"}]

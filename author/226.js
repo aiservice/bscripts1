@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"圣法兰西斯同工","customer_url":"sanyoushiyi","image_path":"/files/book/cover/301/cover.jpg","leading_role":"圣法兰西斯同工","id":301,"book_name":"三友拾遗"}]

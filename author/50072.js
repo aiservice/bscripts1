@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏同","customer_url":"wuchinu","image_path":"/files/book/cover/1616/cover.jpg","leading_role":"佚名","id":1616,"book_name":"无耻奴"}]

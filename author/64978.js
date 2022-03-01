@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莉安·莫里亚蒂","customer_url":"s3-tademimi","image_path":"/files/book/cover/65430/cover.jpg","leading_role":"[澳]莉安·莫里亚蒂","id":65430,"book_name":"他的秘密"}]

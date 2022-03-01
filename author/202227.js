@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"诸葛越","customer_url":"s3-weilaisuanfa","image_path":"/files/book/cover/65914/cover.jpg","leading_role":"诸葛越","id":65914,"book_name":"未来算法"}]

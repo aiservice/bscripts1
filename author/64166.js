@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯蒂芬·盖斯","customer_url":"s3-ruhechengweibuwanmeizhuyizhe","image_path":"/files/book/cover/64292/cover.jpg","leading_role":" [美] 斯蒂芬·盖斯","id":64292,"book_name":"如何成为不完美主义者"},{"author_name":"斯蒂芬·盖斯","customer_url":"s3-weixiguanshoushenpian","image_path":"/files/book/cover/64921/cover.jpg","leading_role":"[美] 斯蒂芬·盖斯","id":64921,"book_name":"微习惯·瘦身篇"}]

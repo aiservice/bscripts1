@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"松滋山人","customer_url":"chongzhencanshi","image_path":"/files/book/cover/1501/cover.jpg","leading_role":"佚名","id":1501,"book_name":"崇祯惨史"}]

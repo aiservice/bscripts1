@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]约瑟夫・海勒","customer_url":"s3-diershiertiaojungui","image_path":"/files/book/cover/61520/cover.jpg","leading_role":"[美]约瑟夫・海勒","id":61520,"book_name":"第二十二条军规"}]

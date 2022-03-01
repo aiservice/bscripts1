@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"信义宗","customer_url":"haidebaoyaoliwenda","image_path":"/files/book/cover/667/cover.jpg","leading_role":"信义宗","id":667,"book_name":"海德堡要理问答"}]

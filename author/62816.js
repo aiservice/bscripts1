@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]五味文彦","customer_url":"s3-wushishidai","image_path":"/files/book/cover/62247/cover.jpg","leading_role":"[日]五味文彦","id":62247,"book_name":"武士时代（岩波日本史 第四卷）"}]

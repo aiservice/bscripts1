@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐大椿","customer_url":"yixueyuanliulun","image_path":"/files/book/cover/1336/cover.jpg","leading_role":"佚名","id":1336,"book_name":"医学源流论"}]

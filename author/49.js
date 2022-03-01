@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄子嘉","customer_url":"21century-christians-100-class","image_path":"/files/book/cover/18/cover.jpg","leading_role":"耶稣","id":18,"book_name":"21世纪基督徒装备100课"}]

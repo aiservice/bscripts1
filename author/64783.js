@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特·麦克法伦","customer_url":"s3-shenshizhilv","image_path":"/files/book/cover/65148/cover.jpg","leading_role":" [英] 罗伯特·麦克法伦","id":65148,"book_name":"深时之旅"}]

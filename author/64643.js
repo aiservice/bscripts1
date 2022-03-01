@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"提阿非罗","customer_url":"s1-xinyangnantijieda","image_path":"/files/book/cover/64948/cover.jpg","leading_role":"提阿非罗","id":64948,"book_name":"信仰难题解答"},{"author_name":"提阿非罗","customer_url":"s1-wodexinyangzhilu","image_path":"/files/book/cover/64970/cover.jpg","leading_role":"提阿非罗","id":64970,"book_name":"我的信仰之路"}]

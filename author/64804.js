@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王国章","customer_url":"s1-gongjihui","image_path":"/files/book/cover/65177/cover.jpg","leading_role":"王国章","id":65177,"book_name":"共济会：世界的隐形操控者"}]

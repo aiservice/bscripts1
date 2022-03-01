@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈婕君","customer_url":"s3-kesudewo","image_path":"/files/book/cover/64806/cover.jpg","leading_role":"陈婕君","id":64806,"book_name":"可塑的我"}]

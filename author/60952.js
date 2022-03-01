@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"树下野狐","customer_url":"s3-manhuangji","image_path":"/files/book/cover/59377/cover.jpg","leading_role":"树下野狐","id":59377,"book_name":"蛮荒记"}]

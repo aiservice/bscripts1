@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约书亚·弥尔斯","customer_url":"shijianyuyongheng","image_path":"/files/book/cover/39800/cover.jpg","leading_role":"约书亚·弥尔斯","id":39800,"book_name":"时间与永恒"}]

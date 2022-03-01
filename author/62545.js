@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柯·兰迪","customer_url":"s1-xunhuibeiyiwangdegenyuan","image_path":"/files/book/cover/61901/cover.jpg","leading_role":"柯·兰迪","id":61901,"book_name":"寻回被遗忘的根源"}]

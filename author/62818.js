@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 深谷克己","customer_url":"s3-jianghushidai","image_path":"/files/book/cover/62249/cover.jpg","leading_role":" [日] 深谷克己","id":62249,"book_name":"江户时代（岩波日本史 第六卷）"}]

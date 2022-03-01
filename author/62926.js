@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卫斯理•R.格雷","customer_url":"s3-goujianlianghuadongliangxuanguxitongdeshiyongzhinan","image_path":"/files/book/cover/62364/cover.jpg","leading_role":"卫斯理•R.格雷","id":62364,"book_name":"构建量化动量选股系统的实用指南"}]

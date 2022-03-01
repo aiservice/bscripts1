@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尤西比乌","customer_url":"yossi-and-history-of-the-church","image_path":"/files/book/cover/168/cover.jpg","leading_role":"尤西比乌","id":168,"book_name":"尤西比乌教会史"}]

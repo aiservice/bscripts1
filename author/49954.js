@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴楚材","customer_url":"guwenguanzhi","image_path":"/files/book/cover/1375/cover.jpg","leading_role":"佚名","id":1375,"book_name":"古文观止"}]

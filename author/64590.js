@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲍比·杰米森","customer_url":"s1-chunzhengjiaoyi","image_path":"/files/book/cover/64861/cover.jpg","leading_role":"鲍比·杰米森","id":64861,"book_name":"纯正教义"}]

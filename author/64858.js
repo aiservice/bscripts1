@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蘿蕊．葛利布","customer_url":"s3-yexunigaizhaorenliaoliao","image_path":"/files/book/cover/65245/cover.jpg","leading_role":"蘿蕊．葛利布（Lori Gottlieb）","id":65245,"book_name":"也許你該找人聊聊"}]

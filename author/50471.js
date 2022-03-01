@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丹尼尔·张伯伦","customer_url":"yifushendexiaoxianghua","image_path":"/files/book/cover/38331/cover.jpg","leading_role":"丹尼尔·张伯伦","id":38331,"book_name":"一幅神的肖像画"}]

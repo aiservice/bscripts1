@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔易丝·梅尔","customer_url":"control-your-emotions","image_path":"/files/book/cover/382/cover.jpg","leading_role":"乔易丝·梅尔","id":382,"book_name":"控制你的情感"}]

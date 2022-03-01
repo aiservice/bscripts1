@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"茅海建","customer_url":"s3-tianchaodebengkui","image_path":"/files/book/cover/64664/cover.jpg","leading_role":"茅海建","id":64664,"book_name":"天朝的崩溃"}]

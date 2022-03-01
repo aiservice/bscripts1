@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吕不韦","customer_url":"lvshichunqiu","image_path":"/files/book/cover/1185/cover.jpg","leading_role":"佚名","id":1185,"book_name":"吕氏春秋"}]

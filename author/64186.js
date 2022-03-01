@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘媛媛","customer_url":"s3-jingzhunnuliliuyuanyuandenixike","image_path":"/files/book/cover/64316/cover.jpg","leading_role":"刘媛媛","id":64316,"book_name":"精准努力：刘媛媛的逆袭课"}]

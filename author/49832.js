@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王符","customer_url":"qianfulunjianxiaozheng","image_path":"/files/book/cover/1174/cover.jpg","leading_role":"佚名","id":1174,"book_name":"潜夫论笺校正"}]

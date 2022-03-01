@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿尔弗雷德·阿德勒","customer_url":"s3-zouchugudu","image_path":"/files/book/cover/64642/cover.jpg","leading_role":"阿尔弗雷德·阿德勒（Alfred Adler）","id":64642,"book_name":"走出孤独"}]

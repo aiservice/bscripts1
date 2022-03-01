@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邵慧中","customer_url":"shendedalianmin","image_path":"/files/book/cover/542/cover.jpg","leading_role":"邵慧中","id":542,"book_name":"哦！神的大怜悯"}]

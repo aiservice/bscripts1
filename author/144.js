@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"魏外扬","customer_url":"a-missionary-group","image_path":"/files/book/cover/156/cover.jpg","leading_role":"魏外扬","id":156,"book_name":"宣教士群像"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梅根·多姆","customer_url":"s3-zuihaodejueding","image_path":"/files/book/cover/64949/cover.jpg","leading_role":"[美] 梅根·多姆","id":64949,"book_name":"最好的决定"}]

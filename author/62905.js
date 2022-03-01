@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]铃木一之","customer_url":"s3-1xiaoshitujiejingjixue","image_path":"/files/book/cover/62345/cover.jpg","leading_role":" [日]铃木一之","id":62345,"book_name":"1小时图解经济学"}]

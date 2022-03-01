@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小川糸","customer_url":"s3-shanchawenjudian","image_path":"/files/book/cover/64124/cover.jpg","leading_role":"[日] 小川糸","id":64124,"book_name":"山茶文具店"},{"author_name":"小川糸","customer_url":"s3-woniushitang","image_path":"/files/book/cover/65666/cover.jpg","leading_role":"[日] 小川糸","id":65666,"book_name":"蜗牛食堂"}]

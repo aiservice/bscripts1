@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安吉拉·萨伊尼","customer_url":"s3-xunsekexueduinvxingzuocuoleshenme","image_path":"/files/book/cover/64640/cover.jpg","leading_role":"安吉拉·萨伊尼（Angela Saini）","id":64640,"book_name":"逊色：科学对女性做错了什么"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"皮特·麦考尔","customer_url":"s3-zhihuijianshen","image_path":"/files/book/cover/64875/cover.jpg","leading_role":" [英] 皮特·麦考尔","id":64875,"book_name":"智慧健身"}]

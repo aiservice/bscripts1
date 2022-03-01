@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大力金刚掌","customer_url":"maoshanhouyi","image_path":"/files/book/cover/48168/cover.jpg","leading_role":"大力金刚掌","id":48168,"book_name":"茅山后裔"}]

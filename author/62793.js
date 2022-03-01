@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗银胜","customer_url":"s3-guzhunzhuisilu","image_path":"/files/book/cover/62223/cover.jpg","leading_role":"罗银胜","id":62223,"book_name":"顾准追思录"}]

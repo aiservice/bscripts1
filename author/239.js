@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布雷克","customer_url":"serve-of-christians","image_path":"/files/book/cover/327/cover.jpg","leading_role":"布雷克","id":327,"book_name":"基督徒理所当然的侍奉"},{"author_name":"布雷克","customer_url":"lunshangdidelvfa","image_path":"/files/book/cover/719/cover.jpg","leading_role":"布雷克","id":719,"book_name":"论上帝的律法"}]

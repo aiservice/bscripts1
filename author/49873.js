@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴璿","customer_url":"feilongquanchuan","image_path":"/files/book/cover/1232/cover.jpg","leading_role":"佚名","id":1232,"book_name":"飞龙全传"}]

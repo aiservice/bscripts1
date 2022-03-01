@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]加·泽文","customer_url":"s3-magelitexiaozhen","image_path":"/files/book/cover/60022/cover.jpg","leading_role":"[美]加·泽文","id":60022,"book_name":"玛格丽特小镇"}]

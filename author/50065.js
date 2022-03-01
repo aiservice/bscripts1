@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钟惺","customer_url":"xiashangyeshi","image_path":"/files/book/cover/1607/cover.jpg","leading_role":"佚名","id":1607,"book_name":"夏商野史"}]

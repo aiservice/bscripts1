@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"多玛斯·牟敦(Thomas Merton","customer_url":"the-wisdom-of-the-desert","image_path":"/files/book/cover/303/cover.jpg","leading_role":"多玛斯·牟敦(Thomas Merton)","id":303,"book_name":"沙漠的智慧"}]

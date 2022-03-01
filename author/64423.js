@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"脱不花","customer_url":"s3-goutongdefangfa","image_path":"/files/book/cover/64648/cover.jpg","leading_role":"脱不花","id":64648,"book_name":"沟通的方法"}]

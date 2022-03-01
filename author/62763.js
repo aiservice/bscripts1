@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[德]韩炳哲","customer_url":"s3-tazhedexiaoshi","image_path":"/files/book/cover/62192/cover.jpg","leading_role":"[德]韩炳哲","id":62192,"book_name":"他者的消失"}]

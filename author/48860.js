@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄世仲","customer_url":"niannianfanhuameng","image_path":"/files/book/cover/1624/cover.jpg","leading_role":"佚名","id":1624,"book_name":"廿年繁华梦"}]

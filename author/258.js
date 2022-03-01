@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"列夫·托尔斯泰","customer_url":"the-confessions-of-leo-tolstoy","image_path":"/files/book/cover/368/cover.jpg","leading_role":"列夫·托尔斯泰","id":368,"book_name":"忏悔录 - 列夫·托尔斯泰"}]

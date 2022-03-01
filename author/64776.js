@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迪诺·布扎蒂","customer_url":"s3-dadarenshamo","image_path":"/files/book/cover/65139/cover.jpg","leading_role":"[意] 迪诺·布扎蒂","id":65139,"book_name":"鞑靼人沙漠"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李政道","customer_url":"s3-duichenyubuduichen","image_path":"/files/book/cover/65413/cover.jpg","leading_role":"李政道","id":65413,"book_name":"对称与不对称"}]

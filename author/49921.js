@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张华","customer_url":"bowuzhi","image_path":"/files/book/cover/1318/cover.jpg","leading_role":"佚名","id":1318,"book_name":"博物志"}]

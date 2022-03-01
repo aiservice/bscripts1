@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张文质","customer_url":"s3-naimiyan","image_path":"/files/book/cover/64539/cover.jpg","leading_role":"张文质","id":64539,"book_name":"奶蜜盐：家庭教育第一定律"}]

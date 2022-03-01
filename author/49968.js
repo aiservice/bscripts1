@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"司马紫微集","customer_url":"dongtianfudiji","image_path":"/files/book/cover/1415/cover.jpg","leading_role":"佚名","id":1415,"book_name":"洞天福地记"}]

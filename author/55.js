@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大埔基督福音堂","customer_url":"the-gospel-fifty-problems","image_path":"/files/book/cover/25/cover.jpg","leading_role":"福音","id":25,"book_name":"福音常遇难题五十则"}]

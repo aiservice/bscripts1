@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]威廉·H.麦克尼尔","customer_url":"s3-shijiehuanjingshi","image_path":"/files/book/cover/62341/cover.jpg","leading_role":"[美]威廉·H.麦克尼尔","id":62341,"book_name":"世界环境史"}]

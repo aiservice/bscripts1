@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"范泰而","customer_url":"woweishenmexinshen","image_path":"/files/book/cover/874/cover.jpg","leading_role":"范泰而","id":874,"book_name":"我为什么信神"}]

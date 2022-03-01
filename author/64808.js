@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"毛建军","customer_url":"s3-meishunyuchangsheng","image_path":"/files/book/cover/65182/cover.jpg","leading_role":"毛建军","id":65182,"book_name":"美顺与长生"}]

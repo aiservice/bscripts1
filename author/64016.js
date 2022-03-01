@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弗雷德里克·巴克曼","customer_url":"s3-jiaolvderen","image_path":"/files/book/cover/65899/cover.jpg","leading_role":"弗雷德里克·巴克曼","id":65899,"book_name":"焦虑的人"},{"author_name":"弗雷德里克·巴克曼","customer_url":"s3-buyaohenimazhengbian","image_path":"/files/book/cover/64077/cover.jpg","leading_role":" [瑞] 弗雷德里克·巴克曼","id":64077,"book_name":"不要和你妈争辩"}]

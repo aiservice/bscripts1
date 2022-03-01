@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迪克柏诺","customer_url":"dangluxifuyuyexibiebaifangnidejiaohui","image_path":"/files/book/cover/38821/cover.jpg","leading_role":"迪克柏诺","id":38821,"book_name":"当路西弗与耶洗别-拜访你的教会"}]

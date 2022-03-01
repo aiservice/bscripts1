@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"范蠡","customer_url":"fanzijiran","image_path":"/files/book/cover/1195/cover.jpg","leading_role":"佚名","id":1195,"book_name":"范子计然"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"手岛佑郎","customer_url":"the-jews-why-good","image_path":"/files/book/cover/15/cover.jpg","leading_role":"犹太人","id":15,"book_name":"犹太人为什么优秀"}]

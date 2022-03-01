@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李盆","customer_url":"s3-yangdaizhule","image_path":"/files/book/cover/62339/cover.jpg","leading_role":"李盆","id":62339,"book_name":"羊呆住了"}]

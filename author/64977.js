@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫·爱登堡","customer_url":"s3-womenxingqiushangdeshengming","image_path":"/files/book/cover/65429/cover.jpg","leading_role":"[英]大卫·爱登堡","id":65429,"book_name":"我们星球上的生命"}]

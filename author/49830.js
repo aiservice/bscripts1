@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"袁康","customer_url":"yuejueshu","image_path":"/files/book/cover/1170/cover.jpg","leading_role":"佚名","id":1170,"book_name":"越绝书"}]

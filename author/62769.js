@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[印] 维卡斯·斯瓦鲁普","customer_url":"s3-pinminkudebaiwanfuweng","image_path":"/files/book/cover/62198/cover.jpg","leading_role":" [印] 维卡斯·斯瓦鲁普","id":62198,"book_name":"贫民窟的百万富翁"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柯兰迪","customer_url":"s1-shifangshutiandeyizhidaneng","image_path":"/files/book/cover/65417/cover.jpg","leading_role":"柯兰迪","id":65417,"book_name":"释放属天的医治大能"}]

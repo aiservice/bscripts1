@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"庄子","customer_url":"zhuangzi","image_path":"/files/book/cover/1205/cover.jpg","leading_role":"佚名","id":1205,"book_name":"庄子"}]

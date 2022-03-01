@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹尼佛·A.杜德娜","customer_url":"s3-potianji","image_path":"/files/book/cover/65514/cover.jpg","leading_role":"[美] 詹尼佛·A.杜德娜","id":65514,"book_name":"破天机"}]

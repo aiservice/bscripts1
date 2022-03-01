@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约瑟·阿雷恩","customer_url":"jinggaoweiguizhengderen","image_path":"/files/book/cover/958/cover.jpg","leading_role":"约瑟·阿雷恩","id":958,"book_name":"警告未归正的人"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"空手","customer_url":"s3-chuanshenwenan","image_path":"/files/book/cover/65283/cover.jpg","leading_role":"空手","id":65283,"book_name":"传神文案"}]

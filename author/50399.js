@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔兰山以妲","customer_url":"chengsheng","image_path":"/files/book/cover/38138/cover.jpg","leading_role":"乔兰山以妲/译","id":38138,"book_name":"成圣"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]哈珀·李","customer_url":"shasiyizhizhigengniao","image_path":"/files/book/cover/48140/cover.jpg","leading_role":"[美]哈珀·李","id":48140,"book_name":"杀死一只知更鸟"}]

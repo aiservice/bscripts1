@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"格雷戈里·史雷顿","customer_url":"chengjiuhaobaba","image_path":"/files/book/cover/911/cover.jpg","leading_role":"[美] 格雷戈里·史雷顿","id":911,"book_name":"成就好爸爸"}]

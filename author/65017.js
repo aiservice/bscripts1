@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弗雷德里克·波尔","customer_url":"s3-tongwangyuzhouzhimen","image_path":"/files/book/cover/65484/cover.jpg","leading_role":"[美] 弗雷德里克·波尔","id":65484,"book_name":"通往宇宙之门"}]

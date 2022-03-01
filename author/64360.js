@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿奇科·布希","customer_url":"s3-wuyinsishidai","image_path":"/files/book/cover/64557/cover.jpg","leading_role":"[美] 阿奇科·布希","id":64557,"book_name":"无隐私时代"}]

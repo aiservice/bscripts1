@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查尔斯·肯尼","customer_url":"s3-wenyizhouqi","image_path":"/files/book/cover/65920/cover.jpg","leading_role":"[美] 查尔斯·肯尼（Charles Kenny）","id":65920,"book_name":"瘟疫周期"}]

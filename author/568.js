@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"福格特","customer_url":"shengjingdehaizijiaoyuguan","image_path":"/files/book/cover/960/cover.jpg","leading_role":"福格特","id":960,"book_name":"圣经的孩子教育观"}]

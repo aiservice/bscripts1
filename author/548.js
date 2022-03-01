@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"毕迈可","customer_url":"xianzhixunlianxuexiao","image_path":"/files/book/cover/922/cover.jpg","leading_role":"先知训练学校","id":922,"book_name":"先知训练学校"}]

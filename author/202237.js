@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰弗里·罗森","customer_url":"s3-jinsibogefangtanlu","image_path":"/files/book/cover/65926/cover.jpg","leading_role":"[美]杰弗里·罗森","id":65926,"book_name":"金斯伯格访谈录"}]

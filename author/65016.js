@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"B.J.福格","customer_url":"s3-fugexingweimoxing","image_path":"/files/book/cover/65483/cover.jpg","leading_role":"[美]B.J.福格","id":65483,"book_name":"福格行为模型"}]

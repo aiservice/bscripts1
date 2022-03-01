@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[俄] 列夫·马诺维奇","customer_url":"s3-xinmeitideyuyan","image_path":"/files/book/cover/62380/cover.jpg","leading_role":" [俄] 列夫·马诺维奇","id":62380,"book_name":"新媒体的语言"}]

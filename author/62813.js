@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 吉村武彦","customer_url":"s3-ribenshehuidedansheng","image_path":"/files/book/cover/62244/cover.jpg","leading_role":"[日] 吉村武彦","id":62244,"book_name":"日本社会的诞生（岩波日本史 第一卷）"}]

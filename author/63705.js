@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丘成桐","customer_url":"s3-wodejiherensheng","image_path":"/files/book/cover/63638/cover.jpg","leading_role":"[美国]丘成桐 / [美国]史蒂夫·纳迪斯","id":63638,"book_name":"我的几何人生"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莎拉·斯图尔特·约翰逊","customer_url":"s3-daohuoxingqu","image_path":"/files/book/cover/65479/cover.jpg","leading_role":"[美]莎拉·斯图尔特·约翰逊","id":65479,"book_name":"到火星去"}]

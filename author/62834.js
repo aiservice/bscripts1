@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邢力","customer_url":"s3-ligeshuolicaishoubashoujiaoniwanzhuanjijin","image_path":"/files/book/cover/62265/cover.jpg","leading_role":"邢力","id":62265,"book_name":"力哥说理财：手把手教你玩转基金"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈济民","customer_url":"xinyueshenxueqianjie","image_path":"/files/book/cover/361/cover.jpg","leading_role":"陈济民","id":361,"book_name":"新约神学浅介"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[加拿大] 基思·斯坦诺维奇","customer_url":"s3-zhecaishixinlixue","image_path":"/files/book/cover/62233/cover.jpg","leading_role":" [加拿大] 基思·斯坦诺维奇","id":62233,"book_name":"这才是心理学"}]

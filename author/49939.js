@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱世杰","customer_url":"suanxueqimengzongkuo","image_path":"/files/book/cover/1351/cover.jpg","leading_role":"佚名","id":1351,"book_name":"算学启蒙总括"}]

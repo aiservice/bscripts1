@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杜祥","customer_url":"koudaidaogao66","image_path":"/files/book/cover/517/cover.jpg","leading_role":"杜祥和牧师","id":517,"book_name":"口袋祷告66"}]

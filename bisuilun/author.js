@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"北堂书钞","leading_role":"佚名","image_path_min":"/files/book/cover/1110/cover_120.jpg","author_name":"虞世南","image_path":"/files/book/cover/1110/cover.jpg","customer_url":"beitangshuchao"}]

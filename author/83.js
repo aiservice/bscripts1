@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈婉仪","customer_url":"more-beautiful-sunday-school","image_path":"/files/book/cover/62/cover.jpg","leading_role":"陈婉仪","id":62,"book_name":"更美的主日学"}]

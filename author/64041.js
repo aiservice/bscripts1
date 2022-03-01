@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨强","customer_url":"s3-lianbangxuexi","image_path":"/files/book/cover/64110/cover.jpg","leading_role":"杨强 / 刘洋 /","id":64110,"book_name":"联邦学习"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"胡宝国","customer_url":"s3-jiangwutong","image_path":"/files/book/cover/64088/cover.jpg","leading_role":"胡宝国","id":64088,"book_name":"将无同"}]

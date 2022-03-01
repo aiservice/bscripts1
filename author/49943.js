@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曾公亮、丁度","customer_url":"wujingzongyao","image_path":"/files/book/cover/1359/cover.jpg","leading_role":"佚名","id":1359,"book_name":"武经总要"}]

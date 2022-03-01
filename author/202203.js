@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘世锦","customer_url":"s3-dudongshisiwu","image_path":"/files/book/cover/65886/cover.jpg","leading_role":"刘世锦","id":65886,"book_name":"读懂“十四五”"}]

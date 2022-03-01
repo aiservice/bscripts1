@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·桑得福","customer_url":"s1-kannayiliyazaixian","image_path":"/files/book/cover/65426/cover.jpg","leading_role":"约翰·桑得福","id":65426,"book_name":"看哪！伊利亚再现"}]

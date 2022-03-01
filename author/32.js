@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯托得","customer_url":"evangelical-faith","image_path":"/files/book/cover/4/cover.jpg","leading_role":"英国牧师","id":4,"book_name":"认识福音派信仰"},{"author_name":"斯托得","customer_url":"dangdaijiangdaoyishu","image_path":"/files/book/cover/38560/cover.jpg","leading_role":"斯托得(John R.W.Stott) ","id":38560,"book_name":"当代讲道艺术"}]

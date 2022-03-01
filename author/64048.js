@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大山诚一郎","customer_url":"s3-zimubiaomian","image_path":"/files/book/cover/64117/cover.jpg","leading_role":"[日] 大山诚一郎","id":64117,"book_name":"字母表谜案"},{"author_name":"大山诚一郎","customer_url":"s3-quanyuanxianyiren","image_path":"/files/book/cover/65633/cover.jpg","leading_role":"[日] 大山诚一郎","id":65633,"book_name":"全员嫌疑人"}]

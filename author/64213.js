@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"cis","customer_url":"s3-zhulidesiwei","image_path":"/files/book/cover/64360/cover.jpg","leading_role":"cis","id":64360,"book_name":"主力的思维"}]

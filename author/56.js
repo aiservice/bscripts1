@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"德兰修女","customer_url":"to-live-is-to-love","image_path":"/files/book/cover/26/cover.jpg","leading_role":"德兰修女","id":26,"book_name":"活着就是爱"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丹尼·席克","customer_url":"tianguozunrongwenhua","image_path":"/files/book/cover/924/cover.jpg","leading_role":"丹尼·席克","id":924,"book_name":"天国尊荣文化"},{"author_name":"丹尼·席克","customer_url":"dingyiaiwomendehaizi","image_path":"/files/book/cover/40177/cover.jpg","leading_role":"丹尼·席克","id":40177,"book_name":"定意爱我们的孩子"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马家辉","customer_url":"s3-yuanyangliuqisi","image_path":"/files/book/cover/62284/cover.jpg","leading_role":"马家辉","id":62284,"book_name":"鸳鸯六七四"}]

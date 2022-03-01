@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王敬之","customer_url":"god-and-ancient-chinese","image_path":"/files/book/cover/171/cover.jpg","leading_role":"王敬之","id":171,"book_name":"上帝与中国古人"}]

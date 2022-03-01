@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安东尼·霍洛维茨","customer_url":"s3-maotouyingmoushaan","image_path":"/files/book/cover/65210/cover.jpg","leading_role":" [英] 安东尼·霍洛维茨","id":65210,"book_name":"猫头鹰谋杀案(全两册)"},{"author_name":"安东尼·霍洛维茨","customer_url":"s3-guanjianjushisiwang","image_path":"/files/book/cover/64570/cover.jpg","leading_role":"[英]安东尼·霍洛维茨","id":64570,"book_name":"关键句是死亡"}]

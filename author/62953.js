@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚历克斯·索勇","customer_url":"s3-kexuexiuxi","image_path":"/files/book/cover/62394/cover.jpg","leading_role":"亚历克斯·索勇","id":62394,"book_name":"科学休息"}]

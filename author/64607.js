@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李永新","customer_url":"s3-biganzishizenyanglianchengde","image_path":"/files/book/cover/64885/cover.jpg","leading_role":"李永新","id":64885,"book_name":"笔杆子是怎样炼成的"}]

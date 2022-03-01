@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]理查德·J. 埃文斯","customer_url":"s3-zhanshidedisandiguo","image_path":"/files/book/cover/62291/cover.jpg","leading_role":" [英]理查德·J. 埃文斯","id":62291,"book_name":"战时的第三帝国"}]

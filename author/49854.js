@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"文子","customer_url":"wenzi","image_path":"/files/book/cover/1206/cover.jpg","leading_role":"佚名","id":1206,"book_name":"文子"}]

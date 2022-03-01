@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"C.赖特·米尔斯","customer_url":"s3-quanlijingying","image_path":"/files/book/cover/64494/cover.jpg","leading_role":"[美]C.赖特·米尔斯","id":64494,"book_name":"权力精英"}]

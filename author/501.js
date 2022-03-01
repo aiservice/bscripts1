@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈宗清","customer_url":"aidezuigaochu","image_path":"/files/book/cover/839/cover.jpg","leading_role":"陈宗清","id":839,"book_name":"乘驾在爱的最高处─宽恕面面观"}]

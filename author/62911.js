@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"R. J. Palacio","customer_url":"s3-wonder","image_path":"/files/book/cover/62351/cover.jpg","leading_role":" R. J. Palacio","id":62351,"book_name":"Wonder"}]

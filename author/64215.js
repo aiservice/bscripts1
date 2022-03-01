@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吉野源三郎","customer_url":"s3-nixianghuochuzenyangderensheng","image_path":"/files/book/cover/64364/cover.jpg","leading_role":" [日]吉野源三郎 著 / [日]胁田和 绘","id":64364,"book_name":"你想活出怎样的人生"}]

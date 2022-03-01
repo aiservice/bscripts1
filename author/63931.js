@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梦娃","customer_url":"s3-gongqiangliu","image_path":"/files/book/cover/63949/cover.jpg","leading_role":"梦娃","id":63949,"book_name":"宫墙柳"}]

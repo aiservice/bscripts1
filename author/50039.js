@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"纪昀","customer_url":"yueweicaotangbiji","image_path":"/files/book/cover/1544/cover.jpg","leading_role":"佚名","id":1544,"book_name":"阅微草堂笔记"}]

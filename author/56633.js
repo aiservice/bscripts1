@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]亨利·戴维·梭罗","customer_url":"waerdenghu","image_path":"/files/book/cover/48139/cover.jpg","leading_role":"[美]亨利·戴维·梭罗","id":48139,"book_name":"瓦尔登湖"}]

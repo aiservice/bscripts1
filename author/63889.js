@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"铃木祐","customer_url":"s3-xunfunidenaozhongyeshou","image_path":"/files/book/cover/63899/cover.jpg","leading_role":"【日】铃木祐","id":63899,"book_name":"驯服你的脑中野兽"}]

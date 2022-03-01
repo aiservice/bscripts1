@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"迷案重现 : 没药花园","leading_role":"何袜皮","author_name":"何袜皮","image_path":"files/book/cover/65752/cover.jpg","customer_url":"s3-mianzhongxian"}]

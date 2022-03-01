@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沐雪冰蕊","customer_url":"guisu","image_path":"/files/book/cover/85/cover.jpg","leading_role":"沐雪冰蕊","id":85,"book_name":"归宿"}]

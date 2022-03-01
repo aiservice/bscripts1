@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汤美·费明芮","customer_url":"shengguozongjiaozhiling","image_path":"/files/book/cover/38820/cover.jpg","leading_role":"汤美·费明芮","id":38820,"book_name":"胜过宗教之灵"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"紫伊281","customer_url":"mengqishishen","image_path":"/files/book/cover/48160/cover.jpg","leading_role":"紫伊281","id":48160,"book_name":"萌妻食神"}]

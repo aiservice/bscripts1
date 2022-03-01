@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"提摩太·凯勒","customer_url":"s1-daogaojiemi","image_path":"/files/book/cover/64784/cover.jpg","leading_role":"提摩太·凯勒","id":64784,"book_name":"祷告解密"},{"author_name":"提摩太·凯勒","customer_url":"s1-beidingshijiadewang","image_path":"/files/book/cover/65680/cover.jpg","leading_role":"提摩太·凯勒","id":65680,"book_name":"被钉十架的王"}]

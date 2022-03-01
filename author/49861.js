@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孔子","customer_url":"chunqiu","image_path":"/files/book/cover/1216/cover.jpg","leading_role":"佚名","id":1216,"book_name":"春秋"}]

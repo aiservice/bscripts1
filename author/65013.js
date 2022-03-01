@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查尔斯·曼恩","customer_url":"s3-lishidepengzhuang1491","image_path":"/files/book/cover/65470/cover.jpg","leading_role":"[美] 查尔斯·曼恩","id":65470,"book_name":"历史的碰撞：1491"}]

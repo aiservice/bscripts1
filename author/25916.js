@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈忠实","customer_url":"bailuyuan","image_path":"/files/book/cover/31993/cover.jpg","leading_role":"陈忠实","id":31993,"book_name":"白鹿原"}]

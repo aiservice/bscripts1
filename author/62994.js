@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李银河","customer_url":"s3-liyinheshuoaiqing","image_path":"/files/book/cover/62447/cover.jpg","leading_role":"李银河","id":62447,"book_name":"李银河说爱情"}]

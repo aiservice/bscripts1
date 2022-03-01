@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"坑余生","customer_url":"xujigongchuan","image_path":"/files/book/cover/1455/cover.jpg","leading_role":"佚名","id":1455,"book_name":"续济公传"}]

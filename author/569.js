@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑蓝","customer_url":"xinxiangdeshifeng","image_path":"/files/book/cover/962/cover.jpg","leading_role":"郑蓝","id":962,"book_name":"馨香的侍奉"}]

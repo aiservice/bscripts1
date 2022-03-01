@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李诞","customer_url":"s3-houchang","image_path":"/files/book/cover/62444/cover.jpg","leading_role":"李诞","id":62444,"book_name":"候场"},{"author_name":"李诞","customer_url":"s3-lidantuokouxiugongzuoshouce","image_path":"/files/book/cover/65137/cover.jpg","leading_role":"李诞","id":65137,"book_name":"李诞脱口秀工作手册"}]

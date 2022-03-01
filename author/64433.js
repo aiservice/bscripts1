@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"也小谈","customer_url":"s3-gongxinzucaiwuziyoushuomingshu","image_path":"/files/book/cover/64660/cover.jpg","leading_role":"也小谈","id":64660,"book_name":"工薪族财务自由说明书"}]

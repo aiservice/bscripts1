@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"天忏生","customer_url":"hongxiangongweiyanshiyanyi","image_path":"/files/book/cover/1602/cover.jpg","leading_role":"佚名","id":1602,"book_name":"洪宪宫闱艳史演义"},{"author_name":"天忏生","customer_url":"yuanshikaihongxiangongweiyanshiyanyi","leading_role":"佚名","id":1448,"book_name":"袁世凯(洪宪宫闱艳史演义)"}]

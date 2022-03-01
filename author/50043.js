@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赵璘","customer_url":"yinhualu","image_path":"/files/book/cover/1549/cover.jpg","leading_role":"佚名","id":1549,"book_name":"因话录"}]

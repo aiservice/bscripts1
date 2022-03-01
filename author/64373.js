@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"珍妮弗·伊根","customer_url":"s3-manhadunhaitan","image_path":"/files/book/cover/64575/cover.jpg","leading_role":"[美]珍妮弗·伊根（Jennifer Egan）","id":64575,"book_name":"曼哈顿海滩"}]

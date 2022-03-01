@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"荀子","customer_url":"xunzi","image_path":"/files/book/cover/1203/cover.jpg","leading_role":"佚名","id":1203,"book_name":"荀子"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张大诺","customer_url":"s3-tamenzhidaowolaiguo","image_path":"/files/book/cover/65763/cover.jpg","leading_role":"张大诺","id":65763,"book_name":"她们知道我来过"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李敏金","customer_url":"s3-baiqingge","image_path":"/files/book/cover/65658/cover.jpg","leading_role":"[美]李敏金","id":65658,"book_name":"柏青哥"}]

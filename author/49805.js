@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"左思","customer_url":"sandoufu","image_path":"/files/book/cover/1127/cover.jpg","leading_role":"佚名","id":1127,"book_name":"三都赋"}]

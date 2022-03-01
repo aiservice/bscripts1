@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"历史研习社","customer_url":"s3-lishiderongyao","image_path":"/files/book/cover/62332/cover.jpg","leading_role":"历史研习社","id":62332,"book_name":"历史的荣耀"}]

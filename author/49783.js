@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韓愈、李翺","customer_url":"lunyubijie","image_path":"/files/book/cover/1094/cover.jpg","leading_role":"佚名","id":1094,"book_name":"论语笔解"}]

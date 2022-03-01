@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雪满梁园","customer_url":"helihuating","image_path":"/files/book/cover/48217/cover.jpg","leading_role":"雪满梁园","id":48217,"book_name":"鹤唳华亭"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鹤市道人","customer_url":"xingfengliu","image_path":"/files/book/cover/1486/cover.jpg","leading_role":"佚名","id":1486,"book_name":"醒风流"}]

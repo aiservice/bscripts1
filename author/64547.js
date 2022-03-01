@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汤米·巴特勒","customer_url":"s3-zhualuoye","image_path":"/files/book/cover/64808/cover.jpg","leading_role":" [美]汤米·巴特勒","id":64808,"book_name":"抓落叶"}]

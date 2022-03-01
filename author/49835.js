@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘安","customer_url":"huainanzi","image_path":"/files/book/cover/1181/cover.jpg","leading_role":"佚名","id":1181,"book_name":"淮南子"}]

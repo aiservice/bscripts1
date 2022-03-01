@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴克斯特","customer_url":"xinmuren","image_path":"/files/book/cover/943/cover.jpg","leading_role":"巴克斯特","id":943,"book_name":"新牧人"},{"author_name":"巴克斯特","customer_url":"zonglanshengjingquanmao","image_path":"/files/book/cover/961/cover.jpg","leading_role":"爱神阅读收集","id":961,"book_name":"纵览圣经全貌"}]

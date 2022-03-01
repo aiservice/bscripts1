@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨筠松","customer_url":"qingnangaoyu","leading_role":"佚名","id":1101,"book_name":"青囊奥语"},{"author_name":"杨筠松","customer_url":"tianyujing","image_path":"/files/book/cover/1105/cover.jpg","leading_role":"佚名","id":1105,"book_name":"天玉经"}]

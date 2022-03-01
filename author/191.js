@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"余光昭","customer_url":"fuyinshizhezhuangbei","image_path":"/files/book/cover/227/cover.jpg","leading_role":"余光昭","id":227,"book_name":"福音使者装备"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阮逸","customer_url":"tangliwendui","image_path":"/files/book/cover/1365/cover.jpg","leading_role":"佚名","id":1365,"book_name":"唐李问对"}]

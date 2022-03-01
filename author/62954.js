@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叶文玲","customer_url":"s3-cishengzhiweishoudunhuang","image_path":"/files/book/cover/62395/cover.jpg","leading_role":"叶文玲","id":62395,"book_name":"此生只为守敦煌"}]

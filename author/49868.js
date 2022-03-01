@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吕熊","customer_url":"nvxianwaishi","image_path":"/files/book/cover/1227/cover.jpg","leading_role":"佚名","id":1227,"book_name":"女仙外史"}]

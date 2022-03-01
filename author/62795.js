@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈嘉映","customer_url":"s3-zouchuweiyizhenliguan","image_path":"/files/book/cover/62225/cover.jpg","leading_role":" 陈嘉映","id":62225,"book_name":"走出唯一真理观"}]

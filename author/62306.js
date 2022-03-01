@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"康辉","customer_url":"s3-pingjunfen","image_path":"/files/book/cover/61589/cover.jpg","leading_role":" 康辉","id":61589,"book_name":"平均分"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德 W. 科尼什","customer_url":"jianmingjiaohuilishi","image_path":"/files/book/cover/35313/cover.jpg","leading_role":"理查德 W. 科尼什 ","id":35313,"book_name":"简明教会历史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张向荣","customer_url":"s3-xiangrui","image_path":"/files/book/cover/65665/cover.jpg","leading_role":"张向荣","id":65665,"book_name":"祥瑞：王莽和他的时代"}]

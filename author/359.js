@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亨利.克劳德","customer_url":"great-kids-to-develop","image_path":"/files/book/cover/552/cover.jpg","leading_role":"(美）亨利.克劳德&约翰.汤森德","id":552,"book_name":"伟大小孩养成术"}]

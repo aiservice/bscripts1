@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"侯士庭","customer_url":"zhuanhuashengmingdeyouyi","image_path":"/files/book/cover/936/cover.jpg","leading_role":"侯士庭","id":936,"book_name":"转化生命的友谊"},{"author_name":"侯士庭","customer_url":"s1-xinlingkewang","image_path":"/files/book/cover/62166/cover.jpg","leading_role":"侯士庭","id":62166,"book_name":"心灵渴望"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"岛田庄司","customer_url":"s3-niaojumishi","image_path":"/files/book/cover/64321/cover.jpg","leading_role":"[日]岛田庄司","id":64321,"book_name":"鸟居密室"}]

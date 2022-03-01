@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"竹秋氏","customer_url":"huifanglu","image_path":"/files/book/cover/1561/cover.jpg","leading_role":"佚名","id":1561,"book_name":"绘芳录"}]

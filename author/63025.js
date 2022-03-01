@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"连城三纪彦","customer_url":"s3-xiaodaicaoyeqing","image_path":"/files/book/cover/64589/cover.jpg","leading_role":"[日] 连城三纪彦","id":64589,"book_name":"宵待草夜情"},{"author_name":"连城三纪彦","customer_url":"s3-shuzhiye","image_path":"/files/book/cover/62479/cover.jpg","leading_role":" [日] 连城三纪彦","id":62479,"book_name":"鼠之夜"}]

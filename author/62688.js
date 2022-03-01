@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"余耕","customer_url":"s3-woshiyuhuanshuiruguomeiyoumingtian","image_path":"/files/book/cover/62079/cover.jpg","leading_role":"余耕","id":62079,"book_name":"我是余欢水"}]

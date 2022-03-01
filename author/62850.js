@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]约翰·戈特曼","customer_url":"s3-aidebaciyuehui","image_path":"/files/book/cover/62283/cover.jpg","leading_role":"[美]约翰·戈特曼","id":62283,"book_name":"爱的八次约会"}]

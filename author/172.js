@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"顾约瑟","customer_url":"interpretation-of-genesis","image_path":"/files/book/cover/201/cover.jpg","leading_role":"顾约瑟","id":201,"book_name":"创世记释义"}]

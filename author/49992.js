@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安遇时","customer_url":"longtugongan","image_path":"/files/book/cover/1463/cover.jpg","leading_role":"佚名","id":1463,"book_name":"龙图公案"},{"author_name":"安遇时","customer_url":"wushunaodongjing","image_path":"/files/book/cover/1461/cover.jpg","leading_role":"佚名","id":1461,"book_name":"五鼠闹东京"}]

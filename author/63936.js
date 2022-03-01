@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白先勇","customer_url":"s3-taibeiren","image_path":"/files/book/cover/63957/cover.jpg","leading_role":" 白先勇","id":63957,"book_name":"台北人"},{"author_name":"白先勇","customer_url":"s3-niezi","image_path":"/files/book/cover/65768/cover.jpg","leading_role":"白先勇","id":65768,"book_name":"孽子"}]

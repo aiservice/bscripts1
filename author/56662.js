@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"明晓溪","customer_url":"xuanfengshaonv","image_path":"/files/book/cover/48170/cover.jpg","leading_role":"明晓溪","id":48170,"book_name":"旋风少女"}]

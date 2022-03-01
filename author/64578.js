@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭德纲","customer_url":"s3-guolundiyiji","image_path":"/files/book/cover/64844/cover.jpg","leading_role":"郭德纲","id":64844,"book_name":"郭论：第一季（共3册）"},{"author_name":"郭德纲","customer_url":"s3-guolundierji","image_path":"/files/book/cover/64845/cover.jpg","leading_role":"郭德纲","id":64845,"book_name":"郭论：第二季（共3册）"}]

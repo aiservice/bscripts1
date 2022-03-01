@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马汀·狄汉二世","customer_url":"chuanyuerenshengdefengbao","image_path":"/files/book/cover/967/cover.jpg","leading_role":"马汀·狄汉二世","id":967,"book_name":"穿越人生的风暴"}]

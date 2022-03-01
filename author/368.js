@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"康希","customer_url":"daogaojiushixunqiushangdi","image_path":"/files/book/cover/896/cover.jpg","leading_role":"康希","id":896,"book_name":"祷告就是寻求上帝"},{"author_name":"康希","customer_url":"xuanduizhongshenbanlu","image_path":"/files/book/cover/580/cover.jpg","leading_role":"康希","id":580,"book_name":"选对终身伴侣"}]

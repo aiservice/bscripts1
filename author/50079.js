@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钱钖宝","customer_url":"taowucuibian","image_path":"/files/book/cover/1625/cover.jpg","leading_role":"佚名","id":1625,"book_name":"梼杌萃编"}]

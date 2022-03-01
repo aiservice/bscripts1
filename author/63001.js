@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"埃德温·A·艾勃特","customer_url":"s3-pingmianguo","image_path":"/files/book/cover/62455/cover.jpg","leading_role":"埃德温·A·艾勃特","id":62455,"book_name":"平面国"}]

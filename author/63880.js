@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"石昌渝","customer_url":"s3-zhongguoxiaoshuoyuanliulun","image_path":"/files/book/cover/63883/cover.jpg","leading_role":"石昌渝","id":63883,"book_name":"中国小说源流论"}]

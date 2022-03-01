@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林十之","customer_url":"s3-qiyizhiwubowuguangong3ce","image_path":"/files/book/cover/62375/cover.jpg","leading_role":"林十之 ","id":62375,"book_name":"奇异植物博物馆（共3册）"}]

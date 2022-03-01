@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]戴维·伽特森","customer_url":"s3-xueluoxiangshanshu","image_path":"/files/book/cover/60023/cover.jpg","leading_role":"[美]戴维·伽特森","id":60023,"book_name":"雪落香杉树"}]

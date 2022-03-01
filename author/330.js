@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"帕特·罗伯逊","customer_url":"200-the-most-thought-provoking-questions-and-answers","image_path":"/files/book/cover/505/cover.jpg","leading_role":"帕特·罗伯逊","id":505,"book_name":"200个最发人深省的问题与答案"}]

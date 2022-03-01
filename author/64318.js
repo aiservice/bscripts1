@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿卡迪·斯特鲁伽茨基","customer_url":"s3-lubianyecan","image_path":"/files/book/cover/64501/cover.jpg","leading_role":" [俄罗斯] 阿卡迪·斯特鲁伽茨基 ","id":64501,"book_name":"路边野餐"}]

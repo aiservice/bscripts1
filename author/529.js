@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丹尼斯·莫克","customer_url":"chajingfa","image_path":"/files/book/cover/893/cover.jpg","leading_role":"丹尼斯·莫克","id":893,"book_name":"查经法"}]

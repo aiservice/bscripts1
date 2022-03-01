@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西蒙·蒙蒂菲奥里","customer_url":"s1-yelusalengsanqiannian","image_path":"/files/book/cover/64565/cover.jpg","leading_role":"[英]西蒙·蒙蒂菲奥里","id":64565,"book_name":"耶路撒冷三千年"}]

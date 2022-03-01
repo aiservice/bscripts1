@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邱清萍","customer_url":"xingzaiaizhong","image_path":"/files/book/cover/405/cover.jpg","leading_role":"邱清萍","id":405,"book_name":"行在爱中"}]

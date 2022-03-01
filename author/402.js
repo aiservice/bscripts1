@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"维保罗","customer_url":"meizhongbuzu","image_path":"/files/book/cover/668/cover.jpg","leading_role":"维保罗(Paul Viggiano)","id":668,"book_name":"美中不足"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"来俊臣","customer_url":"s3-luozhijing","image_path":"/files/book/cover/62426/cover.jpg","leading_role":"来俊臣","id":62426,"book_name":"罗织经"}]

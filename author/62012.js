@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柳青","customer_url":"s3-chuangyeshi","image_path":"/files/book/cover/61185/cover.jpg","leading_role":"柳青","id":61185,"book_name":"创业史"}]

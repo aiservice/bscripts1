@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲奥娜·默登","customer_url":"s3-jingyingsiwei","image_path":"/files/book/cover/65128/cover.jpg","leading_role":"[英]菲奥娜·默登（Fiona Murden）","id":65128,"book_name":"镜映思维 : 人在社会中的自我形成"}]

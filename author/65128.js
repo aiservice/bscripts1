@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑永年","customer_url":"s3-zhongguodedangxiayuweilai","image_path":"/files/book/cover/65637/cover.jpg","leading_role":"郑永年","id":65637,"book_name":"中国的当下与未来"}]

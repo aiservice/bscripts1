@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"氾胜之","customer_url":"fanshengzhishu","image_path":"/files/book/cover/1165/cover.jpg","leading_role":"佚名","id":1165,"book_name":"氾胜之书"}]

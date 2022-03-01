@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[爱尔兰]W.B.叶芝","customer_url":"s3-kaiertedebomu","image_path":"/files/book/cover/62064/cover.jpg","leading_role":"[爱尔兰]W.B.叶芝","id":62064,"book_name":"凯尔特的薄暮"}]

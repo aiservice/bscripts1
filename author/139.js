@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦海士","customer_url":"love-can-create-miracles","image_path":"/files/book/cover/149/cover.jpg","leading_role":"麦海士","id":149,"book_name":"爱能创造神迹"}]

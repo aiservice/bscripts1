@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王家范","customer_url":"s3-bainiandianpeiyuqiannianwangfu","image_path":"/files/book/cover/64850/cover.jpg","leading_role":"王家范","id":64850,"book_name":"百年颠沛与千年往复"}]

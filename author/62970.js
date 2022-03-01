@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 涩泽龙彦","customer_url":"s3-jileniaoyuwoniu","image_path":"/files/book/cover/62419/cover.jpg","leading_role":"[日] 涩泽龙彦","id":62419,"book_name":"极乐鸟与蜗牛"}]

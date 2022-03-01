@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"以马内利修女","customer_url":"huozheweileshenme","image_path":"/files/book/cover/447/cover.jpg","leading_role":"（法）以马内利修女（Soeur Emmanuelle）","id":447,"book_name":"活着，为了什么？"},{"author_name":"以马内利修女","customer_url":"pinqiongdefuyu","image_path":"/files/book/cover/452/cover.jpg","leading_role":"（法）以马内利修女","id":452,"book_name":"贫穷的富裕"}]

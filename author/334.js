@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯波尔","customer_url":"shengjingrucishuo","image_path":"/files/book/cover/513/cover.jpg","leading_role":"凯波尔","id":513,"book_name":"圣经如此说"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李大师、李延寿","customer_url":"beishi","image_path":"/files/book/cover/1040/cover.jpg","leading_role":"李大师、李延寿","id":1040,"book_name":"北史"}]

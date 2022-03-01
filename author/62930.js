@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 保罗·索鲁","customer_url":"s3-zaizhongguodadishang","image_path":"/files/book/cover/62369/cover.jpg","leading_role":"[美] 保罗·索鲁","id":62369,"book_name":"在中国大地上"}]

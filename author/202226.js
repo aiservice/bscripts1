@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚当·萨维奇","customer_url":"s3-suoyougongjudoushichuizi","image_path":"/files/book/cover/65913/cover.jpg","leading_role":"[美]亚当·萨维奇","id":65913,"book_name":"所有工具都是锤子"}]

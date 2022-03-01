@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洛根·尤里","customer_url":"s3-ruhebimianguduzhonglao","image_path":"/files/book/cover/65797/cover.jpg","leading_role":"[美]洛根·尤里","id":65797,"book_name":"如何避免孤独终老"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"匪我思存","customer_url":"aiqingdekaiguan","image_path":"/files/book/cover/48157/cover.jpg","leading_role":"匪我思存","id":48157,"book_name":"爱情的开关"},{"author_name":"匪我思存","customer_url":"s3-donggong","image_path":"/files/book/cover/59441/cover.jpg","leading_role":"匪我思存","id":59441,"book_name":"东宫"}]

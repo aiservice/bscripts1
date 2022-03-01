@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"席拉‧寇哈特卡","customer_url":"s3-heiseyoushi","image_path":"/files/book/cover/63879/cover.jpg","leading_role":" 席拉‧寇哈特卡(Sheelah Kolhatkar)","id":63879,"book_name":"黑色優勢"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈春花","customer_url":"s3-jiazhigongsheng","image_path":"/files/book/cover/64504/cover.jpg","leading_role":"陈春花","id":64504,"book_name":"价值共生"}]

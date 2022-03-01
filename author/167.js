@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赖桑","customer_url":"the-old-testament-overview","image_path":"/files/book/cover/189/cover.jpg","leading_role":"赖桑","id":189,"book_name":"旧约综览"}]

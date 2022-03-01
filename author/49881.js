@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴航野客","customer_url":"zhuchunyuanxiaoshi","image_path":"/files/book/cover/1252/cover.jpg","leading_role":"佚名","id":1252,"book_name":"驻春园小史"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"珍·汉蒙","customer_url":"s1-yimengyuyixiang","image_path":"/files/book/cover/62077/cover.jpg","leading_role":"珍·汉蒙","id":62077,"book_name":"异梦与异象"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔纳森·康林","customer_url":"s3-weidadejingjisixiangjia","image_path":"/files/book/cover/62222/cover.jpg","leading_role":"乔纳森·康林","id":62222,"book_name":"伟大的经济思想家"}]

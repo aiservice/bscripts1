@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"翁格瓦利·克里斯蒂安","customer_url":"s3-budapeisizhiwei","image_path":"/files/book/cover/65463/cover.jpg","leading_role":"[匈] 翁格瓦利·克里斯蒂安","id":65463,"book_name":"布达佩斯之围"}]

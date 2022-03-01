@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊格言","customer_url":"s3-lingdufenli","image_path":"/files/book/cover/65422/cover.jpg","leading_role":"伊格言","id":65422,"book_name":"零度分离"}]

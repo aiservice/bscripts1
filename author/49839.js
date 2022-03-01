@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孔鲋","customer_url":"kongcongzi","image_path":"/files/book/cover/1186/cover.jpg","leading_role":"佚名","id":1186,"book_name":"孔丛子"}]

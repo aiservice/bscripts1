@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"跪在应许上","leading_role":"吉姆·歌珥","image_path_min":"/files/book/cover/39799/cover_120.jpg","author_name":"吉姆·歌珥","image_path":"/files/book/cover/39799/cover.jpg","customer_url":"guizaiyingxushang"}]

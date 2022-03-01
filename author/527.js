@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴文克","customer_url":"jidujiaoshenxue","image_path":"/files/book/cover/890/cover.jpg","leading_role":"巴文克","id":890,"book_name":"基督教神学"}]

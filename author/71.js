@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦伟恩","customer_url":"oneness-marriage-relationship","image_path":"/files/book/cover/43/cover.jpg","leading_role":"麦伟恩","id":43,"book_name":"更深的合一婚姻关系"}]

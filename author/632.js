@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴圣","customer_url":"liji","image_path":"/files/book/cover/1055/cover.jpg","leading_role":"戴圣","id":1055,"book_name":"礼记"}]

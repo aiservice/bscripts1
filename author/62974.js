@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柯瑞福","customer_url":"s1-zhengfuheianshizhe","image_path":"/files/book/cover/62425/cover.jpg","leading_role":"柯瑞福","id":62425,"book_name":"征服黑暗使者"}]

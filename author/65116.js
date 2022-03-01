@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱尔旦","customer_url":"s3-wanlichaoxianzhanzhengquanshi","image_path":"/files/book/cover/65620/cover.jpg","leading_role":"朱尔旦","id":65620,"book_name":"万历朝鲜战争全史"}]

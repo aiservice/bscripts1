@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"今村昌弘","customer_url":"s3-moyanzhixiamian","image_path":"/files/book/cover/62187/cover.jpg","leading_role":"今村昌弘","id":62187,"book_name":"魔眼之匣谜案"}]

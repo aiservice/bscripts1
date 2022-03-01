@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"于宏洁","customer_url":"yuhongjiejiangzhang","image_path":"/files/book/cover/443/cover.jpg","leading_role":"于宏洁","id":443,"book_name":"于宏洁讲章"}]

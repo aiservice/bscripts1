@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"代尔·卡耐基","customer_url":"renxingdeyoudian","image_path":"/files/book/cover/734/cover.jpg","leading_role":"代尔·卡耐基","id":734,"book_name":"人性的优点"}]

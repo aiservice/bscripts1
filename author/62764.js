@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]杰克·韦尔奇","customer_url":"s3-jiekeweierqizizhuan","image_path":"/files/book/cover/62193/cover.jpg","leading_role":"[美]杰克·韦尔奇 / [美]约翰·拜恩","id":62193,"book_name":"杰克·韦尔奇自传"}]

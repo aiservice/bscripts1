@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈傅良","customer_url":"lidaibingzhi","image_path":"/files/book/cover/1371/cover.jpg","leading_role":"佚名","id":1371,"book_name":"历代兵制"}]

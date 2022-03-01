@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"管仲","customer_url":"guanzi","image_path":"/files/book/cover/1201/cover.jpg","leading_role":"佚名","id":1201,"book_name":"管子"}]

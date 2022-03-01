@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小威廉·克尔·缪尔","customer_url":"s3-jingchajiejiaozhengzhijia","image_path":"/files/book/cover/63908/cover.jpg","leading_role":"小威廉·克尔·缪尔","id":63908,"book_name":"警察 : 街角政治家"}]

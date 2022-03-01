@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"泰瑞莎·戴蒙","customer_url":"s1-tianguochuangyijia","image_path":"/files/book/cover/62078/cover.jpg","leading_role":"泰瑞莎·戴蒙","id":62078,"book_name":"天国创艺家"}]

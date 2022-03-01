@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柴鸡蛋","customer_url":"s3-niyashangyinle","image_path":"/files/book/cover/59113/cover.jpg","leading_role":"柴鸡蛋","id":59113,"book_name":"你丫上瘾了"}]

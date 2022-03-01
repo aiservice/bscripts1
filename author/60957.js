@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莲静竹衣","customer_url":"s3-damingfenghua","image_path":"/files/book/cover/59387/cover.jpg","leading_role":"莲静竹衣","id":59387,"book_name":"大明风华"}]

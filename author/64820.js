@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏唐诗","customer_url":"s3-kanjianbuyiyangdegugong","image_path":"/files/book/cover/65196/cover.jpg","leading_role":"苏唐诗","id":65196,"book_name":"看见，不一样的故宫"}]

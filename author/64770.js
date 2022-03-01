@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲利普·津巴多","customer_url":"s3-jinbaduokoushushi","image_path":"/files/book/cover/65127/cover.jpg","leading_role":"[美] 菲利普·津巴多","id":65127,"book_name":"津巴多口述史"}]

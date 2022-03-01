@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·M·巴里","customer_url":"s3-daliuganzuizhimingwenyideshishi","image_path":"/files/book/cover/62130/cover.jpg","leading_role":"[美] 约翰·M·巴里","id":62130,"book_name":"大流感 : 最致命瘟疫的史诗"}]

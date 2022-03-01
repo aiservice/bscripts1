@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡东藩、许廑父","customer_url":"minguoyanyi","image_path":"/files/book/cover/1022/cover.jpg","leading_role":"蔡东藩、许廑父","id":1022,"book_name":"民国演义"}]

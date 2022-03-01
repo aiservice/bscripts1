@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英] 伊恩·麦克唐纳","customer_url":"s3-yueqiujiazusanbuqu","image_path":"/files/book/cover/62315/cover.jpg","leading_role":"[英] 伊恩·麦克唐纳 ","id":62315,"book_name":"月球家族三部曲"}]

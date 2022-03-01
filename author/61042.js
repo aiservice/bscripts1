@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏颍智","customer_url":"s1-yizhenjianxuedefuyin","image_path":"/files/book/cover/59563/cover.jpg","leading_role":"苏颍智","id":59563,"book_name":"一针见血的福音"}]

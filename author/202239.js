@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查尔斯·埃默森","customer_url":"s3-1913yizhanqiandeshijie","image_path":"/files/book/cover/65930/cover.jpg","leading_role":"[英]查尔斯·埃默森","id":65930,"book_name":"1913，一战前的世界"}]

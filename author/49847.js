@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"列御寇","customer_url":"liezi","image_path":"/files/book/cover/1197/cover.jpg","leading_role":"佚名","id":1197,"book_name":"列子"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]阿图·葛文德","customer_url":"zuihaodegaobie","image_path":"/files/book/cover/48220/cover.jpg","leading_role":"[美]阿图·葛文德","id":48220,"book_name":"最好的告别"}]

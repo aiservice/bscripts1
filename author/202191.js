@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"骆以军","customer_url":"s3-kuangchaoren","image_path":"/files/book/cover/65868/cover.jpg","leading_role":"骆以军","id":65868,"book_name":"匡超人"}]

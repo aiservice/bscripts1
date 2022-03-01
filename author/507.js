@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王一平","customer_url":"chaimiyouyanjiangcucha","image_path":"/files/book/cover/860/cover.jpg","leading_role":"王一平","id":860,"book_name":"柴米油盐酱醋茶"}]

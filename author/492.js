@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"袁大同","customer_url":"fingding-your-better-half","image_path":"/files/book/cover/824/cover.jpg","leading_role":"袁大同","id":824,"book_name":"如何找对另一半"}]

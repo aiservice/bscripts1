@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"圣女·大德兰","customer_url":"qibaoloutai","image_path":"/files/book/cover/40025/cover.jpg","leading_role":"圣女·大德兰","id":40025,"book_name":"七宝楼台"}]

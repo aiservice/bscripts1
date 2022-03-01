@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"众先知","customer_url":"bible","image_path":"/files/book/cover/304/cover.jpg","leading_role":"耶稣","id":304,"book_name":"圣经"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周楫","customer_url":"xihuerji","image_path":"/files/book/cover/1529/cover.jpg","leading_role":"佚名","id":1529,"book_name":"西湖二集"}]

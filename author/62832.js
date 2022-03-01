@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许晖","customer_url":"s3-100gechengyuzhongdigudaishenghuoshi","image_path":"/files/book/cover/62263/cover.jpg","leading_role":"许晖","id":62263,"book_name":"100个成语中的古代生活史"}]

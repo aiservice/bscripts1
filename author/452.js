@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尤金·毕德生","customer_url":"muyangyishu","image_path":"/files/book/cover/738/cover.jpg","leading_role":"尤金·毕德生","id":738,"book_name":"返朴归真的牧养艺术"}]

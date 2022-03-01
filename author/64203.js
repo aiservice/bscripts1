@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾希莉·戴维斯·布什","customer_url":"s3-jiena","image_path":"/files/book/cover/64343/cover.jpg","leading_role":"[美]艾希莉·戴维斯·布什","id":64343,"book_name":"接纳"}]

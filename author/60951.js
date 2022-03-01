@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Fresh果果","customer_url":"s3-huaqiangu","image_path":"/files/book/cover/59376/cover.jpg","leading_role":"Fresh果果","id":59376,"book_name":"花千骨"}]

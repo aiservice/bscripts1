@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"费孝通","customer_url":"s3-xiangtuzhongguo","image_path":"/files/book/cover/63934/cover.jpg","leading_role":"费孝通","id":63934,"book_name":"乡土中国"}]

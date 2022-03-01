@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈铭慧","customer_url":"chenminghuiwenji","image_path":"/files/book/cover/556/cover.jpg","leading_role":"陈铭慧","id":556,"book_name":"陈铭慧文集"}]

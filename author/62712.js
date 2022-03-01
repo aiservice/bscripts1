@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗翔","customer_url":"s3-xingfaxuejiangyi","image_path":"/files/book/cover/62124/cover.jpg","leading_role":"罗翔","id":62124,"book_name":"刑法学讲义"},{"author_name":"罗翔","customer_url":"s3-yuanquanzhengyi","image_path":"/files/book/cover/64522/cover.jpg","leading_role":"罗翔","id":64522,"book_name":"圆圈正义"}]

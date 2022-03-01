@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王安忆","customer_url":"s3-yibadaoqiangezi","image_path":"/files/book/cover/64633/cover.jpg","leading_role":"王安忆","id":64633,"book_name":"一把刀，千个字"},{"author_name":"王安忆","customer_url":"s3-xiaoshuoliujiang","image_path":"/files/book/cover/65915/cover.jpg","leading_role":"王安忆","id":65915,"book_name":"小说六讲"}]

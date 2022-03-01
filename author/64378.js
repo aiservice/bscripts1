@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"HOBO日刊","customer_url":"s3-yantianxiansheng","image_path":"/files/book/cover/64584/cover.jpg","leading_role":"[日] HOBO日刊ITOI新闻","id":64584,"book_name":"岩田先生"}]

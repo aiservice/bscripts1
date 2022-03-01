@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苏广辉","customer_url":"s3-jixingxiju","image_path":"/files/book/cover/63904/cover.jpg","leading_role":"苏广辉","id":63904,"book_name":"即兴戏剧"}]

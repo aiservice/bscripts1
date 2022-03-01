@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"宋濂","customer_url":"yuanshi","image_path":"/files/book/cover/1048/cover.jpg","leading_role":"宋濂","id":1048,"book_name":"元史"}]

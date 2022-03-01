@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯蒂芬妮•斯塔尔","customer_url":"s3-rentongziji","image_path":"/files/book/cover/62335/cover.jpg","leading_role":"斯蒂芬妮•斯塔尔","id":62335,"book_name":"认同自己"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯撒琳·库尔","customer_url":"woxiangxinshenji","image_path":"/files/book/cover/39380/cover.jpg","leading_role":"凯撒琳·库尔","id":39380,"book_name":"我相信神迹"}]

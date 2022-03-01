@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王强","customer_url":"s3-womendeshidai","image_path":"/files/book/cover/65434/cover.jpg","leading_role":"王强","id":65434,"book_name":"我们的时代（共3册）"}]

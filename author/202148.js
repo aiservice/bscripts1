@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汪军","customer_url":"s3-tanzhongheshidai","image_path":"/files/book/cover/65788/cover.jpg","leading_role":"汪军","id":65788,"book_name":"碳中和时代"}]

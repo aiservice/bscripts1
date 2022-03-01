@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"段成式","customer_url":"youyangzazu","image_path":"/files/book/cover/1303/cover.jpg","leading_role":"佚名","id":1303,"book_name":"酉阳杂俎"}]

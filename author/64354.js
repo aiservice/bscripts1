@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"夏尔·佩潘","customer_url":"s3-zixindeliliang","image_path":"/files/book/cover/64550/cover.jpg","leading_role":"[法]夏尔·佩潘","id":64550,"book_name":"自信的力量"}]

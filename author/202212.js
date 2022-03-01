@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘诚","customer_url":"s3-touziyaoyi","image_path":"/files/book/cover/65896/cover.jpg","leading_role":"刘诚","id":65896,"book_name":"投资要义"}]

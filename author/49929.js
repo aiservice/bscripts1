@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨铉之撰 韩结根注","customer_url":"luoyangqielanji","image_path":"/files/book/cover/1327/cover.jpg","leading_role":"佚名","id":1327,"book_name":"洛阳伽蓝记"}]

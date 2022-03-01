@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑国治","customer_url":"shendezhiyi","image_path":"/files/book/cover/704/cover.jpg","leading_role":"郑国治","id":704,"book_name":"神的旨意"}]

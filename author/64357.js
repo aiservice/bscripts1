@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·伯恩","customer_url":"s3-chuantiaowenshuiyidenanhai","image_path":"/files/book/cover/64553/cover.jpg","leading_role":"(爱尔兰)约翰·伯恩","id":64553,"book_name":"穿条纹睡衣的男孩"}]

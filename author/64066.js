@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩少功","customer_url":"s3-maqiaocidian","image_path":"/files/book/cover/64136/cover.jpg","leading_role":"韩少功","id":64136,"book_name":"马桥词典"}]

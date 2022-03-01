@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"范志红","customer_url":"s3-chichujiankanghaoshencai","image_path":"/files/book/cover/64556/cover.jpg","leading_role":"范志红","id":64556,"book_name":"吃出健康好身材"}]

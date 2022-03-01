@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"轩子","customer_url":"s3-xiariwutuobang","image_path":"/files/book/cover/65471/cover.jpg","leading_role":"轩子","id":65471,"book_name":"夏日乌托邦"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·鲍尔斯","customer_url":"s3-shuyu","image_path":"/files/book/cover/64630/cover.jpg","leading_role":"[美]理查德·鲍尔斯","id":64630,"book_name":"树语"}]

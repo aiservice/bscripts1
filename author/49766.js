@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"司马光","customer_url":"zizhitongjian","image_path":"/files/book/cover/1072/cover.jpg","leading_role":"佚名","id":1072,"book_name":"资治通鉴"}]

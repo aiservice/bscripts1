@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冈岛二人","customer_url":"s3-kelaiyinhu","image_path":"/files/book/cover/63937/cover.jpg","leading_role":"[日]冈岛二人","id":63937,"book_name":"克莱因壶"},{"author_name":"冈岛二人","customer_url":"s3-99youguai","image_path":"/files/book/cover/65414/cover.jpg","leading_role":"[日] 冈岛二人","id":65414,"book_name":"99%诱拐"}]

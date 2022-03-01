@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贾谊","customer_url":"jiayixinshu","image_path":"/files/book/cover/1180/cover.jpg","leading_role":"佚名","id":1180,"book_name":"贾谊新书"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑华","customer_url":"s3-yiliaoxingyeguzhi","image_path":"/files/book/cover/64641/cover.jpg","leading_role":"[澳]郑华 / 涂宏钢","id":64641,"book_name":"医疗行业估值"}]

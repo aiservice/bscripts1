@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯·阿纳德","customer_url":"s3-meiguodiceng","image_path":"/files/book/cover/64456/cover.jpg","leading_role":"[美]克里斯·阿纳德（Chris Arnade）","id":64456,"book_name":"美国底层"}]

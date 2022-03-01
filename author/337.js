@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叨雷","customer_url":"ruhelingrenguixiangjidu","image_path":"/files/book/cover/518/cover.jpg","leading_role":"叨雷","id":518,"book_name":"如何领人归向基督"}]

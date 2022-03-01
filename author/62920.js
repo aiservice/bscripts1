@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔治•帕克","customer_url":"s3-xiachenniandai","image_path":"/files/book/cover/62359/cover.jpg","leading_role":"乔治•帕克","id":62359,"book_name":"下沉年代"}]

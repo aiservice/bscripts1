@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雷·普理查德","customer_url":"abcs-of-wisdom","image_path":"/files/book/cover/758/cover.jpg","leading_role":"雷·普理查德","id":758,"book_name":"所罗门的智慧"}]

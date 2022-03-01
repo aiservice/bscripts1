@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"钱锺书","customer_url":"s3-qianzhongshuxuantangshi","image_path":"/files/book/cover/62328/cover.jpg","leading_role":"钱锺书","id":62328,"book_name":"钱锺书选唐诗"}]

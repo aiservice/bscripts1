@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张磊","customer_url":"s3-jiazhiwoduitouzidesikao","image_path":"/files/book/cover/62308/cover.jpg","leading_role":" 张磊","id":62308,"book_name":"价值：我对投资的思考"}]

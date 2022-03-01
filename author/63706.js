@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱德华·斯诺登","customer_url":"s3-yongjiujilu","image_path":"/files/book/cover/63639/cover.jpg","leading_role":" [美] 爱德华·斯诺登(Edward Snowden)","id":63639,"book_name":"永久记录"}]

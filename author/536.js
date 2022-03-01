@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韦华","customer_url":"xunzhaozhenxiang","image_path":"/files/book/cover/903/cover.jpg","leading_role":"韦华（George Verwer）","id":903,"book_name":"寻找真相"}]

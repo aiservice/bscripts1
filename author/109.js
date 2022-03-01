@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉 布萊克","customer_url":"yonghengdefuyin","image_path":"/files/book/cover/247/cover.jpg","leading_role":"威廉 布萊克","id":247,"book_name":"永恒的福音"}]

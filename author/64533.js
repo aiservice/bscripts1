@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"施琪嘉","customer_url":"s3-liaoyunideneizaixiaohai","image_path":"/files/book/cover/64788/cover.jpg","leading_role":"施琪嘉","id":64788,"book_name":"疗愈你的内在小孩"}]

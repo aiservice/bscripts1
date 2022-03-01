@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴自牧","customer_url":"menglianglu","image_path":"/files/book/cover/1321/cover.jpg","leading_role":"佚名","id":1321,"book_name":"梦粱录"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贾尔斯·米尔顿","customer_url":"s3-gaibianlishidexiangliaoshangren","image_path":"/files/book/cover/65764/cover.jpg","leading_role":"[英] 贾尔斯·米尔顿","id":65764,"book_name":"改变历史的香料商人"}]

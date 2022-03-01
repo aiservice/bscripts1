@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周丽霞","customer_url":"s3-hrquanchengfalvguwen","image_path":"/files/book/cover/64563/cover.jpg","leading_role":"周丽霞","id":64563,"book_name":"HR全程法律顾问"}]

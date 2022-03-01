@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"彭凯平","customer_url":"s3-huochuxinhuanufangderensheng","image_path":"/files/book/cover/62184/cover.jpg","leading_role":"彭凯平","id":62184,"book_name":"活出心花怒放的人生"}]

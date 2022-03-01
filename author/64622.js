@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿拉斯泰尔·雷诺兹","customer_url":"s3-qimalan","image_path":"/files/book/cover/64909/cover.jpg","leading_role":"[英] 阿拉斯泰尔·雷诺兹","id":64909,"book_name":"齐马蓝"}]

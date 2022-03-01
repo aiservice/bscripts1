@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汤米·甜尼","customer_url":"mengwangxiyue","image_path":"/files/book/cover/44036/cover.jpg","leading_role":"汤米·甜尼","id":44036,"book_name":"蒙王喜悦"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李淳","customer_url":"s3-woyougehaogushi","image_path":"/files/book/cover/65668/cover.jpg","leading_role":"李淳","id":65668,"book_name":"我有个好故事，就要你一碗酒"}]

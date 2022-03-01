@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雷蒙德·卡佛","customer_url":"s3-dangwomentanlunaq","image_path":"/files/book/cover/65759/cover.jpg","leading_role":"[美] 雷蒙德·卡佛","id":65759,"book_name":"当我们谈论爱情时我们在谈论什么"}]

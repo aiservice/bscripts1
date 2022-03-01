@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贝恩德·布伦纳","customer_url":"s3-tangping","image_path":"/files/book/cover/64856/cover.jpg","leading_role":" [德] 贝恩德·布伦纳","id":64856,"book_name":"躺平"}]

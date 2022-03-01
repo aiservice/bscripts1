@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"本·麦金泰尔","customer_url":"s3-jiandieyupantu","image_path":"/files/book/cover/62448/cover.jpg","leading_role":"本·麦金泰尔","id":62448,"book_name":"间谍与叛徒"}]

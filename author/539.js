@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吕家声","customer_url":"shizijiadezhihui","image_path":"/files/book/cover/906/cover.jpg","leading_role":"吕家声","id":906,"book_name":"十字架的智慧"}]

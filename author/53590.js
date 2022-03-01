@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华尔顿","customer_url":"jiuyueshengjingbeijingzhushi","image_path":"/files/book/cover/44237/cover.jpg","leading_role":"[美] 华尔顿(John H. Walton) ","id":44237,"book_name":"旧约圣经背景注释"}]

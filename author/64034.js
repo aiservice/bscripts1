@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲁引弓","customer_url":"s3-xiaoshede","image_path":"/files/book/cover/64100/cover.jpg","leading_role":"鲁引弓","id":64100,"book_name":"小舍得"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西尾维新","customer_url":"s3-dingshangjinrizidebeiwanglu","image_path":"/files/book/cover/65411/cover.jpg","leading_role":"[日] 西尾维新","id":65411,"book_name":"掟上今日子的备忘录"}]

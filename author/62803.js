@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 伊琳·卡蒙","customer_url":"s3-yijianshike","image_path":"/files/book/cover/62234/cover.jpg","leading_role":" [美] 伊琳·卡蒙","id":62234,"book_name":"异见时刻"}]

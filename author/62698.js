@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大卫鲍森","customer_url":"s1-daweibaosenxinjiuyuezonglanquanji","image_path":"/files/book/cover/62096/cover.jpg","leading_role":"大卫鲍森","id":62096,"book_name":"大卫鲍森新旧约纵览全集"},{"author_name":"大卫鲍森","customer_url":"s1-heshenxinyidenanren","image_path":"/files/book/cover/62161/cover.jpg","leading_role":"大卫鲍森","id":62161,"book_name":"合神心意的男人"}]

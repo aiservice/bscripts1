@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆斯·道森","customer_url":"xinlinggushi","image_path":"/files/book/cover/964/cover.jpg","leading_role":"詹姆斯·道森","id":964,"book_name":"心灵故事"}]

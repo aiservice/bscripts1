@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张天翼","customer_url":"s3-puhuo","image_path":"/files/book/cover/65527/cover.jpg","leading_role":"张天翼","id":65527,"book_name":"扑火"}]

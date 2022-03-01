@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尹喜","customer_url":"guanyinzi","image_path":"/files/book/cover/1193/cover.jpg","leading_role":"佚名","id":1193,"book_name":"关尹子"}]

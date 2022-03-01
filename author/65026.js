@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴鹏","customer_url":"s3-datangershiyidi","image_path":"/files/book/cover/65498/cover.jpg","leading_role":"吴鹏","id":65498,"book_name":"大唐二十一帝"}]

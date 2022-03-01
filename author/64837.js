@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丽莎·毕维尔","customer_url":"s1-hunyindegushi","image_path":"/files/book/cover/65216/cover.jpg","leading_role":"约翰 & 丽莎·毕维尔","id":65216,"book_name":"婚姻的故事"}]

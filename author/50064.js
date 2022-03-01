@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"惜华楼主","customer_url":"huangqingmishi","image_path":"/files/book/cover/1606/cover.jpg","leading_role":"佚名","id":1606,"book_name":"皇清秘史"}]

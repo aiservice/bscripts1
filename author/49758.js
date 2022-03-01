@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李焘","customer_url":"xuzizhitongjianchangbian","image_path":"/files/book/cover/1059/cover.jpg","leading_role":"佚名","id":1059,"book_name":"续资治通鉴长编"}]

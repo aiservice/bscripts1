@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩瞳","customer_url":"s3-celvechanpinjinglishijian","image_path":"/files/book/cover/64673/cover.jpg","leading_role":"韩瞳","id":64673,"book_name":"策略产品经理实践"}]

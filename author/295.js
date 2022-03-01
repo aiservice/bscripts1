@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杜华德","customer_url":"i-married-you","image_path":"/files/book/cover/438/cover.jpg","leading_role":"（美）杜华德（Walter Trobisch）","id":438,"book_name":"我愿意"}]

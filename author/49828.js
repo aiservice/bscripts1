@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戚继光","customer_url":"lianbingshiji","image_path":"/files/book/cover/1167/cover.jpg","leading_role":"佚名","id":1167,"book_name":"练兵实纪"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张大开","customer_url":"pouxixiejiaozuzhidongfangshandian","image_path":"/files/book/cover/270/cover.jpg","leading_role":"张大开","id":270,"book_name":"剖析邪教组织东方闪电"}]

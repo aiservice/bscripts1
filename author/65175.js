@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威廉·罗森","customer_url":"s3-kangshengsudegushi","image_path":"/files/book/cover/65699/cover.jpg","leading_role":" [美]威廉·罗森","id":65699,"book_name":"抗生素的故事"}]

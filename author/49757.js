@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"嗤嗤道人","customer_url":"jingwuzhong","image_path":"/files/book/cover/1629/cover.jpg","leading_role":"嗤嗤道人","id":1629,"book_name":"警寤钟"}]

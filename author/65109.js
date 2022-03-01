@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"帕特里克·J.麦金尼斯","customer_url":"s3-cuoshikongju","image_path":"/files/book/cover/65609/cover.jpg","leading_role":" [美] 帕特里克·J.麦金尼斯","id":65609,"book_name":"错失恐惧"}]

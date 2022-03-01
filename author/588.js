@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼奇•李","customer_url":"hunyinshu","image_path":"/files/book/cover/999/cover.jpg","leading_role":"尼奇•李（Nicky） / 希拉•李（Sila Lee） ","id":999,"book_name":"婚姻书"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴晗","customer_url":"s3-lishidejingzi","image_path":"/files/book/cover/62398/cover.jpg","leading_role":"吴晗","id":62398,"book_name":"历史的镜子"}]

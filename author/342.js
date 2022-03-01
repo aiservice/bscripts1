@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萨拉","customer_url":"kefuneixindezhengzha","image_path":"/files/book/cover/525/cover.jpg","leading_role":"萨拉","id":525,"book_name":"克服内心的挣扎"}]

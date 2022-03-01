@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吉米·哈利","customer_url":"s3-wanwuyoulingqiemei","image_path":"/files/book/cover/65249/cover.jpg","leading_role":"[英] 吉米·哈利","id":65249,"book_name":"万物有灵且美"}]

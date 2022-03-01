@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[俄] 叶列娜·亚历山德罗夫娜·奥金娜","customer_url":"s3-suliandewaibinshangdian","image_path":"/files/book/cover/62378/cover.jpg","leading_role":" [俄] 叶列娜·亚历山德罗夫娜·奥金娜","id":62378,"book_name":"苏联的外宾商店"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 三浦紫苑","customer_url":"s3-qiangfengchuifu","image_path":"/files/book/cover/62456/cover.jpg","leading_role":"[日] 三浦紫苑","id":62456,"book_name":"强风吹拂"}]

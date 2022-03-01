@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"简奇峰","customer_url":"s3-xiangjianni","image_path":"/files/book/cover/62131/cover.jpg","leading_role":" 简奇峰 / 林欣慧","id":62131,"book_name":"想见你"}]

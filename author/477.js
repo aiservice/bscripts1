@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯图亚特·布里斯柯","customer_url":"shijierensheng","image_path":"/files/book/cover/784/cover.jpg","leading_role":"(美)斯图亚特·布里斯柯（Stuart Briscoe）","id":784,"book_name":"十诫人生"}]

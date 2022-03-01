@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王国维","customer_url":"s3-renjiancihua","image_path":"/files/book/cover/63971/cover.jpg","leading_role":"王国维","id":63971,"book_name":"人间词话"}]

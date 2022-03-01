@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]黑柳彻子","customer_url":"s3-chuangbiandexiaodoudou","image_path":"/files/book/cover/62063/cover.jpg","leading_role":"[日]黑柳彻子","id":62063,"book_name":"窗边的小豆豆"}]

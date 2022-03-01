@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一道江河","customer_url":"hujiaoshouce","image_path":"/files/book/cover/245/cover.jpg","leading_role":"一道江河","id":245,"book_name":"护教手册"}]

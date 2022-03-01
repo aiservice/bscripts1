@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"露西亚·伯林","customer_url":"s3-qingjienvgongshouce","image_path":"/files/book/cover/65239/cover.jpg","leading_role":" [美]露西亚·伯林","id":65239,"book_name":"清洁女工手册"}]

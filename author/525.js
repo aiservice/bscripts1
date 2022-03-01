@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伯纳特","customer_url":"sanweiyiti","image_path":"/files/book/cover/887/cover.jpg","leading_role":"伯纳特","id":887,"book_name":"三位一体"}]

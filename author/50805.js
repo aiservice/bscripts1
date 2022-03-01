@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"芝尔·夏伦","customer_url":"yuzhupinmingtanxin","image_path":"/files/book/cover/39570/cover.jpg","leading_role":"芝尔·夏伦","id":39570,"book_name":"与主品茗谈心"}]

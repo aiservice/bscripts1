@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"麦葛福","customer_url":"zaisishijiazhenyi","image_path":"/files/book/cover/647/cover.jpg","leading_role":"麦葛福","id":647,"book_name":"再思十架真义"}]

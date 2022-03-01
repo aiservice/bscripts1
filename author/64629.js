@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雷颐","customer_url":"s3-zhongguoqiepian1900","image_path":"/files/book/cover/64923/cover.jpg","leading_role":"雷颐","id":64923,"book_name":"中国切片，1900"}]

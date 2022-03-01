@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梁家鳞","customer_url":"fulinzhonghua","image_path":"/files/book/cover/607/cover.jpg","leading_role":"梁家鳞","id":607,"book_name":"福临中华"}]

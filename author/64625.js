@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伯纳德·加雷特","customer_url":"s3-xianggaoshouyiyangjiejuewenti","image_path":"/files/book/cover/64914/cover.jpg","leading_role":"[法] 伯纳德·加雷特","id":64914,"book_name":"像高手一样解决问题"}]

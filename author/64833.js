@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"兰·费雪","customer_url":"s3-boyilunyushenghuo","image_path":"/files/book/cover/65213/cover.jpg","leading_role":"[英]兰·费雪","id":65213,"book_name":"博弈论与生活"}]

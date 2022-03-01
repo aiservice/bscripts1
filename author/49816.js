@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"干宝","customer_url":"soushenji","image_path":"/files/book/cover/1140/cover.jpg","leading_role":"佚名","id":1140,"book_name":"搜神记"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩秀云","customer_url":"s3-qinghuahanxiuyunjiangjingji","image_path":"/files/book/cover/64323/cover.jpg","leading_role":"韩秀云","id":64323,"book_name":"清华韩秀云讲经济"}]

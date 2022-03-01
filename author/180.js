@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼布尔","customer_url":"human-nature-and-destiny","image_path":"/files/book/cover/210/cover.jpg","leading_role":"尼布尔","id":210,"book_name":"人的本性与命运"}]

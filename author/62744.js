@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法]迪迪埃·埃里蓬","customer_url":"s3-huiguiguli","image_path":"/files/book/cover/62172/cover.jpg","leading_role":"[法]迪迪埃·埃里蓬 ","id":62172,"book_name":"回归故里"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"另维","customer_url":"s3-meiyitianmengxianglianxi","image_path":"/files/book/cover/62180/cover.jpg","leading_role":"另维","id":62180,"book_name":"每一天梦想练习"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"左丘明","customer_url":"chunqiuzuoshichuan","image_path":"/files/book/cover/1057/cover.jpg","leading_role":"左丘明","id":1057,"book_name":"春秋左氏传"}]

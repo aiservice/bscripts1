@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰弗里·布拉尼","customer_url":"s3-youtairendejiatingjiaoyu","image_path":"/files/book/cover/62076/cover.jpg","leading_role":"杰弗里·布拉尼","id":62076,"book_name":"犹太人的家庭教育"}]

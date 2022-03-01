@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谷梁赤","customer_url":"chunqiuguliangchuan","image_path":"/files/book/cover/1158/cover.jpg","leading_role":"佚名","id":1158,"book_name":"春秋谷梁传"}]

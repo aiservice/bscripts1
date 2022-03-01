@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"温伯陵","customer_url":"s3-yidujiushangyindezhongguoshi","image_path":"/files/book/cover/62273/cover.jpg","leading_role":"温伯陵","id":62273,"book_name":"一读就上瘾的中国史"},{"author_name":"温伯陵","customer_url":"s3-yidujiushangyindezhongguoshi2","image_path":"/files/book/cover/62495/cover.jpg","leading_role":"温伯陵","id":62495,"book_name":"一读就上瘾的中国史2"}]

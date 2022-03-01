@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄共明","customer_url":"qishiluyaoyi","image_path":"/files/book/cover/633/cover.jpg","leading_role":"黄共明","id":633,"book_name":"启示录要义"},{"author_name":"黄共明","customer_url":"shijiemoriyudazainan","image_path":"/files/book/cover/482/cover.jpg","leading_role":"黄共明","id":482,"book_name":"世界末日与大灾难"}]

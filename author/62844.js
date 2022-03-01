@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴晓乐","customer_url":"s3-keshiwopianpianbuxihuan","image_path":"/files/book/cover/62277/cover.jpg","leading_role":"吴晓乐","id":62277,"book_name":"可是我偏偏不喜欢"}]

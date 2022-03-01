@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"褚人获","customer_url":"suitangyanyi","image_path":"/files/book/cover/1009/cover.jpg","leading_role":"褚人获","id":1009,"book_name":"隋唐演义"}]

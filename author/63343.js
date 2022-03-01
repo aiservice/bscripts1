@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱丽斯·霍夫曼","customer_url":"s3-qijibowuguan","image_path":"/files/book/cover/63037/cover.jpg","leading_role":"[美] 爱丽斯·霍夫曼","id":63037,"book_name":"奇迹博物馆"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"俞敏洪","customer_url":"s3-wocengzouzaibengkuidebianyuan","image_path":"/files/book/cover/64854/cover.jpg","leading_role":"俞敏洪","id":64854,"book_name":"我曾走在崩溃的边缘"},{"author_name":"俞敏洪","customer_url":"s3-bianfengjing","image_path":"/files/book/cover/64284/cover.jpg","leading_role":"俞敏洪","id":64284,"book_name":"彼岸风景"}]

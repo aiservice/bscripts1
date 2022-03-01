@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿什莉·奥德兰","customer_url":"s3-wobenbugaichengweimuqin","image_path":"/files/book/cover/62466/cover.jpg","leading_role":"阿什莉·奥德兰","id":62466,"book_name":"我本不该成为母亲"}]

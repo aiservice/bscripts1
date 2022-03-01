@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"理查德·A·纳克","customer_url":"s3-moshoushijie","image_path":"/files/book/cover/64472/cover.jpg","leading_role":"理查德·A·纳克","id":64472,"book_name":"魔兽世界官方小说合集典藏版（全23册）"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卢逸斯","customer_url":"the-secret-of-the-spiritual","image_path":"/files/book/cover/10/cover.jpg","leading_role":"戴德生","id":10,"book_name":"属灵的秘诀"},{"author_name":"卢逸斯","customer_url":"daideshengdexinxinzhilu","image_path":"/files/book/cover/546/cover.jpg","leading_role":"卢逸斯","id":546,"book_name":"戴德生的信心之旅"}]

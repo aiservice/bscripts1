@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丹·琼斯","customer_url":"s3-shijiandesecai","image_path":"/files/book/cover/64468/cover.jpg","leading_role":" [英] 丹·琼斯 / [巴西] 玛丽娜·阿马拉尔","id":64468,"book_name":"时间的色彩"}]

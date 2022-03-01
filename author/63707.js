@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谢春霖","customer_url":"s3-renzhihongli","image_path":"/files/book/cover/63640/cover.jpg","leading_role":"谢春霖","id":63640,"book_name":"认知红利"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"申赋渔","customer_url":"s3-jijingdebali","image_path":"/files/book/cover/65644/cover.jpg","leading_role":"申赋渔","id":65644,"book_name":"寂静的巴黎"}]

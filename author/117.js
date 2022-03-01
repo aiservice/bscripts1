@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冯志梅","customer_url":"women-and-family","image_path":"/files/book/cover/103/cover.jpg","leading_role":"冯志梅","id":103,"book_name":"妇女与家庭"}]

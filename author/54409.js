@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"葛礼圣","customer_url":"shuofangyandeyiyi","image_path":"/files/book/cover/45392/cover.jpg","leading_role":"葛礼圣","id":45392,"book_name":"说方言的意义"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]亚历克斯·罗斯","customer_url":"s3-yuxiazhiyouzaoyin","image_path":"/files/book/cover/62317/cover.jpg","leading_role":"[美]亚历克斯·罗斯","id":62317,"book_name":"余下只有噪音"}]

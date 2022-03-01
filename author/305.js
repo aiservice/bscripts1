@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林献羔","customer_url":"anxiriyuzhuri","image_path":"/files/book/cover/461/cover.jpg","leading_role":"林献羔","id":461,"book_name":"安息日与主日"}]

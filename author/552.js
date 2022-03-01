@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"齐宏伟","customer_url":"shangdidehuochai","image_path":"/files/book/cover/927/cover.jpg","leading_role":"齐宏伟 ","id":927,"book_name":"上帝的火柴"}]

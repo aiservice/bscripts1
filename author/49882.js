@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐枕亚","customer_url":"yulihun","image_path":"/files/book/cover/1254/cover.jpg","leading_role":"佚名","id":1254,"book_name":"玉梨魂"},{"author_name":"徐枕亚","customer_url":"languihen","image_path":"/files/book/cover/1263/cover.jpg","leading_role":"佚名","id":1263,"book_name":"兰闺恨"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"石黑一雄","customer_url":"s3-kelalayutaiyang","image_path":"/files/book/cover/63099/cover.jpg","leading_role":"[英] 石黑一雄","id":63099,"book_name":"克拉拉与太阳"}]

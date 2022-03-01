@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗林","customer_url":"shengsizhijian","image_path":"/files/book/cover/40289/cover.jpg","leading_role":"罗林博士","id":40289,"book_name":"生死之间"}]

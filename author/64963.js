@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萨沙·斯坦尼西奇","customer_url":"s3-wocongnalilai","image_path":"/files/book/cover/65410/cover.jpg","leading_role":"[德] 萨沙·斯坦尼西奇","id":65410,"book_name":"我从哪里来"}]

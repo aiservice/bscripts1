@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"双雪涛","customer_url":"s3-cishaxiaoshuojia","image_path":"/files/book/cover/62415/cover.jpg","leading_role":" 关宁","id":62415,"book_name":"刺杀小说家"}]

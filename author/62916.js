@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"书签客","customer_url":"s3-shoubashoujiaonimaijijin","image_path":"/files/book/cover/62356/cover.jpg","leading_role":"书签客","id":62356,"book_name":"手把手教你买基金"}]

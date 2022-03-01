@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王彬彬","customer_url":"s3-bingweiyuanqudebeiying","image_path":"/files/book/cover/62417/cover.jpg","leading_role":"王彬彬","id":62417,"book_name":"并未远去的背影"},{"author_name":"王彬彬","customer_url":"s3-womenxuanzedeziji","image_path":"/files/book/cover/63843/cover.jpg","leading_role":"王彬彬、王丽、林吴颖 等","id":63843,"book_name":"我们选择的自己"}]

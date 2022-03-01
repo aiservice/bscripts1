@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 綾辻行人","customer_url":"s3-renoudefuhuo","image_path":"/files/book/cover/62458/cover.jpg","leading_role":" [日] 綾辻行人","id":62458,"book_name":"人偶的复活"}]

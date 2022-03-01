@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"殷保罗","customer_url":"mudishenxueshouce","image_path":"/files/book/cover/666/cover.jpg","leading_role":"殷保罗","id":666,"book_name":"慕迪神学手册"}]

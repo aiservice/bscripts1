@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"珞珈","customer_url":"s3-xinxiu","image_path":"/files/book/cover/65688/cover.jpg","leading_role":"珞珈","id":65688,"book_name":"新秀"}]

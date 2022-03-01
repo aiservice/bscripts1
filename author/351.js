@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"彭柯丽","customer_url":"mishi","image_path":"/files/book/cover/539/cover.jpg","leading_role":"彭柯丽","id":539,"book_name":"密室"}]

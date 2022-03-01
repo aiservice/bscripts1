@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赫伯特·乔治·威尔斯","customer_url":"s3-xingjizhanzheng","image_path":"/files/book/cover/65176/cover.jpg","leading_role":"[英] 赫伯特·乔治·威尔斯","id":65176,"book_name":"星际战争"}]

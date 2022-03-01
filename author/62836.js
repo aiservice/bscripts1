@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄灯","customer_url":"s3-wodeerbenxuesheng","image_path":"/files/book/cover/62267/cover.jpg","leading_role":"黄灯","id":62267,"book_name":"我的二本学生"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蔡哲民","customer_url":"shengjingchangjianwentixiaojie","image_path":"/files/book/cover/669/cover.jpg","leading_role":"蔡哲民","id":669,"book_name":"圣经常见问题小解"}]

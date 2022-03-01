@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贾斯乐","customer_url":"dangdaihujiaoshouce","image_path":"/files/book/cover/737/cover.jpg","leading_role":"贾斯乐博士","id":737,"book_name":"当代护教手册"}]

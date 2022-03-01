@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"文珍","customer_url":"s3-womenyelizaimeishuguantanlianai","image_path":"/files/book/cover/65664/cover.jpg","leading_role":"文珍","id":65664,"book_name":"我们夜里在美术馆谈恋爱"}]

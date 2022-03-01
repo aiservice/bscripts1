@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"曾子","customer_url":"daxue","image_path":"/files/book/cover/1052/cover.jpg","leading_role":"曾子","id":1052,"book_name":"大学"}]

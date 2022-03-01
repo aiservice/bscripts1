@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭小亭","customer_url":"jigongquanchuan","image_path":"/files/book/cover/1283/cover.jpg","leading_role":"佚名","id":1283,"book_name":"济公全传"}]

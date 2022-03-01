@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王柯","customer_url":"s3-congtianxiaguojiadaominzuguojia","image_path":"/files/book/cover/64950/cover.jpg","leading_role":"王柯","id":64950,"book_name":"从“天下”国家到民族国家"}]

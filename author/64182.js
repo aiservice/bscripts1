@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白井智之","customer_url":"s3-wananrenmianchuang","image_path":"/files/book/cover/64310/cover.jpg","leading_role":"白井智之","id":64310,"book_name":"晚安人面瘡"}]

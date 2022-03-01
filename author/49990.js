@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李春芳","customer_url":"haigongan","image_path":"/files/book/cover/1458/cover.jpg","leading_role":"佚名","id":1458,"book_name":"海公案"}]

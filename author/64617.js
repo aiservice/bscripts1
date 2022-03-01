@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"胡雅茹","customer_url":"s3-siweidaotubijizhenglishu","image_path":"/files/book/cover/64902/cover.jpg","leading_role":"胡雅茹","id":64902,"book_name":"思维导图笔记整理术"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高琳","customer_url":"s3-gushili","image_path":"/files/book/cover/65900/cover.jpg","leading_role":"高琳 / [美] 林宏博","id":65900,"book_name":"故事力"}]

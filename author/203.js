@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雁子","customer_url":"tiantangliwu","image_path":"/files/book/cover/260/cover.jpg","leading_role":"雁子","id":260,"book_name":"天堂礼物"}]

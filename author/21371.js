@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧鼎","customer_url":"zhuxian","image_path":"/files/book/cover/31758/cover.jpg","leading_role":"张小凡","id":31758,"book_name":"诛仙"}]

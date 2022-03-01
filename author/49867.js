@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗懋登","customer_url":"sanbaotaijianxiaxiyangji","image_path":"/files/book/cover/1226/cover.jpg","leading_role":"佚名","id":1226,"book_name":"三宝太监下西洋记"},{"author_name":"罗懋登","customer_url":"sanbaotaijianxiyangji","image_path":"/files/book/cover/1570/cover.jpg","leading_role":"佚名","id":1570,"book_name":"三宝太监西洋记"}]

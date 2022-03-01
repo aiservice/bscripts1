@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"芭芭拉·尤德","customer_url":"s1-tupozheengao","image_path":"/files/book/cover/59728/cover.jpg","leading_role":"芭芭拉·尤德","id":59728,"book_name":"突破者恩膏"}]

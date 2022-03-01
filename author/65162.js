@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"盖伊·萨杰","customer_url":"s3-beiyiwangdeshibing","image_path":"/files/book/cover/65684/cover.jpg","leading_role":" [法] 盖伊·萨杰","id":65684,"book_name":"被遗忘的士兵"}]

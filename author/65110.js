@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赤羽雄二","customer_url":"s3-maikenxilingmiaozhixingli","image_path":"/files/book/cover/65610/cover.jpg","leading_role":"[日] 赤羽雄二","id":65610,"book_name":"麦肯锡零秒执行力"}]

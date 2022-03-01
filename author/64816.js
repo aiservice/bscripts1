@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海妈","customer_url":"s3-haididehuayuan","image_path":"/files/book/cover/65191/cover.jpg","leading_role":"海妈","id":65191,"book_name":"海蒂的花园"}]

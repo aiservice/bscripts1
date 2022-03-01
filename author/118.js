@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·加尔文","customer_url":"christianity","image_path":"/files/book/cover/104/cover.jpg","leading_role":"约翰·加尔文 ","id":104,"book_name":"基督教要义"},{"author_name":"约翰·加尔文","customer_url":"jidutudeshenghuo","image_path":"/files/book/cover/509/cover.jpg","leading_role":"(法)约翰·加尔文(John Calvin)","id":509,"book_name":"基督徒的生活"}]

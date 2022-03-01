@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"薛华","customer_url":"lixingdeguibi","image_path":"/files/book/cover/342/cover.jpg","leading_role":"薛华","id":342,"book_name":"理性的规避"},{"author_name":"薛华","customer_url":"fuyinpaiweiji","image_path":"/files/book/cover/258/cover.jpg","leading_role":"薛华","id":258,"book_name":"福音派危机"}]

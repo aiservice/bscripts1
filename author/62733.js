@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吉姆‧歌珥","customer_url":"s1-chengweifenbianzhe","image_path":"/files/book/cover/62154/cover.jpg","leading_role":"吉姆‧歌珥","id":62154,"book_name":"成为分辨者"}]

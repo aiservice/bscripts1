@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯托弗·怀利","customer_url":"s3-wocaokonglenidedanao","image_path":"/files/book/cover/65671/cover.jpg","leading_role":"[加]克里斯托弗·怀利","id":65671,"book_name":"对不起，我操控了你的大脑"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"G僧东","customer_url":"s3-naxiexianghongdenianqingren","image_path":"/files/book/cover/65773/cover.jpg","leading_role":"G僧东 / 林仙子","id":65773,"book_name":"那些想红的年轻人"}]

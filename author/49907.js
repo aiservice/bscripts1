@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴元泰","customer_url":"dongyouji","image_path":"/files/book/cover/1290/cover.jpg","leading_role":"佚名","id":1290,"book_name":"东游记"}]

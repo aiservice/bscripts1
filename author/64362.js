@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莫家阿莹","customer_url":"s3-huxuyucheng","image_path":"/files/book/cover/64562/cover.jpg","leading_role":"莫家阿莹","id":64562,"book_name":"互许余程"}]

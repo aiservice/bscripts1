@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Tobie Meyer-fong 梅爾清","customer_url":"s3-zaodongdewanghun","image_path":"/files/book/cover/62310/cover.jpg","leading_role":"Tobie Meyer-fong 梅爾清","id":62310,"book_name":"躁動的亡魂"}]

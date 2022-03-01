@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张学渊","customer_url":"s3-wanlushizhide","image_path":"/files/book/cover/64741/cover.jpg","leading_role":"[新] 张学渊","id":64741,"book_name":"弯路是直的：抓住人生的拐点"}]

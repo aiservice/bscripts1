@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·派博","customer_url":"s1-guanzhuangbingduyujidu","image_path":"/files/book/cover/64649/cover.jpg","leading_role":"约翰·派博","id":64649,"book_name":"冠状病毒与基督"}]

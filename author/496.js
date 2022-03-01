@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"活石","customer_url":"jidutudebenfen","image_path":"/files/book/cover/829/cover.jpg","leading_role":" 活石","id":829,"book_name":"基督徒的本分"}]

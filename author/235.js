@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈克尔·阿伯拉肖夫","customer_url":"it-is-your-ship","image_path":"/files/book/cover/323/cover.jpg","leading_role":"迈克尔·阿伯拉肖夫","id":323,"book_name":"这是你的船"}]

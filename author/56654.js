@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"顾非鱼","customer_url":"xixiasishu","image_path":"/files/book/cover/48162/cover.jpg","leading_role":"顾非鱼","id":48162,"book_name":"西夏死书"}]

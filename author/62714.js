@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"格雷厄姆.格林","customer_url":"s3-disanren","image_path":"/files/book/cover/62126/cover.jpg","leading_role":"格雷厄姆.格林","id":62126,"book_name":"第三人"}]

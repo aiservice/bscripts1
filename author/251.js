@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马盖文","customer_url":"christianity-and-culture-conflict","image_path":"/files/book/cover/354/cover.jpg","leading_role":"马盖文","id":354,"book_name":"基督教与文化的冲突"}]

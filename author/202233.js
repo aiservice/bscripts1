@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"詹姆斯·C. 斯科特","customer_url":"s3-liulunzifaxing","image_path":"/files/book/cover/65922/cover.jpg","leading_role":"[美] 詹姆斯·C. 斯科特","id":65922,"book_name":"六论自发性"}]

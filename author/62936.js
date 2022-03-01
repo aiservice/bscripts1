@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[法]昂利·沙利叶","customer_url":"s3-babilong","image_path":"/files/book/cover/62376/cover.jpg","leading_role":" [法]昂利·沙利叶","id":62376,"book_name":"巴比龙"}]

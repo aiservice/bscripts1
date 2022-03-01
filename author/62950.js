@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[英]帕特里克•贝尔福","customer_url":"s3-aosimandiguoliubainian","image_path":"/files/book/cover/62391/cover.jpg","leading_role":"[英]帕特里克•贝尔福","id":62391,"book_name":"奥斯曼帝国六百年"}]

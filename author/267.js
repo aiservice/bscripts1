@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄维仁","customer_url":"huozaiaizhongdemijue","image_path":"/files/book/cover/381/cover.jpg","leading_role":"黄维仁 博士","id":381,"book_name":"活在爱中的秘决"}]

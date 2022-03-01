@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡洛琳．克里亞朵．佩雷茲","customer_url":"s3-beiyinxingdenvxing","image_path":"/files/book/cover/65791/cover.jpg","leading_role":" 卡洛琳．克里亞朵．佩雷茲","id":65791,"book_name":"被隱形的女性"}]

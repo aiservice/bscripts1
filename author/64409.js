@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洪应明","customer_url":"s3-caigentan","image_path":"/files/book/cover/64631/cover.jpg","leading_role":"洪应明","id":64631,"book_name":"菜根谭"}]

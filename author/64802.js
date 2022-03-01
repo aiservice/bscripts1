@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"季羡林","customer_url":"s3-xinanjishiguichu","image_path":"/files/book/cover/65175/cover.jpg","leading_role":"季羡林","id":65175,"book_name":"心安即是归处"}]

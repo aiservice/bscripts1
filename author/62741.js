@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯•维罗顿","customer_url":"s1-rongyaoenyu","image_path":"/files/book/cover/62169/cover.jpg","leading_role":"克里斯•维罗顿","id":62169,"book_name":"荣耀恩雨"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陳浩基","customer_url":"s3-diougennibianzouqu","image_path":"/files/book/cover/64647/cover.jpg","leading_role":"陳浩基","id":64647,"book_name":"第歐根尼變奏曲"},{"author_name":"陳浩基","customer_url":"s3-qiqiuren","image_path":"/files/book/cover/64849/cover.jpg","leading_role":"陳浩基","id":64849,"book_name":"氣球人"}]

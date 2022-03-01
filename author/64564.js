@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯蒂芬·弗莱","customer_url":"s3-shenhua","image_path":"/files/book/cover/64826/cover.jpg","leading_role":" [英]斯蒂芬·弗莱","id":64826,"book_name":"神话"}]

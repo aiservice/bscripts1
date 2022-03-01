@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"董丛林","customer_url":"the-dragon-with-god","image_path":"/files/book/cover/208/cover.jpg","leading_role":"董丛林","id":208,"book_name":"龙与上帝"}]

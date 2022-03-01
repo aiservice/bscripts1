@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赵国栋/易欢欢/徐远重","customer_url":"s3-yuanyuzhou","image_path":"/files/book/cover/65642/cover.jpg","leading_role":"赵国栋/易欢欢/徐远重","id":65642,"book_name":"元宇宙"}]

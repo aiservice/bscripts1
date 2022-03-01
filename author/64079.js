@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"相泽沙呼","customer_url":"s3-xinlingzhentanchengzhongfeicui","image_path":"/files/book/cover/64151/cover.jpg","leading_role":"[日]相泽沙呼","id":64151,"book_name":"心灵侦探城塚翡翠"}]

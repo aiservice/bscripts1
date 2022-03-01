@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨沫","customer_url":"s3-qingchunzhige","image_path":"/files/book/cover/64519/cover.jpg","leading_role":"杨沫","id":64519,"book_name":"青春之歌"}]

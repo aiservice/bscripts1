@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"保罗•史托兹","customer_url":"s3-nishang","image_path":"/files/book/cover/65781/cover.jpg","leading_role":"[美] 保罗•史托兹","id":65781,"book_name":"逆商：我们该如何应对坏事件"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"E. F. 舒马赫","customer_url":"s3-jiehuo","image_path":"/files/book/cover/65236/cover.jpg","leading_role":"[英]E. F. 舒马赫","id":65236,"book_name":"解惑：心智模式决定你的一生"}]

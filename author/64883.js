@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"bibi园长","customer_url":"s3-renbuzhuxiangdaraoni","image_path":"/files/book/cover/65284/cover.jpg","leading_role":"bibi园长","id":65284,"book_name":"忍不住想打扰你"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"欧阳修、宋祁、范镇、吕夏卿等","customer_url":"xintangshu","image_path":"/files/book/cover/1042/cover.jpg","leading_role":"欧阳修、宋祁、范镇、吕夏卿等","id":1042,"book_name":"新唐书"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"封演","customer_url":"fengshiwenjianji","image_path":"/files/book/cover/1299/cover.jpg","leading_role":"佚名","id":1299,"book_name":"封氏闻见记"}]

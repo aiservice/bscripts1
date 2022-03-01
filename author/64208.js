@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰森·威尔克斯","customer_url":"s3-shaodiaoshuxueshu","image_path":"/files/book/cover/64348/cover.jpg","leading_role":"[美]杰森·威尔克斯","id":64348,"book_name":"烧掉数学书"}]

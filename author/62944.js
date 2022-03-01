@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]琳赛·吉布森","customer_url":"s3-bubeifumukongzhiderensheng","image_path":"/files/book/cover/62384/cover.jpg","leading_role":"[美]琳赛·吉布森","id":62384,"book_name":"不被父母控制的人生"}]

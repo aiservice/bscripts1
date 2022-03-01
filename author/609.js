@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"房玄龄等","customer_url":"jinshu","image_path":"/files/book/cover/1030/cover.jpg","leading_role":"房玄龄等","id":1030,"book_name":"晋书"}]

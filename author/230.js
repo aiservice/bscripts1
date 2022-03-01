@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冯守柔师母","customer_url":"jiaomufudaoxue","image_path":"/files/book/cover/309/cover.jpg","leading_role":"冯守柔师母","id":309,"book_name":"教牧辅导学"}]

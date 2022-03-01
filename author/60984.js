@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]迈克尔·道布斯","customer_url":"s3-zhipaiwu","image_path":"/files/book/cover/59444/cover.jpg","leading_role":"[美]迈克尔·道布斯","id":59444,"book_name":"纸牌屋"}]

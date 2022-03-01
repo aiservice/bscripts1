@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"诚质怡","customer_url":"xinyueyuanwenziyi","image_path":"/files/book/cover/702/cover.jpg","leading_role":"诚质怡","id":702,"book_name":"新约原文字义"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"新垣平","customer_url":"s3-jianqiaoyitiantulongshi","image_path":"/files/book/cover/65643/cover.jpg","leading_role":"新垣平","id":65643,"book_name":"剑桥倚天屠龙史"}]

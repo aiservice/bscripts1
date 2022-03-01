@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯托弗·加尔法德","customer_url":"s3-jijianyuzhoushi","image_path":"/files/book/cover/62492/cover.jpg","leading_role":"[法] 克里斯托弗·加尔法德","id":62492,"book_name":"极简宇宙史"}]

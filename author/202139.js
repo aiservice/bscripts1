@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莫言","customer_url":"s3-toumingdehongluobo","image_path":"/files/book/cover/65776/cover.jpg","leading_role":" 莫言","id":65776,"book_name":"透明的红萝卜"}]

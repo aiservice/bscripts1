@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王方庆","customer_url":"weizhenggongjianlu","image_path":"/files/book/cover/1080/cover.jpg","leading_role":"佚名","id":1080,"book_name":"魏郑公谏录"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谢云宁","customer_url":"s3-chuanyuetuxinghuan","image_path":"/files/book/cover/65115/cover.jpg","leading_role":"谢云宁","id":65115,"book_name":"穿越土星环"}]

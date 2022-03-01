@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴建业","customer_url":"s3-dailaoshimoxingshicike","image_path":"/files/book/cover/63657/cover.jpg","leading_role":"戴建业","id":63657,"book_name":"戴老师魔性诗词课"}]

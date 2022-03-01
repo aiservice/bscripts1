@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿尔伯特·哈伯德","customer_url":"s3-baxinsonggeijiaxiya","image_path":"/files/book/cover/64543/cover.jpg","leading_role":" [美] 阿尔伯特·哈伯德","id":64543,"book_name":"把信送给加西亚"}]

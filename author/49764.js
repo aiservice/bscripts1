@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"魏何晏注，宋邢昺疏","customer_url":"lunyuzhushu","image_path":"/files/book/cover/1067/cover.jpg","leading_role":"佚名","id":1067,"book_name":"论语注疏"}]

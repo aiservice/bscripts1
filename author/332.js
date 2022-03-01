@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"以马忤斯","customer_url":"jidutuzhangjinzhinan","image_path":"/files/book/cover/510/cover.jpg","leading_role":"以马忤斯","id":510,"book_name":"基督徒长进指南"}]

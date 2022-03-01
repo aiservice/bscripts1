@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘震云","customer_url":"s3-yirisanqiu","image_path":"/files/book/cover/65464/cover.jpg","leading_role":"刘震云","id":65464,"book_name":"一日三秋"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王行健","customer_url":"tamudezhihuiquanshu","image_path":"/files/book/cover/722/cover.jpg","leading_role":"王行健","id":722,"book_name":"塔木德智慧全书"}]

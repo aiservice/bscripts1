@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查理·麦克西","customer_url":"s3-renshengchuchushixiuxing","image_path":"/files/book/cover/62461/cover.jpg","leading_role":"查理·麦克西","id":62461,"book_name":"人生处处是修行"}]

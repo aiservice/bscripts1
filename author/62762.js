@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王小波","customer_url":"s3-huangjinshidai","image_path":"/files/book/cover/62190/cover.jpg","leading_role":"王小波","id":62190,"book_name":"黄金时代"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日] 牧田善二","customer_url":"s3-yinshishu","image_path":"/files/book/cover/62429/cover.jpg","leading_role":"[日] 牧田善二","id":62429,"book_name":"饮食术"}]

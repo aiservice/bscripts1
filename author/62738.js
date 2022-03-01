@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海蒂·贝克","customer_url":"s1-beiaijili","image_path":"/files/book/cover/62163/cover.jpg","leading_role":"海蒂·贝克","id":62163,"book_name":"被爱激励"}]

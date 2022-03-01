@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚当·图兹","customer_url":"s3-bengpan","image_path":"/files/book/cover/64514/cover.jpg","leading_role":"[英]亚当·图兹","id":64514,"book_name":"崩盘"},{"author_name":"亚当·图兹","customer_url":"s3-taotianhongshui","image_path":"/files/book/cover/64335/cover.jpg","leading_role":" [英] 亚当·图兹","id":64335,"book_name":"滔天洪水"}]

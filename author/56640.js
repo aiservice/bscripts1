@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蓝色狮","customer_url":"jinyizhixia","image_path":"/files/book/cover/48147/cover.jpg","leading_role":"蓝色狮","id":48147,"book_name":"锦衣之下"}]

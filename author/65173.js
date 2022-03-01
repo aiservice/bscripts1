@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴巴拉·W·塔奇曼","customer_url":"s3-lishidejiyi","image_path":"/files/book/cover/65697/cover.jpg","leading_role":"[美]巴巴拉·W·塔奇曼","id":65697,"book_name":"历史的技艺"}]

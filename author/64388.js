@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张小猫","customer_url":"s3-nishizhenchazu2","image_path":"/files/book/cover/64599/cover.jpg","leading_role":"张小猫","id":64599,"book_name":"逆时侦查组2 : 营救嫌疑人"},{"author_name":"张小猫","customer_url":"s3-nishizhenchazu1","image_path":"/files/book/cover/64598/cover.jpg","leading_role":"张小猫","id":64598,"book_name":"逆时侦查组1 : 凶手何时来访"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烟霞主人","customer_url":"jiyunlou","leading_role":"佚名","id":1513,"book_name":"跻云楼"},{"author_name":"烟霞主人","customer_url":"huanzhongyou","image_path":"/files/book/cover/1498/cover.jpg","leading_role":"佚名","id":1498,"book_name":"幻中游"}]

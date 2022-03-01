@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]约瑟夫·C.格鲁","customer_url":"s3-shirishinian","image_path":"/files/book/cover/62188/cover.jpg","leading_role":" [美]约瑟夫·C.格鲁(Joseph C. Grew)","id":62188,"book_name":"使日十年"}]

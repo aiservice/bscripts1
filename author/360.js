@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"威尔.戴维斯","customer_url":"pray-for-children","image_path":"/files/book/cover/553/cover.jpg","leading_role":"威尔.戴维斯（Will Davis，Jr.）","id":553,"book_name":"父母放胆求：按神的应许为儿女祷告"}]

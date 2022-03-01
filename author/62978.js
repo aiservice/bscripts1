@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐皓峰","customer_url":"s3-daobeicangshen","image_path":"/files/book/cover/62427/cover.jpg","leading_role":"徐皓峰","id":62427,"book_name":"刀背藏身"},{"author_name":"徐皓峰","customer_url":"s3-shiyanjuantianya","image_path":"/files/book/cover/64851/cover.jpg","leading_role":"徐皓峰","id":64851,"book_name":"诗眼倦天涯"}]

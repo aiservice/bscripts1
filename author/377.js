@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"余达心","customer_url":"jidujiaofazhanshixinshi","image_path":"/files/book/cover/602/cover.jpg","leading_role":"余达心","id":602,"book_name":"基督教发展史新释"}]

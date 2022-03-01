@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊凡·蒲宁","customer_url":"s3-linyinyoujing","image_path":"/files/book/cover/62493/cover.jpg","leading_role":" [俄]伊凡·蒲宁","id":62493,"book_name":"林荫幽径"}]

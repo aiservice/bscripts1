@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马中锡","customer_url":"zhongshanlangchuan","image_path":"/files/book/cover/1611/cover.jpg","leading_role":"佚名","id":1611,"book_name":"中山狼传"}]

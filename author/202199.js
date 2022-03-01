@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊拉▪马克▪爱格多尔","customer_url":"s3-yuzhoujiujingyouduoguguai","image_path":"/files/book/cover/65881/cover.jpg","leading_role":"[美]伊拉▪马克▪爱格多尔","id":65881,"book_name":"我们身处的宇宙究竟有多古怪？"}]

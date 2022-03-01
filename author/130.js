@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈尔（F.B.Meyer）","customer_url":"the-secret-of-god","image_path":"/files/book/cover/134/cover.jpg","leading_role":"迈尔（F.B.Meyer）","id":134,"book_name":"神引导的秘诀"}]

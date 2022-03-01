@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约尔·比克","customer_url":"qingjiaotudefuyinshifeng","image_path":"/files/book/cover/711/cover.jpg","leading_role":"约尔·比克（J.R.Beeke）","id":711,"book_name":"清教徒的福音侍奉"}]

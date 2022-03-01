@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美]乔安娜·拉斯","customer_url":"s3-ruheyizhinvxingxiezuo","image_path":"/files/book/cover/62357/cover.jpg","leading_role":" [美]乔安娜·拉斯（Joanna Russ）","id":62357,"book_name":"如何抑止女性写作"}]

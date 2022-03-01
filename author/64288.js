@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘统","customer_url":"s3-huozhong","image_path":"/files/book/cover/64457/cover.jpg","leading_role":"刘统","id":64457,"book_name":"火种：寻找中国复兴之路"}]

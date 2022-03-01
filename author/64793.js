@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"叶眉","customer_url":"s3-lianggerendewancan","image_path":"/files/book/cover/65159/cover.jpg","leading_role":"叶眉","id":65159,"book_name":"两个人的晚餐"}]

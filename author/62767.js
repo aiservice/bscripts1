@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐朝","customer_url":"s3-bamangyanyi","image_path":"/files/book/cover/62196/cover.jpg","leading_role":"唐朝","id":62196,"book_name":"巴芒演义"},{"author_name":"唐朝","customer_url":"s3-shoubashoujiaoniducaibao","image_path":"/files/book/cover/62389/cover.jpg","leading_role":"唐朝","id":62389,"book_name":"手把手教你读财报"}]

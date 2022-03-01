@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"方三文","customer_url":"s3-shifengrishang","image_path":"/files/book/cover/62262/cover.jpg","leading_role":"方三文","id":62262,"book_name":"世风日上"}]

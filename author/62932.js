@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"方方","customer_url":"s3-ruanmai","image_path":"/files/book/cover/62371/cover.jpg","leading_role":"方方","id":62371,"book_name":"软埋"}]

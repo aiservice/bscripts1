@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"邁可．桑德爾","customer_url":"s3-chenggongdefansi","image_path":"/files/book/cover/64113/cover.jpg","leading_role":"邁可．桑德爾（Michael J. Sandel）","id":64113,"book_name":"成功的反思"}]

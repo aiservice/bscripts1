@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赴圣迹","customer_url":"shengjingyinanjieda","image_path":"/files/book/cover/40489/cover.jpg","leading_role":"赴圣迹","id":40489,"book_name":"圣经疑难解答"},{"author_name":"赴圣迹","customer_url":"lingxiuzaji","image_path":"/files/book/cover/40545/cover.jpg","leading_role":"赴圣迹","id":40545,"book_name":"灵修杂记"}]

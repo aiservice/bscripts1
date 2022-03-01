@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吴献章","customer_url":"qishinibudongwodexin","image_path":"/files/book/cover/904/cover.jpg","leading_role":"吴献章","id":904,"book_name":"其实你不懂我的心—约拿书注释"}]

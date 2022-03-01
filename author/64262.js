@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"松重丰","customer_url":"s3-kongkongruye","image_path":"/files/book/cover/64425/cover.jpg","leading_role":"[日]松重丰","id":64425,"book_name":"空空如也"}]

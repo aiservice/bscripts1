@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沃尔弗拉姆•希曼","customer_url":"s3-meiteniediguoyushijie","image_path":"/files/book/cover/62134/cover.jpg","leading_role":" [德] 沃尔弗拉姆•希曼（Wolfram Siemann）","id":62134,"book_name":"梅特涅：帝国与世界"}]

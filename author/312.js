@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴德礼","customer_url":"jidujiaoyumeiguowenhuazhitantao","image_path":"/files/book/cover/471/cover.jpg","leading_role":"戴德礼 Wright Doyle","id":471,"book_name":"基督教与美国文化之探讨"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"宗璞","customer_url":"s3-nandujidongcangjixizhengjibeiguiji","image_path":"/files/book/cover/65444/cover.jpg","leading_role":"宗璞","id":65444,"book_name":"南渡记+东藏记+西征记+北归记：野葫芦引"}]

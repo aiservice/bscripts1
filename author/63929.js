@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林达","customer_url":"s3-lishishenchudeyoulv","image_path":"/files/book/cover/63947/cover.jpg","leading_role":"林达","id":63947,"book_name":"历史深处的忧虑"}]

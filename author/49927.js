@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘恂","customer_url":"lingbiaoluyi","image_path":"/files/book/cover/1324/cover.jpg","leading_role":"佚名","id":1324,"book_name":"岭表录异"}]

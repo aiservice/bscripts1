@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"时晨","customer_url":"s3-shuihulieren14quanji","image_path":"/files/book/cover/62491/cover.jpg","leading_role":"时晨","id":62491,"book_name":"水浒猎人1-4全集"}]

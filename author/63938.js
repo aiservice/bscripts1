@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三毛","customer_url":"s3-kuqideluotuo","image_path":"/files/book/cover/63959/cover.jpg","leading_role":"三毛","id":63959,"book_name":"哭泣的骆驼"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈鼓应","customer_url":"s3-zhuangzijinzhujinyi","image_path":"/files/book/cover/64099/cover.jpg","leading_role":"陈鼓应","id":64099,"book_name":"庄子今注今译"}]

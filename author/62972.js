@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林乾 / 迟云飞","customer_url":"s3-cengguofandachuan","image_path":"/files/book/cover/62422/cover.jpg","leading_role":"林乾 / 迟云飞","id":62422,"book_name":"曾国藩大传"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰娜·斯比丽","customer_url":"s3-haidi","image_path":"/files/book/cover/64493/cover.jpg","leading_role":"约翰娜·斯比丽 ","id":64493,"book_name":"海蒂"}]

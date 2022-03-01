@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李一冰","customer_url":"s3-sudongpoxinchuan","image_path":"/files/book/cover/62406/cover.jpg","leading_role":"李一冰","id":62406,"book_name":"苏东坡新传"}]

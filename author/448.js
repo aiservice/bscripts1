@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金新宇","customer_url":"changshengbingfa","image_path":"/files/book/cover/733/cover.jpg","leading_role":"金新宇","id":733,"book_name":"常胜兵法"}]

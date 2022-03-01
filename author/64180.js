@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯蒂芬妮·梅尔","customer_url":"s3-midnight-sun","image_path":"/files/book/cover/64308/cover.jpg","leading_role":" [美]斯蒂芬妮·梅尔","id":64308,"book_name":"Midnight Sun"}]

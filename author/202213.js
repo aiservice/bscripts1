@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西尾元","customer_url":"s3-bupingdengdeshiti","image_path":"/files/book/cover/65897/cover.jpg","leading_role":"[日] 西尾元","id":65897,"book_name":"不平等的尸体"}]

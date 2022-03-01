@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雨楼清歌","customer_url":"s3-tianxiadaozong","image_path":"/files/book/cover/62320/cover.jpg","leading_role":"雨楼清歌","id":62320,"book_name":"天下刀宗"},{"author_name":"雨楼清歌","customer_url":"s3-yibanhechuan","image_path":"/files/book/cover/65771/cover.jpg","leading_role":"雨楼清歌","id":65771,"book_name":"一瓣河川"}]

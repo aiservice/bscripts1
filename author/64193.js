@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卡拉·瓦伦丁","customer_url":"s3-shijianbaogaoyigebinzangshideshouji","image_path":"/files/book/cover/64328/cover.jpg","leading_role":"(英) 卡拉·瓦伦丁","id":64328,"book_name":"尸检报告：一个殡葬师的手记"}]

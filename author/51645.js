@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱建矶","customer_url":"fuyinchujie","image_path":"/files/book/cover/41774/cover.jpg","leading_role":"朱建矶","id":41774,"book_name":"福音初阶"}]

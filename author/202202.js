@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"C.J.图德","customer_url":"s3-fenbiren","image_path":"/files/book/cover/65885/cover.jpg","leading_role":" [英]C.J.图德","id":65885,"book_name":"粉笔人"}]

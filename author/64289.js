@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蕾切尔·卡森","customer_url":"s3-jijingdechuntian","image_path":"/files/book/cover/64458/cover.jpg","leading_role":" [美]蕾切尔·卡森（Rachel Carson）","id":64458,"book_name":"寂静的春天"}]

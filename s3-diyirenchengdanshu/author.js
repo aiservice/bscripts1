@@ -1,1 +1,0 @@
-var authorList=[{"image_path_min":"/files/book/cover/62082/cover.jpg","author_name":"村上春树","customer_url":"s3-nuoweidesenlin","image_path":"/files/book/cover/62082/cover.jpg","leading_role":"[日]村上春树","book_name":"挪威的森林"}]

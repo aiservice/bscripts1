@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鲁迪·莱克","customer_url":"leadership-principles","image_path":"/files/book/cover/359/cover.jpg","leading_role":"(瑞士）鲁迪·莱克（Rudi Lack）","id":359,"book_name":"犹太人的领导圣经"}]

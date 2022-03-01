@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔•斯岛威","customer_url":"huozaishangdideguodu","image_path":"/files/book/cover/974/cover.jpg","leading_role":"乔•斯岛威","id":974,"book_name":"活在上帝的国度"}]

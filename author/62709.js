@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"肖星","customer_url":"s3-yibenshududongcaibao","image_path":"/files/book/cover/62121/cover.jpg","leading_role":"肖星","id":62121,"book_name":"一本书读懂财报"}]

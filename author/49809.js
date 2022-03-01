@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陆翙","customer_url":"yezhongji","image_path":"/files/book/cover/1133/cover.jpg","leading_role":"佚名","id":1133,"book_name":"邺中记"}]

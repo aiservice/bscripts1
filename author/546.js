@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"平约瑟","customer_url":"mingdingzuowang","image_path":"/files/book/cover/920/cover.jpg","leading_role":"平约瑟","id":920,"book_name":"命定作王"}]

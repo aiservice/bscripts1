@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭建龙","customer_url":"s3-chuanyuefeizhouliangbainian","image_path":"/files/book/cover/62450/cover.jpg","leading_role":"郭建龙","id":62450,"book_name":"穿越非洲两百年"}]

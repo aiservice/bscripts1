@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李昉","customer_url":"taipingguangji","image_path":"/files/book/cover/1539/cover.jpg","leading_role":"佚名","id":1539,"book_name":"太平广记"}]

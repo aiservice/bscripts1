@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[日]是枝裕和","customer_url":"s3-bulvbuting","image_path":"/files/book/cover/59495/cover.jpg","leading_role":"[日]是枝裕和","id":59495,"book_name":"步履不停"}]

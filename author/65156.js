@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"唐·摩尔","customer_url":"s3-zixinshisuoyouwentidedaan","image_path":"/files/book/cover/65674/cover.jpg","leading_role":"[美] 唐·摩尔","id":65674,"book_name":"自信是所有问题的答案"}]

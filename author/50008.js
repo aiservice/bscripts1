@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨景淐","customer_url":"guigusiyouzhi","image_path":"/files/book/cover/1493/cover.jpg","leading_role":"佚名","id":1493,"book_name":"鬼谷四友志"}]

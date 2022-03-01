@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"狄克·伊士特曼","customer_url":"yixiaoshigaibianshijie","image_path":"/files/book/cover/40462/cover.jpg","leading_role":"狄克·伊士特曼","id":40462,"book_name":"一小时改变世界"}]

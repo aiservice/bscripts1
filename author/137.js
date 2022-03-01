@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑丽津","customer_url":"from-the-gate-to-the-church","image_path":"/files/book/cover/147/cover.jpg","leading_role":"郑丽津","id":147,"book_name":"从空门到教堂"}]

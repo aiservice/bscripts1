@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 科里·米德","customer_url":"s3-zhanzhengyouxi","image_path":"/files/book/cover/62421/cover.jpg","leading_role":"[美] 科里·米德","id":62421,"book_name":"战争游戏"}]

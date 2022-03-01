@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[美] 安德烈娅·欧文","customer_url":"s3-ruhetingzhibukaixin","image_path":"/files/book/cover/62438/cover.jpg","leading_role":" [美] 安德烈娅·欧文","id":62438,"book_name":"如何停止不开心"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郭廉夫","customer_url":"s3-zhongguosecaijianshi","image_path":"/files/book/cover/65884/cover.jpg","leading_role":"郭廉夫","id":65884,"book_name":"中国色彩简史"}]

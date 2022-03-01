@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"木格","customer_url":"s3-qingxumianyi","image_path":"/files/book/cover/64954/cover.jpg","leading_role":" 木格","id":64954,"book_name":"情绪免疫"}]

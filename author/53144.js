@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"祖理斯·苏比","customer_url":"sishitianjinshizhanwubushengdenengli","image_path":"/files/book/cover/43659/cover.jpg","leading_role":"祖理斯·苏比","id":43659,"book_name":"四十天禁食战无不胜的能力"}]

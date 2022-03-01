@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"本杰明·格雷厄姆","customer_url":"s3-congmingdetouzizhe","image_path":"/files/book/cover/64891/cover.jpg","leading_role":"[美]本杰明·格雷厄姆","id":64891,"book_name":"聪明的投资者"}]

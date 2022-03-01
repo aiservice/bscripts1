@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赵蕤","customer_url":"changduanjing","image_path":"/files/book/cover/1112/cover.jpg","leading_role":" [唐] 赵蕤","id":1112,"book_name":"长短经"}]

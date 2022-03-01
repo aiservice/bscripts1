@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨尔曾","customer_url":"hanxiangziquanchuan","image_path":"/files/book/cover/1275/cover.jpg","leading_role":"佚名","id":1275,"book_name":"韩湘子全传"}]

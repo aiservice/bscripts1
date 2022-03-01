@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Abhijit V. Banerjee","customer_url":"s3-good-economics-for-hard-times","image_path":"/files/book/cover/62484/cover.jpg","leading_role":"Abhijit V. Banerjee / Esther Duflo","id":62484,"book_name":"Good Economics for Hard Times"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蒲松龄","customer_url":"liaozhaizhiyi","image_path":"/files/book/cover/1219/cover.jpg","leading_role":"佚名","id":1219,"book_name":"聊斋志异"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"米夏埃尔·索克斯","customer_url":"s3-siwangzhuizongzhe","image_path":"/files/book/cover/64639/cover.jpg","leading_role":" [德]米夏埃尔·索克斯","id":64639,"book_name":"死亡追踪者"}]

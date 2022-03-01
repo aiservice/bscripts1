@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"力克·胡哲","customer_url":"life-without-limit","image_path":"/files/book/cover/781/cover.jpg","leading_role":"(澳)力克.胡哲","id":781,"book_name":"人生不设限"},{"author_name":"力克·胡哲","customer_url":"you-can-overcom-bullying","image_path":"/files/book/cover/780/cover.jpg","leading_role":"力克·胡哲","id":780,"book_name":"谁都不敢欺负你"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史蒂夫·斯托加茨","customer_url":"s3-weijifendeliliang","image_path":"/files/book/cover/63655/cover.jpg","leading_role":"【美】史蒂夫·斯托加茨（Steven Strogatz）","id":63655,"book_name":"微积分的力量"}]

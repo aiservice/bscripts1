@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安吉拉·托马斯","customer_url":"lizhitiansheng","image_path":"/files/book/cover/771/cover.jpg","leading_role":"安吉拉·托马斯","id":771,"book_name":"丽质天生"}]

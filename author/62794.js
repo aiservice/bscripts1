@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"九边","customer_url":"s3-xifangboyiwangshi","image_path":"/files/book/cover/62224/cover.jpg","leading_role":"九边","id":62224,"book_name":"西方博弈往事"},{"author_name":"九边","customer_url":"s3-xiangshangshengzhang","image_path":"/files/book/cover/65478/cover.jpg","leading_role":"九边","id":65478,"book_name":"向上生长"}]

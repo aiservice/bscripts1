@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"圣地亚哥·拉蒙-卡哈尔","customer_url":"s3-xuexidefangfa","image_path":"/files/book/cover/65250/cover.jpg","leading_role":"[西] 圣地亚哥·拉蒙-卡哈尔","id":65250,"book_name":"学习的方法 : 一位诺贝尔奖获得者的人生忠告"}]

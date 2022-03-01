@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼尔.安德生","customer_url":"is-better-than-darkness","image_path":"/files/book/cover/71/cover.jpg","leading_role":"尼尔.安德生","id":71,"book_name":"胜过黑暗"}]

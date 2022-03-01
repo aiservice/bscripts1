@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"釋慧皎","customer_url":"gaosengchuan","image_path":"/files/book/cover/1118/cover.jpg","leading_role":"佚名","id":1118,"book_name":"高僧传"}]

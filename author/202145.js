@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王潇","customer_url":"s3-wuzhongshijian","image_path":"/files/book/cover/65783/cover.jpg","leading_role":"王潇","id":65783,"book_name":"五种时间：重建人生秩序"}]

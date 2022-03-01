@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贺雄飞","customer_url":"zhihuideguodu","image_path":"/files/book/cover/815/cover.jpg","leading_role":"贺雄飞","id":815,"book_name":"智慧的国度"}]

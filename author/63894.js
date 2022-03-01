@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王人博","customer_url":"s3-1840nianyilaidezhongguo","image_path":"/files/book/cover/63907/cover.jpg","leading_role":"王人博","id":63907,"book_name":"1840年以来的中国"}]

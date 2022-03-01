@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杨爱程","customer_url":"and-the-gospel","image_path":"/files/book/cover/172/cover.jpg","leading_role":"杨爱程","id":172,"book_name":"福音与中华"}]

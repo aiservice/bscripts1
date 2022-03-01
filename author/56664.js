@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"十四夜","customer_url":"zuilinglong","image_path":"/files/book/cover/48172/cover.jpg","leading_role":"十四夜","id":48172,"book_name":"醉玲珑"}]

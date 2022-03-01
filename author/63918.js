@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"彼得·海斯勒","customer_url":"s3-xunluzhongguo","image_path":"/files/book/cover/63942/cover.jpg","leading_role":"[美] 彼得·海斯勒","id":63942,"book_name":"寻路中国"},{"author_name":"彼得·海斯勒","customer_url":"s3-jiangcheng","image_path":"/files/book/cover/63935/cover.jpg","leading_role":"[美] 彼得·海斯勒","id":63935,"book_name":"江城"}]

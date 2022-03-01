@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"杰米·福特","customer_url":"s3-shiguangxiaolvguan","image_path":"/files/book/cover/64533/cover.jpg","leading_role":"[美]杰米·福特","id":64533,"book_name":"时光小旅馆"}]

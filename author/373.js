@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"瑞秋·菲利普斯","customer_url":"aogusidingchuan","image_path":"/files/book/cover/595/cover.jpg","leading_role":"(美）瑞秋·菲利普斯（Rachael M.Phillips)","id":595,"book_name":"追寻之旅：奥古斯丁传"}]

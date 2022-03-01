@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"薛燕平","customer_url":"s3-zuojian","image_path":"/files/book/cover/65760/cover.jpg","leading_role":"薛燕平","id":65760,"book_name":"作茧"}]

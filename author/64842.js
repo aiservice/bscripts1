@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高罗佩","customer_url":"s3-ziyunsi","image_path":"/files/book/cover/65226/cover.jpg","leading_role":"[荷]高罗佩","id":65226,"book_name":"紫云寺：大唐狄公案11"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯文·贝尔斯","customer_url":"s3-yonghoujiqideren","image_path":"/files/book/cover/62488/cover.jpg","leading_role":" [美]凯文·贝尔斯","id":62488,"book_name":"用后即弃的人"}]

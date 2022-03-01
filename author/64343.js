@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"D.H.劳伦斯","customer_url":"s3-lianaizhongdinvren","image_path":"/files/book/cover/64537/cover.jpg","leading_role":" [英] D.H.劳伦斯","id":64537,"book_name":"恋爱中的女人"}]

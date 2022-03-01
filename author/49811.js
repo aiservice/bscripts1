@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"常璩","customer_url":"huayangguozhi","image_path":"/files/book/cover/1135/cover.jpg","leading_role":"佚名","id":1135,"book_name":"华阳国志"}]

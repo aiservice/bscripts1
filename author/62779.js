@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"[奥] 斯蒂芬·茨威格","customer_url":"s3-zuorideshijie","image_path":"/files/book/cover/62209/cover.jpg","leading_role":"[奥] 斯蒂芬·茨威格","id":62209,"book_name":"昨日的世界"}]

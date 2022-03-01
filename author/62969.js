@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柏永辉","customer_url":"s3-wodediyibenrenshengguihuashouce","image_path":"/files/book/cover/62418/cover.jpg","leading_role":"柏永辉","id":62418,"book_name":"我的第一本人生规划手册"}]

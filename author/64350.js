@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"恩宠之家","customer_url":"s1-jiatingjiaoyuxiliejiangzuo","image_path":"/files/book/cover/64546/cover.jpg","leading_role":"恩宠之家","id":64546,"book_name":"家庭教育系列讲座"}]

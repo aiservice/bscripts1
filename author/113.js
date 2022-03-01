@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张家坤","customer_url":"the-fresh-water","image_path":"/files/book/cover/98/cover.jpg","leading_role":"张家坤","id":98,"book_name":"活水"}]

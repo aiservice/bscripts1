@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"八月长安","customer_url":"s3-zhemeduonian","image_path":"/files/book/cover/65912/cover.jpg","leading_role":"八月长安","id":65912,"book_name":"这么多年"}]

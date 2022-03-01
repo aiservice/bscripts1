@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"比尔·克林顿","customer_url":"s3-shizongdezongtong","image_path":"/files/book/cover/65648/cover.jpg","leading_role":"(美) 比尔·克林顿","id":65648,"book_name":"失踪的总统"}]

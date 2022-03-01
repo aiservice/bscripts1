@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘义庆","customer_url":"youminglu","image_path":"/files/book/cover/1314/cover.jpg","leading_role":"佚名","id":1314,"book_name":"幽冥录"},{"author_name":"刘义庆","customer_url":"shishuoxinyu","image_path":"/files/book/cover/1116/cover.jpg","leading_role":"佚名","id":1116,"book_name":"世说新语"}]

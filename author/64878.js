@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史蒂夫·帕弗利纳","customer_url":"s3-zilvxiulianshouce","image_path":"/files/book/cover/65279/cover.jpg","leading_role":"[美]史蒂夫·帕弗利纳","id":65279,"book_name":"自律修炼手册"}]

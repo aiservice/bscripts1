@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"米奇·阿尔博姆","customer_url":"s1-nizaitiantangliyujiandewugeren","image_path":"/files/book/cover/65248/cover.jpg","leading_role":"[美] 米奇·阿尔博姆","id":65248,"book_name":"你在天堂里遇见的五个人"}]

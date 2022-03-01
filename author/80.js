@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"香港万国儿童布道团","customer_url":"children-ministry-counseling","image_path":"/files/book/cover/58/cover.jpg","leading_role":"香港万国儿童布道团","id":58,"book_name":"儿童传到与决志陪谈"}]

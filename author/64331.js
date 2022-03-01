@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"章开沅","customer_url":"s3-zhangkaiyuankoushuzizhuan","image_path":"/files/book/cover/64518/cover.jpg","leading_role":"章开沅(口述) / 彭剑(整理)","id":64518,"book_name":"章开沅口述自传"}]

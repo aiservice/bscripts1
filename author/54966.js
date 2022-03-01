@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"指纹","customer_url":"baiyezhuixiong","image_path":"/files/book/cover/46133/cover.jpg","leading_role":"关宏宇","id":46133,"book_name":"白夜追凶"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"辛杰米/梅定恩","customer_url":"the-raging-fire","image_path":"/files/book/cover/17/cover.jpg","leading_role":"耶稣","id":17,"book_name":"疾风烈火"}]

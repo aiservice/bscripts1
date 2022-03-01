@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林欣浩","customer_url":"s3-zhuzibaijiashanyaoshi","image_path":"/files/book/cover/62416/cover.jpg","leading_role":"林欣浩","id":62416,"book_name":"诸子百家闪耀时"},{"author_name":"林欣浩","customer_url":"s3-zhexuejiamendouganlexieshenme","image_path":"/files/book/cover/65871/cover.jpg","leading_role":"林欣浩","id":65871,"book_name":"哲学家们都干了些什么"}]

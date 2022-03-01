@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈尔","customer_url":"biblical-figures-and","image_path":"/files/book/cover/128/cover.jpg","leading_role":"迈尔","id":128,"book_name":"圣经人物传"}]

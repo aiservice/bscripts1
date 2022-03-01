@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"葛亮","customer_url":"s3-beiyuan","image_path":"/files/book/cover/61270/cover.jpg","leading_role":"葛亮","id":61270,"book_name":"北鸢"}]
