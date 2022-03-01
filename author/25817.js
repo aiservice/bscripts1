@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"禹岩","customer_url":"jipinjiading","image_path":"/files/book/cover/31831/cover.jpg","leading_role":"禹岩","id":31831,"book_name":"极品家丁"}]

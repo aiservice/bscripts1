@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"猪小小","customer_url":"daosuixinghe","image_path":"/files/book/cover/28347/cover.jpg","leading_role":"猪小小","id":28347,"book_name":"刀碎星河"}]

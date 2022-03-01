@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西方蜘蛛","customer_url":"s2-mizongdieying","image_path":"/files/book/cover/62780/cover.jpg","leading_role":"西方蜘蛛","id":62780,"book_name":"迷踪谍影"}]

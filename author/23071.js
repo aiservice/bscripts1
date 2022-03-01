@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"衣食无忧","customer_url":"chengshenfengbao","image_path":"/files/book/cover/22842/cover.jpg","leading_role":"白小飞","id":22842,"book_name":"成神风暴"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"平层","customer_url":"s2-shisiruguiweijunzi","image_path":"/files/book/cover/64068/cover.jpg","leading_role":"平层","id":64068,"book_name":"视死如归魏君子"}]

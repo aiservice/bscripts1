@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄枫雨天","customer_url":"wodebingshanzongcailaopo","image_path":"/files/book/cover/34661/cover.jpg","leading_role":"黄枫雨天","id":34661,"book_name":"我的冰山总裁老婆"}]

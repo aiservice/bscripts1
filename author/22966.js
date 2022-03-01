@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"狂小子唐天","customer_url":"wuxianzhikejizhuzai","image_path":"/files/book/cover/22715/cover.jpg","leading_role":"狂小子唐天","id":22715,"book_name":"无限之科技主宰"}]

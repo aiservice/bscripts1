@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"愤怒的香蕉","customer_url":"zhuixu","image_path":"/files/book/cover/22186/cover.jpg","leading_role":"唐明远","id":22186,"book_name":"赘婿"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谁家MM","customer_url":"fayikuangfei","image_path":"/files/book/cover/31843/cover.jpg","leading_role":"谁家MM","id":31843,"book_name":"法医狂妃"}]

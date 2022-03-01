@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"人氐言周","customer_url":"wanbaozhenxian","image_path":"/files/book/cover/20661/cover.jpg","leading_role":"人氐言周","id":20661,"book_name":"万宝真仙"}]

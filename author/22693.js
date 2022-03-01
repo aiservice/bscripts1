@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西域易主","customer_url":"baonugongniu","image_path":"/files/book/cover/22382/cover.jpg","leading_role":"西域易主","id":22382,"book_name":"暴怒公牛"}]

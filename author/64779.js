@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吹牛小王呀","customer_url":"s2-guojidaoyeconghaishangmaoyikaishijueqi","image_path":"/files/book/cover/65142/cover.jpg","leading_role":"吹牛小王呀","id":65142,"book_name":"国际倒爷，从海上贸易开始崛起"}]

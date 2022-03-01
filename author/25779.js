@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"八宝饭","customer_url":"daomenfaze","image_path":"/files/book/cover/31761/cover.jpg","leading_role":"八宝饭","id":31761,"book_name":"道门法则"}]

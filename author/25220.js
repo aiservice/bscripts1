@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伴读小牧童","customer_url":"s2-songbeiyun","image_path":"/files/book/cover/63386/cover.jpg","leading_role":"伴读小牧童","id":63386,"book_name":"宋北云"}]

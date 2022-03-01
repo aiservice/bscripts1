@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"木沿海风","customer_url":"jipinxiangcungaoshou","image_path":"/files/book/cover/20818/cover.jpg","leading_role":"木沿海风","id":20818,"book_name":"极品乡村高手"}]

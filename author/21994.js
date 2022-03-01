@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莫默","customer_url":"wuliandianfeng","image_path":"/files/book/cover/31226/cover.jpg","leading_role":"杨开","id":31226,"book_name":"武炼巅峰"},{"author_name":"莫默","customer_url":"s2-rendaodasheng","image_path":"/files/book/cover/65364/cover.jpg","leading_role":"莫默","id":65364,"book_name":"人道大圣"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"龙王与锦鲤","customer_url":"s2-nvdizhuanshengwodashixiongyoushengrenzhizi","image_path":"/files/book/cover/64743/cover.jpg","leading_role":"龙王与锦鲤","id":64743,"book_name":"女帝转生：我大师兄有圣人之资"}]

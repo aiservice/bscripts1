@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"辰一十一","customer_url":"huanxiangshijiedachuanyue","image_path":"/files/book/cover/21541/cover.jpg","leading_role":"陈昂","id":21541,"book_name":"幻想世界大穿越"}]

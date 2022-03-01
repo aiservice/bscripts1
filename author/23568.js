@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"月下高歌","customer_url":"dinunuezhashouce","image_path":"/files/book/cover/27592/cover.jpg","leading_role":"月下高歌","id":27592,"book_name":"嫡女虐渣手册"}]

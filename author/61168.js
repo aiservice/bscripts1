@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"演宁","customer_url":"s2-xiuzhencongjiandaopengyukaishi","image_path":"/files/book/cover/64025/cover.jpg","leading_role":"演宁","id":64025,"book_name":"修真从捡到鹏羽开始"}]

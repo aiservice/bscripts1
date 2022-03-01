@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"观棋","customer_url":"wanguxianqiong","image_path":"/files/book/cover/21610/cover.jpg","leading_role":"观棋","id":21610,"book_name":"万古仙穹"}]

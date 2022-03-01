@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"笔尖的手术刀","customer_url":"s2-wonengkandaoshengmingzhi","image_path":"/files/book/cover/64946/cover.jpg","leading_role":"笔尖的手术刀","id":64946,"book_name":"我能看到生命值"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"最佳恶人","customer_url":"zhizunyaoniebingwang","image_path":"/files/book/cover/30037/cover.jpg","leading_role":"最佳恶人","id":30037,"book_name":"至尊妖孽兵王"}]

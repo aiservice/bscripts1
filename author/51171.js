@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三喵道尊","customer_url":"s2-qingweitianzun","image_path":"/files/book/cover/63239/cover.jpg","leading_role":"三喵道尊","id":63239,"book_name":"清微天尊"}]

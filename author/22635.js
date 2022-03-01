@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林海听涛","customer_url":"s2-jinquzhihu","image_path":"/files/book/cover/62904/cover.jpg","leading_role":"林海听涛","id":62904,"book_name":"禁区之狐"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青鸾峰上","customer_url":"wudijianyu","image_path":"/files/book/cover/21086/cover.jpg","leading_role":"杨叶","id":21086,"book_name":"无敌剑域"},{"author_name":"青鸾峰上","customer_url":"yijianduzun","image_path":"/files/book/cover/32846/cover.jpg","leading_role":"叶玄","id":32846,"book_name":"一剑独尊"}]

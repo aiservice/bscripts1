@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"滴水淹城","customer_url":"s2-congxianlingkaishideqiandaoshenghuo","image_path":"/files/book/cover/62636/cover.jpg","leading_role":"滴水淹城","id":62636,"book_name":"从县令开始的签到生活"}]

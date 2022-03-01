@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"二十二刀流","customer_url":"moshidahuilu","image_path":"/files/book/cover/35089/cover.jpg","leading_role":"二十二刀流","id":35089,"book_name":"末世大回炉"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"咬文嚼纸","customer_url":"xuebadeheikejishidai","image_path":"/files/book/cover/34583/cover.jpg","leading_role":"咬文嚼纸","id":34583,"book_name":"学霸的黑科技时代"}]

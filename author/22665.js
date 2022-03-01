@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"十曜","customer_url":"yiqiangzhiming","image_path":"/files/book/cover/22342/cover.jpg","leading_role":"十曜","id":22342,"book_name":"一枪致命"}]

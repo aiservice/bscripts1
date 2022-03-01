@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白菜官","customer_url":"s2-womeixiangzhuoyaoa","image_path":"/files/book/cover/64990/cover.jpg","leading_role":"白菜官","id":64990,"book_name":"我没想捉妖啊"}]

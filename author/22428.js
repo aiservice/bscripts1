@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"夕山白石","customer_url":"s2-telafumaijiajulebu","image_path":"/files/book/cover/63330/cover.jpg","leading_role":"夕山白石","id":63330,"book_name":"特拉福买家俱乐部"}]

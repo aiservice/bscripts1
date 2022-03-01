@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小教主","customer_url":"sanjiehongbaoqun","image_path":"/files/book/cover/34701/cover.jpg","leading_role":"小教主","id":34701,"book_name":"三界红包群"}]

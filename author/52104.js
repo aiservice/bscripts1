@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一只熊猫人","customer_url":"manweishijiezhongdisaiyaren","image_path":"/files/book/cover/42330/cover.jpg","leading_role":"一只熊猫人","id":42330,"book_name":"漫威世界中的赛亚人"}]

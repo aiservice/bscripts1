@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"弹指一笑间0","customer_url":"konghuangshijie","image_path":"/files/book/cover/30252/cover.jpg","leading_role":"弹指一笑间0","id":30252,"book_name":"恐慌世界"}]

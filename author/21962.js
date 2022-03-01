@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"古羲","customer_url":"s2-chaoshenchongshoudian","image_path":"/files/book/cover/63165/cover.jpg","leading_role":"古羲","id":63165,"book_name":"超神宠兽店"}]

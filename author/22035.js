@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"恐怖的阿肥","customer_url":"shashenyongsheng","image_path":"/files/book/cover/21584/cover.jpg","leading_role":"恐怖的阿肥","id":21584,"book_name":"杀神永生"}]

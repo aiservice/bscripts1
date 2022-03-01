@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沉默的糕点","customer_url":"shishangzuiqiangzhuixu","image_path":"/files/book/cover/32675/cover.jpg","leading_role":"沈浪","id":32675,"book_name":"史上最强赘婿"},{"author_name":"沉默的糕点","customer_url":"taijianwudi","image_path":"/files/book/cover/28202/cover.jpg","leading_role":"沉默的糕点","id":28202,"book_name":"太监武帝"}]

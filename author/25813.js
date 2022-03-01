@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"暗夜行走","customer_url":"xiaoyaobingwang","image_path":"/files/book/cover/31822/cover.jpg","leading_role":"暗夜行走","id":31822,"book_name":"逍遥兵王"}]

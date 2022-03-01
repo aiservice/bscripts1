@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"箫酒","customer_url":"s2-yushouzhutian","image_path":"/files/book/cover/63245/cover.jpg","leading_role":"箫酒","id":63245,"book_name":"御兽诸天"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"会狼叫的猪","customer_url":"s2-chuidiaozhishen","image_path":"/files/book/cover/63182/cover.jpg","leading_role":"会狼叫的猪","id":63182,"book_name":"垂钓之神"}]

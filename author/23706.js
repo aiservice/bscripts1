@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"机器人瓦力","customer_url":"s2-yexinghaike","image_path":"/files/book/cover/64477/cover.jpg","leading_role":"机器人瓦力","id":64477,"book_name":"夜行骇客"},{"author_name":"机器人瓦力","customer_url":"s2-limingyisheng","image_path":"/files/book/cover/62987/cover.jpg","leading_role":"机器人瓦力","id":62987,"book_name":"黎明医生"}]

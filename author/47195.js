@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"江湖再见","customer_url":"wanguzuiqiangzong","image_path":"/files/book/cover/33907/cover.jpg","leading_role":"江湖再见","id":33907,"book_name":"万古最强宗"}]

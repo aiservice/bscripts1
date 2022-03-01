@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"红娘子","customer_url":"daoshiye","image_path":"/files/book/cover/31896/cover.jpg","leading_role":"红娘子","id":31896,"book_name":"道师爷"}]

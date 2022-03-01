@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吃白菜么","customer_url":"s2-buhuizhenyourenjuedeshizunshifanrenba","image_path":"/files/book/cover/63247/cover.jpg","leading_role":"吃白菜么","id":63247,"book_name":"不会真有人觉得师尊是凡人吧"}]

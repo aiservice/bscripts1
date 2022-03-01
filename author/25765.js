@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"厌笔萧生","customer_url":"diba","image_path":"/files/book/cover/31734/cover.jpg","leading_role":"厌笔萧生","id":31734,"book_name":"帝霸"}]

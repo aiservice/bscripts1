@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿越","customer_url":"xinsong","image_path":"/files/book/cover/31832/cover.jpg","leading_role":"阿越","id":31832,"book_name":"新宋"}]

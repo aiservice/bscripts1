@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蝴蝶蓝","customer_url":"quanzhigaoshou","image_path":"/files/book/cover/22256/cover.jpg","leading_role":"叶修","id":22256,"book_name":"全职高手"},{"author_name":"蝴蝶蓝","customer_url":"wangyouzhijinzhanfashi","image_path":"/files/book/cover/31878/cover.jpg","leading_role":"蝴蝶蓝","id":31878,"book_name":"网游之近战法师"}]

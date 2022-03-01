@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"榴莲只吃皮","customer_url":"s2-geiyongzhementianmafandeyongzhe","image_path":"/files/book/cover/64983/cover.jpg","leading_role":"榴莲只吃皮","id":64983,"book_name":"给勇者们添麻烦的勇者"}]

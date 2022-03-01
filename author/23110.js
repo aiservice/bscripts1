@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白雨涵","customer_url":"dalongguale","image_path":"/files/book/cover/29717/cover.jpg","leading_role":"白雨涵","id":29717,"book_name":"大龙挂了"}]

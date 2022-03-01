@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"不放心油条","customer_url":"yipinxiuxian","image_path":"/files/book/cover/29246/cover.jpg","leading_role":"不放心油条","id":29246,"book_name":"一品修仙"}]

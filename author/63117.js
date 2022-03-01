@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"云山青","customer_url":"s2-jiaozhudetuixiurichang","image_path":"/files/book/cover/62635/cover.jpg","leading_role":"云山青","id":62635,"book_name":"教主的退休日常"}]

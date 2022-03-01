@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"为梦想负责","customer_url":"zhongjiwuqidashi","image_path":"/files/book/cover/29829/cover.jpg","leading_role":"为梦想负责","id":29829,"book_name":"终极武器大师"}]

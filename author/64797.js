@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"深蓝提督","customer_url":"s2-zhutianyouxixunlizhe","image_path":"/files/book/cover/65166/cover.jpg","leading_role":"深蓝提督","id":65166,"book_name":"诸天游戏巡礼者"}]

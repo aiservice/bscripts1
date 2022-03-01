@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"嗷世巅锋","customer_url":"s2-honglouruciduojiao","image_path":"/files/book/cover/64247/cover.jpg","leading_role":"嗷世巅锋","id":64247,"book_name":"红楼如此多骄"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"假面的盛宴","customer_url":"wangfuchongqie","image_path":"/files/book/cover/31859/cover.jpg","leading_role":"假面的盛宴","id":31859,"book_name":"王府宠妾"}]

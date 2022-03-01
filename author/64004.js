@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"讲故事的葫芦","customer_url":"s2-woweirenjianzhantaisui","image_path":"/files/book/cover/64060/cover.jpg","leading_role":"讲故事的葫芦","id":64060,"book_name":"我为人间斩太岁"}]

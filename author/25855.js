@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卷土","customer_url":"wangpaijinhua","image_path":"/files/book/cover/31902/cover.jpg","leading_role":"卷土","id":31902,"book_name":"王牌进化"},{"author_name":"卷土","customer_url":"s2-zuichujinhua","image_path":"/files/book/cover/62526/cover.jpg","leading_role":"卷土","id":62526,"book_name":"最初进化"}]

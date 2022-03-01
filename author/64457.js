@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"辛巴树","customer_url":"s2-zhongshengzhinaibadexingfushenghuo","image_path":"/files/book/cover/64693/cover.jpg","leading_role":"辛巴树","id":64693,"book_name":"重生之奶爸的幸福生活"}]

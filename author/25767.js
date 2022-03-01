@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"火星引力","customer_url":"nitianxieshen","image_path":"/files/book/cover/31737/cover.jpg","leading_role":"火星引力","id":31737,"book_name":"逆天邪神"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"诸生浮屠","customer_url":"shenyuanzhuzai","image_path":"/files/book/cover/21647/cover.jpg","leading_role":"诸生浮屠","id":21647,"book_name":"深渊主宰"}]

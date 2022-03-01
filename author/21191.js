@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蛊真人","customer_url":"guzhenren","image_path":"/files/book/cover/21131/cover.jpg","leading_role":"蛊真人","id":21131,"book_name":"蛊真人"}]

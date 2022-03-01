@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"木易生火","customer_url":"s2-wozaiwudaotushuguangoudaowudi","image_path":"/files/book/cover/65201/cover.jpg","leading_role":"木易生火","id":65201,"book_name":"我在武道图书馆苟到无敌"}]

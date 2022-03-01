@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张勇","customer_url":"yichujifa","image_path":"/files/book/cover/31976/cover.jpg","leading_role":"张勇","id":31976,"book_name":"一触即发"}]

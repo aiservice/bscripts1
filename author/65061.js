@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"秋刀霜剑","customer_url":"s2-zhongjianwenming","image_path":"/files/book/cover/65546/cover.jpg","leading_role":"秋刀霜剑","id":65546,"book_name":"重捡文明"}]

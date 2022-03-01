@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"熬夜吃苹果","customer_url":"s2-woyouyishenbeidongji","image_path":"/files/book/cover/63175/cover.jpg","leading_role":"熬夜吃苹果","id":63175,"book_name":"我有一身被动技"}]

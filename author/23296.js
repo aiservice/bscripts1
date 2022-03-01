@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"神级黑八","customer_url":"chaofanyaozun","image_path":"/files/book/cover/23131/cover.jpg","leading_role":"神级黑八","id":23131,"book_name":"超凡药尊"}]

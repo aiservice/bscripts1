@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小明你给我出去","customer_url":"s2-wohengtuileguiyishijie","image_path":"/files/book/cover/64973/cover.jpg","leading_role":"小明你给我出去","id":64973,"book_name":"我横推了诡异世界"}]

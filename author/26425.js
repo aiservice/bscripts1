@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"竹林之大贤","customer_url":"s2-lingtianjianshen","image_path":"/files/book/cover/63990/cover.jpg","leading_role":"竹林之大贤","id":63990,"book_name":"凌天剑神"}]

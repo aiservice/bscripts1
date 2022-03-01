@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"逆苍天","customer_url":"lingyu","image_path":"/files/book/cover/21492/cover.jpg","leading_role":"逆苍天","id":21492,"book_name":"灵域"},{"author_name":"逆苍天","customer_url":"wanyuzhiwang","image_path":"/files/book/cover/21462/cover.jpg","leading_role":"逆苍天","id":21462,"book_name":"万域之王"}]

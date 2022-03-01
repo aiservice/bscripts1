@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刀恨水","customer_url":"nicao","image_path":"/files/book/cover/23058/cover.jpg","leading_role":"刀恨水","id":23058,"book_name":"逆草"}]

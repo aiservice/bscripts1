@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"极目天狗","customer_url":"wangyouzhishenjituhao","image_path":"/files/book/cover/31877/cover.jpg","leading_role":"极目天狗","id":31877,"book_name":"网游之神级土豪"}]

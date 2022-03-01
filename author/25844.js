@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘慈欣","customer_url":"santiquanji","image_path":"/files/book/cover/31888/cover.jpg","leading_role":"刘慈欣","id":31888,"book_name":"三体"}]

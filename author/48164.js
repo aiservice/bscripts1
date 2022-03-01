@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"明月地上霜","customer_url":"woxiudekenengshijiaxian","image_path":"/files/book/cover/35357/cover.jpg","leading_role":"安林","id":35357,"book_name":"我修的可能是假仙"}]

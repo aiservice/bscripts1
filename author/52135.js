@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"墨晚初","customer_url":"xidangma","image_path":"/files/book/cover/42371/cover.jpg","leading_role":"墨晚初","id":42371,"book_name":"喜当妈"}]

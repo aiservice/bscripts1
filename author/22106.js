@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"文抄公","customer_url":"xiaoyaomenglu","image_path":"/files/book/cover/23140/cover.jpg","leading_role":"文抄公","id":23140,"book_name":"逍遥梦路"}]

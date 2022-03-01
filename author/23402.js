@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"月拌红烧肉","customer_url":"shilian","image_path":"/files/book/cover/27180/cover.jpg","leading_role":"月拌红烧肉","id":27180,"book_name":"十链"}]

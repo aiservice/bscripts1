@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"南柯一凉","customer_url":"s2-yingdicongqiandaokaishi","image_path":"/files/book/cover/65004/cover.jpg","leading_role":"南柯一凉","id":65004,"book_name":"影帝从签到开始"}]

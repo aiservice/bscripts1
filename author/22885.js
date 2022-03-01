@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"哆啦i梦","customer_url":"s2-woniangziyixinxiangfo","image_path":"/files/book/cover/65545/cover.jpg","leading_role":"哆啦i梦","id":65545,"book_name":"我娘子一心向佛"}]

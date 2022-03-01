@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"将夜","leading_role":"马士襄","author_name":"猫腻","image_path":"files/book/cover/31749/cover.jpg","customer_url":"jiangye"},{"book_name":"庆余年","leading_role":"猫腻","author_name":"猫腻","image_path":"files/book/cover/62823/cover.jpg","customer_url":"s2-qingyunian"}]

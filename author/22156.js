@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黑乎乎的老妖","customer_url":"haizeizhichaojikapaixitong","image_path":"/files/book/cover/21904/cover.jpg","leading_role":"黑乎乎的老妖","id":21904,"book_name":"海贼之超级卡牌系统"}]

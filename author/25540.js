@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"庚不让","customer_url":"surenhuidang","image_path":"/files/book/cover/31326/cover.jpg","leading_role":"庚不让","id":31326,"book_name":"俗人回档"}]

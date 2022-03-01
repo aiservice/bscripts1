@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"虎虎","customer_url":"zhongerbingyeyaotanlianai","image_path":"/files/book/cover/31925/cover.jpg","leading_role":"虎虎","id":31925,"book_name":"中二病也要谈恋爱"}]

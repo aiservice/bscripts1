@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"绿城之路","customer_url":"dubutianxia","image_path":"/files/book/cover/31771/cover.jpg","leading_role":"绿城之路","id":31771,"book_name":"独步天下"}]

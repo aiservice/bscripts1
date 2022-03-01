@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"扑街又懒惰","customer_url":"s2-qingmansiheyuanzhishiquanjiumei","image_path":"/files/book/cover/64698/cover.jpg","leading_role":"扑街又懒惰","id":64698,"book_name":"情满四合院之食全酒美"}]

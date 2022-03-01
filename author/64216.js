@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"月下吃柠檬","customer_url":"s2-congtianhouyanchanghuichudao","image_path":"/files/book/cover/64366/cover.jpg","leading_role":"月下吃柠檬","id":64366,"book_name":"从天后演唱会出道"}]

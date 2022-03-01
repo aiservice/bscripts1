@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阳小戎","customer_url":"s2-woyouyigejianxianniangzi","image_path":"/files/book/cover/63251/cover.jpg","leading_role":"阳小戎","id":63251,"book_name":"我有一个剑仙娘子"}]

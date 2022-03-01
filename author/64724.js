@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"醉皓月","customer_url":"s2-edufanpaidexibaijihua","image_path":"/files/book/cover/65060/cover.jpg","leading_role":"醉皓月","id":65060,"book_name":"恶毒反派的洗白计划"}]

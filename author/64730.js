@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"人狼预言家","customer_url":"s2-jingdoupaomoshidaicongbianmaiyiwanjiachankaishi","image_path":"/files/book/cover/65068/cover.jpg","leading_role":"人狼预言家","id":65068,"book_name":"京都泡沫时代：从变卖亿万家产开始"}]

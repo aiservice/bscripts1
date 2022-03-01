@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"若别离不相惜","customer_url":"s2-wonengzhaohuanqinshigaoshou","image_path":"/files/book/cover/65548/cover.jpg","leading_role":"若别离不相惜","id":65548,"book_name":"我能召唤秦时高手"}]

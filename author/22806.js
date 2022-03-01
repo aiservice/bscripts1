@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李氏子弟","customer_url":"wodequnxingdiguo","image_path":"/files/book/cover/22523/cover.jpg","leading_role":"李氏子弟","id":22523,"book_name":"我的群星帝国"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一池闲云","customer_url":"s2-baiyunshengchuyouxianlou","image_path":"/files/book/cover/64026/cover.jpg","leading_role":"一池闲云","id":64026,"book_name":"白云生处有仙楼"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"五方行尽","customer_url":"s2-wochengleguoqiwulinshenhua","image_path":"/files/book/cover/64676/cover.jpg","leading_role":"五方行尽","id":64676,"book_name":"我成了过气武林神话"}]

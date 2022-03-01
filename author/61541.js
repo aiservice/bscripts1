@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"夜天下","customer_url":"s2-congmaoshuyouxikaishi","image_path":"/files/book/cover/63745/cover.jpg","leading_role":"夜天下","id":63745,"book_name":"从猫鼠游戏开始"}]

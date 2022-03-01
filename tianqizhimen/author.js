@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"邪气凛然","leading_role":"跳舞","image_path_min":"files/book/cover/58864/cover_120.jpg","author_name":"跳舞","image_path":"files/book/cover/58864/cover.jpg","customer_url":"s2-xieqilinran"}]

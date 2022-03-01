@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"半道清风","customer_url":"s2-wozhailebainianchumenyiwudi","image_path":"/files/book/cover/64812/cover.jpg","leading_role":"半道清风","id":64812,"book_name":"我宅了百年出门已无敌"}]

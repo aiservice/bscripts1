@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"俺家小辉","customer_url":"s2-qihonghuang","image_path":"/files/book/cover/63055/cover.jpg","leading_role":"俺家小辉","id":63055,"book_name":"弃洪荒"}]

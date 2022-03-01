@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何无恨","customer_url":"jianpojiutian","image_path":"/files/book/cover/27111/cover.jpg","leading_role":"何无恨","id":27111,"book_name":"剑破九天"}]

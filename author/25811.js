@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"明药","customer_url":"shaoshuainilaopoyoupaole","image_path":"/files/book/cover/31818/cover.jpg","leading_role":"明药","id":31818,"book_name":"少帅你老婆又跑了"}]

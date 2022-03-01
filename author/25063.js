@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"侠扯蛋","customer_url":"zuiqianghongbaohuangdi","image_path":"/files/book/cover/30513/cover.jpg","leading_role":"侠扯蛋","id":30513,"book_name":"最强红包皇帝"}]

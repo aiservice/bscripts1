@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"石章鱼","customer_url":"s2-dayuntongtian","image_path":"/files/book/cover/64904/cover.jpg","leading_role":"石章鱼","id":64904,"book_name":"大运通天"}]

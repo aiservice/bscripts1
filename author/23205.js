@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"万古剑尘","customer_url":"wangutianzong","image_path":"/files/book/cover/23027/cover.jpg","leading_role":"万古剑尘","id":23027,"book_name":"万古天宗"}]

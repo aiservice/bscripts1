@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"完全没名字","customer_url":"laowangdejixianyouxi","image_path":"/files/book/cover/20820/cover.jpg","leading_role":"完全没名字","id":20820,"book_name":"老王的极限游戏"}]

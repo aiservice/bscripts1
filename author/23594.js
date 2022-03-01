@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"平凡魔术师","customer_url":"jiuxingbatijue","image_path":"/files/book/cover/27669/cover.jpg","leading_role":"平凡魔术师","id":27669,"book_name":"九星霸体诀"}]

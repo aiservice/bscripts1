@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梦遇乾隆","customer_url":"huoyingzhiguijianxuzuo","image_path":"/files/book/cover/22261/cover.jpg","leading_role":"梦遇乾隆","id":22261,"book_name":"火影之鬼剑须佐"}]

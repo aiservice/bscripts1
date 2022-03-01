@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乔木公","customer_url":"huangjiezhizun","image_path":"/files/book/cover/20462/cover.jpg","leading_role":"乔木公","id":20462,"book_name":"荒界至尊"}]

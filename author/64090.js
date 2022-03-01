@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"边江河蟹","customer_url":"s2-wushizhixu","image_path":"/files/book/cover/64164/cover.jpg","leading_role":"边江河蟹","id":64164,"book_name":"巫师之序"}]

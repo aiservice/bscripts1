@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄刑","customer_url":"wodeshoujitongyijie","image_path":"/files/book/cover/22392/cover.jpg","leading_role":"黄刑","id":22392,"book_name":"我的手机通异界"}]

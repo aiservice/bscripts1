@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"眉师娘","customer_url":"s2-bentengniandaixiangnanxiangbei","image_path":"/files/book/cover/62724/cover.jpg","leading_role":"眉师娘","id":62724,"book_name":"奔腾年代——向南向北"}]

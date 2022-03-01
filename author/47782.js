@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"爱吃大包子","customer_url":"quanguo","image_path":"/files/book/cover/34710/cover.jpg","leading_role":"爱吃大包子","id":34710,"book_name":"权国"}]

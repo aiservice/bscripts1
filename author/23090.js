@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小肥嗒吧","customer_url":"tianshati","image_path":"/files/book/cover/22874/cover.jpg","leading_role":"小肥嗒吧","id":22874,"book_name":"天杀体"}]

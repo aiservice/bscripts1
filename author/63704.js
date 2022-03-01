@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"不如逸","customer_url":"s2-quanqiushenmifusu","image_path":"/files/book/cover/63637/cover.jpg","leading_role":"不如逸","id":63637,"book_name":"全球神秘复苏"}]

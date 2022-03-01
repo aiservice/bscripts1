@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"枯玄","customer_url":"s2-xianwangderichangshenghuo","image_path":"/files/book/cover/63000/cover.jpg","leading_role":"枯玄","id":63000,"book_name":"仙王的日常生活"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"十二翼黑暗炽天使","customer_url":"chaojishenjiyin","image_path":"/files/book/cover/28348/cover.jpg","leading_role":"韩森","id":28348,"book_name":"超级神基因"}]

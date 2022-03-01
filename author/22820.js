@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青幕山","customer_url":"heike","image_path":"/files/book/cover/31812/cover.jpg","leading_role":"青幕山","id":31812,"book_name":"黑客"}]

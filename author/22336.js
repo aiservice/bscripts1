@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巴下客","customer_url":"langjizaizhutian","image_path":"/files/book/cover/27831/cover.jpg","leading_role":"巴下客","id":27831,"book_name":"浪迹在诸天"}]

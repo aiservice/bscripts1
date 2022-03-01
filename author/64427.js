@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"抗战三郎","customer_url":"s2-wocongliangjiankaishijueqi","image_path":"/files/book/cover/64653/cover.jpg","leading_role":"抗战三郎","id":64653,"book_name":"我从亮剑开始崛起"}]

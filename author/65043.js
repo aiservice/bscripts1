@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蓝染.惣右介","customer_url":"s2-guanyuwochengweimiehunshizhihou","image_path":"/files/book/cover/65517/cover.jpg","leading_role":"蓝染.惣右介","id":65517,"book_name":"关于我成为灭魂师之后"}]

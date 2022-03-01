@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"笔墨纸键","customer_url":"wodemoshilingdi","image_path":"/files/book/cover/30237/cover.jpg","leading_role":"笔墨纸键","id":30237,"book_name":"我的末世领地"}]

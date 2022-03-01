@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孤独漂流","customer_url":"yonghengguodu","image_path":"/files/book/cover/20672/cover.jpg","leading_role":"孤独漂流","id":20672,"book_name":"永恒国度"},{"author_name":"孤独漂流","customer_url":"s2-bianzhizhu","image_path":"/files/book/cover/63237/cover.jpg","leading_role":"孤独漂流","id":63237,"book_name":"彼岸之主"}]

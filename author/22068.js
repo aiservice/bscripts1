@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"机器人布里茨","customer_url":"yingxionglianmengzhijueshengdianfeng","image_path":"/files/book/cover/21618/cover.jpg","leading_role":"机器人布里茨","id":21618,"book_name":"英雄联盟之决胜巅峰"}]

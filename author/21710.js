@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥比椰","customer_url":"yinhunbusan","image_path":"/files/book/cover/42038/cover.jpg","leading_role":"奥比椰","id":42038,"book_name":"茵魂不散"},{"author_name":"奥比椰","customer_url":"s2-wanmingtiaozhan","image_path":"/files/book/cover/65219/cover.jpg","leading_role":"奥比椰","id":65219,"book_name":"玩命挑战"}]

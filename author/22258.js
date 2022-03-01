@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三戒大师","customer_url":"s2-xiaogelao","image_path":"/files/book/cover/62807/cover.jpg","leading_role":"三戒大师","id":62807,"book_name":"小阁老"}]

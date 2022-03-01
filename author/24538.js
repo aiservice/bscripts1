@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"草鱼L","customer_url":"s2-gaowu27shiji","image_path":"/files/book/cover/29538/cover.jpg","leading_role":"草鱼L","id":29538,"book_name":"高武27世纪"}]

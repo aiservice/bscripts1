@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"剑舞中原","customer_url":"s2-shenqizhiwuzainali","image_path":"/files/book/cover/64020/cover.jpg","leading_role":"剑舞中原","id":64020,"book_name":"神奇植物在哪里？"}]

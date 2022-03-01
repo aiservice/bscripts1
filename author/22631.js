@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈爱庭","customer_url":"chaonengmingshuai","image_path":"/files/book/cover/22297/cover.jpg","leading_role":"林夏","id":22297,"book_name":"超能名帅"},{"author_name":"陈爱庭","customer_url":"chaojifengbao","image_path":"/files/book/cover/31510/cover.jpg","leading_role":"陈爱庭","id":31510,"book_name":"超级锋暴"}]

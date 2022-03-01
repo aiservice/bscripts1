@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"非玩家角色","customer_url":"qiongguideshangxialiangqiannian","image_path":"/files/book/cover/28447/cover.jpg","leading_role":"非玩家角色","id":28447,"book_name":"穷鬼的上下两千年"}]

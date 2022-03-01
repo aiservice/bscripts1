@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"老白牛","customer_url":"mingmobianjunyixiaobing","image_path":"/files/book/cover/22978/cover.jpg","leading_role":"老白牛","id":22978,"book_name":"明末边军一小兵"}]

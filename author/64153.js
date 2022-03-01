@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萝卜上秤","customer_url":"s2-zuichudexuezu","image_path":"/files/book/cover/64272/cover.jpg","leading_role":"萝卜上秤","id":64272,"book_name":"最初的血族"}]

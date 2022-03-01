@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"零点八度","customer_url":"diguokapaixitong","image_path":"/files/book/cover/22289/cover.jpg","leading_role":"零点八度","id":22289,"book_name":"帝国卡牌系统"}]

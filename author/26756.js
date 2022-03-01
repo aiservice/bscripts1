@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白鹭成双","customer_url":"chunriyan","image_path":"/files/book/cover/33262/cover.jpg","leading_role":"白鹭成双","id":33262,"book_name":"春日宴"}]

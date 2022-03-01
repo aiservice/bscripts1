@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"误道者","customer_url":"dadaozhengfeng","image_path":"/files/book/cover/21201/cover.jpg","leading_role":"误道者","id":21201,"book_name":"大道争锋"},{"author_name":"误道者","customer_url":"s2-xuanhundaozhang","image_path":"/files/book/cover/62594/cover.jpg","leading_role":"误道者","id":62594,"book_name":"玄浑道章"}]

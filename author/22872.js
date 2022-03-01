@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"拉风狂人扫天","customer_url":"haizeiwangzhiwudaojia","image_path":"/files/book/cover/22604/cover.jpg","leading_role":"拉风狂人扫天","id":22604,"book_name":"海贼王之武道家"}]

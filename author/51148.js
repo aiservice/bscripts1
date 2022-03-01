@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海逸小猪","customer_url":"s2-hailansalingzhu","image_path":"/files/book/cover/62568/cover.jpg","leading_role":"海逸小猪","id":62568,"book_name":"海兰萨领主"}]

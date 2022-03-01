@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"屋外风吹凉","customer_url":"s2-honglouchun","image_path":"/files/book/cover/62828/cover.jpg","leading_role":"屋外风吹凉","id":62828,"book_name":"红楼春"}]

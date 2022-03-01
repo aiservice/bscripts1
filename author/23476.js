@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卖报小郎君","customer_url":"s2-dafengdagengren","image_path":"/files/book/cover/62613/cover.jpg","leading_role":"卖报小郎君","id":62613,"book_name":"大奉打更人"},{"author_name":"卖报小郎君","customer_url":"guyaoxueyi","image_path":"/files/book/cover/31563/cover.jpg","leading_role":"卖报小郎君","id":31563,"book_name":"古妖血裔"}]

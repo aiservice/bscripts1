@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"圣骑士的传说","customer_url":"xiuzhenliaotianqun","image_path":"/files/book/cover/30141/cover.jpg","leading_role":"宋书航","id":30141,"book_name":"修真聊天群"}]

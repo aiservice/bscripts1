@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"茧粒","customer_url":"chuanyuezhifengyue","image_path":"/files/book/cover/42813/cover.jpg","leading_role":"茧粒","id":42813,"book_name":"穿越之风月"}]

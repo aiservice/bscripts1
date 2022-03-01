@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"史上最牛主播","leading_role":"科幻大人","image_path_min":"files/book/cover/28055/cover_120.jpg","author_name":"科幻大人","image_path":"files/book/cover/28055/cover.jpg","customer_url":"shishangzuiniuzhubo"}]

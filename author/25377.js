@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青圭大大","customer_url":"s2-woyoushigelvshi","image_path":"/files/book/cover/63316/cover.jpg","leading_role":"青圭大大","id":63316,"book_name":"我又是个律师"}]

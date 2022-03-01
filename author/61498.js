@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"桥上风景独好","customer_url":"s2-wodetouzishidai","image_path":"/files/book/cover/63321/cover.jpg","leading_role":"桥上风景独好","id":63321,"book_name":"我的投资时代"}]

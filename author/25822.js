@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烟雨_江南","customer_url":"xiedu","image_path":"/files/book/cover/31840/cover.jpg","leading_role":"烟雨_江南","id":31840,"book_name":"亵渎"}]

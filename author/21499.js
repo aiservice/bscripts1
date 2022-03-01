@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"3D桌球","customer_url":"wozaixianjieyougedongwuyuan","image_path":"/files/book/cover/20817/cover.jpg","leading_role":"3D桌球","id":20817,"book_name":"我在仙界有个动物园"}]

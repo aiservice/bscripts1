@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"我渴望力量","customer_url":"s2-wubaigeguojing","image_path":"/files/book/cover/65560/cover.jpg","leading_role":"我渴望力量","id":65560,"book_name":"五百个郭靖"}]

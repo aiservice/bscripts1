@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王梓钧","customer_url":"s2-menghuidamingchun","image_path":"/files/book/cover/62830/cover.jpg","leading_role":"王梓钧","id":62830,"book_name":"梦回大明春"},{"author_name":"王梓钧","customer_url":"s2-zhen","image_path":"/files/book/cover/64311/cover.jpg","leading_role":"王梓钧","id":64311,"book_name":"朕"}]

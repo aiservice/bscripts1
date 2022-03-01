@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黑天魔神","customer_url":"ganranti","image_path":"/files/book/cover/22671/cover.jpg","leading_role":"刘天明","id":22671,"book_name":"感染体"},{"author_name":"黑天魔神","customer_url":"feitu","image_path":"/files/book/cover/31900/cover.jpg","leading_role":"黑天魔神","id":31900,"book_name":"废土"}]

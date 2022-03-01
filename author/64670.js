@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"后宫烤鹅","customer_url":"s2-wozhenbuxiangjianzhishenling","image_path":"/files/book/cover/64987/cover.jpg","leading_role":"后宫烤鹅","id":64987,"book_name":"我真不想兼职神灵"}]

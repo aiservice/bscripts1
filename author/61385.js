@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"衔雨","customer_url":"s2-zhushidaluo","image_path":"/files/book/cover/62627/cover.jpg","leading_role":"衔雨","id":62627,"book_name":"诸世大罗"}]

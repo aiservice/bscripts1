@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大熊不是猫","customer_url":"s2-congdaxuejiaoshikaishi","image_path":"/files/book/cover/64185/cover.jpg","leading_role":"大熊不是猫","id":64185,"book_name":"从大学教师开始"}]

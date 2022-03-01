@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沂水蔷","customer_url":"shenyidufei","image_path":"/files/book/cover/31838/cover.jpg","leading_role":"沂水蔷","id":31838,"book_name":"神医毒妃"}]

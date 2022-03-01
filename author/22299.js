@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"上山打老虎额","customer_url":"mingchaobaijiazi","image_path":"/files/book/cover/44506/cover.jpg","leading_role":"方继藩","id":44506,"book_name":"明朝败家子"}]

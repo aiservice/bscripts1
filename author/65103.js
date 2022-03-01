@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金毛贝","customer_url":"s2-daxiaojiemendecanzhuo","image_path":"/files/book/cover/65602/cover.jpg","leading_role":"金毛贝","id":65602,"book_name":"大小姐们的餐桌"}]

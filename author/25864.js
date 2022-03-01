@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"明晓溪","customer_url":"liehuoruge","image_path":"/files/book/cover/31915/cover.jpg","leading_role":"明晓溪","id":31915,"book_name":"烈火如歌"}]

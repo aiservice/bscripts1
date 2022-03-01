@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"风月","customer_url":"s2-tianqiyubao","image_path":"/files/book/cover/62579/cover.jpg","leading_role":"风月","id":62579,"book_name":"天启预报"}]

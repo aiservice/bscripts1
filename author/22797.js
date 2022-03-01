@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玄雨","customer_url":"s2-xingwuyao","image_path":"/files/book/cover/62524/cover.jpg","leading_role":"玄雨","id":62524,"book_name":"星武耀"}]

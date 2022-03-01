@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"咸鱼训练家","customer_url":"jinglingzhiquanqiujianglin","image_path":"/files/book/cover/33982/cover.jpg","leading_role":"咸鱼训练家","id":33982,"book_name":"精灵之全球降临"}]

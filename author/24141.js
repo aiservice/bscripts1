@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一炁化三清","customer_url":"s2-yuchenjinzhang","image_path":"/files/book/cover/63664/cover.jpg","leading_role":"一炁化三清","id":63664,"book_name":"玉宸金章"}]

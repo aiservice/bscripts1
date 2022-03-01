@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鹤十亿","customer_url":"shenggeluojinfuliunian","image_path":"/files/book/cover/42333/cover.jpg","leading_role":"鹤十亿","id":42333,"book_name":"笙歌落尽负流年"}]

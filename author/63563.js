@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蟹的心","customer_url":"s2-handingyuyan","image_path":"/files/book/cover/63392/cover.jpg","leading_role":"蟹的心","id":63392,"book_name":"汉鼎余烟"}]

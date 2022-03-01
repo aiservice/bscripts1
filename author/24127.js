@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"九闲","customer_url":"tianlongshenzhu","image_path":"/files/book/cover/29080/cover.jpg","leading_role":"九闲","id":29080,"book_name":"天龙神主"}]

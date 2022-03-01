@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"纯金子弹头","customer_url":"s2-zuiqiangchuansuowanjiexitong","image_path":"/files/book/cover/63282/cover.jpg","leading_role":"纯金子弹头","id":63282,"book_name":"最强穿梭万界系统"}]

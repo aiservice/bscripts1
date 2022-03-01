@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"言归正传","customer_url":"s2-zhegerenxiantaiguozhengjing","image_path":"/files/book/cover/62591/cover.jpg","leading_role":"言归正传","id":62591,"book_name":"这个人仙太过正经"}]

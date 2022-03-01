@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路过二次元","customer_url":"s2-zhujiezhishenyuanemo","image_path":"/files/book/cover/63188/cover.jpg","leading_role":"路过二次元","id":63188,"book_name":"诸界之深渊恶魔"}]

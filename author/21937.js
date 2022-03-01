@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乱","customer_url":"quanzhifashi","image_path":"/files/book/cover/21368/cover.jpg","leading_role":"莫凡","id":21368,"book_name":"全职法师"}]

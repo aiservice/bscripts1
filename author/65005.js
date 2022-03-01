@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玉虚宫大青牛","customer_url":"s2-wuxiapeijiaojueqixitong","image_path":"/files/book/cover/65466/cover.jpg","leading_role":"玉虚宫大青牛","id":65466,"book_name":"武侠：配角崛起系统"}]

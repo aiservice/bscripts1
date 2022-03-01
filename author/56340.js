@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白驹易逝","customer_url":"s2-renzuzhenshoushi","image_path":"/files/book/cover/63168/cover.jpg","leading_role":"白驹易逝","id":63168,"book_name":"人族镇守使"}]

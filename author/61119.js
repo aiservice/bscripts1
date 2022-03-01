@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"夏竖琴","customer_url":"s2-bunengxiuxiandewozhiyouqupeiyuhunchongle","image_path":"/files/book/cover/64580/cover.jpg","leading_role":"夏竖琴","id":64580,"book_name":"不能修仙的我只有去培育魂宠了"},{"author_name":"夏竖琴","customer_url":"s2-congdouluokaishidaka","image_path":"/files/book/cover/63015/cover.jpg","leading_role":"夏竖琴","id":63015,"book_name":"从斗罗开始打卡"}]

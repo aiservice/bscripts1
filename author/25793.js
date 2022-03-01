@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鱼人二代","customer_url":"xiaohuadetieshengaoshou","image_path":"/files/book/cover/31794/cover.jpg","leading_role":"鱼人二代","id":31794,"book_name":"校花的贴身高手"},{"author_name":"鱼人二代","customer_url":"henchunhenaimei","image_path":"/files/book/cover/31918/cover.jpg","leading_role":"鱼人二代","id":31918,"book_name":"很纯很暧昧"}]

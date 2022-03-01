@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"楠权北腿","customer_url":"xiaohuadejipintegong","image_path":"/files/book/cover/22133/cover.jpg","leading_role":"楠权北腿","id":22133,"book_name":"校花的极品特工"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"打死都要钱","customer_url":"wandaojianzun","image_path":"/files/book/cover/20156/cover.jpg","leading_role":"打死都要钱","id":20156,"book_name":"万道剑尊"}]

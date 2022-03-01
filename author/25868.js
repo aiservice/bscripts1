@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梁少","customer_url":"jiangexiaohuazuolaopo","image_path":"/files/book/cover/31921/cover.jpg","leading_role":"梁少","id":31921,"book_name":"捡个校花做老婆"}]

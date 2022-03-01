@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"失落叶","customer_url":"zhanlong","image_path":"/files/book/cover/21635/cover.jpg","leading_role":"失落叶","id":21635,"book_name":"斩龙"}]

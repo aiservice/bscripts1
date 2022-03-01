@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"桐棠","customer_url":"halibotezhixuebawudi","image_path":"/files/book/cover/30095/cover.jpg","leading_role":"桐棠","id":30095,"book_name":"哈利波特之学霸无敌"}]

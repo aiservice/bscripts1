@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"混沌果","customer_url":"s2-chaoshentiqu","image_path":"/files/book/cover/65061/cover.jpg","leading_role":"混沌果","id":65061,"book_name":"超神提取"}]

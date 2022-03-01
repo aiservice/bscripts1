@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"西风紧","customer_url":"damingchunse","image_path":"/files/book/cover/27417/cover.jpg","leading_role":"西风紧","id":27417,"book_name":"大明春色"}]

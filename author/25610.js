@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"长戟大兜2","customer_url":"s2-cangbaihuiji","image_path":"/files/book/cover/65734/cover.jpg","leading_role":"长戟大兜2","id":65734,"book_name":"苍白徽记"}]

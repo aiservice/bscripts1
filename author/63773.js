@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"箭之源","customer_url":"s2-zhongshengzhiwudaofusu","image_path":"/files/book/cover/63735/cover.jpg","leading_role":"箭之源","id":63735,"book_name":"重生之武道复苏"}]

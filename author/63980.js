@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"怕辣的红椒","customer_url":"s2-kunlundiyisheng","image_path":"/files/book/cover/65418/cover.jpg","leading_role":"怕辣的红椒","id":65418,"book_name":"昆仑第一圣"}]

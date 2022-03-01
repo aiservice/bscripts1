@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"方小九","customer_url":"dishitaiyaorao","image_path":"/files/book/cover/22249/cover.jpg","leading_role":"方小九","id":22249,"book_name":"帝师太妖娆"}]

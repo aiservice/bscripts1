@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"望穿冬水","customer_url":"zhangshengjiuwannian","image_path":"/files/book/cover/22558/cover.jpg","leading_role":"望穿冬水","id":22558,"book_name":"长生九万年"}]

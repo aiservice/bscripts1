@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"月麒麟","customer_url":"s2-huangxiongheguzaofan","image_path":"/files/book/cover/62825/cover.jpg","leading_role":"月麒麟","id":62825,"book_name":"皇兄何故造反？"}]

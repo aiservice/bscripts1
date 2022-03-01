@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"浅悠凉","customer_url":"weimianwuxianzhongsheng","image_path":"/files/book/cover/21523/cover.jpg","leading_role":"浅悠凉","id":21523,"book_name":"位面无限重生"}]

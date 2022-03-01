@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凤轻","customer_url":"shengshidifei","image_path":"/files/book/cover/31842/cover.jpg","leading_role":"凤轻","id":31842,"book_name":"盛世嫡妃"}]

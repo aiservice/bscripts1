@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"胖铜侠","customer_url":"manweizhibusizhezhiwang","image_path":"/files/book/cover/31756/cover.jpg","leading_role":"胖铜侠","id":31756,"book_name":"不死者之王"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"空痕鬼彻","customer_url":"s2-wobijiangjiamianweiwang","image_path":"/files/book/cover/63209/cover.jpg","leading_role":"空痕鬼彻","id":63209,"book_name":"我必将加冕为王"}]

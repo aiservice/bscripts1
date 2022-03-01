@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"笑筱笙","customer_url":"s2-honglonghuangdi","image_path":"/files/book/cover/63190/cover.jpg","leading_role":"笑筱笙","id":63190,"book_name":"红龙皇帝"}]

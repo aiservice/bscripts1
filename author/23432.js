@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奥尔良烤鲟鱼堡","customer_url":"zhongran","image_path":"/files/book/cover/27287/cover.jpg","leading_role":"奥尔良烤鲟鱼堡","id":27287,"book_name":"重燃"}]

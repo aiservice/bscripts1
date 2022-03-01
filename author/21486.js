@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"不问苍生问鬼神","customer_url":"s2-xiangzu","image_path":"/files/book/cover/63720/cover.jpg","leading_role":"不问苍生问鬼神","id":63720,"book_name":"香祖"}]

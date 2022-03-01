@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"饮马流泉","customer_url":"s2-congbachushizhongjiankaishi","image_path":"/files/book/cover/63177/cover.jpg","leading_role":"饮马流泉","id":63177,"book_name":"从拔出石中剑开始"}]

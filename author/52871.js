@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"六十五点","customer_url":"chuanyuezhutianzhidafanpai","image_path":"/files/book/cover/43303/cover.jpg","leading_role":"六十五点","id":43303,"book_name":"穿越诸天之大反派"}]

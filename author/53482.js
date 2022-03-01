@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"半亩南山","customer_url":"s2-zhongshengdongjingpaomoshidai","image_path":"/files/book/cover/64179/cover.jpg","leading_role":"半亩南山","id":64179,"book_name":"重生东京泡沫时代"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"贼猫小黑","customer_url":"wojiashishenshiluoli","image_path":"/files/book/cover/22545/cover.jpg","leading_role":"贼猫小黑","id":22545,"book_name":"我家食神是萝莉"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"核动力重坦","customer_url":"shengmolieshou","image_path":"/files/book/cover/22403/cover.jpg","leading_role":"核动力重坦","id":22403,"book_name":"圣魔猎手"}]

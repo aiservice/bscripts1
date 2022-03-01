@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青衫小白","customer_url":"wodexiaorenguo","image_path":"/files/book/cover/23097/cover.jpg","leading_role":"青衫小白","id":23097,"book_name":"我的小人国"}]

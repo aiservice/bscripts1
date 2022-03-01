@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"茶子猫","customer_url":"moxuekuangchao","image_path":"/files/book/cover/22264/cover.jpg","leading_role":"茶子猫","id":22264,"book_name":"魔学狂潮"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"出走八万里","customer_url":"s2-woyongxianshuchengshengren","image_path":"/files/book/cover/64591/cover.jpg","leading_role":"出走八万里","id":64591,"book_name":"我用闲书成圣人"}]

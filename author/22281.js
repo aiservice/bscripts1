@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"泛舟填词","customer_url":"dadaozei","image_path":"/files/book/cover/21869/cover.jpg","leading_role":"泛舟填词","id":21869,"book_name":"大盗贼"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"颓废龙","customer_url":"emoqiulong","image_path":"/files/book/cover/21891/cover.jpg","leading_role":"颓废龙","id":21891,"book_name":"恶魔囚笼"}]

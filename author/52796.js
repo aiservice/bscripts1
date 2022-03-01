@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郑重骑士","customer_url":"s2-lieyaogaoxiao","image_path":"/files/book/cover/63983/cover.jpg","leading_role":"郑重骑士","id":63983,"book_name":"猎妖高校"}]

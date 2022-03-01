@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼普","customer_url":"mofadechuangshen","image_path":"/files/book/cover/22492/cover.jpg","leading_role":"尼普","id":22492,"book_name":"末法的创神"}]

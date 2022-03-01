@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗三观.CS","customer_url":"s2-wonengkanjianzhuangtailan","image_path":"/files/book/cover/63995/cover.jpg","leading_role":"罗三观.CS","id":63995,"book_name":"我能看见状态栏"}]

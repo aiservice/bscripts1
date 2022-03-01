@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"悟了空","customer_url":"longxueshengdi","image_path":"/files/book/cover/21098/cover.jpg","leading_role":"悟了空","id":21098,"book_name":"龙血圣帝"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"泗拾贰","customer_url":"s2-tiandaoyuandaima","image_path":"/files/book/cover/65561/cover.jpg","leading_role":"泗拾贰","id":65561,"book_name":"天道源代码"}]

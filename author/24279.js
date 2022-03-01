@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"茗夜","customer_url":"s2-chuanyuebaniancaichudao","image_path":"/files/book/cover/63326/cover.jpg","leading_role":"茗夜","id":63326,"book_name":"穿越八年才出道"}]

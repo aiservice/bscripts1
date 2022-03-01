@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冬日之阳","customer_url":"jueqizhutian","image_path":"/files/book/cover/28383/cover.jpg","leading_role":"冬日之阳","id":28383,"book_name":"崛起诸天"}]

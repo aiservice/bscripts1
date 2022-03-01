@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"永恒之火","customer_url":"rudaozhisheng","image_path":"/files/book/cover/31739/cover.jpg","leading_role":"永恒之火","id":31739,"book_name":"儒道至圣"},{"author_name":"永恒之火","customer_url":"s2-zhongshenshijie","image_path":"/files/book/cover/63159/cover.jpg","leading_role":"永恒之火","id":63159,"book_name":"众神世界"}]

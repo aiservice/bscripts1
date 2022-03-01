@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蓝黑墨色","customer_url":"s2-weiwozhengxiezhilu","image_path":"/files/book/cover/63060/cover.jpg","leading_role":"蓝黑墨色","id":63060,"book_name":"唯我正邪之路"}]

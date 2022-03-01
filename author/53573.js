@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"此生夙愿","customer_url":"dafanpaijueqizhilu","image_path":"/files/book/cover/44219/cover.jpg","leading_role":"此生夙愿","id":44219,"book_name":"大反派崛起之路"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高月","customer_url":"hanmenxiaoshi","image_path":"/files/book/cover/21768/cover.jpg","leading_role":"高月","id":21768,"book_name":"寒门枭士"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"许火烨","customer_url":"s2-zhegeshijiemingminghenanquan","image_path":"/files/book/cover/65595/cover.jpg","leading_role":"许火烨","id":65595,"book_name":"这个世界明明很安全"}]

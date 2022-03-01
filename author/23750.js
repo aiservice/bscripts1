@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一日一生","customer_url":"yuanzunguilai","image_path":"/files/book/cover/28186/cover.jpg","leading_role":"一日一生","id":28186,"book_name":"元尊归来"}]

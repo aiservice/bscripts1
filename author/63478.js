@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布谷聊","customer_url":"s2-xianlu","image_path":"/files/book/cover/63241/cover.jpg","leading_role":"布谷聊","id":63241,"book_name":"仙箓"}]

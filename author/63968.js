@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"锋利的柴刀","customer_url":"s2-liedie","image_path":"/files/book/cover/64002/cover.jpg","leading_role":"锋利的柴刀","id":64002,"book_name":"猎谍"}]

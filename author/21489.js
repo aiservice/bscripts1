@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"无极书虫","customer_url":"s2-yudaoqiankun","image_path":"/files/book/cover/63693/cover.jpg","leading_role":"无极书虫","id":63693,"book_name":"禹道乾坤"}]

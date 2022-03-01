@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"沙拉古斯","customer_url":"s2-ciwoshenzhiming","image_path":"/files/book/cover/64139/cover.jpg","leading_role":"沙拉古斯","id":64139,"book_name":"赐我神之名"}]

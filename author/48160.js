@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"老杨半仙","customer_url":"shenjiyufu","image_path":"/files/book/cover/35344/cover.jpg","leading_role":"老杨半仙","id":35344,"book_name":"神级渔夫"}]

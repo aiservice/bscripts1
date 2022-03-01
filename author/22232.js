@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈瑞","customer_url":"s2-wulinmenpaizhengbalu","image_path":"/files/book/cover/65557/cover.jpg","leading_role":"陈瑞","id":65557,"book_name":"武林门派争霸录"}]

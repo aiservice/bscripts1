@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"神秘的大西瓜","customer_url":"lianmengzhimowangxitong","image_path":"/files/book/cover/29843/cover.jpg","leading_role":"陈牧","id":29843,"book_name":"联盟之魔王系统"}]

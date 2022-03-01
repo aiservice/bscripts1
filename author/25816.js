@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吹牛者","customer_url":"lingaoqiming","image_path":"/files/book/cover/31830/cover.jpg","leading_role":"吹牛者","id":31830,"book_name":"临高启明"}]

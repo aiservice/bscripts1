@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"幼儿园一把手","customer_url":"s2-zhangmendidiaodian","image_path":"/files/book/cover/62996/cover.jpg","leading_role":"幼儿园一把手","id":62996,"book_name":"掌门低调点"}]

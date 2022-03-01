@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"屠鸽者","customer_url":"s2-busidewozhihaojiabanxuezu","image_path":"/files/book/cover/63009/cover.jpg","leading_role":"屠鸽者","id":63009,"book_name":"不死的我只好假扮血族"}]

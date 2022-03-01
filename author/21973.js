@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乱世狂刀","customer_url":"moyu","image_path":"/files/book/cover/31743/cover.jpg","leading_role":"雷诺·苏","id":31743,"book_name":"魔域"}]

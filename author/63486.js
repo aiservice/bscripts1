@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洛青子","customer_url":"s2-wozaifanrenkexuexiuxian","image_path":"/files/book/cover/63256/cover.jpg","leading_role":"洛青子","id":63256,"book_name":"我在凡人科学修仙"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"发飙的蜗牛","customer_url":"yaoshenji","image_path":"/files/book/cover/31740/cover.jpg","leading_role":"发飙的蜗牛","id":31740,"book_name":"妖神记"}]

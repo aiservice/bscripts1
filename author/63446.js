@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"狐尾的笔","customer_url":"s2-guimidihai","image_path":"/files/book/cover/63187/cover.jpg","leading_role":"狐尾的笔","id":63187,"book_name":"诡秘地海"}]

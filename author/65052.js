@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"化为一束光","customer_url":"s2-honghuangzhiwuweiyuanshitianzun","image_path":"/files/book/cover/65534/cover.jpg","leading_role":"化为一束光","id":65534,"book_name":"洪荒之：吾为原始天尊"}]

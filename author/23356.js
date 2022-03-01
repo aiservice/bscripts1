@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"遥望南山","customer_url":"yaolonggudi","image_path":"/files/book/cover/27036/cover.jpg","leading_role":"遥望南山","id":27036,"book_name":"妖龙古帝"}]

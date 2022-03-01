@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"真熊初墨","customer_url":"shoushuzhibojian","image_path":"/files/book/cover/34614/cover.jpg","leading_role":"郑仁","id":34614,"book_name":"手术直播间"},{"author_name":"真熊初墨","customer_url":"s2-huidao2002dangyisheng","image_path":"/files/book/cover/64801/cover.jpg","leading_role":"真熊初墨","id":64801,"book_name":"回到2002当医生"}]

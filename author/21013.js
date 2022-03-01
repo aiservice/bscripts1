@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"断桥残雪","customer_url":"doushichaojiyisheng","image_path":"/files/book/cover/21101/cover.jpg","leading_role":"断桥残雪","id":21101,"book_name":"都市超级医圣"}]

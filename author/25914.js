@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卫风","customer_url":"xiaowangshu","image_path":"/files/book/cover/31990/cover.jpg","leading_role":"卫风","id":31990,"book_name":"笑忘书"}]

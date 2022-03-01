@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黑色花灯","customer_url":"shenjimeishizhubo","image_path":"/files/book/cover/23133/cover.jpg","leading_role":"黑色花灯","id":23133,"book_name":"神级美食主播"}]

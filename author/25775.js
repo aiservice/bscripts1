@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"习风","customer_url":"wangutiandi","image_path":"/files/book/cover/31752/cover.jpg","leading_role":"习风","id":31752,"book_name":"万古天帝"}]

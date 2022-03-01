@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"再来一盘菇凉","customer_url":"s2-wobengangdaodianyingren","image_path":"/files/book/cover/63333/cover.jpg","leading_role":"再来一盘菇凉","id":63333,"book_name":"我本港岛电影人"}]

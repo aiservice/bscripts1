@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"庄不周","customer_url":"s2-handaotianxia","image_path":"/files/book/cover/64770/cover.jpg","leading_role":"庄不周","id":64770,"book_name":"汉道天下"}]

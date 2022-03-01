@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"十里剑神","customer_url":"zhongshengzhidoushixiuxian","image_path":"/files/book/cover/21309/cover.jpg","leading_role":"十里剑神","id":21309,"book_name":"重生之都市修仙"}]

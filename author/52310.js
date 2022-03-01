@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高钙鸡蛋壳","customer_url":"zhegexianzunzhenbiequ","image_path":"/files/book/cover/42600/cover.jpg","leading_role":"高钙鸡蛋壳","id":42600,"book_name":"这个仙尊真憋屈"}]

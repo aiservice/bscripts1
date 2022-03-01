@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"两只陈洁南","customer_url":"wushibuxiu","image_path":"/files/book/cover/24236/cover.jpg","leading_role":"两只陈洁南","id":24236,"book_name":"巫师不朽"}]

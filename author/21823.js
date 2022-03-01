@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烽火戏诸侯","customer_url":"jianlai","image_path":"/files/book/cover/21077/cover.jpg","leading_role":"陈平安","id":21077,"book_name":"剑来"},{"author_name":"烽火戏诸侯","customer_url":"xuezhonghandaoxing","image_path":"/files/book/cover/31742/cover.jpg","leading_role":"烽火戏诸侯","id":31742,"book_name":"雪中悍刀行"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"滚开","customer_url":"zhaohuanmengyan","image_path":"/files/book/cover/33664/cover.jpg","leading_role":"滚开","id":33664,"book_name":"召唤梦魇"},{"author_name":"滚开","customer_url":"s2-shifangwusheng","image_path":"/files/book/cover/62515/cover.jpg","leading_role":"滚开","id":62515,"book_name":"十方武圣"}]

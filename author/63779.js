@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"可口的橘子","customer_url":"s2-woyouyizuoyeshengdongwuyuan","image_path":"/files/book/cover/63748/cover.jpg","leading_role":"可口的橘子","id":63748,"book_name":"我有一座野生动物园"}]

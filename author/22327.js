@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"横扫天涯","customer_url":"tiandaotushuguan","image_path":"/files/book/cover/21925/cover.jpg","leading_role":"张悬","id":21925,"book_name":"天道图书馆"}]

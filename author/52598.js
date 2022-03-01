@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"捷殿","customer_url":"zhizhangjinchao","image_path":"/files/book/cover/42955/cover.jpg","leading_role":"捷殿","id":42955,"book_name":"执掌今朝"}]

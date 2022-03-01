@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黑色墨汁","customer_url":"s2-huidaoguoqudangfuweng","image_path":"/files/book/cover/63996/cover.jpg","leading_role":"黑色墨汁","id":63996,"book_name":"回到过去当富翁"}]

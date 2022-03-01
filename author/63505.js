@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐秀军","customer_url":"s2-wuwujianghu","image_path":"/files/book/cover/63279/cover.jpg","leading_role":"徐秀军","id":63279,"book_name":"无武江湖"}]

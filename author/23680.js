@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"木恒","customer_url":"wobeixitongtuoguanle","image_path":"/files/book/cover/27959/cover.jpg","leading_role":"木恒","id":27959,"book_name":"我被系统托管了"}]

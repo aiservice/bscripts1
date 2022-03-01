@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"顾屈","customer_url":"s2-yueduideshengxia","image_path":"/files/book/cover/64699/cover.jpg","leading_role":"顾屈","id":64699,"book_name":"乐队的盛夏"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"寒门","customer_url":"yangxiaoluodepianyinaiba","image_path":"/files/book/cover/34628/cover.jpg","leading_role":"寒门","id":34628,"book_name":"杨小落的便宜奶爸"}]

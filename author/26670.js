@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"二次元的土豆","customer_url":"nvquanshijiedezhenhanzi","image_path":"/files/book/cover/33132/cover.jpg","leading_role":"二次元的土豆","id":33132,"book_name":"女权世界的真汉子"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玗石页","customer_url":"s2-congyingshijulidangpeijiaokaishizhandou","image_path":"/files/book/cover/63373/cover.jpg","leading_role":"玗石页","id":63373,"book_name":"从影视剧里当配角开始战斗"}]

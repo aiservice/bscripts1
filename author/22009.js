@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"左耳思念","customer_url":"zuiqiangyisheng","image_path":"/files/book/cover/21539/cover.jpg","leading_role":"左耳思念","id":21539,"book_name":"最强医圣"}]

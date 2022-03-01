@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"开荒","customer_url":"s2-yaonvnalitao","image_path":"/files/book/cover/63227/cover.jpg","leading_role":"开荒","id":63227,"book_name":"妖女哪里逃"}]

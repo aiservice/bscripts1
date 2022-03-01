@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三色杯奶茶","customer_url":"s2-honghuangrenzukaijujiaruliaotianqun","image_path":"/files/book/cover/65129/cover.jpg","leading_role":"三色杯奶茶","id":65129,"book_name":"洪荒人祖，开局加入聊天群"}]

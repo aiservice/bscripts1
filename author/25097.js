@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青丝回眸","customer_url":"s2-richangximeiju","image_path":"/files/book/cover/63324/cover.jpg","leading_role":"青丝回眸","id":63324,"book_name":"日常系美剧"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"暴走可达鸭","customer_url":"s2-wodemoshoubuduijing","image_path":"/files/book/cover/64984/cover.jpg","leading_role":"暴走可达鸭","id":64984,"book_name":"我的魔兽不对劲"}]

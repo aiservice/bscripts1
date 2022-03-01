@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斐波那契芒","customer_url":"s2-guaiyifusuniguanzhejiaozhengjingkepu","image_path":"/files/book/cover/65750/cover.jpg","leading_role":"斐波那契芒","id":65750,"book_name":"怪异复苏：你管这叫正经科普？！"}]

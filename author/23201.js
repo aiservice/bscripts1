@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李鸿天","customer_url":"yishijiedemeishijia","image_path":"/files/book/cover/23021/cover.jpg","leading_role":"李鸿天","id":23021,"book_name":"异世界的美食家"}]

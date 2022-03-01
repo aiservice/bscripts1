@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"打眼","customer_url":"huangjintong","image_path":"/files/book/cover/31820/cover.jpg","leading_role":"打眼","id":31820,"book_name":"黄金瞳"},{"author_name":"打眼","customer_url":"xiangong","image_path":"/files/book/cover/36100/cover.jpg","leading_role":"打眼","id":36100,"book_name":"仙宫"}]

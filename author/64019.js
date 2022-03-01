@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鱼狱圄","customer_url":"s2-zhegewaiguaguoyuzhonger","image_path":"/files/book/cover/64082/cover.jpg","leading_role":"鱼狱圄","id":64082,"book_name":"这个外挂过于中二"}]

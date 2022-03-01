@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"世箜篌","customer_url":"s2-qiandaotianshigongxiashanyiwudi","image_path":"/files/book/cover/63179/cover.jpg","leading_role":"世箜篌","id":63179,"book_name":"签到天师宫，下山已无敌"}]

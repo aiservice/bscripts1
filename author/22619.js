@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"木牛流猫","customer_url":"shifujiadao","image_path":"/files/book/cover/22282/cover.jpg","leading_role":"木牛流猫","id":22282,"book_name":"师父驾到"}]

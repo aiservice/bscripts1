@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吃苹果的鸭子","customer_url":"s2-xiongmengdaolvyezhongshengle","image_path":"/files/book/cover/62520/cover.jpg","leading_role":"吃苹果的鸭子","id":62520,"book_name":"凶猛道侣也重生了"}]

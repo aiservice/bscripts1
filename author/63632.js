@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"维度论","customer_url":"s2-manongxiuzhen","image_path":"/files/book/cover/63526/cover.jpg","leading_role":"维度论","id":63526,"book_name":"码农修真"}]

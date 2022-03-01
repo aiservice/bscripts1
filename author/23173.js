@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雁九","customer_url":"damingwangzu","image_path":"/files/book/cover/31946/cover.jpg","leading_role":"雁九","id":31946,"book_name":"大明望族"}]

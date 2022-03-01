@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"白天太白","customer_url":"s2-renzaishenguogangchengrenjianshourongwu","image_path":"/files/book/cover/64371/cover.jpg","leading_role":"白天太白","id":64371,"book_name":"人在神国，刚成人间收容物"}]

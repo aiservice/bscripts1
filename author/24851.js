@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"咬火","customer_url":"zheliyouyaoqi","image_path":"/files/book/cover/30159/cover.jpg","leading_role":"方正","id":30159,"book_name":"这里有妖气"},{"author_name":"咬火","customer_url":"s2-baigudasheng","image_path":"/files/book/cover/63152/cover.jpg","leading_role":"咬火","id":63152,"book_name":"白骨大圣"}]

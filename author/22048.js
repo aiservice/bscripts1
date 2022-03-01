@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"姐姐的新娘","customer_url":"wenhuaruqinyishijie","image_path":"/files/book/cover/22522/cover.jpg","leading_role":"姐姐的新娘","id":22522,"book_name":"文化入侵异世界"}]

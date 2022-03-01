@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"关心则乱","customer_url":"yingshilvfeihongshou","image_path":"/files/book/cover/31950/cover.jpg","leading_role":"关心则乱","id":31950,"book_name":"知否知否应是绿肥红瘦"}]

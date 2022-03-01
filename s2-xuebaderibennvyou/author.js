@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"当青春幻想具现后","leading_role":"转角吻猪","author_name":"转角吻猪","image_path":"files/book/cover/64387/cover.jpg","customer_url":"s2-dangqingchunhuanxiangjuxianhou"}]

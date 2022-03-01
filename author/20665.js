@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"泰坦尼娅","customer_url":"wodefenshenshijidaodibing","image_path":"/files/book/cover/20112/cover.jpg","leading_role":"泰坦尼娅","id":20112,"book_name":"我的分身是极道帝兵"}]

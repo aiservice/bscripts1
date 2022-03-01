@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烽仙","customer_url":"s2-hongzhu","image_path":"/files/book/cover/64171/cover.jpg","leading_role":"烽仙","id":64171,"book_name":"洪主"}]

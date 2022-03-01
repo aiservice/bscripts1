@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"苍知","customer_url":"s2-zhejiushigeqiji","image_path":"/files/book/cover/63696/cover.jpg","leading_role":"苍知","id":63696,"book_name":"这就是个奇迹"}]

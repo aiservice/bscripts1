@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"带玉","customer_url":"wodetieshenxiaohua","image_path":"/files/book/cover/31799/cover.jpg","leading_role":"带玉","id":31799,"book_name":"我的贴身校花"}]

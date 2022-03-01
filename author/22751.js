@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"网络骑士","customer_url":"xukongchuangshiji","image_path":"/files/book/cover/22459/cover.jpg","leading_role":"网络骑士","id":22459,"book_name":"虚空创世纪"}]

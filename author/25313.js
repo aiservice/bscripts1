@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"惰堕","customer_url":"s2-jianzuguohe","image_path":"/files/book/cover/62592/cover.jpg","leading_role":"惰堕","id":62592,"book_name":"剑卒过河"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烟雨织轻愁","customer_url":"suishichuanyuemingmo","image_path":"/files/book/cover/23125/cover.jpg","leading_role":"烟雨织轻愁","id":23125,"book_name":"随时穿越明末"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华十一","customer_url":"huangshenguilai","image_path":"/files/book/cover/27169/cover.jpg","leading_role":"华十一","id":27169,"book_name":"荒神归来"}]

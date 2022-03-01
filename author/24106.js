@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"话凄凉","customer_url":"s2-wubuzhonghua","image_path":"/files/book/cover/63905/cover.jpg","leading_role":"话凄凉","id":63905,"book_name":"武布中华"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青子","customer_url":"maoshanzhuoguiren","image_path":"/files/book/cover/34979/cover.jpg","leading_role":"青子","id":34979,"book_name":"茅山捉鬼人"}]

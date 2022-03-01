@@ -1,1 +1,1 @@
-var authorList=[]
+var authorList=[{"image_path_min":"/files/book/cover/65904/cover.jpg","author_name":"李沧东","customer_url":"s3-luchuanyouxuduofen","image_path":"/files/book/cover/65904/cover.jpg","leading_role":"[韩]李沧东","book_name":"鹿川有许多粪"}]

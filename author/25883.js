@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"cuslaa","customer_url":"zaizhitianxia","image_path":"/files/book/cover/31944/cover.jpg","leading_role":"cuslaa","id":31944,"book_name":"宰执天下"}]

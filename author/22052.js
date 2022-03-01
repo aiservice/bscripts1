@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"我叫排云掌","customer_url":"zonghengzhutiandewuzhe","image_path":"/files/book/cover/31593/cover.jpg","leading_role":"我叫排云掌","id":31593,"book_name":"纵横诸天的武者"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青匆客","customer_url":"s2-zhutianduoyunlu","image_path":"/files/book/cover/62623/cover.jpg","leading_role":"青匆客","id":62623,"book_name":"诸天夺运路"}]

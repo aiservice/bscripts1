@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"捕梦者","customer_url":"moshikuangmiao","image_path":"/files/book/cover/29174/cover.jpg","leading_role":"左辰","id":29174,"book_name":"末世狂喵"}]

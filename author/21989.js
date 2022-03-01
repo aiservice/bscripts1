@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"全金属弹壳","customer_url":"s2-daochangshidaibianle","image_path":"/files/book/cover/64568/cover.jpg","leading_role":"全金属弹壳","id":64568,"book_name":"道长，时代变了"}]

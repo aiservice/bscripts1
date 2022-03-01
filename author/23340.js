@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"无罪","customer_url":"pingtiance","image_path":"/files/book/cover/24534/cover.jpg","leading_role":"无罪","id":24534,"book_name":"平天策"}]

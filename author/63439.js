@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"落寞随风","customer_url":"s2-manghuangjizhiwendaochangsheng","image_path":"/files/book/cover/65535/cover.jpg","leading_role":"落寞随风","id":65535,"book_name":"莽荒纪之问道长生"}]

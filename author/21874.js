@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"过关斩将","customer_url":"s2-zhongshengzhishiyedaheng","image_path":"/files/book/cover/62667/cover.jpg","leading_role":"过关斩将","id":62667,"book_name":"重生之实业大亨"}]

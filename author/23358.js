@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"无量小光","customer_url":"honghuangzhihongyundadao","image_path":"/files/book/cover/27042/cover.jpg","leading_role":"无量小光","id":27042,"book_name":"洪荒之红云大道"}]

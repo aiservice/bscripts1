@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"咸鱼洁南","customer_url":"s2-xuanhuanmoniqi","image_path":"/files/book/cover/62621/cover.jpg","leading_role":"咸鱼洁南","id":62621,"book_name":"玄幻模拟器"}]

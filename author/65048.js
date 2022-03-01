@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"空荡荡的书架","customer_url":"s2-zhegelurenguoyulengjing","image_path":"/files/book/cover/65523/cover.jpg","leading_role":"空荡荡的书架","id":65523,"book_name":"这个路人过于冷静"}]

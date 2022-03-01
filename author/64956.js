@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"璃Aki","customer_url":"s2-guimizhizhumonvdeziwei","image_path":"/files/book/cover/65400/cover.jpg","leading_role":"璃Aki","id":65400,"book_name":"诡秘之主：魔女的滋味"}]

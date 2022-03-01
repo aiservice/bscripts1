@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"甲鱼不是龟","customer_url":"dayaohou","image_path":"/files/book/cover/29156/cover.jpg","leading_role":"甲鱼不是龟","id":29156,"book_name":"大妖猴"}]

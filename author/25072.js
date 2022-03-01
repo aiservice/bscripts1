@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"忘川三途","customer_url":"s2-yingshiliemoren","image_path":"/files/book/cover/63173/cover.jpg","leading_role":"忘川三途","id":63173,"book_name":"影视猎魔人"}]

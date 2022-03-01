@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蒂九","customer_url":"s2-jiaoguancongwoshitezhongbingkaishi","image_path":"/files/book/cover/63375/cover.jpg","leading_role":"蒂九","id":63375,"book_name":"教官从我是特种兵开始"}]

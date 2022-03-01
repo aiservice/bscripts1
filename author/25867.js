@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"锦夏末","customer_url":"emoshaoyebiewenwo","image_path":"/files/book/cover/31919/cover.jpg","leading_role":"锦夏末","id":31919,"book_name":"恶魔少爷别吻我"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三生愚","customer_url":"s2-wudicongquanfadachengkaishi","image_path":"/files/book/cover/63178/cover.jpg","leading_role":"三生愚","id":63178,"book_name":"无敌从拳法大成开始"}]

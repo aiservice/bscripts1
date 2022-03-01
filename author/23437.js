@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"只想喝水","customer_url":"erhazhishenhua","image_path":"/files/book/cover/27307/cover.jpg","leading_role":"只想喝水","id":27307,"book_name":"二哈之神话"}]

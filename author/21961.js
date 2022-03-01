@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烟雨江南","customer_url":"yongyejunwang","image_path":"/files/book/cover/21420/cover.jpg","leading_role":"烟雨江南","id":21420,"book_name":"永夜君王"}]

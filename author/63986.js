@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海与夏","customer_url":"s2-waikejiaofu","image_path":"/files/book/cover/64033/cover.jpg","leading_role":"海与夏","id":64033,"book_name":"外科教父"}]

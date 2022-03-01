@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"米一克","customer_url":"s2-moumeimandechaojiwanjia","image_path":"/files/book/cover/65654/cover.jpg","leading_role":"米一克","id":65654,"book_name":"某美漫的超级玩家"}]

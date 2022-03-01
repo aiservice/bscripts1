@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小道不讲武德","customer_url":"s2-haoyuzhenxian","image_path":"/files/book/cover/64262/cover.jpg","leading_role":"小道不讲武德","id":64262,"book_name":"皓玉真仙"}]

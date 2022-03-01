@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"飞天鱼","customer_url":"wangushendi","image_path":"/files/book/cover/23043/cover.jpg","leading_role":"飞天鱼","id":23043,"book_name":"万古神帝"}]

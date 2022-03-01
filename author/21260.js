@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"符宝","customer_url":"zhaodaogebaozang","image_path":"/files/book/cover/29026/cover.jpg","leading_role":"符宝","id":29026,"book_name":"找到个宝藏"}]

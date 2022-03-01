@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"车够快","customer_url":"s2-huayuzhiliuliangtianwang","image_path":"/files/book/cover/64695/cover.jpg","leading_role":"车够快","id":64695,"book_name":"华娱之流量天王"}]

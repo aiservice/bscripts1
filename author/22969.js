@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阎ZK","customer_url":"s2-zhenyaobowuguan","image_path":"/files/book/cover/62607/cover.jpg","leading_role":"阎ZK","id":62607,"book_name":"镇妖博物馆"}]

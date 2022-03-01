@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"长腿大叔","customer_url":"s2-shiwuguiqikangricongduangepaoloukaishi","image_path":"/files/book/cover/65477/cover.jpg","leading_role":"长腿大叔","id":65477,"book_name":"士无归期：抗日从端个炮楼开始"}]

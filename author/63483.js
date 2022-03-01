@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"忽悠啊","customer_url":"s2-chengweiledaoyizhihou","image_path":"/files/book/cover/63250/cover.jpg","leading_role":"忽悠啊","id":63250,"book_name":"成为了道医之后"}]

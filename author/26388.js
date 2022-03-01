@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"懒鸟","customer_url":"s2-wobeipowalexieshendeqiangjiao","image_path":"/files/book/cover/64976/cover.jpg","leading_role":"懒鸟","id":64976,"book_name":"我被迫挖了邪神的墙脚"}]

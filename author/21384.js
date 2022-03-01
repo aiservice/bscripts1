@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雨天下雨","customer_url":"shangouhuangdi","image_path":"/files/book/cover/21650/cover.jpg","leading_role":"雨天下雨","id":21650,"book_name":"山沟皇帝"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Best Man","customer_url":"s2-lingqifusudepangmenzushi","image_path":"/files/book/cover/64232/cover.jpg","leading_role":"Best Man","id":64232,"book_name":"灵气复苏的旁门祖师"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"龟甲麻绳","customer_url":"s2-xiuxianwodezengyizhuangtaimeiyoushixian","image_path":"/files/book/cover/64992/cover.jpg","leading_role":"龟甲麻绳","id":64992,"book_name":"修仙！我的增益状态没有时限"}]

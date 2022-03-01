@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"我不会咕咕咕","customer_url":"s2-zhutiancongbeidikaishi","image_path":"/files/book/cover/63628/cover.jpg","leading_role":"我不会咕咕咕","id":63628,"book_name":"诸天从北帝开始"}]

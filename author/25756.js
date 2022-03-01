@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"解三千","customer_url":"jipinzhuoguixitong","image_path":"/files/book/cover/39400/cover.jpg","leading_role":"解三千","id":39400,"book_name":"极品捉鬼系统"}]

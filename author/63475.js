@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"愁啊愁","customer_url":"s2-xuanmenbuzhengzong","image_path":"/files/book/cover/64356/cover.jpg","leading_role":"愁啊愁","id":64356,"book_name":"玄门不正宗"}]

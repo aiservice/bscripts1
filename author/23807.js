@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"猪三不","customer_url":"s2-jiyindashidai","image_path":"/files/book/cover/62507/cover.jpg","leading_role":"猪三不","id":62507,"book_name":"基因大时代"}]

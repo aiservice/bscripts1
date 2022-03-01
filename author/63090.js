@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"天下白兔","customer_url":"s2-liaozhailuchangshengzhi","image_path":"/files/book/cover/62595/cover.jpg","leading_role":"天下白兔","id":62595,"book_name":"聊斋路长生志"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"背着家的蜗牛","customer_url":"gangtiehuangchao","image_path":"/files/book/cover/21974/cover.jpg","leading_role":"背着家的蜗牛","id":21974,"book_name":"钢铁皇朝"}]

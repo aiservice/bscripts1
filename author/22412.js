@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李氏唐朝","customer_url":"s2-wojiushichaojijingcha","image_path":"/files/book/cover/63750/cover.jpg","leading_role":"李氏唐朝","id":63750,"book_name":"我就是超级警察"}]

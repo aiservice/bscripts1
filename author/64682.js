@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孤木舟","customer_url":"s2-caiwuziyoulezenmeban","image_path":"/files/book/cover/65003/cover.jpg","leading_role":"孤木舟","id":65003,"book_name":"财务自由了怎么办"}]

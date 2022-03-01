@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"科幻大人","customer_url":"dianyingdamaoxian","image_path":"/files/book/cover/22405/cover.jpg","leading_role":"科幻大人","id":22405,"book_name":"电影大冒险"}]

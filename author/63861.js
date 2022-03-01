@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"酒乱神","customer_url":"s2-shenmifusuwoweiyanwang","image_path":"/files/book/cover/63859/cover.jpg","leading_role":"酒乱神","id":63859,"book_name":"神秘复苏：我为阎王"}]

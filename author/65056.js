@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"云隐深","customer_url":"s2-huogewozi1991","image_path":"/files/book/cover/65540/cover.jpg","leading_role":"云隐深","id":65540,"book_name":"霍格沃兹1991"}]

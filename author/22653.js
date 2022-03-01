@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"突然光和热","customer_url":"mengshenxintu","image_path":"/files/book/cover/23089/cover.jpg","leading_role":"突然光和热","id":23089,"book_name":"萌神信徒"}]

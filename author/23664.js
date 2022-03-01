@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"牧尘客","customer_url":"diguochixiang","image_path":"/files/book/cover/29522/cover.jpg","leading_role":"陈旭","id":29522,"book_name":"帝国吃相"}]

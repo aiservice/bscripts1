@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"鱼丸酱醋米","customer_url":"zhanshenrongyao","image_path":"/files/book/cover/22368/cover.jpg","leading_role":"鱼丸酱醋米","id":22368,"book_name":"战神荣耀"}]

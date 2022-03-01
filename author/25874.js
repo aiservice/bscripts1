@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巅峰的神","customer_url":"xiaoyuankuangshao","image_path":"/files/book/cover/31930/cover.jpg","leading_role":"巅峰的神","id":31930,"book_name":"校园狂少"}]

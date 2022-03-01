@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金色茉莉花","customer_url":"wodeshikongchuansuoshouji","image_path":"/files/book/cover/21546/cover.jpg","leading_role":"安阳","id":21546,"book_name":"我的时空穿梭手机"}]

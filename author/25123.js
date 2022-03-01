@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"当年烟火","customer_url":"s2-wozaidangpujianbaodenaxienian","image_path":"/files/book/cover/64231/cover.jpg","leading_role":"当年烟火","id":64231,"book_name":"我在当铺鉴宝的那些年"}]

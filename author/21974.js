@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"二目","customer_url":"fangkaineigenuwu","image_path":"/files/book/cover/21447/cover.jpg","leading_role":"二目","id":21447,"book_name":"放开那个女巫"},{"author_name":"二目","customer_url":"s2-tiandaofangchengshi","image_path":"/files/book/cover/62582/cover.jpg","leading_role":"二目","id":62582,"book_name":"天道方程式"}]

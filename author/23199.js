@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"假星","customer_url":"chaojigongxiangjinshouzhi","image_path":"/files/book/cover/23017/cover.jpg","leading_role":"假星","id":23017,"book_name":"超级共享金手指"}]

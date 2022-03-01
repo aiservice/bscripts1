@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"每天敲键盘","customer_url":"s2-wobangjialeshijianxian","image_path":"/files/book/cover/64725/cover.jpg","leading_role":"每天敲键盘","id":64725,"book_name":"我绑架了时间线"}]

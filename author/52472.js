@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"秋明山狐狸","customer_url":"wudicongshenjixuanzekaishi","image_path":"/files/book/cover/42805/cover.jpg","leading_role":"秋明山狐狸","id":42805,"book_name":"无敌从神级选择开始"}]

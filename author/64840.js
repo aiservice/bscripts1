@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"飞鱼转身","customer_url":"s2-kaijuzhaohuanxichangchanghua","image_path":"/files/book/cover/65224/cover.jpg","leading_role":"飞鱼转身","id":65224,"book_name":"开局召唤西厂厂花"}]

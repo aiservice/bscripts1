@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"泡沫之夏","leading_role":"明晓溪","image_path_min":"/files/book/cover/31920/cover_120.jpg","author_name":"明晓溪","image_path":"/files/book/cover/31920/cover.jpg","customer_url":"paomozhixia"}]

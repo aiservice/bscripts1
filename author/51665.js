@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿刀刀","customer_url":"diyizhuixu","image_path":"/files/book/cover/41800/cover.jpg","leading_role":"阿刀刀","id":41800,"book_name":"第一赘婿"}]

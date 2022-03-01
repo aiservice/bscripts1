@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"EK巧克力","customer_url":"chaoxingkongjueqi","image_path":"/files/book/cover/30129/cover.jpg","leading_role":"EK巧克力","id":30129,"book_name":"超星空崛起"}]

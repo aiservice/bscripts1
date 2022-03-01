@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"牧狐","customer_url":"chaoweishushi","image_path":"/files/book/cover/20316/cover.jpg","leading_role":"牧狐","id":20316,"book_name":"超维术士"}]

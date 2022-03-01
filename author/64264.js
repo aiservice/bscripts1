@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"心有浩然气","customer_url":"s2-kaijujiangliqizhangrenwuka","image_path":"/files/book/cover/64428/cover.jpg","leading_role":"心有浩然气","id":64428,"book_name":"开局奖励七张人物卡"}]

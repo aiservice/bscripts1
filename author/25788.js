@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙晓","customer_url":"yingxiongzhi","image_path":"/files/book/cover/31781/cover.jpg","leading_role":"孙晓","id":31781,"book_name":"英雄志"}]

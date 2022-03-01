@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"缺悦","customer_url":"nazuojianghunageren","image_path":"/files/book/cover/35185/cover.jpg","leading_role":"缺悦","id":35185,"book_name":"那座江湖那个人"}]

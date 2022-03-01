@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"北獠","customer_url":"s2-changyexing","image_path":"/files/book/cover/63716/cover.jpg","leading_role":"北獠","id":63716,"book_name":"长夜行"}]

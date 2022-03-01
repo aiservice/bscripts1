@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马月猴年","customer_url":"s2-guisanguo","image_path":"/files/book/cover/63397/cover.jpg","leading_role":"马月猴年","id":63397,"book_name":"诡三国"}]

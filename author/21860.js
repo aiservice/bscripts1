@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"肉末大茄子","customer_url":"lantanzhikejinwudi","image_path":"/files/book/cover/32850/cover.jpg","leading_role":"肉末大茄子","id":32850,"book_name":"篮坛之氪金无敌"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"偷名","customer_url":"s2-wodehuisurensheng","image_path":"/files/book/cover/64303/cover.jpg","leading_role":"偷名","id":64303,"book_name":"我的回塑人生"}]

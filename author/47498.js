@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"油炸咸鱼","customer_url":"s2-bukesiyideshanhai","image_path":"/files/book/cover/63242/cover.jpg","leading_role":"油炸咸鱼","id":63242,"book_name":"不可思议的山海"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"醉虎","customer_url":"baiyinbazhu","image_path":"/files/book/cover/23009/cover.jpg","leading_role":"醉虎","id":23009,"book_name":"白银霸主"},{"author_name":"醉虎","customer_url":"s2-huangjinzhaohuanshi","image_path":"/files/book/cover/63154/cover.jpg","leading_role":"醉虎","id":63154,"book_name":"黄金召唤师"}]

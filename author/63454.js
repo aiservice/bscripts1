@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迷路的太阳帆","customer_url":"s2-shenmizhipeizhe","image_path":"/files/book/cover/63197/cover.jpg","leading_role":"迷路的太阳帆","id":63197,"book_name":"神秘支配者"}]

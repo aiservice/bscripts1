@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"可怜的懒虫","customer_url":"s2-xiyouwotineiyoujiuzhijinwu","image_path":"/files/book/cover/65503/cover.jpg","leading_role":"可怜的懒虫","id":65503,"book_name":"西游，我体内有九只金乌"}]

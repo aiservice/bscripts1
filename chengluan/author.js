@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"天芳","leading_role":"云芨","image_path_min":"files/book/cover/46339/cover_120.jpg","author_name":"云芨","image_path":"files/book/cover/46339/cover.jpg","customer_url":"tianfang"}]

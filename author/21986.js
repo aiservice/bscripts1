@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"七只跳蚤","customer_url":"dianyingshijiedadao","image_path":"/files/book/cover/21479/cover.jpg","leading_role":"七只跳蚤","id":21479,"book_name":"电影世界大盗"}]

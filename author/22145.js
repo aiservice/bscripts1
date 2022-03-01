@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三天两觉","customer_url":"zhoulin","image_path":"/files/book/cover/29021/cover.jpg","leading_role":"三天两觉","id":29021,"book_name":"纣临"}]

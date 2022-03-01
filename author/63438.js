@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"极品豆芽","customer_url":"s2-wojianiangzibushiyao","image_path":"/files/book/cover/63160/cover.jpg","leading_role":"极品豆芽","id":63160,"book_name":"我家娘子不是妖"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玖月晞","customer_url":"tazhidaofengcongnagefangxiang","image_path":"/files/book/cover/31939/cover.jpg","leading_role":"玖月晞","id":31939,"book_name":"他知道风从哪个方向来"}]

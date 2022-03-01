@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"酒池醉","customer_url":"shenchongjinhua","image_path":"/files/book/cover/29974/cover.jpg","leading_role":"高鹏","id":29974,"book_name":"神宠进化"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雨打青石","customer_url":"s2-kouwenxiandao","image_path":"/files/book/cover/63714/cover.jpg","leading_role":"雨打青石","id":63714,"book_name":"叩问仙道"}]

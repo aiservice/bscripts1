@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"星辰雨","customer_url":"s2-wanjiedaqiangdao","image_path":"/files/book/cover/65286/cover.jpg","leading_role":"星辰雨","id":65286,"book_name":"万界大强盗"}]

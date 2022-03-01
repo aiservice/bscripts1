@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一亿八千武","customer_url":"VRgeming","image_path":"/files/book/cover/22288/cover.jpg","leading_role":"一亿八千武","id":22288,"book_name":"VR革命"}]

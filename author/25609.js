@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"云芨","customer_url":"chengluan","image_path":"/files/book/cover/31485/cover.jpg","leading_role":"云芨","id":31485,"book_name":"乘鸾"}]

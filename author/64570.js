@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"狂龙宇恒","customer_url":"s2-chaonengjiaoyisuo","image_path":"/files/book/cover/64832/cover.jpg","leading_role":"狂龙宇恒","id":64832,"book_name":"超能交易所"}]

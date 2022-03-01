@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"石闻","customer_url":"liangjiebanyungong","image_path":"/files/book/cover/21503/cover.jpg","leading_role":"石闻","id":21503,"book_name":"两界搬运工"}]

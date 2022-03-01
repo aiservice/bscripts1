@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"七月未时","customer_url":"s2-daweidushuren","image_path":"/files/book/cover/64746/cover.jpg","leading_role":"七月未时","id":64746,"book_name":"大魏读书人"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"石三","customer_url":"cangqiongzhishang","image_path":"/files/book/cover/27902/cover.jpg","leading_role":"石三","id":27902,"book_name":"苍穹之上"}]

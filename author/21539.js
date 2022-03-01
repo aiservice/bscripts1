@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梦入洪荒","customer_url":"zhigaoshiming","image_path":"/files/book/cover/20856/cover.jpg","leading_role":"梦入洪荒","id":20856,"book_name":"至高使命"}]

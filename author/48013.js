@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小呆昭","customer_url":"s2-xiandangeiniduyaoguiwo","image_path":"/files/book/cover/63233/cover.jpg","leading_role":"小呆昭","id":63233,"book_name":"仙丹给你毒药归我"}]

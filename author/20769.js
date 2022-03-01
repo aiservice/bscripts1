@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"暗魔师","customer_url":"wushenzhuzai","image_path":"/files/book/cover/20217/cover.jpg","leading_role":"暗魔师","id":20217,"book_name":"武神主宰"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"真愚老人","customer_url":"s2-changshengzhiyikaijucaishikoubeizhanshou","image_path":"/files/book/cover/64168/cover.jpg","leading_role":"真愚老人","id":64168,"book_name":"长生志异，开局菜市口被斩首"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"知白","customer_url":"changningdijun","image_path":"/files/book/cover/31359/cover.jpg","leading_role":"知白","id":31359,"book_name":"长宁帝军"}]

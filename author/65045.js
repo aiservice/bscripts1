@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卢锅巴","customer_url":"s2-xianwushijiekaijuludijianxian","image_path":"/files/book/cover/65520/cover.jpg","leading_role":"卢锅巴","id":65520,"book_name":"仙武世界：开局陆地剑仙"}]

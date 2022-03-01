@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一梦黄粱","customer_url":"laonayaohaisu","image_path":"/files/book/cover/20917/cover.jpg","leading_role":"一梦黄粱","id":20917,"book_name":"老衲要还俗"}]

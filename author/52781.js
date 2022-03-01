@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"神行汉堡","customer_url":"s2-wodemishushihuyao","image_path":"/files/book/cover/65298/cover.jpg","leading_role":"神行汉堡","id":65298,"book_name":"我的秘书是狐妖"}]

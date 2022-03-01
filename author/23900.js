@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"相思洗红豆","customer_url":"s2-quanqiuyouxihuashenjineicewanjia","image_path":"/files/book/cover/62517/cover.jpg","leading_role":"相思洗红豆","id":62517,"book_name":"全球游戏化：神级内测玩家"}]

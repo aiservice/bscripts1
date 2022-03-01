@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"跳舞","customer_url":"tianqizhimen","image_path":"/files/book/cover/31753/cover.jpg","leading_role":"跳舞","id":31753,"book_name":"天启之门"},{"author_name":"跳舞","customer_url":"s2-wenzhubielang","image_path":"/files/book/cover/62682/cover.jpg","leading_role":"跳舞","id":62682,"book_name":"稳住别浪"}]

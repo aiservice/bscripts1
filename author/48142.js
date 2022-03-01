@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"如墨似血","customer_url":"shenjichabansheng","image_path":"/files/book/cover/35318/cover.jpg","leading_role":"如墨似血","id":35318,"book_name":"神级插班生"}]

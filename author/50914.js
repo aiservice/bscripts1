@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乘风而上","customer_url":"bingshanzongcaidetieshenshenyi","image_path":"/files/book/cover/40031/cover.jpg","leading_role":"乘风而上","id":40031,"book_name":"冰山总裁的贴身神医"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"会发光的风","customer_url":"s2-conglihunkaishidewenyu","image_path":"/files/book/cover/63335/cover.jpg","leading_role":"会发光的风","id":63335,"book_name":"从离婚开始的文娱"}]

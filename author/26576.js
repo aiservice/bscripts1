@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青空洗雨","customer_url":"suishendaigeshouliekongjian","image_path":"/files/book/cover/32984/cover.jpg","leading_role":"青空洗雨","id":32984,"book_name":"随身带个狩猎空间"}]

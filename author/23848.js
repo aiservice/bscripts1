@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黑山老鬼","customer_url":"s2-conghongyuekaishi","image_path":"/files/book/cover/62921/cover.jpg","leading_role":"黑山老鬼","id":62921,"book_name":"从红月开始"}]

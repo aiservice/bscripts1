@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"夜独醉","customer_url":"s2-laoshikuailai","image_path":"/files/book/cover/64607/cover.jpg","leading_role":"夜独醉","id":64607,"book_name":"老师快来"}]

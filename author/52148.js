@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"醉酒赏月夜","customer_url":"zhutian","image_path":"/files/book/cover/42385/cover.jpg","leading_role":"顾易","id":42385,"book_name":"诸天"}]

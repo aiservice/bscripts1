@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"秋成水","customer_url":"zhongshengzhijianzhuwangchao","image_path":"/files/book/cover/29438/cover.jpg","leading_role":"秋成水","id":29438,"book_name":"重生之建筑王朝"}]

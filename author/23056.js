@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"念响","customer_url":"yinyangguizhou","image_path":"/files/book/cover/22823/cover.jpg","leading_role":"念响","id":22823,"book_name":"阴阳鬼咒"}]

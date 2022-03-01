@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"烤饺","customer_url":"s2-daizheyiyuanhui80nian","image_path":"/files/book/cover/65153/cover.jpg","leading_role":"烤饺","id":65153,"book_name":"带着医院回80年"}]

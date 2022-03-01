@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"死磕","customer_url":"wuqiongzhanyu","image_path":"/files/book/cover/27381/cover.jpg","leading_role":"死磕","id":27381,"book_name":"无穹战域"}]

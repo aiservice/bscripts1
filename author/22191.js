@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"卧牛真人","customer_url":"xiuzhensiwannian","image_path":"/files/book/cover/21765/cover.jpg","leading_role":"卧牛真人","id":21765,"book_name":"修真四万年（《星域四万年》）"}]

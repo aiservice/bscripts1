@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"幸福来敲门","customer_url":"damingwenkui","image_path":"/files/book/cover/21868/cover.jpg","leading_role":"林延潮","id":21868,"book_name":"大明文魁"}]

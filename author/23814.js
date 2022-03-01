@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"锋临天下","customer_url":"zhongshengguoqudangshenchu","image_path":"/files/book/cover/28339/cover.jpg","leading_role":"锋临天下","id":28339,"book_name":"重生过去当神厨"}]

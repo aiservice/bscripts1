@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"能优斯特","customer_url":"s2-doumixianyuan","image_path":"/files/book/cover/63722/cover.jpg","leading_role":"能优斯特","id":63722,"book_name":"斗米仙缘"}]

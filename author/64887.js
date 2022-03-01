@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"万相之王","customer_url":"s2-fangsipinsengyaoduhuani","image_path":"/files/book/cover/65291/cover.jpg","leading_role":"万相之王","id":65291,"book_name":"放肆！贫僧要渡化你"}]

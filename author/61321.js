@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刀削面加蛋","customer_url":"s2-niliu1982","image_path":"/files/book/cover/63743/cover.jpg","leading_role":"刀削面加蛋","id":63743,"book_name":"逆流1982"}]

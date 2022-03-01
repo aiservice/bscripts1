@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"秋月春风矣","customer_url":"qingshanyijiuzaijiduxiyanghong","image_path":"/files/book/cover/27563/cover.jpg","leading_role":"秋月春风矣","id":27563,"book_name":"青山依旧在，几度夕阳红"}]

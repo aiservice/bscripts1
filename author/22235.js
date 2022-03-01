@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"南希北庆","customer_url":"s2-zhoutianzi","image_path":"/files/book/cover/65019/cover.jpg","leading_role":"南希北庆","id":65019,"book_name":"周天子"}]

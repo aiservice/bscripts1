@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大地风车","customer_url":"s2-pujiangdong","image_path":"/files/book/cover/65119/cover.jpg","leading_role":"大地风车","id":65119,"book_name":"浦江东"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"太白水君","customer_url":"s2-wujinweidudeleyuan","image_path":"/files/book/cover/63122/cover.jpg","leading_role":"太白水君","id":63122,"book_name":"无尽维度的乐园"}]

@@ -1,1 +1,1 @@
-var authorList=[]
+var authorList=[{"image_path_min":"/files/book/cover/65701/cover.jpg","author_name":"村上春树","customer_url":"s3-diyirenchengdanshu","image_path":"/files/book/cover/65701/cover.jpg","leading_role":" [日]村上春树","book_name":"第一人称单数"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"新小栋","customer_url":"s2-liangjianshaziguanchuishibanquanchengtezhongbing","image_path":"/files/book/cover/65717/cover.jpg","leading_role":"新小栋","id":65717,"book_name":"亮剑：傻子管炊事班，全成特种兵"}]

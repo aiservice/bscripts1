@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"静谧启示录","customer_url":"s2-douluozhenjingwochenglebibidong","image_path":"/files/book/cover/64903/cover.jpg","leading_role":"静谧启示录","id":64903,"book_name":"斗罗：震惊，我成了比比东"}]

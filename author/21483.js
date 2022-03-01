@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"zhttty","customer_url":"s2-honghuangli","image_path":"/files/book/cover/62573/cover.jpg","leading_role":"zhttty","id":62573,"book_name":"洪荒历"}]

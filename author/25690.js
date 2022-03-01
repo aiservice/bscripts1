@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"日日生","customer_url":"s2-wozailiuchaochuandao","image_path":"/files/book/cover/64378/cover.jpg","leading_role":"日日生","id":64378,"book_name":"我在六朝传道"}]

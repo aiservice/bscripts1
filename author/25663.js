@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"第七重奏01","customer_url":"s2-anheipohuaishenzhihuimie","image_path":"/files/book/cover/62867/cover.jpg","leading_role":"第七重奏01","id":62867,"book_name":"暗黑破坏神之毁灭"}]

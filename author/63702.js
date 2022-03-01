@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"破竹长虹","customer_url":"s2-gouzaiwuyinmendangshushinaxienian","image_path":"/files/book/cover/64363/cover.jpg","leading_role":"破竹长虹","id":64363,"book_name":"苟在雾隐门当术士那些年"}]

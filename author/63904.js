@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"岳不懂","customer_url":"s2-tiantingqiandaozhongyudenglaidanaotiangong","image_path":"/files/book/cover/63918/cover.jpg","leading_role":"岳不懂","id":63918,"book_name":"天庭签到，终于等来大闹天宫"}]

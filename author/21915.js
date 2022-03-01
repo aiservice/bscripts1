@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朱郎才尽","customer_url":"hanmenjueqi","image_path":"/files/book/cover/21339/cover.jpg","leading_role":"朱郎才尽","id":21339,"book_name":"寒门崛起"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"楼下水如天","customer_url":"s2-wodeshichangfengtiankui","image_path":"/files/book/cover/62752/cover.jpg","leading_role":"楼下水如天","id":62752,"book_name":"我的师长冯天魁"}]

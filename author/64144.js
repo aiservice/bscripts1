@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"泰剑","customer_url":"s2-zhiguaishijiedepangmendaoshi","image_path":"/files/book/cover/64260/cover.jpg","leading_role":"泰剑","id":64260,"book_name":"志怪世界的旁门道士"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王小蛮","customer_url":"gaishixianzun","image_path":"/files/book/cover/21324/cover.jpg","leading_role":"王小蛮","id":21324,"book_name":"盖世仙尊"}]

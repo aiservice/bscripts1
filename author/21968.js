@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"当年离歌","customer_url":"jipoxinghe","image_path":"/files/book/cover/21434/cover.jpg","leading_role":"沐凡","id":21434,"book_name":"机破星河"}]

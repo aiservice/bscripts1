@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"枫叶缀","customer_url":"longzhuzhizuiqiangshenhua","image_path":"/files/book/cover/22636/cover.jpg","leading_role":"夏亚","id":22636,"book_name":"龙珠之最强神话"}]

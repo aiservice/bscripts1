@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"颓废的阑珊","customer_url":"s2-congxuhuandaozhenshidechuangshizhilv","image_path":"/files/book/cover/64745/cover.jpg","leading_role":"颓废的阑珊","id":64745,"book_name":"从虚幻到真实的创世之旅"}]

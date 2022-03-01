@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈风笑","customer_url":"dashujuxiuxian","image_path":"/files/book/cover/28240/cover.jpg","leading_role":"冯君","id":28240,"book_name":"大数据修仙"}]

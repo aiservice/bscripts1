@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"路过的穿越者","customer_url":"s2-zuzhouzhilong","image_path":"/files/book/cover/63195/cover.jpg","leading_role":"路过的穿越者","id":63195,"book_name":"诅咒之龙"}]

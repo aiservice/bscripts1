@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"血红","customer_url":"wanjietianzun","image_path":"/files/book/cover/20167/cover.jpg","leading_role":"血红","id":20167,"book_name":"万界天尊"},{"author_name":"血红","customer_url":"shenglongdao","image_path":"/files/book/cover/32649/cover.jpg","leading_role":"血红","id":32649,"book_name":"升龙道"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"战袍染血","customer_url":"s2-yirendedao","image_path":"/files/book/cover/63248/cover.jpg","leading_role":"战袍染血","id":63248,"book_name":"一人得道"}]

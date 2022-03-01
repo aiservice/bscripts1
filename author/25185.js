@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"九宫格夫妻","customer_url":"s2-liuxiewozhendezhixiangshanranga","image_path":"/files/book/cover/64905/cover.jpg","leading_role":"九宫格夫妻","id":64905,"book_name":"刘协：我真的只想禅让啊！"}]

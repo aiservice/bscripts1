@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"关关公子","customer_url":"s2-taimang","image_path":"/files/book/cover/64167/cover.jpg","leading_role":"关关公子","id":64167,"book_name":"太莽"}]

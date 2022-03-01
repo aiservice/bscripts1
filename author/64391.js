@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"三分糊涂","customer_url":"s2-1991congxinkaishi","image_path":"/files/book/cover/64606/cover.jpg","leading_role":"三分糊涂","id":64606,"book_name":"1991从芯开始"}]

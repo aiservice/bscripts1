@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"会做菜的猫","customer_url":"meishigongyingshang","image_path":"/files/book/cover/31811/cover.jpg","leading_role":"会做菜的猫","id":31811,"book_name":"美食供应商"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"听日","customer_url":"s2-shushishouce","image_path":"/files/book/cover/64228/cover.jpg","leading_role":"听日","id":64228,"book_name":"术师手册"}]

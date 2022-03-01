@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迪巴拉爵士","customer_url":"daizhecangkudaodaming","image_path":"/files/book/cover/21878/cover.jpg","leading_role":"迪巴拉爵士","id":21878,"book_name":"带着仓库到大明"},{"author_name":"迪巴拉爵士","customer_url":"s2-datangsaobaxing","image_path":"/files/book/cover/62815/cover.jpg","leading_role":"迪巴拉爵士","id":62815,"book_name":"大唐扫把星"}]

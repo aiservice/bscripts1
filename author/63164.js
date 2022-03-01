@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"温岭人","customer_url":"s2-baishoudangjia","image_path":"/files/book/cover/62721/cover.jpg","leading_role":"温岭人","id":62721,"book_name":"白手当家"}]

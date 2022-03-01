@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"达根之神力","customer_url":"s2-dianxiabiezheyang","image_path":"/files/book/cover/63206/cover.jpg","leading_role":"达根之神力","id":63206,"book_name":"殿下别这样"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"镔铁","customer_url":"s2-zhongshengjueqixiangjiang","image_path":"/files/book/cover/64461/cover.jpg","leading_role":"镔铁","id":64461,"book_name":"重生：崛起香江"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"手握寸关尺","customer_url":"dangyishengkailewaigua","image_path":"/files/book/cover/44268/cover.jpg","leading_role":"手握寸关尺","id":44268,"book_name":"当医生开了外挂"}]

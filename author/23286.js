@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"若忘书","customer_url":"shenqimuchang","image_path":"/files/book/cover/23117/cover.jpg","leading_role":"若忘书","id":23117,"book_name":"神奇牧场"}]

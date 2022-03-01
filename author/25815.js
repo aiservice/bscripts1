@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"秦简","customer_url":"jinxiuweiyang","image_path":"/files/book/cover/31828/cover.jpg","leading_role":"秦简","id":31828,"book_name":"锦绣未央"}]

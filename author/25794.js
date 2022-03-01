@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"争斤论两花花帽","customer_url":"wode1979","image_path":"/files/book/cover/31795/cover.jpg","leading_role":"争斤论两花花帽","id":31795,"book_name":"我的1979"}]

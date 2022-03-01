@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"废纸桥","customer_url":"s2-wanjiejingjikaijuwoxuanzhangsanfeng","image_path":"/files/book/cover/65108/cover.jpg","leading_role":"废纸桥","id":65108,"book_name":"万界竞技，开局我选张三丰"}]

@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"牧神记","leading_role":"秦牧","author_name":"宅猪","image_path":"files/book/cover/24528/cover.jpg","customer_url":"mushenji"},{"book_name":"帝尊","leading_role":"宅猪","author_name":"宅猪","image_path":"files/book/cover/31779/cover.jpg","customer_url":"dizun"}]

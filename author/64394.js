@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈少维","customer_url":"s2-yigexiaoshouyuandezibaishu","image_path":"/files/book/cover/64612/cover.jpg","leading_role":"陈少维","id":64612,"book_name":"一个销售员的自白书"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"封七月","customer_url":"zuiqiangfanpaixitong","image_path":"/files/book/cover/21370/cover.jpg","leading_role":"封七月","id":21370,"book_name":"最强反派系统"}]

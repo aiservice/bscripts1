@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小刀锋利","customer_url":"wujiang","image_path":"/files/book/cover/20484/cover.jpg","leading_role":"小刀锋利","id":20484,"book_name":"无疆"}]

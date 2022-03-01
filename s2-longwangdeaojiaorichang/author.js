@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"终极教师","leading_role":"柳下挥","author_name":"柳下挥","image_path":"files/book/cover/31931/cover.jpg","customer_url":"zhongjijiaoshi"},{"book_name":"同桌凶猛","leading_role":"柳下挥","author_name":"柳下挥","image_path":"files/book/cover/32864/cover.jpg","customer_url":"tongzhuoxiongmeng"}]

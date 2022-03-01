@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"墨池涌泉","customer_url":"s2-zhutianzhifaqiujiangjun","image_path":"/files/book/cover/63680/cover.jpg","leading_role":"墨池涌泉","id":63680,"book_name":"诸天之发丘将军"}]

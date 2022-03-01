@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗飞羽","customer_url":"s2-wodeshibaoxitong","image_path":"/files/book/cover/64064/cover.jpg","leading_role":"罗飞羽","id":64064,"book_name":"我的识宝系统"}]

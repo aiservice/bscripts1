@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"南瞻台","customer_url":"s2-woyouyikeshenhuashu","image_path":"/files/book/cover/63158/cover.jpg","leading_role":"南瞻台","id":63158,"book_name":"我有一棵神话树"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"夜雨闻铃0","customer_url":"doupocangqiongzhiwushangzhijing","image_path":"/files/book/cover/31973/cover.jpg","leading_role":"夜雨闻铃0","id":31973,"book_name":"斗破苍穹之无上之境"}]

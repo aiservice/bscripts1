@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"魁废","customer_url":"qianqiubazhu","image_path":"/files/book/cover/27096/cover.jpg","leading_role":"魁废","id":27096,"book_name":"千秋霸主"}]

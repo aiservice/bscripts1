@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"山中道人","customer_url":"dushixianzun","image_path":"/files/book/cover/31806/cover.jpg","leading_role":"山中道人","id":31806,"book_name":"都市仙尊"}]

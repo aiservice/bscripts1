@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斜线和弦","customer_url":"s2-feiyuepaomoshidai","image_path":"/files/book/cover/63736/cover.jpg","leading_role":"斜线和弦","id":63736,"book_name":"飞越泡沫时代"}]

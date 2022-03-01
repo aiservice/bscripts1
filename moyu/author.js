@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"圣武星辰","leading_role":"乱世狂刀","image_path_min":"/styles/index/images/noimage.jpg","author_name":"乱世狂刀","image_path":"/styles/index/images/noimage.jpg","customer_url":"shengwuxingchen"}]

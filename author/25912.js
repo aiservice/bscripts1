@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"微笑的猫","customer_url":"bufengmobuchenghuo","image_path":"/files/book/cover/31987/cover.jpg","leading_role":"叶臻","id":31987,"book_name":"不疯魔不成活"}]

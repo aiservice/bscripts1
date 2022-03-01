@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黑暗崛起","customer_url":"tezhongjiaoshi","image_path":"/files/book/cover/28406/cover.jpg","leading_role":"黑暗崛起","id":28406,"book_name":"特种教师"}]

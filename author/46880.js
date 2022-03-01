@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"历史系之狼","customer_url":"s2-jiandaoyizhishihuangdi","image_path":"/files/book/cover/63380/cover.jpg","leading_role":"历史系之狼","id":63380,"book_name":"捡到一只始皇帝"}]

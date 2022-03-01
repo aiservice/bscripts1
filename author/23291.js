@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"闲檀","customer_url":"shenjicharen","image_path":"/files/book/cover/23124/cover.jpg","leading_role":"闲檀","id":23124,"book_name":"神级茶人"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"流泪的鱼wyj","customer_url":"dushizhixiandiguilai","image_path":"/files/book/cover/30413/cover.jpg","leading_role":"流泪的鱼wyj","id":30413,"book_name":"都市之仙帝归来"},{"author_name":"流泪的鱼wyj","customer_url":"tiexuedeyizhi","image_path":"/files/book/cover/21709/cover.jpg","leading_role":"流泪的鱼wyj","id":21709,"book_name":"铁血德意志"}]

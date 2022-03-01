@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"MS芙子","customer_url":"shenyiqinv","image_path":"/files/book/cover/32815/cover.jpg","leading_role":"MS芙子","id":32815,"book_name":"神医弃女"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"摇摇-欲坠","customer_url":"wodedamingxindiguo","image_path":"/files/book/cover/31566/cover.jpg","leading_role":"摇摇-欲坠","id":31566,"book_name":"我的大明新帝国"}]

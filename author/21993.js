@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"巫九","customer_url":"yinyangguishu","image_path":"/files/book/cover/21512/cover.jpg","leading_role":"巫九","id":21512,"book_name":"阴阳鬼术"}]

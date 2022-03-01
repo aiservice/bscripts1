@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蟒雀","customer_url":"s2-congkuileihuangzidaoheiyejunwang","image_path":"/files/book/cover/64989/cover.jpg","leading_role":"蟒雀","id":64989,"book_name":"从傀儡皇子到黑夜君王"}]

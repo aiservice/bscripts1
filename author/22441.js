@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"寒雪独立人","customer_url":"baoxiaobingwang","image_path":"/files/book/cover/22071/cover.jpg","leading_role":"寒雪独立人","id":22071,"book_name":"爆笑兵王"}]

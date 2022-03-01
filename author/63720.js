@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"升斗烟民","customer_url":"s2-qiandaocongbukuaikaishi","image_path":"/files/book/cover/63659/cover.jpg","leading_role":"升斗烟民","id":63659,"book_name":"签到从捕快开始"}]

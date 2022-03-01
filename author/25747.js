@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"关乌鸦","customer_url":"zhegemingxinglaizidiqiu","image_path":"/files/book/cover/31691/cover.jpg","leading_role":"关乌鸦","id":31691,"book_name":"这个明星来自地球"}]

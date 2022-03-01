@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"我把系统安排了","leading_role":"木恒","image_path_min":"/files/book/cover/42118/cover_120.jpg","author_name":"木恒","image_path":"/files/book/cover/42118/cover.jpg","customer_url":"wobaxitonganpaile"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"天子","customer_url":"hanmenzhuangyuan","image_path":"/files/book/cover/21848/cover.jpg","leading_role":"天子","id":21848,"book_name":"寒门状元"}]

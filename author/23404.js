@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊奈","customer_url":"yutian","image_path":"/files/book/cover/27182/cover.jpg","leading_role":"伊奈","id":27182,"book_name":"余天"}]

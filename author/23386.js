@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洛添衣","customer_url":"yijiechongshouzongdongyuan","image_path":"/files/book/cover/27133/cover.jpg","leading_role":"洛添衣","id":27133,"book_name":"异界虫兽总动员"}]

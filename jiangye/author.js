@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"择天记","leading_role":"陈长生","author_name":"猫腻","image_path":"files/book/cover/21323/cover.jpg","customer_url":"zetianji"},{"book_name":"庆余年","leading_role":"猫腻","author_name":"猫腻","image_path":"files/book/cover/62823/cover.jpg","customer_url":"s2-qingyunian"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"亚伯拉罕·马斯洛","customer_url":"s3-renxingnengdadaodejingjie","image_path":"/files/book/cover/65938/cover.jpg","leading_role":"[美]亚伯拉罕·马斯洛","id":65938,"book_name":"人性能达到的境界"}]

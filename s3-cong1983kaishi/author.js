@@ -1,1 +1,0 @@
-var authorList=[{"book_name":"顾道长生","leading_role":"睡觉会变白","author_name":"睡觉会变白","image_path":"files/book/cover/21040/cover.jpg","customer_url":"gudaozhangsheng"},{"book_name":"这不是娱乐","leading_role":"睡觉会变白","author_name":"睡觉会变白","image_path":"files/book/cover/64239/cover.jpg","customer_url":"s2-zhebushiyule"}]

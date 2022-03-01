@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"Priest","customer_url":"zhenhun","image_path":"/files/book/cover/31735/cover.jpg","leading_role":"赵云澜","id":31735,"book_name":"镇魂"}]

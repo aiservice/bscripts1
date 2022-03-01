@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"一念","customer_url":"dushiqimenyishengguaiyishengshou","image_path":"/files/book/cover/32791/cover.jpg","leading_role":"一念","id":32791,"book_name":"都市奇门医圣"}]

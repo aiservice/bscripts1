@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"华东之雄","customer_url":"s2-daguozhongtan","image_path":"/files/book/cover/63671/cover.jpg","leading_role":"华东之雄","id":63671,"book_name":"大国重坦"}]

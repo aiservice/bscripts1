@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"胖一点","customer_url":"s2-huayu1997","image_path":"/files/book/cover/64754/cover.jpg","leading_role":"胖一点","id":64754,"book_name":"华娱1997"}]

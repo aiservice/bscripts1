@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吃肉粽啊","customer_url":"s2-wojinyiweizhenshoutianlaoyibainian","image_path":"/files/book/cover/65685/cover.jpg","leading_role":"吃肉粽啊","id":65685,"book_name":"我，锦衣卫，镇守天牢一百年"}]

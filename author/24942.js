@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"奈何笑忘川","customer_url":"wolaoposhizhongshengdaBOSS","image_path":"/files/book/cover/30301/cover.jpg","leading_role":"奈何笑忘川","id":30301,"book_name":"我老婆是重生大BOSS"}]

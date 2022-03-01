@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"步千帆","customer_url":"chaojibingwang","image_path":"/files/book/cover/31792/cover.jpg","leading_role":"步千帆","id":31792,"book_name":"超级兵王"}]

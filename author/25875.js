@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"柳江南","customer_url":"xiaoyuanjuepinkuangtu","image_path":"/files/book/cover/31932/cover.jpg","leading_role":"柳江南","id":31932,"book_name":"校园绝品狂徒"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"索斯","customer_url":"s2-airenwang","image_path":"/files/book/cover/64431/cover.jpg","leading_role":"索斯","id":64431,"book_name":"哎，人王"}]

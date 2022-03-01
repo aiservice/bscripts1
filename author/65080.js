@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王子的烦恼","customer_url":"s2-hongloujinshi","image_path":"/files/book/cover/65573/cover.jpg","leading_role":"王子的烦恼","id":65573,"book_name":"红楼进士"}]

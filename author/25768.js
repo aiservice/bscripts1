@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"洛城东","customer_url":"jueshiwuhun","image_path":"/files/book/cover/31738/cover.jpg","leading_role":"洛城东","id":31738,"book_name":"绝世武魂"}]

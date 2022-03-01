@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"猫腻","customer_url":"zetianji","image_path":"/files/book/cover/21323/cover.jpg","leading_role":"陈长生","id":21323,"book_name":"择天记"},{"author_name":"猫腻","customer_url":"jiangye","image_path":"/files/book/cover/31749/cover.jpg","leading_role":"马士襄","id":31749,"book_name":"将夜"}]

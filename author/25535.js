@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小麦谷","customer_url":"xuebadewenyirensheng","image_path":"/files/book/cover/31315/cover.jpg","leading_role":"小麦谷","id":31315,"book_name":"学霸的文艺人生"}]

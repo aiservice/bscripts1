@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"J神","customer_url":"s2-kaijuqiandaohuanggushengti","image_path":"/files/book/cover/63183/cover.jpg","leading_role":"J神","id":63183,"book_name":"开局签到荒古圣体"}]

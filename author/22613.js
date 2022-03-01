@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"笑溪溪","customer_url":"siwangrongyao","image_path":"/files/book/cover/22274/cover.jpg","leading_role":"笑溪溪","id":22274,"book_name":"死亡荣耀"}]

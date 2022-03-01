@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"椰子树琉璃盏","customer_url":"wangyouzhiwudixingyunzhi","image_path":"/files/book/cover/22310/cover.jpg","leading_role":"椰子树琉璃盏","id":22310,"book_name":"网游之无敌幸运值"}]

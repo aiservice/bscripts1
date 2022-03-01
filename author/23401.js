@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"真费事","customer_url":"lankeqiyuan","image_path":"/files/book/cover/43411/cover.jpg","leading_role":"真费事","id":43411,"book_name":"烂柯棋缘"}]

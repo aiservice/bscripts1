@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"花幽山月","customer_url":"wodejuesezongcaiweihunqi","image_path":"/files/book/cover/31814/cover.jpg","leading_role":"沈浪","id":31814,"book_name":"我的绝色总裁未婚妻"}]

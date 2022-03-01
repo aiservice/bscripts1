@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"铁锁","customer_url":"yufangyoushu","image_path":"/files/book/cover/22665/cover.jpg","leading_role":"铁锁","id":22665,"book_name":"驭房有术"}]

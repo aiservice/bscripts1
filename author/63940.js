@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海晏山","customer_url":"s2-wanjiaqingshangche","image_path":"/files/book/cover/63964/cover.jpg","leading_role":"海晏山","id":63964,"book_name":"玩家请上车"}]

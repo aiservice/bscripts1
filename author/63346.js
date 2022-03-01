@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"女孩那么可爱","customer_url":"s2-lenggongqiandaobashinianwojushiwudi","image_path":"/files/book/cover/63040/cover.jpg","leading_role":"女孩那么可爱","id":63040,"book_name":"冷宫签到八十年，我举世无敌"}]

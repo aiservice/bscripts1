@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"毛缺久","customer_url":"s2-kaijuzhuadaoyipingchengshenye","image_path":"/files/book/cover/63104/cover.jpg","leading_role":"毛缺久","id":63104,"book_name":"开局抓到一瓶成神液"}]

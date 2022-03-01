@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"剑如蛟","customer_url":"s2-xuanqingwei","image_path":"/files/book/cover/63662/cover.jpg","leading_role":"剑如蛟","id":63662,"book_name":"玄清卫"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"酒徒","customer_url":"dahanguangwu","image_path":"/files/book/cover/28250/cover.jpg","leading_role":"酒徒","id":28250,"book_name":"大汉光武"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"牛油果","customer_url":"s2-woyouyijuanguishentulu","image_path":"/files/book/cover/64028/cover.jpg","leading_role":"牛油果","id":64028,"book_name":"我有一卷鬼神图录"}]

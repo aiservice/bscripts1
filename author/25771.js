@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"萧瑾瑜","customer_url":"tianjiaozhanji","image_path":"/files/book/cover/31747/cover.jpg","leading_role":"萧瑾瑜","id":31747,"book_name":"天骄战纪"},{"author_name":"萧瑾瑜","customer_url":"fuhuang","image_path":"/files/book/cover/31788/cover.jpg","leading_role":"萧瑾瑜","id":31788,"book_name":"符皇"}]

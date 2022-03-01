@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"纪莫为","customer_url":"toushizhitong","image_path":"/files/book/cover/29179/cover.jpg","leading_role":"纪莫为","id":29179,"book_name":"透视之瞳"}]

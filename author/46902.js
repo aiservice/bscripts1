@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"渔雪","customer_url":"s2-zhongsuqianxiniandai","image_path":"/files/book/cover/63739/cover.jpg","leading_role":"渔雪","id":63739,"book_name":"重塑千禧年代"}]

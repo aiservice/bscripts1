@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何处可桃","customer_url":"s2-pingchangrenleidepingfanshenghuo","image_path":"/files/book/cover/63135/cover.jpg","leading_role":"何处可桃","id":63135,"book_name":"平常人类的平凡生活"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"血蝠","customer_url":"s2-gudongshangdexunbaozhilv","image_path":"/files/book/cover/65563/cover.jpg","leading_role":"血蝠","id":65563,"book_name":"古董商的寻宝之旅"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黑风山恶少","customer_url":"s2-dayanzhizunlu","image_path":"/files/book/cover/64667/cover.jpg","leading_role":"黑风山恶少","id":64667,"book_name":"大兖至尊路"}]

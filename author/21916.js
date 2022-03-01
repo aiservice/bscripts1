@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"傅啸尘","customer_url":"xiuliankuangchao","image_path":"/files/book/cover/21353/cover.jpg","leading_role":"傅啸尘","id":21353,"book_name":"修炼狂潮"}]

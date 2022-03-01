@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"当心枪走火","customer_url":"wojiushiheian","image_path":"/files/book/cover/22395/cover.jpg","leading_role":"当心枪走火","id":22395,"book_name":"我就是黑暗"}]

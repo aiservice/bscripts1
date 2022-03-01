@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"七月新番","customer_url":"qinli","image_path":"/files/book/cover/29049/cover.jpg","leading_role":"黑夫","id":29049,"book_name":"秦吏"},{"author_name":"七月新番","customer_url":"zhanguomingyue","image_path":"/files/book/cover/21720/cover.jpg","leading_role":"七月新番","id":21720,"book_name":"战国明月"}]

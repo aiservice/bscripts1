@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"天瑞说符","customer_url":"s2-womenshenghuozainanjing","image_path":"/files/book/cover/64636/cover.jpg","leading_role":"天瑞说符","id":64636,"book_name":"我们生活在南京"}]

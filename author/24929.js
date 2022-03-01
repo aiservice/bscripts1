@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"我妖选貂蝉","customer_url":"zuiqiangkuangbaohuangdixitong","image_path":"/files/book/cover/30281/cover.jpg","leading_role":"我妖选貂蝉","id":30281,"book_name":"最强狂暴皇帝系统"}]

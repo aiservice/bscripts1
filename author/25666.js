@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"寻青藤","customer_url":"minguodieying","image_path":"/files/book/cover/31560/cover.jpg","leading_role":"寻青藤","id":31560,"book_name":"民国谍影"},{"author_name":"寻青藤","customer_url":"dieyingfengyun","image_path":"/files/book/cover/41123/cover.jpg","leading_role":"寻青藤","id":41123,"book_name":"谍影风云"}]

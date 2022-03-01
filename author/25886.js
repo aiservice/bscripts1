@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"当年明月","customer_url":"mingchaonaxieshier","image_path":"/files/book/cover/31948/cover.jpg","leading_role":"当年明月","id":31948,"book_name":"明朝那些事儿"}]

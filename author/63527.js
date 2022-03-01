@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"乱血的墨","customer_url":"s2-jiuzhoudaozhu","image_path":"/files/book/cover/63302/cover.jpg","leading_role":"乱血的墨","id":63302,"book_name":"九州道主"}]

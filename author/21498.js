@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小墨年糕","customer_url":"meishitanxiandui","image_path":"/files/book/cover/20816/cover.jpg","leading_role":"小墨年糕","id":20816,"book_name":"美食探险队"}]

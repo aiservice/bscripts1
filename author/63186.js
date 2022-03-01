@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"琅琊居","customer_url":"s2-xuanfengtaijilierhai","image_path":"/files/book/cover/62749/cover.jpg","leading_role":"琅琊居","id":62749,"book_name":"旋风太极李二海"}]

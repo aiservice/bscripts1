@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"左手萝莉","customer_url":"s2-yincaodifuhuorenzhiyouwoziji","image_path":"/files/book/cover/64092/cover.jpg","leading_role":"左手萝莉","id":64092,"book_name":"阴曹地府：活人只有我自己"}]

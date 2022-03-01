@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"顾漫","customer_url":"weiweiyixiaohenqingcheng","image_path":"/files/book/cover/31797/cover.jpg","leading_role":"顾漫","id":31797,"book_name":"微微一笑很倾城"}]

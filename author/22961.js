@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"暗魇之喵","customer_url":"wodemoribukenengzheimebenghuai","image_path":"/files/book/cover/22709/cover.jpg","leading_role":"暗魇之喵","id":22709,"book_name":"我的末日不可能这么崩坏"}]

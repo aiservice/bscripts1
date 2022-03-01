@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小木不是小暮","customer_url":"yingxionglianmengzhichuanqizhengsheng","image_path":"/files/book/cover/22979/cover.jpg","leading_role":"小木不是小暮","id":22979,"book_name":"英雄联盟之传奇正盛"}]

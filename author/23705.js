@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"灰雁伏特加","customer_url":"zhutianshenjifanpai","image_path":"/files/book/cover/28045/cover.jpg","leading_role":"灰雁伏特加","id":28045,"book_name":"诸天神级反派"}]

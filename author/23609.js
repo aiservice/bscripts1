@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"竹刺无锋","customer_url":"lihailewodeyuanshiren","image_path":"/files/book/cover/27703/cover.jpg","leading_role":"竹刺无锋","id":27703,"book_name":"厉害了我的原始人"}]

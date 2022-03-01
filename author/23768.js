@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"来不及忧伤","customer_url":"s2-zaihonghuangyouxianzhongtianderizi","image_path":"/files/book/cover/64173/cover.jpg","leading_role":"来不及忧伤","id":64173,"book_name":"在洪荒悠闲种田的日子"}]

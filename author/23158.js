@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"何处不染尘","customer_url":"shenhuajinqu","image_path":"/files/book/cover/29942/cover.jpg","leading_role":"何凡","id":29942,"book_name":"神话禁区"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"九歌","customer_url":"zuiqiangshenyihundushi","image_path":"/files/book/cover/31821/cover.jpg","leading_role":"九歌","id":31821,"book_name":"最强神医混都市"}]

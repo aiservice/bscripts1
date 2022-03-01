@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"甲乙饼","customer_url":"chenlu","image_path":"/files/book/cover/43221/cover.jpg","leading_role":"甲乙饼","id":43221,"book_name":"尘炉"}]

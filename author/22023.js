@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雪落君","customer_url":"wanjieshengshi","image_path":"/files/book/cover/21565/cover.jpg","leading_role":"雪落君","id":21565,"book_name":"万界圣师"}]

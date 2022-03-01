@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海洋精灵","customer_url":"s2-yushoucongyangmaokaishi","image_path":"/files/book/cover/65287/cover.jpg","leading_role":"海洋精灵","id":65287,"book_name":"御兽从养猫开始"}]

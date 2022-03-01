@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"肥瓜","customer_url":"xiaochouyouxi","image_path":"/files/book/cover/28925/cover.jpg","leading_role":"肥瓜","id":28925,"book_name":"小丑游戏"}]

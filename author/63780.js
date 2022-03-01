@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陶安逸","customer_url":"s2-pinsengbuxiangdangyingdi","image_path":"/files/book/cover/63751/cover.jpg","leading_role":"陶安逸","id":63751,"book_name":"贫僧不想当影帝"}]

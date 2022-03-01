@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"潇潇清枫","customer_url":"s2-shenhaocongxitongdangjikaishi","image_path":"/files/book/cover/63337/cover.jpg","leading_role":"潇潇清枫","id":63337,"book_name":"神豪从系统宕机开始"}]

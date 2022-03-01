@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"旱地鱼","customer_url":"s2-fangliaorichang","image_path":"/files/book/cover/65073/cover.jpg","leading_role":"旱地鱼","id":65073,"book_name":"放疗日常"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"冒青烟","customer_url":"qiuchangbaotu","image_path":"/files/book/cover/22458/cover.jpg","leading_role":"冒青烟","id":22458,"book_name":"球场暴徒"}]

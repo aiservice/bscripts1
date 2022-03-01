@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"大风刮过","customer_url":"taohuazhai","image_path":"/files/book/cover/31975/cover.jpg","leading_role":"大风刮过","id":31975,"book_name":"桃花债"}]

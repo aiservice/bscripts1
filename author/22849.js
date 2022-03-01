@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"绅士东","customer_url":"shijizhimaopaixiaodangjia","image_path":"/files/book/cover/22857/cover.jpg","leading_role":"绅士东","id":22857,"book_name":"食戟之冒牌小当家"}]

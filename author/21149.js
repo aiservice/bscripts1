@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"任我笑","customer_url":"s2-dingjiqiyunqiaoqiaoxiulianqiannian","image_path":"/files/book/cover/62618/cover.jpg","leading_role":"任我笑","id":62618,"book_name":"顶级气运，悄悄修炼千年"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"火中物","customer_url":"s2-wozhenmeixiangdangjiushizhua","image_path":"/files/book/cover/63525/cover.jpg","leading_role":"火中物","id":63525,"book_name":"我真没想当救世主啊"},{"author_name":"火中物","customer_url":"s2-fuhuodiguo","image_path":"/files/book/cover/64104/cover.jpg","leading_role":"火中物","id":64104,"book_name":"复活帝国"}]

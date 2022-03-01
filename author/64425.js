@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"老鸡吃蘑菇","customer_url":"s2-yinyangbaiduwozenmejiuwudile","image_path":"/files/book/cover/64650/cover.jpg","leading_role":"老鸡吃蘑菇","id":64650,"book_name":"阴阳摆渡，我怎么就无敌了"}]

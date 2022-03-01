@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"清风小道童","customer_url":"xiyouzhidayulejia","image_path":"/files/book/cover/32990/cover.jpg","leading_role":"清风小道童","id":32990,"book_name":"西游之大娱乐家"},{"author_name":"清风小道童","customer_url":"s2-honghuangguanxihu","image_path":"/files/book/cover/63053/cover.jpg","leading_role":"清风小道童","id":63053,"book_name":"洪荒关系户"}]

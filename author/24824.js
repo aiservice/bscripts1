@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"胖乎乎的河马","customer_url":"shujigongyingshang","image_path":"/files/book/cover/30105/cover.jpg","leading_role":"胖乎乎的河马","id":30105,"book_name":"书籍供应商"}]

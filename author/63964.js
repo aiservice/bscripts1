@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"南国月三更","customer_url":"s2-wolaoposhichuanqitianhou","image_path":"/files/book/cover/63998/cover.jpg","leading_role":"南国月三更","id":63998,"book_name":"我老婆是传奇天后"}]

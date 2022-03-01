@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赤焰圣歌","customer_url":"jipintoushi","image_path":"/files/book/cover/31791/cover.jpg","leading_role":"王峰","id":31791,"book_name":"极品透视"}]

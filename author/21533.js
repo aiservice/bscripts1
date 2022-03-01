@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"残剑","customer_url":"s2-wozaixuanhuanshijiemaochongtianjishensuan","image_path":"/files/book/cover/62497/cover.jpg","leading_role":"残剑","id":62497,"book_name":"我在玄幻世界冒充天机神算"}]

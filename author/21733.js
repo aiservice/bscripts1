@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"南山隐士","customer_url":"nongjiaxiantian","image_path":"/files/book/cover/21502/cover.jpg","leading_role":"南山隐士","id":21502,"book_name":"农家仙田"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"要离刺荆轲","customer_url":"s2-chengweishengrenshiyizhongshenmetiyan","image_path":"/files/book/cover/65130/cover.jpg","leading_role":"要离刺荆轲","id":65130,"book_name":"成为圣人是一种什么体验？"}]

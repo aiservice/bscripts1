@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汉宝","customer_url":"s2-sunhouzishiwoshidi","image_path":"/files/book/cover/63161/cover.jpg","leading_role":"汉宝","id":63161,"book_name":"孙猴子是我师弟"}]

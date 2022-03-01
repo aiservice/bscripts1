@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"悯生笔","customer_url":"shenwanshijie","image_path":"/files/book/cover/20461/cover.jpg","leading_role":"悯生笔","id":20461,"book_name":"神玩世界"}]

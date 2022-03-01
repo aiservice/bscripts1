@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"国王陛下","customer_url":"congqianyouzuolingjianshan","image_path":"/files/book/cover/31764/cover.jpg","leading_role":"国王陛下","id":31764,"book_name":"从前有座灵剑山"}]

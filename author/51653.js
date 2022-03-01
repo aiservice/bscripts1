@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吻天的狼","customer_url":"zhuixudangdao","image_path":"/files/book/cover/41788/cover.jpg","leading_role":"岳风","id":41788,"book_name":"赘婿当道"}]

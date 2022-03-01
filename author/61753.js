@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"吃一口布丁","customer_url":"s2-shoufucongmanghekaishi","image_path":"/files/book/cover/64694/cover.jpg","leading_role":"吃一口布丁","id":64694,"book_name":"首富从盲盒开始"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"青涩苍穹","customer_url":"yuansuzhiwang","image_path":"/files/book/cover/22269/cover.jpg","leading_role":"青涩苍穹","id":22269,"book_name":"元素之王"},{"author_name":"青涩苍穹","customer_url":"yuansugaota","image_path":"/files/book/cover/21687/cover.jpg","leading_role":"青涩苍穹","id":21687,"book_name":"元素高塔"}]

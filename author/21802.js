@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"老告","customer_url":"s2-zhenyoutupole","image_path":"/files/book/cover/65455/cover.jpg","leading_role":"老告","id":65455,"book_name":"朕又突破了"}]

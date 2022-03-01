@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"齐佩甲","customer_url":"chaoshenjixieshi","image_path":"/files/book/cover/22260/cover.jpg","leading_role":"韩萧","id":22260,"book_name":"超神机械师"}]

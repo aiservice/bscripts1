@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"日每一万神成","customer_url":"s2-wugongzidongxiulianwozaimojiaoxiuchengfohuang","image_path":"/files/book/cover/64330/cover.jpg","leading_role":"日每一万神成","id":64330,"book_name":"武功自动修炼：我在魔教修成佛皇"}]

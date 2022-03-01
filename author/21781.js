@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"睡觉会变白","customer_url":"gudaozhangsheng","image_path":"/files/book/cover/21040/cover.jpg","leading_role":"睡觉会变白","id":21040,"book_name":"顾道长生"},{"author_name":"睡觉会变白","customer_url":"s3-cong1983kaishi","image_path":"/files/book/cover/62031/cover.jpg","leading_role":"睡觉会变白","id":62031,"book_name":"从1983开始"}]

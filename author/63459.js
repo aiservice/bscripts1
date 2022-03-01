@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"墓涂","customer_url":"s2-xiehuawuyi","image_path":"/files/book/cover/63205/cover.jpg","leading_role":"墓涂","id":63205,"book_name":"邪化巫医"}]
