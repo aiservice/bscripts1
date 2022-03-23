@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"星新一","customer_url":"s3-weichulai","image_path":"/files/book/cover/65942/cover.jpg","leading_role":"[日]星新一","id":65942,"book_name":"喂——出来"}]

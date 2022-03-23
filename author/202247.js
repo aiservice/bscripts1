@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孔枝泳","customer_url":"s3-ronglu","image_path":"/files/book/cover/65945/cover.jpg","leading_role":"[韩] 孔枝泳","id":65945,"book_name":"熔炉"}]

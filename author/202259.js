@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"晏建怀","customer_url":"s3-nansongburenxikan","image_path":"/files/book/cover/65960/cover.jpg","leading_role":"晏建怀","id":65960,"book_name":"南宋不忍细看"}]

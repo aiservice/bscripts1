@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"诺顿·史特瑞博士","customer_url":"s1-ruhemingbaishengjing","image_path":"/files/book/cover/65963/cover.jpg","leading_role":"诺顿·史特瑞博士","id":65963,"book_name":"如何明白圣经"}]

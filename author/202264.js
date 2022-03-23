@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"田导根","customer_url":"s3-genzijidehaiziliaodelai","image_path":"/files/book/cover/65967/cover.jpg","leading_role":"[韩]田导根","id":65967,"book_name":"跟自己的孩子聊得来"}]

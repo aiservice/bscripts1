@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s3-xiuzhan","bookVolumeList":[{"bookChapterList":[{"chapter_name":"生平","id":19569461},{"chapter_name":"2月11日，星期一","id":19569462},{"chapter_name":"6月27日，星期四","id":19569463},{"chapter_name":"译后记","id":19569464},{"chapter_name":"描述","id":19569465}],"volume_words":108458,"volume_name":"目录"}]}

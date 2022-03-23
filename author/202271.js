@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查尔斯·古德哈特","customer_url":"s3-renkoudanizhuan","image_path":"/files/book/cover/65977/cover.jpg","leading_role":"查尔斯·古德哈特","id":65977,"book_name":"人口大逆转"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安德鲁·B.肯尼迪","customer_url":"s3-quanqiukejichuangxin","image_path":"/files/book/cover/65962/cover.jpg","leading_role":"[美] 安德鲁·B.肯尼迪","id":65962,"book_name":"全球科技创新与大国博弈"}]

@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"弗朗西斯·福山","customer_url":"s3-shenfenzhengzhi","image_path":"/files/book/cover/65695/cover.jpg","leading_role":"[美] 弗朗西斯·福山","id":65695,"book_name":"身份政治 : 对尊严与认同的渴求"}]
+var authorList=[{"author_name":"弗朗西斯·福山","customer_url":"s3-shenfenzhengzhi","image_path":"/files/book/cover/65695/cover.jpg","leading_role":"[美] 弗朗西斯·福山","id":65695,"book_name":"身份政治 : 对尊严与认同的渴求"},{"author_name":"弗朗西斯·福山","customer_url":"s3-zhengzhizhixudeqiyuan","image_path":"/files/book/cover/65961/cover.jpg","leading_role":" [美] 弗朗西斯·福山","id":65961,"book_name":"政治秩序的起源"}]

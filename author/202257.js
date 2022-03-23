@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"坦普尔·葛兰汀","customer_url":"s3-womenweishenmebushuohua","image_path":"/files/book/cover/65957/cover.jpg","leading_role":" [美]坦普尔·葛兰汀","id":65957,"book_name":"我们为什么不说话"}]

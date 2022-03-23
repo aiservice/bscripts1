@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"何仲柯","customer_url":"chuangshizhichu","image_path":"/files/book/cover/699/cover.jpg","leading_role":"何仲柯","id":699,"book_name":"创世之初"}]
+var authorList=[{"author_name":"何仲柯","customer_url":"chuangshizhichu","image_path":"/files/book/cover/699/cover.jpg","leading_role":"何仲柯","id":699,"book_name":"创世之初"},{"author_name":"何仲柯","customer_url":"s1-jinhuatuihuashenhua","image_path":"/files/book/cover/65951/cover.jpg","leading_role":"何仲柯","id":65951,"book_name":"进化？退化？神化？"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"本•哈伯德","customer_url":"s3-duyao","image_path":"/files/book/cover/65944/cover.jpg","leading_role":" [英] 本•哈伯德","id":65944,"book_name":"毒药：危险物质的历史"}]

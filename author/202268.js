@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"迈克尔·康奈利","customer_url":"s3-liangzhongzhenxiang","image_path":"/files/book/cover/65972/cover.jpg","leading_role":"[美] 迈克尔·康奈利","id":65972,"book_name":"两种真相"}]

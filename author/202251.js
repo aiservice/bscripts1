@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黎紫书","customer_url":"s3-liusudi","image_path":"/files/book/cover/65950/cover.jpg","leading_role":" [马] 黎紫书","id":65950,"book_name":"流俗地"}]

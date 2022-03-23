@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马里奥·贝内德蒂","customer_url":"s3-xiuzhan","image_path":"/files/book/cover/65959/cover.jpg","leading_role":"[乌拉圭] 马里奥·贝内德蒂","id":65959,"book_name":"休战"}]

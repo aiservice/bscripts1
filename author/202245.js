@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"小林尚礼","customer_url":"s3-meilixueshan","image_path":"/files/book/cover/65943/cover.jpg","leading_role":" [日]小林尚礼","id":65943,"book_name":"梅里雪山"}]

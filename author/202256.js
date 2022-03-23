@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"高满堂","customer_url":"s3-laozhongyi","image_path":"/files/book/cover/65956/cover.jpg","leading_role":"高满堂","id":65956,"book_name":"老中医"}]

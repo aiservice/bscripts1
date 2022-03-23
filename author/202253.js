@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雅典娜·阿克蒂皮斯","customer_url":"s3-jiaohuadexibao","image_path":"/files/book/cover/65953/cover.jpg","leading_role":"[美] 雅典娜·阿克蒂皮斯","id":65953,"book_name":"狡猾的细胞"}]

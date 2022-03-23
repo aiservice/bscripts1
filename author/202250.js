@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"雷志龙","customer_url":"s3-shengzhuang","image_path":"/files/book/cover/65949/cover.jpg","leading_role":"雷志龙 / 雁无痕","id":65949,"book_name":"盛装"}]

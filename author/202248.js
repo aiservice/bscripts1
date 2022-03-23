@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"比尔·布莱森","customer_url":"s3-daxiaotiaoqianyede","image_path":"/files/book/cover/65946/cover.jpg","leading_role":" [英] 比尔·布莱森","id":65946,"book_name":"大萧条前夜的繁荣与疯狂"}]

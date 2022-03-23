@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安格斯·罗克斯伯勒","customer_url":"s3-qiangquanyutiewan","image_path":"/files/book/cover/65954/cover.jpg","leading_role":"[英]安格斯·罗克斯伯勒","id":65954,"book_name":"强权与铁腕"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王永信","customer_url":"s1-zhendaoshouce","image_path":"/files/book/cover/65965/cover.jpg","leading_role":"王永信","id":65965,"book_name":"真道手册"}]

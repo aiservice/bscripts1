@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s3-zhengzhizhixudeqiyuan","bookVolumeList":[{"bookChapterList":[{"chapter_name":"一、国家之前","id":19569523},{"chapter_name":"二、国家建设","id":19569524},{"chapter_name":"三、法治","id":19569525},{"chapter_name":"四、负责制政府","id":19569526},{"chapter_name":"五、迈向政治发展理论","id":19569527}],"volume_words":130002,"volume_name":"目录"}]}

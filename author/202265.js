@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蒂姆·费恩霍尔茨","customer_url":"s3-xintaikongjingsai","image_path":"/files/book/cover/65968/cover.jpg","leading_role":"[美]蒂姆·费恩霍尔茨","id":65968,"book_name":"新太空竞赛"}]

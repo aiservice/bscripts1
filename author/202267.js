@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"饭野亮一","customer_url":"s3-sikouchibianjianghu","image_path":"/files/book/cover/65971/cover.jpg","leading_role":"[日] 饭野亮一","id":65971,"book_name":"四口吃遍江户"}]

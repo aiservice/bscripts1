@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安德烈亚斯·瓦格纳","customer_url":"s3-ruhejiejuefuzawenti","image_path":"/files/book/cover/65964/cover.jpg","leading_role":"[奥地利]安德烈亚斯·瓦格纳","id":65964,"book_name":"如何解决复杂问题"}]

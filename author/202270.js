@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"宫玉振","customer_url":"s3-shanzhanzheshuo","image_path":"/files/book/cover/65974/cover.jpg","leading_role":"宫玉振","id":65974,"book_name":"善战者说"}]

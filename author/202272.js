@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰•朱利叶斯•诺威奇","customer_url":"s3-zhengfunuomanren","image_path":"/files/book/cover/65978/cover.jpg","leading_role":"约翰•朱利叶斯•诺威奇","id":65978,"book_name":"征服：诺曼人的传奇人生（套装3册）"}]

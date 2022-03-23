@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗伯特·西奥迪尼","customer_url":"s3-yingxiangli","image_path":"/files/book/cover/65947/cover.jpg","leading_role":" [美]罗伯特·西奥迪尼","id":65947,"book_name":"影响力"}]

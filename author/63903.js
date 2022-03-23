@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"懒兔子","customer_url":"s3-wuweizi","image_path":"/files/book/cover/63917/cover.jpg","leading_role":" 懒兔子","id":63917,"book_name":"五味子"}]
+var authorList=[{"author_name":"懒兔子","customer_url":"s3-wuweizi","image_path":"/files/book/cover/63917/cover.jpg","leading_role":" 懒兔子","id":63917,"book_name":"五味子"},{"author_name":"懒兔子","customer_url":"s3-yimuleran","image_path":"/files/book/cover/65975/cover.jpg","leading_role":"懒兔子","id":65975,"book_name":"医目了然"}]

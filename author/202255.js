@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韩寒","customer_url":"s3-womencongweimoshengguo","image_path":"/files/book/cover/65955/cover.jpg","leading_role":"韩寒","id":65955,"book_name":"我们从未陌生过"}]

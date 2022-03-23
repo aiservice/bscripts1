@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯托弗·万杰克","customer_url":"s3-taikongjumin","image_path":"/files/book/cover/65970/cover.jpg","leading_role":"[美]克里斯托弗·万杰克","id":65970,"book_name":"太空居民"}]
