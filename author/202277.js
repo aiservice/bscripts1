@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘润","customer_url":"s3-dicengluoji","image_path":"/files/book/cover/65983/cover.jpg","leading_role":"刘润","id":65983,"book_name":"底层逻辑：看清这个世界的底牌"}]

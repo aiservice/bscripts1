@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"张炜","customer_url":"s3-guchuan","image_path":"/files/book/cover/65993/cover.jpg","leading_role":"张炜","id":65993,"book_name":"古船"}]

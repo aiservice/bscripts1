@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克林特·埃默森","customer_url":"s3-tegongxunlianshouce","image_path":"/files/book/cover/65991/cover.jpg","leading_role":"[美] 克林特·埃默森","id":65991,"book_name":"特工训练手册"}]

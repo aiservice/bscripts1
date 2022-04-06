@@ -1,0 +1,1 @@
+var authorList=[{"author_name":" 约翰·米尔斯海默","customer_url":"s3-dahuanxiang","image_path":"/files/book/cover/65980/cover.jpg","leading_role":" 约翰·米尔斯海默","id":65980,"book_name":"大幻想"}]

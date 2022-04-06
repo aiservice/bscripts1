@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"朝日新闻","customer_url":"s3-fudongchanshidai","image_path":"/files/book/cover/65998/cover.jpg","leading_role":"日本《朝日新闻》采访组","id":65998,"book_name":"负动产时代"}]

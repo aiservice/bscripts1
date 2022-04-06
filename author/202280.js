@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"薇安","customer_url":"s3-xianshangzhuanqian","image_path":"/files/book/cover/65987/cover.jpg","leading_role":"薇安","id":65987,"book_name":"线上赚钱"}]

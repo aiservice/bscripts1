@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林奕含","customer_url":"s3-fangsiqidechulianleyuan","image_path":"/files/book/cover/65989/cover.jpg","leading_role":"林奕含","id":65989,"book_name":"房思琪的初恋乐园"}]

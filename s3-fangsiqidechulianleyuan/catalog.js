@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s3-fangsiqidechulianleyuan","bookVolumeList":[{"bookChapterList":[{"chapter_name":"推荐语","id":19570349},{"chapter_name":"第一章　乐园","id":19570350},{"chapter_name":"第二章　失乐园","id":19570351},{"chapter_name":"第三章　复乐园","id":19570352},{"chapter_name":"书评","id":19570353},{"chapter_name":"后记","id":19570354}],"volume_words":108827,"volume_name":"目录"}]}

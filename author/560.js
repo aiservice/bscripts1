@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"柏拉夫","customer_url":"jidutudezhenbao","image_path":"/files/book/cover/942/cover.jpg","leading_role":" 柏拉夫 著 张澄道 译","id":942,"book_name":"基督徒的珍宝——知足"}]
+var authorList=[{"author_name":"柏拉夫","customer_url":"jidutudezhenbao","image_path":"/files/book/cover/942/cover.jpg","leading_role":" 柏拉夫 著 张澄道 译","id":942,"book_name":"基督徒的珍宝——知足"},{"author_name":"柏拉夫","customer_url":"s1-jidutudezhenbaozhizu","image_path":"/files/book/cover/65996/cover.jpg","leading_role":"柏拉夫","id":65996,"book_name":"基督徒的珍宝：知足"}]

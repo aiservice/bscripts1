@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"意公子","customer_url":"s3-dahuazhongguoyishushi","image_path":"/files/book/cover/65986/cover.jpg","leading_role":"意公子","id":65986,"book_name":"大话中国艺术史"}]

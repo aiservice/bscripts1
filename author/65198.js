@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"周毕克","customer_url":"s1-yusadanzhengzhan","image_path":"/files/book/cover/65733/cover.jpg","leading_role":"周毕克","id":65733,"book_name":"与撒但争战"}]
+var authorList=[{"author_name":"周毕克","customer_url":"s1-yusadanzhengzhan","image_path":"/files/book/cover/65733/cover.jpg","leading_role":"周毕克","id":65733,"book_name":"与撒但争战"},{"author_name":"周毕克","customer_url":"yusadanzhengzhan","image_path":"/files/book/cover/36295/cover.jpg","leading_role":"周必克","id":36295,"book_name":"与撒但争战"}]

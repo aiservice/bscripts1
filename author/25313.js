@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"惰堕","customer_url":"s2-jianzuguohe","image_path":"/files/book/cover/62592/cover.jpg","leading_role":"惰堕","id":62592,"book_name":"剑卒过河"}]
+var authorList=[{"author_name":"惰堕","customer_url":"s2-jianzuguohe","image_path":"/files/book/cover/62592/cover.jpg","leading_role":"惰堕","id":62592,"book_name":"剑卒过河"},{"author_name":"惰堕","customer_url":"s2-jiantuzhilu","image_path":"/files/book/cover/64770/cover.jpg","leading_role":"惰堕","id":64770,"book_name":"剑徒之路"}]

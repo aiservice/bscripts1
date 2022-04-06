@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"肖林","customer_url":"s3-shoushan","image_path":"/files/book/cover/65984/cover.jpg","leading_role":"肖林 / 王蕾","id":65984,"book_name":"守山"}]

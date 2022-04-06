@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王振忠","customer_url":"s3-conghuangshanbaiyue","image_path":"/files/book/cover/65981/cover.jpg","leading_role":"王振忠","id":65981,"book_name":"从黄山白岳到东亚海域"}]

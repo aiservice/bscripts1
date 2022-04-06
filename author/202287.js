@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊丽丝•菲茨派克","customer_url":"s1-zimeifudaozimei","image_path":"/files/book/cover/65995/cover.jpg","leading_role":"伊丽丝•菲茨派克","id":65995,"book_name":"姊妹辅导姊妹"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"郝景芳","customer_url":"s3-gudushenchu","image_path":"/files/book/cover/65992/cover.jpg","leading_role":"郝景芳","id":65992,"book_name":"孤独深处"}]

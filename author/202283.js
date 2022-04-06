@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"野崎惑","customer_url":"s3-nihaoshijie","image_path":"/files/book/cover/65990/cover.jpg","leading_role":"[日] 野崎惑","id":65990,"book_name":"你好，世界"}]

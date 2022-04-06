@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"阿什利·万斯","customer_url":"s3-guigugangtiexia","image_path":"/files/book/cover/65997/cover.jpg","leading_role":"[美] 阿什利·万斯","id":65997,"book_name":"硅谷钢铁侠"}]
