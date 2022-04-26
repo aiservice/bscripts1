@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"孙频","customer_url":"s3-yiniaoshouzhiming","image_path":"/files/book/cover/66019/cover.jpg","leading_role":"孙频","id":66019,"book_name":"以鸟兽之名"}]

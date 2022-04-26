@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·斯卡尔齐 ","customer_url":"s3-laorendezhanzheng","image_path":"/files/book/cover/66012/cover.jpg","leading_role":"约翰·斯卡尔齐 ","id":66012,"book_name":"老人的战争六部曲"}]

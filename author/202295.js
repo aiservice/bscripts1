@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴维·巴斯","customer_url":"s3-yuwangdeyanhua","image_path":"/files/book/cover/66005/cover.jpg","leading_role":" [美]戴维·巴斯","id":66005,"book_name":"欲望的演化"}]

@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"黄国峻","customer_url":"s3-shihuoyidianyebu","image_path":"/files/book/cover/65412/cover.jpg","leading_role":"黄国峻","id":65412,"book_name":"是或一点也不"}]
+var authorList=[{"author_name":"黄国峻","customer_url":"s3-shihuoyidianyebu","image_path":"/files/book/cover/65412/cover.jpg","leading_role":"黄国峻","id":65412,"book_name":"是或一点也不"},{"author_name":"黄国峻","customer_url":"s3-maikefengshiyin","image_path":"/files/book/cover/66008/cover.jpg","leading_role":"黄国峻","id":66008,"book_name":"麦克风试音"}]

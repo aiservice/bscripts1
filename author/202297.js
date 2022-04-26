@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"濑户内寂听","customer_url":"s3-xiarizhongyan","image_path":"/files/book/cover/66007/cover.jpg","leading_role":"[日]濑户内寂听","id":66007,"book_name":"夏日终焉"}]

@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s3-xiarizhongyan","bookVolumeList":[{"bookChapterList":[{"chapter_name":"激情","id":19573720},{"chapter_name":"夏末","id":19573721},{"chapter_name":"迷恋","id":19573722},{"chapter_name":"花冷","id":19573723},{"chapter_name":"幼雉","id":19573724}],"volume_words":73552,"volume_name":"目录"}]}

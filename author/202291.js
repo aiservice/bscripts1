@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"蜘蛛","customer_url":"s3-shizongzui","image_path":"/files/book/cover/66000/cover.jpg","leading_role":"蜘蛛","id":66000,"book_name":"十宗罪：全新再版（共6册）"}]

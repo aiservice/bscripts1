@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"中村恒子","customer_url":"s3-renjianzhide","image_path":"/files/book/cover/66001/cover.jpg","leading_role":"[日]中村恒子","id":66001,"book_name":"人间值得"}]

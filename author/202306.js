@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"韦恩·麦克","customer_url":"s1-hehushengjingdefennuyuyaliguanli","image_path":"/files/book/cover/66020/cover.jpg","leading_role":"韦恩·麦克","id":66020,"book_name":"合乎圣经的愤怒与压力管理"}]

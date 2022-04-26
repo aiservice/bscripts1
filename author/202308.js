@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安德鲁·所罗门","customer_url":"s3-zhengwuzhimo","image_path":"/files/book/cover/66022/cover.jpg","leading_role":"[美]安德鲁·所罗门","id":66022,"book_name":"正午之魔"}]

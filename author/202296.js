@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"清闲丫头","customer_url":"s3-yucixiaowuzuo","image_path":"/files/book/cover/66006/cover.jpg","leading_role":"清闲丫头","id":66006,"book_name":"御赐小仵作"}]

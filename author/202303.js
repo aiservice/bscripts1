@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梅耶·马斯克","customer_url":"s3-renshengyouwo","image_path":"/files/book/cover/66015/cover.jpg","leading_role":" [加] 梅耶·马斯克","id":66015,"book_name":"人生由我"}]

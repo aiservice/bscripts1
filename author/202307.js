@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"伊坂幸太郎 ","customer_url":"s3-toumingsebeijixiong","image_path":"/files/book/cover/66021/cover.jpg","leading_role":"[日] 伊坂幸太郎 ","id":66021,"book_name":"透明色北极熊"}]

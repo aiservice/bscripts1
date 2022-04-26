@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"斯图尔特·斯科特","customer_url":"s1-jingqiandezhangfu","image_path":"/files/book/cover/66002/cover.jpg","leading_role":"斯图尔特·斯科特","id":66002,"book_name":"敬虔的丈夫"}]

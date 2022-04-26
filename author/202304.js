@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"德里克·博克","customer_url":"s3-hafodebiange","image_path":"/files/book/cover/66016/cover.jpg","leading_role":"[美]德里克·博克","id":66016,"book_name":"哈佛的变革"}]

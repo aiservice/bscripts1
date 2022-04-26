@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"霍格尔·丹贝克","customer_url":"s3-nixuedeshuxuekenengshijiade","image_path":"/files/book/cover/66023/cover.jpg","leading_role":"[德]霍格尔·丹贝克","id":66023,"book_name":"你学的数学可能是假的"}]

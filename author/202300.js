@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"腾肖澜","customer_url":"s3-chenglideyueguang","image_path":"/files/book/cover/66010/cover.jpg","leading_role":"腾肖澜","id":66010,"book_name":"城里的月光"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"玛莎·佩斯","customer_url":"s1-xiandedeqizi","image_path":"/files/book/cover/66003/cover.jpg","leading_role":"玛莎·佩斯","id":66003,"book_name":"贤德的妻子"}]

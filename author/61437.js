@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"莫入江湖","customer_url":"s2-quanshuxingwudao","image_path":"/files/book/cover/63122/cover.jpg","leading_role":"莫入江湖","id":63122,"book_name":"全属性武道"}]
