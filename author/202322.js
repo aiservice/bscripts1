@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"江波","customer_url":"s3-xingyunxtemisi","image_path":"/files/book/cover/66041/cover.jpg","leading_role":"江波 / 阿缺 / 许刚 / 鲁般","id":66041,"book_name":"星云X：忒弥斯"}]

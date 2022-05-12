@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"李国翠","customer_url":"s3-xiguantaobi","image_path":"/files/book/cover/66027/cover.jpg","leading_role":"李国翠","id":66027,"book_name":"习惯逃避"}]

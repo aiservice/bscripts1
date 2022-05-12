@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"珍妮弗·克莱门特","customer_url":"s3-shuizaiqichelidenvhai","image_path":"/files/book/cover/66040/cover.jpg","leading_role":"[美]珍妮弗·克莱门特","id":66040,"book_name":"睡在汽车里的女孩"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"赖香吟","customer_url":"s3-wenqingzhisi","image_path":"/files/book/cover/66038/cover.jpg","leading_role":"赖香吟","id":66038,"book_name":"文青之死"}]

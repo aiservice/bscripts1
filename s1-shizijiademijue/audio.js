@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=Mzg3NTEzNDM5OF8yMjQ3NDg0Mzkx","title":"慕安德烈《十字架的秘诀》音频01-10"},{"urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=Mzg3NTEzNDM5OF8yMjQ3NDg0NDA4","title":"慕安德烈《十字架的秘决》音频11-20"},{"urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=Mzg3NTEzNDM5OF8yMjQ3NDg0NDM1","title":"慕安德烈《十字架的秘决》音频21-31"}]

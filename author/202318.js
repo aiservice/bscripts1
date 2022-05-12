@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"王旭烽","customer_url":"s3-charensanbuqu","image_path":"/files/book/cover/66037/cover.jpg","leading_role":"王旭烽","id":66037,"book_name":"茶人三部曲"}]

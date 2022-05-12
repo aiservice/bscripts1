@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克里斯·华莱士","customer_url":"s3-1945daojishi","image_path":"/files/book/cover/66035/cover.jpg","leading_role":"[美]克里斯·华莱士","id":66035,"book_name":"1945倒计时"}]

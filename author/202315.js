@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"黄渤","customer_url":"s3-yichuhaoxi","image_path":"/files/book/cover/66032/cover.jpg","leading_role":"黄渤","id":66032,"book_name":"一出好戏"}]

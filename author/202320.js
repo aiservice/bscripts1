@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"辛班尼","customer_url":"s1-zaoanshengling","image_path":"/files/book/cover/66039/cover.jpg","leading_role":"辛班尼","id":66039,"book_name":"早安圣灵"},{"author_name":"辛班尼","customer_url":"s1-shenaishengling","image_path":"/files/book/cover/66043/cover.jpg","leading_role":"辛班尼","id":66043,"book_name":"深爱圣灵"}]

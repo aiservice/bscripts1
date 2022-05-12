@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"梁实秋","customer_url":"s3-shijiexuanxiaowohenhao","image_path":"/files/book/cover/66036/cover.jpg","leading_role":"梁实秋","id":66036,"book_name":"世界喧嚣，我很好"}]

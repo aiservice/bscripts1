@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凯撒琳.库尔曼","customer_url":"s1-shenjizaixian","image_path":"/files/book/cover/66029/cover.jpg","leading_role":"凯撒琳.库尔曼","id":66029,"book_name":"神迹再现"}]
