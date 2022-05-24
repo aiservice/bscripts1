@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"S.J.莫登","customer_url":"s3-youquwuhui","image_path":"/files/book/cover/66052/cover.jpg","leading_role":"[英] S.J.莫登","id":66052,"book_name":"有去无回"}]

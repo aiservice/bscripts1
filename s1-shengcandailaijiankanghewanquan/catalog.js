@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-shengcandailaijiankanghewanquan","bookVolumeList":[{"bookChapterList":[{"chapter_name":"前言","id":19577261},{"chapter_name":"第一章：圣餐——神所设立的通往属天健康的渠道","id":19577262},{"chapter_name":"第二章：如何分辨主的身体","id":19577263},{"chapter_name":"第三章：不要害怕","id":19577264},{"chapter_name":"第四章：见证","id":19577265}],"volume_words":19012,"volume_name":"目录"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"彼得·汉密尔顿","customer_url":"s3-shengtianchengxing","image_path":"/files/book/cover/66048/cover.jpg","leading_role":"[英]彼得·汉密尔顿","id":66048,"book_name":"圣天秤星"}]

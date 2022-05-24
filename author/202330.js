@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"罗贝托·波拉尼奥","customer_url":"s3-zhongfananye","image_path":"/files/book/cover/66054/cover.jpg","leading_role":"[智利] 罗贝托·波拉尼奥","id":66054,"book_name":"重返暗夜"}]

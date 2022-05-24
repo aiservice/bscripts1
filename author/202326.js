@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"舒飞廉","customer_url":"s3-ruantuji","image_path":"/files/book/cover/66049/cover.jpg","leading_role":"舒飞廉","id":66049,"book_name":"阮途记"}]

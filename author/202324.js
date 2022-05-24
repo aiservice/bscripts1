@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"马修·布伦南","customer_url":"s3-zijietiaodong","image_path":"/files/book/cover/66045/cover.jpg","leading_role":"[英]马修·布伦南","id":66045,"book_name":"字节跳动 ： 从0到1的秘密"}]

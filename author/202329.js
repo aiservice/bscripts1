@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"是枝裕和","customer_url":"s3-wurenzhixiao","image_path":"/files/book/cover/66053/cover.jpg","leading_role":" [日]是枝裕和","id":66053,"book_name":"无人知晓"}]
