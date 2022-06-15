@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"汤姆·米勒","customer_url":"s3-zhongguoshiyichengmin","image_path":"/files/book/cover/66062/cover.jpg","leading_role":" [英] 汤姆·米勒","id":66062,"book_name":"中国十亿城民"}]

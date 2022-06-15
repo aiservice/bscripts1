@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"毕飞宇","customer_url":"s3-tuina","image_path":"/files/book/cover/66078/cover.jpg","leading_role":"毕飞宇","id":66078,"book_name":"推拿"}]

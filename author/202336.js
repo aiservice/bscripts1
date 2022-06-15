@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"菲利帕·佩里","customer_url":"s3-xiwangwofumuduguozhebenshu","image_path":"/files/book/cover/66064/cover.jpg","leading_role":" [美] 菲利帕·佩里","id":66064,"book_name":"真希望我父母读过这本书"}]

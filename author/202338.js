@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"查尔斯.凯普斯","customer_url":"s1-shenhuayudequanneng","image_path":"/files/book/cover/66067/cover.jpg","leading_role":"查尔斯.凯普斯","id":66067,"book_name":"神话语的权能"}]

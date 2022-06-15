@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"田中靖浩","customer_url":"s3-xiangduxuanyixiaoshuo","image_path":"/files/book/cover/66059/cover.jpg","leading_role":" [日] 田中靖浩","id":66059,"book_name":"像读悬疑小说一样读懂会计学"}]

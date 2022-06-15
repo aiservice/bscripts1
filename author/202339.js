@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈之华","customer_url":"s3-fenlanjiaoyu","image_path":"/files/book/cover/66068/cover.jpg","leading_role":"陈之华","id":66068,"book_name":"芬兰教育全球第一的秘密"}]

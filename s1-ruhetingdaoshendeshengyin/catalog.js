@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-ruhetingdaoshendeshengyin","bookVolumeList":[{"bookChapterList":[{"chapter_name":"第一讲：神的羊听他的声音","id":19579862},{"chapter_name":"第二讲：神如何说话","id":19579863},{"chapter_name":"第三讲：神的话语是最终的验证","id":19579864}],"volume_words":23236,"volume_name":"目录"}]}

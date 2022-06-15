@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"徐贵祥","customer_url":"s3-lishidetiankong","image_path":"/files/book/cover/66072/cover.jpg","leading_role":"徐贵祥","id":66072,"book_name":"历史的天空"}]

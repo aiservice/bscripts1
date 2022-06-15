@@ -1,0 +1,1 @@
+var authorList=[{"author_name":" 陆庆屹","customer_url":"s3-sigechuntian","image_path":"/files/book/cover/66069/cover.jpg","leading_role":" 陆庆屹","id":66069,"book_name":"四个春天"}]

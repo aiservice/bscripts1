@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-genghaodedaogaofangshi","bookVolumeList":[{"bookChapterList":[{"chapter_name":"第一章：假冒伪善的人爱祷告","id":19579833},{"chapter_name":"第二章：耶稣是唯一的调解人","id":19579834},{"chapter_name":"第三章：祷告最主要的目的","id":19579835},{"chapter_name":"第四章：对你的“山”说","id":19579836},{"chapter_name":"第五章：祷告是个过程","id":19579837}],"volume_words":47967,"volume_name":"目录"}]}

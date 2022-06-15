@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"艾公子","customer_url":"s3-yianlidezhongguoshi","image_path":"/files/book/cover/66060/cover.jpg","leading_role":"艾公子","id":66060,"book_name":"疑案里的中国史"}]

@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-xintudequanbing","bookVolumeList":[{"bookChapterList":[{"chapter_name":"第一章：我们处在属灵的战争里","id":19579824},{"chapter_name":"第二章：谁造就了撒旦","id":19579825},{"chapter_name":"第三章：有权柄，就有责任！","id":19579826},{"chapter_name":"第四章：执法者","id":19579827}],"volume_words":38511,"volume_name":"目录"}]}

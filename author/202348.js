@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"川崎悟司","customer_url":"s3-gendongwujiaohuanshenti","image_path":"/files/book/cover/66080/cover.jpg","leading_role":"川崎悟司","id":66080,"book_name":"跟动物交换身体"}]

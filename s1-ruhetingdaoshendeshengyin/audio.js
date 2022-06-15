@@ -1,0 +1,1 @@
+var audioList=[{"urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=Mzg3NTEzNDM5OF8yMjQ3NDg2MDMx","title":"第一讲：神的羊听他的声音"},{"urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=Mzg3NTEzNDM5OF8yMjQ3NDg2MDQx","title":"第二讲：神如何说话"},{"urlAudio":"https://res.wx.qq.com/voice/getvoice?mediaid=Mzg3NTEzNDM5OF8yMjQ3NDg2MDY5","title":"第三讲：神的话语是最终的验证"}]

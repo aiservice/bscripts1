@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"大卫·罗伯森","customer_url":"xingzailingli","image_path":"/files/book/cover/35329/cover.jpg","leading_role":"大卫·罗伯森","id":35329,"book_name":"行在灵里"}]
+var authorList=[{"author_name":"大卫·罗伯森","customer_url":"xingzailingli","image_path":"/files/book/cover/35329/cover.jpg","leading_role":"大卫·罗伯森","id":35329,"book_name":"行在灵里行在大能里"}]

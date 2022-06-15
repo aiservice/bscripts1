@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"安·奥克利","customer_url":"s3-kanbujiandenvren","image_path":"/files/book/cover/66058/cover.jpg","leading_role":"[英] 安·奥克利","id":66058,"book_name":"看不见的女人"}]

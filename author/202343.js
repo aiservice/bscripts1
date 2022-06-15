@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"古华","customer_url":"s3-furongzhen","image_path":"/files/book/cover/66073/cover.jpg","leading_role":"古华","id":66073,"book_name":"芙蓉镇"}]

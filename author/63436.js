@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谋生任转蓬","customer_url":"s2-wodetudidoushidafanpai","image_path":"/files/book/cover/31840/cover.jpg","leading_role":"谋生任转蓬","id":31840,"book_name":"我的徒弟都是大反派"}]
