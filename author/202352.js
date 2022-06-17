@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"周大新","customer_url":"s3-huguangshanse","image_path":"/files/book/cover/66087/cover.jpg","leading_role":"周大新","id":66087,"book_name":"湖光山色"}]

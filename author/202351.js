@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"戴维·弗罗姆金","customer_url":"s3-zhongjiesuoyouheping","image_path":"/files/book/cover/66086/cover.jpg","leading_role":"[美]戴维·弗罗姆金","id":66086,"book_name":"终结所有和平的和平"}]

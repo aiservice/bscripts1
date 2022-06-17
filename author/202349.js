@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘醒龙","customer_url":"s3-tianxingzhe","image_path":"/files/book/cover/66084/cover.jpg","leading_role":"刘醒龙","id":66084,"book_name":"天行者"}]
