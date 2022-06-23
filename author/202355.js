@@ -1,0 +1,1 @@
+var authorList=[{"author_name":" 荣耀秀","customer_url":"s1-wozaizheliqingchaiqianwo","image_path":"/files/book/cover/66091/cover.jpg","leading_role":" 荣耀秀 (Pearl G. Young)","id":66091,"book_name":"我在这里请差遣我"}]

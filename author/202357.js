@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"凌力","customer_url":"s3-shaoniantianzi","image_path":"/files/book/cover/66096/cover.jpg","leading_role":"凌力","id":66096,"book_name":"少年天子"}]

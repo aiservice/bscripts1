@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"勿小悟","customer_url":"s2-huidaodiqiudangshengun","image_path":"/files/book/cover/65734/cover.jpg","leading_role":"勿小悟","id":65734,"book_name":"回到地球当神棍"}]

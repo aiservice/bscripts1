@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"A. G. 利德尔","customer_url":"s3-manchangdehandong","image_path":"/files/book/cover/66095/cover.jpg","leading_role":"[美] A. G. 利德尔","id":66095,"book_name":"漫长的寒冬"}]
