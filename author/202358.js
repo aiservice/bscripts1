@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"娜塔莎·道·舒尔","customer_url":"s3-yunqideyouer","image_path":"/files/book/cover/66098/cover.jpg","leading_role":"[美] 娜塔莎·道·舒尔","id":66098,"book_name":"运气的诱饵"}]

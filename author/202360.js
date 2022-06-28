@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"刘玉民","customer_url":"s3-saodongzhiqiu","image_path":"/files/book/cover/66103/cover.jpg","leading_role":"刘玉民","id":66103,"book_name":"骚动之秋"}]

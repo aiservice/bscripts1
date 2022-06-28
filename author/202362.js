@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"博多·舍费尔","customer_url":"s3-xiaogouqianqian","image_path":"/files/book/cover/66106/cover.jpg","leading_role":" [德]博多·舍费尔","id":66106,"book_name":"小狗钱钱（套装全2册）"}]

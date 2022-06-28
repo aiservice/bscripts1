@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"布赖恩·费瑟斯通豪","customer_url":"s3-yuanjian","image_path":"/files/book/cover/66104/cover.jpg","leading_role":" [美] 布赖恩·费瑟斯通豪","id":66104,"book_name":"远见"}]

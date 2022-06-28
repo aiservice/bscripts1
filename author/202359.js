@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"史密斯.维格氏维尔","customer_url":"s1-buzhuzengchangdexinxin","image_path":"/files/book/cover/66101/cover.jpg","leading_role":"史密斯.维格氏维尔","id":66101,"book_name":"不住增长的信心"}]
