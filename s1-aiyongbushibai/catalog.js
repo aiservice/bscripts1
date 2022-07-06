@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-aiyongbushibai","bookVolumeList":[{"bookChapterList":[{"chapter_name":"第一章：新造之灵所给的第一个果子","id":19583386},{"chapter_name":"第二章：爱，也包括爱你的婆婆和岳母","id":19583387},{"chapter_name":"第三章：人的爱对阵神的爱","id":19583388},{"chapter_name":"第四章：爱的篇章","id":19583389}],"volume_words":8795,"volume_name":"目录"}]}

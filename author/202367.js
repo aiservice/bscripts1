@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"姜戎","customer_url":"s3-langtuteng","image_path":"/files/book/cover/66116/cover.jpg","leading_role":"姜戎","id":66116,"book_name":"狼图腾"}]

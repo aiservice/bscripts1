@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-zhenshidexinxin","bookVolumeList":[{"bookChapterList":[{"chapter_name":"第一章：两种真理","id":19582632},{"chapter_name":"第二章：两种信心","id":19582633},{"chapter_name":"第三章：两种不信","id":19582634},{"chapter_name":"第四章：信心大敌","id":19582635}],"volume_words":19619,"volume_name":"目录"}]}

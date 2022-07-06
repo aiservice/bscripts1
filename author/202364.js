@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"尼尔·唐纳德·沃尔什 ","customer_url":"s1-yushenduihua","image_path":"/files/book/cover/66110/cover.jpg","leading_role":"[美]尼尔·唐纳德·沃尔什 ","id":66110,"book_name":"与神对话（套装全3卷）"}]

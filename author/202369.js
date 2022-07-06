@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"克洛德·列维-斯特劳斯","customer_url":"s3-youyuderedai","image_path":"/files/book/cover/66118/cover.jpg","leading_role":" [法] 克洛德·列维-斯特劳斯","id":66118,"book_name":"忧郁的热带"}]

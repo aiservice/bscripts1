@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"金琸桓","customer_url":"s3-woyaohuoxiaqu","image_path":"/files/book/cover/66113/cover.jpg","leading_role":"金琸桓","id":66113,"book_name":"我要活下去"}]

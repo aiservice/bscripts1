@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-huayu","bookVolumeList":[{"bookChapterList":[{"chapter_name":"第一章：对死亡和生命说话","id":19583249},{"chapter_name":"第二章：你的孩子如何被你所说的话影响","id":19583250},{"chapter_name":"第三章：智慧人的舌头是医人的良药","id":19583251},{"chapter_name":"第四章：你口里承认些什么","id":19583252}],"volume_words":10020,"volume_name":"目录"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"晓林","customer_url":"s1-huijiadelvcheng","image_path":"/files/book/cover/66109/cover.jpg","leading_role":"晓林","id":66109,"book_name":"回家的旅程"}]

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"人民文学出版社","customer_url":"s3-tangshisanbaishou","image_path":"/files/book/cover/66111/cover.jpg","leading_role":"人民文学出版社","id":66111,"book_name":"唐诗三百首"}]

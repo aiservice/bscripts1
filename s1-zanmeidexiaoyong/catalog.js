@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-zanmeidexiaoyong","bookVolumeList":[{"bookChapterList":[{"chapter_name":"《赞美的效用》 前言","id":19583244},{"chapter_name":"《赞美的效用》1 对信徒而言（上）","id":19583245},{"chapter_name":"《赞美的效用》2 对信徒而言（下）","id":19583246},{"chapter_name":"《赞美的效用》3 对魔鬼而言","id":19583247},{"chapter_name":"《赞美的效用》4 对神而言","id":19583248}],"volume_words":235,"volume_name":"目录"}]}

@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-nideqijij","bookVolumeList":[{"bookChapterList":[{"chapter_name":"前言：为你的奇迹吩咐磐石","id":19583390},{"chapter_name":"第一章：你怎么看 神影响你如何从 神领受","id":19583391},{"chapter_name":"第二章：你可以领受的理由","id":19583392},{"chapter_name":"第三章：吩咐磐石并领受","id":19583393},{"chapter_name":"第四章：靠神的恩典领受你的祝福","id":19583394}],"volume_words":21590,"volume_name":"目录"}]}

@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"谢尔盖·卢基扬年科","customer_url":"s3-xingxingshibinglengdewanju","image_path":"/files/book/cover/66117/cover.jpg","leading_role":"[俄] 谢尔盖·卢基扬年科","id":66117,"book_name":"星星是冰冷的玩具"}]
