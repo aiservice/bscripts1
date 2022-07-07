@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"林汉达","customer_url":"s3-shangxiawuqiannian","image_path":"/files/book/cover/66123/cover.jpg","leading_role":"林汉达","id":66123,"book_name":"上下五千年"},{"author_name":"林汉达","customer_url":"s3-shijiewuqiannian","image_path":"/files/book/cover/66124/cover.jpg","leading_role":"林汉达","id":66124,"book_name":"世界五千年"}]

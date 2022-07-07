@@ -1,1 +1,1 @@
-var authorList=[{"author_name":"阿斯特丽德·林格伦","customer_url":"s3-changwazipipi","image_path":"/files/book/cover/64454/cover.jpg","leading_role":"[瑞典] 阿斯特丽德·林格伦","id":64454,"book_name":"长袜子皮皮"}]
+var authorList=[{"author_name":"阿斯特丽德·林格伦","customer_url":"s3-changwazipipi","image_path":"/files/book/cover/64454/cover.jpg","leading_role":"[瑞典] 阿斯特丽德·林格伦","id":64454,"book_name":"长袜子皮皮"},{"author_name":"阿斯特丽德·林格伦","customer_url":"s3-taoqibaoaimier","image_path":"/files/book/cover/66122/cover.jpg","leading_role":" [瑞典] 阿斯特丽德·林格伦","id":66122,"book_name":"淘气包埃米尔"}]
