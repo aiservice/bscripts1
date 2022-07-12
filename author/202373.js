@@ -1,0 +1,1 @@
+var authorList=[{"author_name":" 尼•奥斯特洛夫斯基","customer_url":"s3-gangtieshizenyanglianchengde","image_path":"/files/book/cover/66128/cover.jpg","leading_role":" 尼•奥斯特洛夫斯基","id":66128,"book_name":"钢铁是怎样炼成的"}]
