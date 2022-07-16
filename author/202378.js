@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"陈拙","customer_url":"s3-baisejishibu","image_path":"/files/book/cover/66137/cover.jpg","leading_role":"陈拙","id":66137,"book_name":"白色记事簿"}]

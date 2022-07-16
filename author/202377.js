@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"丰田正义","customer_url":"s3-beimoqudeyijia","image_path":"/files/book/cover/66136/cover.jpg","leading_role":"[日]丰田正义","id":66136,"book_name":"被抹去的一家"}]

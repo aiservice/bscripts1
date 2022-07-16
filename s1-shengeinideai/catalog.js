@@ -1,0 +1,1 @@
+var chapterList={"customer_url":"s1-shengeinideai","bookVolumeList":[{"bookChapterList":[{"chapter_name":"第一章 了解神的爱","id":19584622},{"chapter_name":"第二章 了解神的“掌控权”","id":19584623},{"chapter_name":"第三章 无条件的爱","id":19584624},{"chapter_name":"第四章 神是一个灵","id":19584625}],"volume_words":46915,"volume_name":"目录"}]}
