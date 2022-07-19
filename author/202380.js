@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"海伦·凯勒","customer_url":"s3-jiarugeiwosantianguangming","image_path":"/files/book/cover/66142/cover.jpg","leading_role":"海伦·凯勒","id":66142,"book_name":"假如给我三天光明"}]

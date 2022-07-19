@@ -1,0 +1,1 @@
+var authorList=[{"author_name":"约翰·斯坦贝克","customer_url":"s3-renshuzhijian","image_path":"/files/book/cover/66141/cover.jpg","leading_role":" [美] 约翰·斯坦贝克","id":66141,"book_name":"人鼠之间"}]
